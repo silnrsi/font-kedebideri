@@ -4,6 +4,6 @@ echo "-----Updating UFOs from Glyphs file..."
 psfglyphs2ufo source/BeriaNew.glyphs source
 
 echo "-----Normalizing Regular UFO..."
-psfnormalize -p checkfix=fix source/BeriaNew-Regular.ufo          &
+psfnormalize -p checkfix=fix source/BeriaNew-Regular.ufo
 
 echo "-----Preflight completed!"
