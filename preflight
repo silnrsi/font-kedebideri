@@ -1,6 +1,6 @@
 #!/bin/sh
 
 echo "-----Normalizing Regular UFO..."
-psfnormalize -p checkfix=fix source/BeriaNew-Regular.ufo          &
+psfnormalize -p checkfix=fix source/BeriaNew-Regular.ufo
 
 echo "-----Preflight completed!"
