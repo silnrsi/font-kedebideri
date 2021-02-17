@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="2">
+  <advance width="508"/>
+  <unicode hex="00AF"/>
+  <note>
+macron
+</note>
+  <outline>
+    <contour>
+      <point x="69" y="800" type="line"/>
+      <point x="69" y="738" type="line"/>
+      <point x="439" y="738" type="line"/>
+      <point x="439" y="800" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>738</integer>
+            <integer>62</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
