@@ -1,0 +1,52 @@
+FONTLOG
+Zaghawa Beria Font
+========================
+
+
+This file provides detailed information on the Zaghawa Beria font.
+This information should be distributed along with the Zaghawa Beria font and
+any derivative works.
+
+
+Basic Font Information
+----------------------
+
+This font was designed by a volunteer who chooses to remain anonymous, in cooperation with SIL International and the Mission Protestante Franco-Suisse au Tchad.
+
+This alphabet is built around a sampling of the markings on livestock (especially camels) within the Zaghawa Beria language region of western Sudan and eastern Chad. It is an idea that has its origins in the work of a Sudanese schoolteacher, who developed the first version of this over 25 years ago. The script has since been better adapted to the Zaghawa Beria language by Siddik Adam Issa, and he has found a great enthusiasm by the people for what he has put together.
+
+The font is a hanging font. The "clothesline" on which the font hangs is the line below the suprasegmental box, and above the lower case box. There are two types of supersegmentals: tone/stress, and ATR marking for vowels. Tone and stress marks are mutually exclusive. Tone markings occur in transcriptions, and stress markings occur in the writing system. The vowels [e], [i], [o] and [u] are marked for Advanced Tongue Root (ATR) by putting a line in the lower half of the supersegmental section above the hanging line.
+
+Note that this font is not encoded according to The Unicode Standard, as the Zaghawa Bera script has not yet been accepted into the standard.
+
+
+ChangeLog
+---------
+(This should list both major and minor changes, most recent first.)
+
+17 Feb 2021 (SIL)
+- Initial commit to new project repo
+
+30 Apr 2019 (SIL) Zaghawa Beria version 1.001
+- Updated metadata
+
+31 May 2007 (SIL) Zaghawa Beria version 1.000
+- Initial freeware release
+
+
+Acknowledgements
+----------------
+(Here is where contributors can be acknowledged. If you make modifications
+be sure to add your name (N), email (E), web-address (W) and description
+(D). This list is sorted by last name in alphabetical order.)
+
+N: Anonymous
+D: Volunteer designer
+
+The Zaghawa Beria project is maintained by SIL International.
+
+For more information please visit SIL International's
+Computers and Writing systems website:
+http://scripts.sil.org/
+
+Or send an email to <fonts AT sil DOT org>
