@@ -1,9 +1,9 @@
 #!/bin/sh
 
 echo "-----Updating UFOs from Glyphs file..."
-psfglyphs2ufo source/ZaghawaBeria.glyphs source
+psfglyphs2ufo source/BeriaNew.glyphs source
 
 echo "-----Normalizing Regular UFO..."
-psfnormalize -p checkfix=fix source/ZaghawaBeria-Regular.ufo          &
+psfnormalize -p checkfix=fix source/BeriaNew-Regular.ufo          &
 
 echo "-----Preflight completed!"
