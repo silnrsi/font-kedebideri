@@ -334,6 +334,8 @@
   <string>ugrave.glif</string>
   <key>underscore</key>
   <string>underscore.glif</string>
+  <key>uni2060</key>
+  <string>uni2060.glif</string>
   <key>w</key>
   <string>w.glif</string>
   <key>x</key>
@@ -346,5 +348,9 @@
   <string>z.glif</string>
   <key>zero</key>
   <string>zero.glif</string>
+  <key>ZWNBS</key>
+  <string>Z_W_N_B_S_.glif</string>
+  <key>ZWSP</key>
+  <string>Z_W_S_P_.glif</string>
 </dict>
 </plist>
