@@ -2,137 +2,380 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>B</key>
+  <key>Bay-beria</key>
   <dict>
-    <key>C</key>
-    <integer>-30</integer>
-    <key>D</key>
-    <integer>-40</integer>
-    <key>F</key>
-    <integer>-25</integer>
-    <key>G</key>
-    <integer>-15</integer>
-    <key>J</key>
-    <integer>-10</integer>
-    <key>K</key>
-    <integer>-70</integer>
-    <key>M</key>
-    <integer>-110</integer>
-    <key>N</key>
-    <integer>-40</integer>
-    <key>S</key>
+    <key>Chei-beria</key>
     <integer>-35</integer>
-    <key>T</key>
-    <integer>30</integer>
-    <key>W</key>
-    <integer>5</integer>
-    <key>Y</key>
-    <integer>-5</integer>
-    <key>Z</key>
+    <key>Day-beria</key>
+    <integer>-40</integer>
+    <key>Djay-beria</key>
+    <integer>-10</integer>
+    <key>Effi-beria</key>
+    <integer>-25</integer>
+    <key>Emmi-beria</key>
+    <integer>-110</integer>
+    <key>Enni-beria</key>
+    <integer>-40</integer>
+    <key>Gay-beria</key>
+    <integer>-15</integer>
+    <key>Gna-beria</key>
     <integer>-70</integer>
+    <key>Key-beria</key>
+    <integer>-70</integer>
+    <key>Shep-beria</key>
+    <integer>-30</integer>
+    <key>Tai-beria</key>
+    <integer>30</integer>
+    <key>Way-beria</key>
+    <integer>5</integer>
+    <key>Yay-beria</key>
+    <integer>-5</integer>
     <key>ampersand</key>
     <integer>-10</integer>
     <key>backslash</key>
     <integer>40</integer>
     <key>bullet</key>
     <integer>-20</integer>
-    <key>c</key>
+    <key>chei-beria</key>
     <integer>-30</integer>
     <key>comma</key>
     <integer>-120</integer>
-    <key>g</key>
-    <integer>-10</integer>
-    <key>k</key>
+    <key>elli-beria</key>
     <integer>-40</integer>
-    <key>l</key>
-    <integer>-40</integer>
-    <key>m</key>
+    <key>emimi-beria</key>
     <integer>-100</integer>
-    <key>n</key>
+    <key>enni-beria</key>
     <integer>-30</integer>
+    <key>gay-beria</key>
+    <integer>-10</integer>
+    <key>key-beria</key>
+    <integer>-40</integer>
     <key>period</key>
     <integer>-120</integer>
-    <key>s</key>
+    <key>shep-beria</key>
     <integer>-30</integer>
     <key>slash</key>
     <integer>-120</integer>
-    <key>t</key>
+    <key>tai-beria</key>
     <integer>20</integer>
     <key>trademark</key>
     <integer>30</integer>
-    <key>ugrave</key>
+    <key>uy_grave-beria</key>
     <integer>20</integer>
-    <key>w</key>
+    <key>way-beria</key>
     <integer>10</integer>
-    <key>y</key>
+    <key>yay-beria</key>
     <integer>-10</integer>
   </dict>
-  <key>C</key>
+  <key>Chei-beria</key>
   <dict>
-    <key>C</key>
-    <integer>-60</integer>
-    <key>D</key>
-    <integer>-20</integer>
-    <key>G</key>
+    <key>Bay-beria</key>
+    <integer>15</integer>
+    <key>Chei-beria</key>
+    <integer>-65</integer>
+    <key>Day-beria</key>
+    <integer>-35</integer>
+    <key>Djay-beria</key>
     <integer>-10</integer>
-    <key>J</key>
+    <key>Effi-beria</key>
+    <integer>-10</integer>
+    <key>Emmi-beria</key>
+    <integer>-60</integer>
+    <key>Enni-beria</key>
+    <integer>-10</integer>
+    <key>Erri-beria</key>
+    <integer>-10</integer>
+    <key>Gay-beria</key>
     <integer>-5</integer>
-    <key>K</key>
-    <integer>-55</integer>
-    <key>M</key>
-    <integer>-50</integer>
-    <key>S</key>
+    <key>Gna-beria</key>
+    <integer>-30</integer>
+    <key>Key-beria</key>
+    <integer>-45</integer>
+    <key>Pi-beria</key>
+    <integer>20</integer>
+    <key>Shep-beria</key>
     <integer>-60</integer>
-    <key>T</key>
-    <integer>30</integer>
-    <key>Z</key>
-    <integer>-30</integer>
-    <key>c</key>
-    <integer>-30</integer>
+    <key>Tai-beria</key>
+    <integer>20</integer>
+    <key>Way-beria</key>
+    <integer>10</integer>
+    <key>ampersand</key>
+    <integer>-10</integer>
+    <key>asterisk</key>
+    <integer>20</integer>
+    <key>backslash</key>
+    <integer>10</integer>
+    <key>chei-beria</key>
+    <integer>-40</integer>
     <key>comma</key>
-    <integer>-60</integer>
-    <key>g</key>
-    <integer>-15</integer>
-    <key>j</key>
-    <integer>-10</integer>
-    <key>k</key>
-    <integer>-10</integer>
-    <key>l</key>
-    <integer>-25</integer>
-    <key>m</key>
+    <integer>-70</integer>
+    <key>elli-beria</key>
     <integer>-30</integer>
+    <key>emimi-beria</key>
+    <integer>-55</integer>
+    <key>enni-beria</key>
+    <integer>-10</integer>
+    <key>gay-beria</key>
+    <integer>-10</integer>
+    <key>key-beria</key>
+    <integer>-25</integer>
+    <key>period</key>
+    <integer>-60</integer>
+    <key>shep-beria</key>
+    <integer>-30</integer>
+    <key>slash</key>
+    <integer>-60</integer>
+    <key>tai-beria</key>
+    <integer>20</integer>
+    <key>trademark</key>
+    <integer>30</integer>
+    <key>way-beria</key>
+    <integer>10</integer>
+  </dict>
+  <key>Day-beria</key>
+  <dict>
+    <key>Chei-beria</key>
+    <integer>-10</integer>
+    <key>Day-beria</key>
+    <integer>-30</integer>
+    <key>Emmi-beria</key>
+    <integer>-10</integer>
+    <key>Tai-beria</key>
+    <integer>5</integer>
+    <key>chei-beria</key>
+    <integer>-10</integer>
+    <key>comma</key>
+    <integer>-10</integer>
+    <key>emimi-beria</key>
+    <integer>-10</integer>
+    <key>key-beria</key>
+    <integer>-20</integer>
+    <key>way-beria</key>
+    <integer>-10</integer>
+    <key>yay-beria</key>
+    <integer>-10</integer>
+  </dict>
+  <key>Djay-beria</key>
+  <dict>
+    <key>Bay-beria</key>
+    <integer>10</integer>
+    <key>Chei-beria</key>
+    <integer>-25</integer>
+    <key>Day-beria</key>
+    <integer>-30</integer>
+    <key>Djay-beria</key>
+    <integer>-10</integer>
+    <key>Effi-beria</key>
+    <integer>-20</integer>
+    <key>Elli-beria</key>
+    <integer>-10</integer>
+    <key>Emmi-beria</key>
+    <integer>-60</integer>
+    <key>Enni-beria</key>
+    <integer>-25</integer>
+    <key>Erri-beria</key>
+    <integer>-10</integer>
+    <key>Gna-beria</key>
+    <integer>-30</integer>
+    <key>Key-beria</key>
+    <integer>-55</integer>
+    <key>Shep-beria</key>
+    <integer>-20</integer>
+    <key>Tai-beria</key>
+    <integer>10</integer>
+    <key>asterisk</key>
+    <integer>20</integer>
+    <key>backslash</key>
+    <integer>20</integer>
+    <key>bullet</key>
+    <integer>-20</integer>
+    <key>chei-beria</key>
+    <integer>-20</integer>
+    <key>comma</key>
+    <integer>-50</integer>
+    <key>elli-beria</key>
+    <integer>-30</integer>
+    <key>emimi-beria</key>
+    <integer>-30</integer>
+    <key>enni-beria</key>
+    <integer>-10</integer>
+    <key>gay-beria</key>
+    <integer>-10</integer>
+    <key>key-beria</key>
+    <integer>-30</integer>
+    <key>parenright</key>
+    <integer>-10</integer>
+    <key>period</key>
+    <integer>-60</integer>
+    <key>shep-beria</key>
+    <integer>-15</integer>
+    <key>slash</key>
+    <integer>-40</integer>
+    <key>tai-beria</key>
+    <integer>20</integer>
+    <key>trademark</key>
+    <integer>40</integer>
+    <key>uy_grave-beria</key>
+    <integer>10</integer>
+    <key>yay-beria</key>
+    <integer>-10</integer>
+  </dict>
+  <key>Elli-beria</key>
+  <dict>
+    <key>Day-beria</key>
+    <integer>-15</integer>
+    <key>Djay-beria</key>
+    <integer>10</integer>
+    <key>Effi-beria</key>
+    <integer>-25</integer>
+    <key>Tai-beria</key>
+    <integer>-10</integer>
+    <key>ampersand</key>
+    <integer>-30</integer>
+    <key>bullet</key>
+    <integer>-20</integer>
+    <key>chei-beria</key>
+    <integer>-15</integer>
+    <key>elli-beria</key>
+    <integer>-20</integer>
+    <key>emimi-beria</key>
+    <integer>-10</integer>
+    <key>enni-beria</key>
+    <integer>-10</integer>
+    <key>exclam</key>
+    <integer>-20</integer>
+    <key>gay-beria</key>
+    <integer>-25</integer>
+    <key>key-beria</key>
+    <integer>-30</integer>
+    <key>period</key>
+    <integer>-30</integer>
+    <key>question</key>
+    <integer>-40</integer>
+    <key>slash</key>
+    <integer>40</integer>
+    <key>tai-beria</key>
+    <integer>-10</integer>
+    <key>way-beria</key>
+    <integer>-10</integer>
+    <key>yay-beria</key>
+    <integer>-10</integer>
+  </dict>
+  <key>Emmi-beria</key>
+  <dict>
+    <key>Bay-beria</key>
+    <integer>15</integer>
+    <key>Chei-beria</key>
+    <integer>-25</integer>
+    <key>Day-beria</key>
+    <integer>-30</integer>
+    <key>Djay-beria</key>
+    <integer>-30</integer>
+    <key>Effi-beria</key>
+    <integer>-20</integer>
+    <key>Emmi-beria</key>
+    <integer>-100</integer>
+    <key>Enni-beria</key>
+    <integer>-20</integer>
+    <key>Gay-beria</key>
+    <integer>-15</integer>
+    <key>Gna-beria</key>
+    <integer>-60</integer>
+    <key>Key-beria</key>
+    <integer>-60</integer>
+    <key>Shep-beria</key>
+    <integer>-40</integer>
+    <key>Tai-beria</key>
+    <integer>10</integer>
+    <key>Way-beria</key>
+    <integer>10</integer>
+    <key>ampersand</key>
+    <integer>-10</integer>
+    <key>backslash</key>
+    <integer>10</integer>
+    <key>bracketright</key>
+    <integer>-10</integer>
+    <key>chei-beria</key>
+    <integer>-35</integer>
+    <key>comma</key>
+    <integer>-50</integer>
+    <key>elli-beria</key>
+    <integer>-20</integer>
+    <key>emimi-beria</key>
+    <integer>-50</integer>
+    <key>exclam</key>
+    <integer>-20</integer>
+    <key>gay-beria</key>
+    <integer>-15</integer>
     <key>parenright</key>
     <integer>-20</integer>
     <key>period</key>
     <integer>-50</integer>
-    <key>s</key>
+    <key>shep-beria</key>
     <integer>-30</integer>
     <key>slash</key>
-    <integer>-80</integer>
-    <key>trademark</key>
-    <integer>30</integer>
+    <integer>-90</integer>
+    <key>yay-beria</key>
+    <integer>-10</integer>
   </dict>
-  <key>D</key>
+  <key>Enni-beria</key>
   <dict>
-    <key>D</key>
-    <integer>-30</integer>
-    <key>M</key>
-    <integer>-10</integer>
-    <key>S</key>
-    <integer>-10</integer>
-    <key>T</key>
-    <integer>5</integer>
-    <key>comma</key>
-    <integer>-10</integer>
-    <key>k</key>
+    <key>uy_grave-beria</key>
     <integer>-20</integer>
-    <key>m</key>
+  </dict>
+  <key>Erri-beria</key>
+  <dict>
+    <key>Chei-beria</key>
+    <integer>-50</integer>
+    <key>Day-beria</key>
+    <integer>-40</integer>
+    <key>Djay-beria</key>
+    <integer>-15</integer>
+    <key>Effi-beria</key>
+    <integer>-20</integer>
+    <key>Emmi-beria</key>
+    <integer>-70</integer>
+    <key>Enni-beria</key>
+    <integer>-20</integer>
+    <key>Erri-beria</key>
     <integer>-10</integer>
-    <key>s</key>
+    <key>Gay-beria</key>
     <integer>-10</integer>
-    <key>w</key>
+    <key>Gna-beria</key>
+    <integer>-50</integer>
+    <key>Key-beria</key>
+    <integer>-50</integer>
+    <key>Shep-beria</key>
+    <integer>-30</integer>
+    <key>Tai-beria</key>
+    <integer>5</integer>
+    <key>ampersand</key>
     <integer>-10</integer>
-    <key>y</key>
+    <key>bracketright</key>
+    <integer>-20</integer>
+    <key>chei-beria</key>
+    <integer>-30</integer>
+    <key>comma</key>
+    <integer>-80</integer>
+    <key>elli-beria</key>
+    <integer>-40</integer>
+    <key>emimi-beria</key>
+    <integer>-60</integer>
+    <key>enni-beria</key>
+    <integer>-20</integer>
+    <key>gay-beria</key>
+    <integer>-15</integer>
+    <key>key-beria</key>
+    <integer>-20</integer>
+    <key>parenright</key>
+    <integer>-20</integer>
+    <key>period</key>
+    <integer>-90</integer>
+    <key>shep-beria</key>
+    <integer>-25</integer>
+    <key>slash</key>
+    <integer>-90</integer>
+    <key>yay-beria</key>
     <integer>-10</integer>
   </dict>
   <key>Euro</key>
@@ -144,27 +387,27 @@
     <key>seven</key>
     <integer>20</integer>
   </dict>
-  <key>G</key>
+  <key>Gay-beria</key>
   <dict>
-    <key>B</key>
+    <key>Bay-beria</key>
     <integer>-15</integer>
-    <key>C</key>
-    <integer>-20</integer>
-    <key>D</key>
-    <integer>-35</integer>
-    <key>G</key>
-    <integer>-10</integer>
-    <key>K</key>
-    <integer>-20</integer>
-    <key>N</key>
-    <integer>-10</integer>
-    <key>P</key>
-    <integer>-10</integer>
-    <key>R</key>
-    <integer>-10</integer>
-    <key>S</key>
+    <key>Chei-beria</key>
     <integer>-5</integer>
-    <key>W</key>
+    <key>Day-beria</key>
+    <integer>-35</integer>
+    <key>Enni-beria</key>
+    <integer>-10</integer>
+    <key>Erri-beria</key>
+    <integer>-10</integer>
+    <key>Gay-beria</key>
+    <integer>-10</integer>
+    <key>Key-beria</key>
+    <integer>-20</integer>
+    <key>Pi-beria</key>
+    <integer>-10</integer>
+    <key>Shep-beria</key>
+    <integer>-20</integer>
+    <key>Way-beria</key>
     <integer>-5</integer>
     <key>ampersand</key>
     <integer>-20</integer>
@@ -172,536 +415,136 @@
     <integer>-20</integer>
     <key>backslash</key>
     <integer>-30</integer>
+    <key>chei-beria</key>
+    <integer>-20</integer>
     <key>comma</key>
     <integer>-10</integer>
-    <key>g</key>
+    <key>elli-beria</key>
+    <integer>-10</integer>
+    <key>emimi-beria</key>
+    <integer>-10</integer>
+    <key>enni-beria</key>
     <integer>-15</integer>
-    <key>k</key>
+    <key>gay-beria</key>
+    <integer>-15</integer>
+    <key>key-beria</key>
     <integer>-20</integer>
-    <key>l</key>
-    <integer>-10</integer>
-    <key>m</key>
-    <integer>-10</integer>
-    <key>n</key>
-    <integer>-15</integer>
     <key>period</key>
     <integer>-10</integer>
     <key>question</key>
     <integer>-30</integer>
-    <key>s</key>
-    <integer>-20</integer>
-    <key>t</key>
+    <key>tai-beria</key>
     <integer>-15</integer>
     <key>trademark</key>
     <integer>-10</integer>
-    <key>y</key>
+    <key>yay-beria</key>
     <integer>-10</integer>
   </dict>
-  <key>J</key>
+  <key>Gna-beria</key>
   <dict>
-    <key>B</key>
-    <integer>10</integer>
-    <key>C</key>
-    <integer>-20</integer>
-    <key>D</key>
-    <integer>-30</integer>
-    <key>F</key>
-    <integer>-20</integer>
-    <key>J</key>
-    <integer>-10</integer>
-    <key>K</key>
-    <integer>-55</integer>
-    <key>L</key>
-    <integer>-10</integer>
-    <key>M</key>
-    <integer>-60</integer>
-    <key>N</key>
-    <integer>-25</integer>
-    <key>R</key>
-    <integer>-10</integer>
-    <key>S</key>
-    <integer>-25</integer>
-    <key>T</key>
-    <integer>10</integer>
-    <key>Z</key>
-    <integer>-30</integer>
-    <key>asterisk</key>
-    <integer>20</integer>
-    <key>backslash</key>
-    <integer>20</integer>
-    <key>bullet</key>
-    <integer>-20</integer>
-    <key>c</key>
-    <integer>-15</integer>
-    <key>comma</key>
-    <integer>-50</integer>
-    <key>g</key>
-    <integer>-10</integer>
-    <key>k</key>
-    <integer>-30</integer>
-    <key>l</key>
-    <integer>-30</integer>
-    <key>m</key>
-    <integer>-30</integer>
-    <key>n</key>
-    <integer>-10</integer>
-    <key>parenright</key>
-    <integer>-10</integer>
-    <key>period</key>
-    <integer>-60</integer>
-    <key>s</key>
-    <integer>-20</integer>
-    <key>slash</key>
+    <key>Bay-beria</key>
     <integer>-40</integer>
-    <key>t</key>
-    <integer>20</integer>
-    <key>trademark</key>
-    <integer>40</integer>
-    <key>ugrave</key>
-    <integer>10</integer>
-    <key>y</key>
-    <integer>-10</integer>
-  </dict>
-  <key>K</key>
-  <dict>
-    <key>ugrave</key>
-    <integer>-20</integer>
-  </dict>
-  <key>L</key>
-  <dict>
-    <key>D</key>
+    <key>Day-beria</key>
     <integer>-15</integer>
-    <key>F</key>
-    <integer>-25</integer>
-    <key>J</key>
+    <key>Djay-beria</key>
+    <integer>-5</integer>
+    <key>Effi-beria</key>
+    <integer>-50</integer>
+    <key>Emmi-beria</key>
     <integer>10</integer>
-    <key>T</key>
+    <key>Enni-beria</key>
     <integer>-10</integer>
-    <key>ampersand</key>
+    <key>Erri-beria</key>
+    <integer>-55</integer>
+    <key>Gay-beria</key>
+    <integer>-15</integer>
+    <key>Gna-beria</key>
+    <integer>-15</integer>
+    <key>Key-beria</key>
     <integer>-30</integer>
-    <key>bullet</key>
+    <key>Nay-beria</key>
+    <integer>-10</integer>
+    <key>Pi-beria</key>
+    <integer>-35</integer>
+    <key>Tai-beria</key>
+    <integer>-15</integer>
+    <key>Way-beria</key>
     <integer>-20</integer>
+    <key>Yay-beria</key>
+    <integer>-30</integer>
+    <key>ampersand</key>
+    <integer>-50</integer>
+    <key>asterisk</key>
+    <integer>-40</integer>
+    <key>backslash</key>
+    <integer>-60</integer>
+    <key>bullet</key>
+    <integer>-40</integer>
+    <key>chei-beria</key>
+    <integer>-40</integer>
+    <key>day-beria</key>
+    <integer>-20</integer>
+    <key>djay-beria</key>
+    <integer>-30</integer>
+    <key>effi-beria</key>
+    <integer>-10</integer>
+    <key>elli-beria</key>
+    <integer>-20</integer>
+    <key>emimi-beria</key>
+    <integer>-20</integer>
+    <key>enni-beria</key>
+    <integer>-30</integer>
     <key>exclam</key>
     <integer>-20</integer>
-    <key>g</key>
-    <integer>-25</integer>
-    <key>k</key>
-    <integer>-30</integer>
-    <key>l</key>
-    <integer>-20</integer>
-    <key>m</key>
-    <integer>-10</integer>
-    <key>n</key>
-    <integer>-10</integer>
+    <key>gay-beria</key>
+    <integer>-60</integer>
+    <key>key-beria</key>
+    <integer>-60</integer>
     <key>period</key>
     <integer>-30</integer>
     <key>question</key>
     <integer>-40</integer>
-    <key>s</key>
-    <integer>-15</integer>
+    <key>shep-beria</key>
+    <integer>-30</integer>
     <key>slash</key>
     <integer>40</integer>
-    <key>t</key>
-    <integer>-10</integer>
-    <key>w</key>
-    <integer>-10</integer>
-    <key>y</key>
-    <integer>-10</integer>
-  </dict>
-  <key>M</key>
-  <dict>
-    <key>B</key>
-    <integer>15</integer>
-    <key>C</key>
-    <integer>-40</integer>
-    <key>D</key>
-    <integer>-30</integer>
-    <key>F</key>
-    <integer>-20</integer>
-    <key>G</key>
-    <integer>-15</integer>
-    <key>J</key>
-    <integer>-30</integer>
-    <key>K</key>
-    <integer>-60</integer>
-    <key>M</key>
-    <integer>-100</integer>
-    <key>N</key>
-    <integer>-20</integer>
-    <key>S</key>
-    <integer>-25</integer>
-    <key>T</key>
-    <integer>10</integer>
-    <key>W</key>
-    <integer>10</integer>
-    <key>Z</key>
-    <integer>-60</integer>
-    <key>ampersand</key>
-    <integer>-10</integer>
-    <key>backslash</key>
-    <integer>10</integer>
-    <key>bracketright</key>
-    <integer>-10</integer>
-    <key>c</key>
-    <integer>-30</integer>
-    <key>comma</key>
-    <integer>-50</integer>
-    <key>exclam</key>
-    <integer>-20</integer>
-    <key>g</key>
-    <integer>-15</integer>
-    <key>l</key>
-    <integer>-20</integer>
-    <key>m</key>
-    <integer>-50</integer>
-    <key>parenright</key>
-    <integer>-20</integer>
-    <key>period</key>
-    <integer>-50</integer>
-    <key>s</key>
+    <key>tai-beria</key>
     <integer>-35</integer>
-    <key>slash</key>
-    <integer>-90</integer>
-    <key>y</key>
-    <integer>-10</integer>
-  </dict>
-  <key>N</key>
-  <dict>
-    <key>ugrave</key>
-    <integer>-20</integer>
-  </dict>
-  <key>P</key>
-  <dict>
-    <key>C</key>
-    <integer>-40</integer>
-    <key>D</key>
-    <integer>-45</integer>
-    <key>F</key>
-    <integer>-20</integer>
-    <key>G</key>
-    <integer>-10</integer>
-    <key>J</key>
-    <integer>-10</integer>
-    <key>K</key>
-    <integer>-60</integer>
-    <key>M</key>
-    <integer>-100</integer>
-    <key>N</key>
-    <integer>-30</integer>
-    <key>S</key>
-    <integer>-10</integer>
-    <key>T</key>
-    <integer>30</integer>
-    <key>Y</key>
-    <integer>-10</integer>
-    <key>Z</key>
-    <integer>-55</integer>
-    <key>ampersand</key>
-    <integer>-10</integer>
-    <key>backslash</key>
-    <integer>40</integer>
-    <key>bullet</key>
-    <integer>-20</integer>
-    <key>c</key>
-    <integer>-20</integer>
-    <key>comma</key>
-    <integer>-120</integer>
-    <key>d</key>
-    <integer>10</integer>
-    <key>f</key>
-    <integer>20</integer>
-    <key>g</key>
-    <integer>-10</integer>
-    <key>k</key>
-    <integer>-40</integer>
-    <key>l</key>
-    <integer>-40</integer>
-    <key>m</key>
-    <integer>-90</integer>
-    <key>n</key>
-    <integer>-20</integer>
-    <key>period</key>
-    <integer>-110</integer>
-    <key>s</key>
-    <integer>-25</integer>
-    <key>slash</key>
-    <integer>-90</integer>
-    <key>t</key>
-    <integer>30</integer>
     <key>trademark</key>
-    <integer>30</integer>
-    <key>ugrave</key>
-    <integer>20</integer>
-    <key>w</key>
-    <integer>20</integer>
+    <integer>-20</integer>
+    <key>way-beria</key>
+    <integer>-50</integer>
+    <key>yay-beria</key>
+    <integer>-50</integer>
   </dict>
-  <key>R</key>
+  <key>Key-beria</key>
   <dict>
-    <key>C</key>
-    <integer>-30</integer>
-    <key>D</key>
-    <integer>-40</integer>
-    <key>F</key>
+    <key>uy_grave-beria</key>
     <integer>-20</integer>
-    <key>G</key>
-    <integer>-10</integer>
-    <key>J</key>
-    <integer>-15</integer>
-    <key>K</key>
-    <integer>-50</integer>
-    <key>M</key>
-    <integer>-70</integer>
-    <key>N</key>
-    <integer>-20</integer>
-    <key>R</key>
-    <integer>-10</integer>
-    <key>S</key>
-    <integer>-50</integer>
-    <key>T</key>
-    <integer>5</integer>
-    <key>Z</key>
-    <integer>-50</integer>
-    <key>ampersand</key>
-    <integer>-10</integer>
-    <key>bracketright</key>
-    <integer>-20</integer>
-    <key>c</key>
-    <integer>-25</integer>
-    <key>comma</key>
-    <integer>-80</integer>
-    <key>g</key>
-    <integer>-15</integer>
-    <key>k</key>
-    <integer>-20</integer>
-    <key>l</key>
-    <integer>-40</integer>
-    <key>m</key>
-    <integer>-60</integer>
-    <key>n</key>
-    <integer>-20</integer>
-    <key>parenright</key>
-    <integer>-20</integer>
-    <key>period</key>
-    <integer>-90</integer>
-    <key>s</key>
-    <integer>-30</integer>
-    <key>slash</key>
-    <integer>-90</integer>
-    <key>y</key>
-    <integer>-10</integer>
   </dict>
-  <key>S</key>
+  <key>Nay-beria</key>
   <dict>
-    <key>B</key>
-    <integer>15</integer>
-    <key>C</key>
-    <integer>-60</integer>
-    <key>D</key>
-    <integer>-35</integer>
-    <key>F</key>
+    <key>Bay-beria</key>
+    <integer>-50</integer>
+    <key>Chei-beria</key>
     <integer>-10</integer>
-    <key>G</key>
+    <key>Day-beria</key>
     <integer>-5</integer>
-    <key>J</key>
-    <integer>-10</integer>
-    <key>K</key>
-    <integer>-45</integer>
-    <key>M</key>
-    <integer>-60</integer>
-    <key>N</key>
-    <integer>-10</integer>
-    <key>P</key>
-    <integer>20</integer>
-    <key>R</key>
-    <integer>-10</integer>
-    <key>S</key>
-    <integer>-65</integer>
-    <key>T</key>
-    <integer>20</integer>
-    <key>W</key>
+    <key>Emmi-beria</key>
     <integer>10</integer>
-    <key>Z</key>
-    <integer>-30</integer>
-    <key>ampersand</key>
-    <integer>-10</integer>
-    <key>asterisk</key>
-    <integer>20</integer>
-    <key>backslash</key>
-    <integer>10</integer>
-    <key>c</key>
-    <integer>-30</integer>
-    <key>comma</key>
-    <integer>-70</integer>
-    <key>g</key>
-    <integer>-10</integer>
-    <key>k</key>
+    <key>Erri-beria</key>
     <integer>-25</integer>
-    <key>l</key>
-    <integer>-30</integer>
-    <key>m</key>
-    <integer>-55</integer>
-    <key>n</key>
-    <integer>-10</integer>
-    <key>period</key>
-    <integer>-60</integer>
-    <key>s</key>
-    <integer>-40</integer>
-    <key>slash</key>
-    <integer>-60</integer>
-    <key>t</key>
-    <integer>20</integer>
-    <key>trademark</key>
-    <integer>30</integer>
-    <key>w</key>
-    <integer>10</integer>
-  </dict>
-  <key>T</key>
-  <dict>
-    <key>B</key>
-    <integer>15</integer>
-    <key>C</key>
-    <integer>-10</integer>
-    <key>D</key>
-    <integer>-30</integer>
-    <key>F</key>
-    <integer>-30</integer>
-    <key>G</key>
-    <integer>-10</integer>
-    <key>J</key>
-    <integer>-10</integer>
-    <key>K</key>
-    <integer>-40</integer>
-    <key>M</key>
-    <integer>-30</integer>
-    <key>N</key>
+    <key>Nay-beria</key>
     <integer>-15</integer>
-    <key>P</key>
-    <integer>5</integer>
-    <key>R</key>
-    <integer>-10</integer>
-    <key>S</key>
-    <integer>-20</integer>
-    <key>Y</key>
-    <integer>-10</integer>
-    <key>Z</key>
-    <integer>-10</integer>
-    <key>ampersand</key>
-    <integer>-20</integer>
-    <key>bullet</key>
-    <integer>-20</integer>
-    <key>c</key>
-    <integer>-20</integer>
-    <key>comma</key>
-    <integer>-30</integer>
-    <key>exclam</key>
-    <integer>-20</integer>
-    <key>g</key>
-    <integer>-25</integer>
-    <key>j</key>
-    <integer>-10</integer>
-    <key>k</key>
-    <integer>-20</integer>
-    <key>l</key>
-    <integer>-20</integer>
-    <key>m</key>
+    <key>Pi-beria</key>
     <integer>-50</integer>
-    <key>n</key>
-    <integer>-20</integer>
-    <key>period</key>
-    <integer>-40</integer>
-    <key>s</key>
-    <integer>-25</integer>
-    <key>trademark</key>
-    <integer>30</integer>
-    <key>y</key>
+    <key>Shep-beria</key>
     <integer>-10</integer>
-  </dict>
-  <key>W</key>
-  <dict>
-    <key>B</key>
-    <integer>5</integer>
-    <key>C</key>
-    <integer>-40</integer>
-    <key>D</key>
+    <key>Tai-beria</key>
     <integer>-35</integer>
-    <key>F</key>
-    <integer>-15</integer>
-    <key>G</key>
-    <integer>-5</integer>
-    <key>J</key>
-    <integer>-10</integer>
-    <key>K</key>
-    <integer>-70</integer>
-    <key>M</key>
-    <integer>-80</integer>
-    <key>N</key>
-    <integer>-30</integer>
-    <key>S</key>
-    <integer>-20</integer>
-    <key>T</key>
-    <integer>20</integer>
-    <key>W</key>
-    <integer>10</integer>
-    <key>Z</key>
-    <integer>-60</integer>
-    <key>ampersand</key>
-    <integer>-20</integer>
-    <key>backslash</key>
-    <integer>40</integer>
-    <key>bullet</key>
-    <integer>-20</integer>
-    <key>c</key>
-    <integer>-15</integer>
-    <key>comma</key>
-    <integer>-90</integer>
-    <key>d</key>
-    <integer>10</integer>
-    <key>g</key>
-    <integer>-10</integer>
-    <key>k</key>
-    <integer>-30</integer>
-    <key>l</key>
-    <integer>-20</integer>
-    <key>m</key>
-    <integer>-80</integer>
-    <key>n</key>
-    <integer>-20</integer>
-    <key>period</key>
-    <integer>-90</integer>
-    <key>s</key>
-    <integer>-25</integer>
-    <key>slash</key>
-    <integer>-80</integer>
-    <key>t</key>
-    <integer>20</integer>
-    <key>trademark</key>
-    <integer>60</integer>
-    <key>w</key>
-    <integer>15</integer>
-  </dict>
-  <key>X</key>
-  <dict>
-    <key>B</key>
-    <integer>-50</integer>
-    <key>C</key>
-    <integer>-10</integer>
-    <key>D</key>
-    <integer>-5</integer>
-    <key>M</key>
-    <integer>10</integer>
-    <key>P</key>
-    <integer>-50</integer>
-    <key>R</key>
-    <integer>-25</integer>
-    <key>S</key>
-    <integer>-10</integer>
-    <key>T</key>
-    <integer>-35</integer>
-    <key>W</key>
+    <key>Way-beria</key>
     <integer>-40</integer>
-    <key>X</key>
-    <integer>-15</integer>
-    <key>Y</key>
+    <key>Yay-beria</key>
     <integer>-5</integer>
     <key>asterisk</key>
     <integer>-110</integer>
@@ -709,306 +552,463 @@
     <integer>-120</integer>
     <key>braceright</key>
     <integer>-10</integer>
-    <key>c</key>
+    <key>chei-beria</key>
+    <integer>-15</integer>
+    <key>day-beria</key>
     <integer>-10</integer>
-    <key>d</key>
+    <key>djay-beria</key>
+    <integer>-10</integer>
+    <key>effi-beria</key>
+    <integer>-20</integer>
+    <key>elli-beria</key>
+    <integer>-15</integer>
+    <key>emimi-beria</key>
+    <integer>-10</integer>
+    <key>enni-beria</key>
     <integer>-10</integer>
     <key>exclam</key>
     <integer>-20</integer>
-    <key>f</key>
+    <key>gay-beria</key>
     <integer>-20</integer>
-    <key>g</key>
-    <integer>-20</integer>
-    <key>j</key>
-    <integer>-10</integer>
-    <key>k</key>
+    <key>key-beria</key>
     <integer>-15</integer>
-    <key>l</key>
-    <integer>-15</integer>
-    <key>m</key>
-    <integer>-10</integer>
-    <key>n</key>
-    <integer>-10</integer>
     <key>question</key>
     <integer>-70</integer>
     <key>quotedblright</key>
     <integer>-110</integer>
-    <key>s</key>
-    <integer>-15</integer>
+    <key>shep-beria</key>
+    <integer>-10</integer>
     <key>slash</key>
     <integer>20</integer>
-    <key>t</key>
+    <key>tai-beria</key>
     <integer>-40</integer>
     <key>trademark</key>
     <integer>-50</integer>
-    <key>w</key>
+    <key>way-beria</key>
     <integer>-30</integer>
-    <key>y</key>
+    <key>yay-beria</key>
     <integer>-20</integer>
   </dict>
-  <key>Y</key>
+  <key>Pi-beria</key>
   <dict>
-    <key>B</key>
-    <integer>-5</integer>
-    <key>C</key>
+    <key>Chei-beria</key>
+    <integer>-10</integer>
+    <key>Day-beria</key>
+    <integer>-45</integer>
+    <key>Djay-beria</key>
+    <integer>-10</integer>
+    <key>Effi-beria</key>
     <integer>-20</integer>
-    <key>D</key>
-    <integer>-15</integer>
-    <key>K</key>
-    <integer>-25</integer>
-    <key>M</key>
-    <integer>-10</integer>
-    <key>P</key>
-    <integer>-10</integer>
-    <key>S</key>
+    <key>Emmi-beria</key>
+    <integer>-100</integer>
+    <key>Enni-beria</key>
     <integer>-30</integer>
-    <key>T</key>
+    <key>Gay-beria</key>
     <integer>-10</integer>
-    <key>Y</key>
+    <key>Gna-beria</key>
+    <integer>-55</integer>
+    <key>Key-beria</key>
+    <integer>-60</integer>
+    <key>Shep-beria</key>
+    <integer>-40</integer>
+    <key>Tai-beria</key>
+    <integer>30</integer>
+    <key>Yay-beria</key>
+    <integer>-10</integer>
+    <key>ampersand</key>
+    <integer>-10</integer>
+    <key>backslash</key>
+    <integer>40</integer>
+    <key>bullet</key>
     <integer>-20</integer>
-    <key>Z</key>
+    <key>chei-beria</key>
     <integer>-25</integer>
+    <key>comma</key>
+    <integer>-120</integer>
+    <key>day-beria</key>
+    <integer>10</integer>
+    <key>effi-beria</key>
+    <integer>20</integer>
+    <key>elli-beria</key>
+    <integer>-40</integer>
+    <key>emimi-beria</key>
+    <integer>-90</integer>
+    <key>enni-beria</key>
+    <integer>-20</integer>
+    <key>gay-beria</key>
+    <integer>-10</integer>
+    <key>key-beria</key>
+    <integer>-40</integer>
+    <key>period</key>
+    <integer>-110</integer>
+    <key>shep-beria</key>
+    <integer>-20</integer>
+    <key>slash</key>
+    <integer>-90</integer>
+    <key>tai-beria</key>
+    <integer>30</integer>
+    <key>trademark</key>
+    <integer>30</integer>
+    <key>uy_grave-beria</key>
+    <integer>20</integer>
+    <key>way-beria</key>
+    <integer>20</integer>
+  </dict>
+  <key>Shep-beria</key>
+  <dict>
+    <key>Chei-beria</key>
+    <integer>-60</integer>
+    <key>Day-beria</key>
+    <integer>-20</integer>
+    <key>Djay-beria</key>
+    <integer>-5</integer>
+    <key>Emmi-beria</key>
+    <integer>-50</integer>
+    <key>Gay-beria</key>
+    <integer>-10</integer>
+    <key>Gna-beria</key>
+    <integer>-30</integer>
+    <key>Key-beria</key>
+    <integer>-55</integer>
+    <key>Shep-beria</key>
+    <integer>-60</integer>
+    <key>Tai-beria</key>
+    <integer>30</integer>
+    <key>chei-beria</key>
+    <integer>-30</integer>
+    <key>comma</key>
+    <integer>-60</integer>
+    <key>djay-beria</key>
+    <integer>-10</integer>
+    <key>elli-beria</key>
+    <integer>-25</integer>
+    <key>emimi-beria</key>
+    <integer>-30</integer>
+    <key>gay-beria</key>
+    <integer>-15</integer>
+    <key>key-beria</key>
+    <integer>-10</integer>
+    <key>parenright</key>
+    <integer>-20</integer>
+    <key>period</key>
+    <integer>-50</integer>
+    <key>shep-beria</key>
+    <integer>-30</integer>
+    <key>slash</key>
+    <integer>-80</integer>
+    <key>trademark</key>
+    <integer>30</integer>
+  </dict>
+  <key>Tai-beria</key>
+  <dict>
+    <key>Bay-beria</key>
+    <integer>15</integer>
+    <key>Chei-beria</key>
+    <integer>-20</integer>
+    <key>Day-beria</key>
+    <integer>-30</integer>
+    <key>Djay-beria</key>
+    <integer>-10</integer>
+    <key>Effi-beria</key>
+    <integer>-30</integer>
+    <key>Emmi-beria</key>
+    <integer>-30</integer>
+    <key>Enni-beria</key>
+    <integer>-15</integer>
+    <key>Erri-beria</key>
+    <integer>-10</integer>
+    <key>Gay-beria</key>
+    <integer>-10</integer>
+    <key>Gna-beria</key>
+    <integer>-10</integer>
+    <key>Key-beria</key>
+    <integer>-40</integer>
+    <key>Pi-beria</key>
+    <integer>5</integer>
+    <key>Shep-beria</key>
+    <integer>-10</integer>
+    <key>Yay-beria</key>
+    <integer>-10</integer>
+    <key>ampersand</key>
+    <integer>-20</integer>
+    <key>bullet</key>
+    <integer>-20</integer>
+    <key>chei-beria</key>
+    <integer>-25</integer>
+    <key>comma</key>
+    <integer>-30</integer>
+    <key>djay-beria</key>
+    <integer>-10</integer>
+    <key>elli-beria</key>
+    <integer>-20</integer>
+    <key>emimi-beria</key>
+    <integer>-50</integer>
+    <key>enni-beria</key>
+    <integer>-20</integer>
+    <key>exclam</key>
+    <integer>-20</integer>
+    <key>gay-beria</key>
+    <integer>-25</integer>
+    <key>key-beria</key>
+    <integer>-20</integer>
+    <key>period</key>
+    <integer>-40</integer>
+    <key>shep-beria</key>
+    <integer>-20</integer>
+    <key>trademark</key>
+    <integer>30</integer>
+    <key>yay-beria</key>
+    <integer>-10</integer>
+  </dict>
+  <key>Way-beria</key>
+  <dict>
+    <key>Bay-beria</key>
+    <integer>5</integer>
+    <key>Chei-beria</key>
+    <integer>-20</integer>
+    <key>Day-beria</key>
+    <integer>-35</integer>
+    <key>Djay-beria</key>
+    <integer>-10</integer>
+    <key>Effi-beria</key>
+    <integer>-15</integer>
+    <key>Emmi-beria</key>
+    <integer>-80</integer>
+    <key>Enni-beria</key>
+    <integer>-30</integer>
+    <key>Gay-beria</key>
+    <integer>-5</integer>
+    <key>Gna-beria</key>
+    <integer>-60</integer>
+    <key>Key-beria</key>
+    <integer>-70</integer>
+    <key>Shep-beria</key>
+    <integer>-40</integer>
+    <key>Tai-beria</key>
+    <integer>20</integer>
+    <key>Way-beria</key>
+    <integer>10</integer>
+    <key>ampersand</key>
+    <integer>-20</integer>
+    <key>backslash</key>
+    <integer>40</integer>
+    <key>bullet</key>
+    <integer>-20</integer>
+    <key>chei-beria</key>
+    <integer>-25</integer>
+    <key>comma</key>
+    <integer>-90</integer>
+    <key>day-beria</key>
+    <integer>10</integer>
+    <key>elli-beria</key>
+    <integer>-20</integer>
+    <key>emimi-beria</key>
+    <integer>-80</integer>
+    <key>enni-beria</key>
+    <integer>-20</integer>
+    <key>gay-beria</key>
+    <integer>-10</integer>
+    <key>key-beria</key>
+    <integer>-30</integer>
+    <key>period</key>
+    <integer>-90</integer>
+    <key>shep-beria</key>
+    <integer>-15</integer>
+    <key>slash</key>
+    <integer>-80</integer>
+    <key>tai-beria</key>
+    <integer>20</integer>
+    <key>trademark</key>
+    <integer>60</integer>
+    <key>way-beria</key>
+    <integer>15</integer>
+  </dict>
+  <key>Yay-beria</key>
+  <dict>
+    <key>Bay-beria</key>
+    <integer>-5</integer>
+    <key>Chei-beria</key>
+    <integer>-30</integer>
+    <key>Day-beria</key>
+    <integer>-15</integer>
+    <key>Emmi-beria</key>
+    <integer>-10</integer>
+    <key>Gna-beria</key>
+    <integer>-25</integer>
+    <key>Key-beria</key>
+    <integer>-25</integer>
+    <key>Pi-beria</key>
+    <integer>-10</integer>
+    <key>Shep-beria</key>
+    <integer>-20</integer>
+    <key>Tai-beria</key>
+    <integer>-10</integer>
+    <key>Yay-beria</key>
+    <integer>-20</integer>
     <key>asterisk</key>
     <integer>-20</integer>
     <key>backslash</key>
     <integer>-40</integer>
     <key>bracketright</key>
     <integer>-10</integer>
-    <key>c</key>
-    <integer>-10</integer>
+    <key>chei-beria</key>
+    <integer>-20</integer>
     <key>comma</key>
     <integer>-10</integer>
+    <key>effi-beria</key>
+    <integer>-10</integer>
+    <key>elli-beria</key>
+    <integer>-20</integer>
+    <key>emimi-beria</key>
+    <integer>-20</integer>
     <key>exclam</key>
     <integer>-20</integer>
-    <key>f</key>
+    <key>gay-beria</key>
     <integer>-10</integer>
-    <key>g</key>
+    <key>key-beria</key>
     <integer>-10</integer>
-    <key>k</key>
-    <integer>-10</integer>
-    <key>l</key>
-    <integer>-20</integer>
-    <key>m</key>
-    <integer>-20</integer>
     <key>period</key>
     <integer>-10</integer>
     <key>question</key>
     <integer>-50</integer>
-    <key>s</key>
-    <integer>-20</integer>
+    <key>shep-beria</key>
+    <integer>-10</integer>
     <key>slash</key>
     <integer>-20</integer>
-    <key>t</key>
+    <key>tai-beria</key>
     <integer>-10</integer>
-  </dict>
-  <key>Z</key>
-  <dict>
-    <key>B</key>
-    <integer>-40</integer>
-    <key>D</key>
-    <integer>-15</integer>
-    <key>F</key>
-    <integer>-50</integer>
-    <key>G</key>
-    <integer>-15</integer>
-    <key>J</key>
-    <integer>-5</integer>
-    <key>K</key>
-    <integer>-30</integer>
-    <key>M</key>
-    <integer>10</integer>
-    <key>N</key>
-    <integer>-10</integer>
-    <key>P</key>
-    <integer>-35</integer>
-    <key>R</key>
-    <integer>-55</integer>
-    <key>T</key>
-    <integer>-15</integer>
-    <key>W</key>
-    <integer>-20</integer>
-    <key>X</key>
-    <integer>-10</integer>
-    <key>Y</key>
-    <integer>-30</integer>
-    <key>Z</key>
-    <integer>-15</integer>
-    <key>ampersand</key>
-    <integer>-50</integer>
-    <key>asterisk</key>
-    <integer>-40</integer>
-    <key>backslash</key>
-    <integer>-60</integer>
-    <key>bullet</key>
-    <integer>-40</integer>
-    <key>c</key>
-    <integer>-30</integer>
-    <key>d</key>
-    <integer>-20</integer>
-    <key>exclam</key>
-    <integer>-20</integer>
-    <key>f</key>
-    <integer>-10</integer>
-    <key>g</key>
-    <integer>-60</integer>
-    <key>j</key>
-    <integer>-30</integer>
-    <key>k</key>
-    <integer>-60</integer>
-    <key>l</key>
-    <integer>-20</integer>
-    <key>m</key>
-    <integer>-20</integer>
-    <key>n</key>
-    <integer>-30</integer>
-    <key>period</key>
-    <integer>-30</integer>
-    <key>question</key>
-    <integer>-40</integer>
-    <key>s</key>
-    <integer>-40</integer>
-    <key>slash</key>
-    <integer>40</integer>
-    <key>t</key>
-    <integer>-35</integer>
-    <key>trademark</key>
-    <integer>-20</integer>
-    <key>w</key>
-    <integer>-50</integer>
-    <key>y</key>
-    <integer>-50</integer>
   </dict>
   <key>ampersand</key>
   <dict>
-    <key>B</key>
+    <key>Bay-beria</key>
     <integer>-10</integer>
-    <key>C</key>
-    <integer>-30</integer>
-    <key>D</key>
-    <integer>-30</integer>
-    <key>F</key>
-    <integer>20</integer>
-    <key>K</key>
+    <key>Chei-beria</key>
     <integer>-40</integer>
-    <key>L</key>
-    <integer>-15</integer>
-    <key>M</key>
-    <integer>-25</integer>
-    <key>P</key>
-    <integer>-15</integer>
-    <key>R</key>
+    <key>Day-beria</key>
+    <integer>-30</integer>
+    <key>Effi-beria</key>
     <integer>20</integer>
-    <key>S</key>
+    <key>Elli-beria</key>
+    <integer>-15</integer>
+    <key>Emmi-beria</key>
+    <integer>-25</integer>
+    <key>Erri-beria</key>
+    <integer>20</integer>
+    <key>Gna-beria</key>
+    <integer>-10</integer>
+    <key>Key-beria</key>
     <integer>-40</integer>
-    <key>T</key>
-    <integer>-20</integer>
-    <key>W</key>
-    <integer>-10</integer>
-    <key>Y</key>
-    <integer>20</integer>
-    <key>Z</key>
-    <integer>-10</integer>
-    <key>c</key>
-    <integer>-10</integer>
-    <key>d</key>
-    <integer>-20</integer>
-    <key>f</key>
-    <integer>-10</integer>
-    <key>l</key>
-    <integer>-10</integer>
-    <key>s</key>
+    <key>Pi-beria</key>
     <integer>-15</integer>
-    <key>t</key>
-    <integer>-25</integer>
-    <key>w</key>
+    <key>Shep-beria</key>
+    <integer>-30</integer>
+    <key>Tai-beria</key>
     <integer>-20</integer>
-    <key>y</key>
+    <key>Way-beria</key>
+    <integer>-10</integer>
+    <key>Yay-beria</key>
+    <integer>20</integer>
+    <key>chei-beria</key>
+    <integer>-15</integer>
+    <key>day-beria</key>
+    <integer>-20</integer>
+    <key>effi-beria</key>
+    <integer>-10</integer>
+    <key>elli-beria</key>
+    <integer>-10</integer>
+    <key>shep-beria</key>
+    <integer>-10</integer>
+    <key>tai-beria</key>
+    <integer>-25</integer>
+    <key>way-beria</key>
+    <integer>-20</integer>
+    <key>yay-beria</key>
     <integer>20</integer>
   </dict>
   <key>asterisk</key>
   <dict>
-    <key>C</key>
-    <integer>-60</integer>
-    <key>D</key>
+    <key>Chei-beria</key>
+    <integer>-30</integer>
+    <key>Day-beria</key>
     <integer>-40</integer>
-    <key>G</key>
-    <integer>-20</integer>
-    <key>K</key>
-    <integer>-60</integer>
-    <key>M</key>
+    <key>Emmi-beria</key>
     <integer>-110</integer>
-    <key>N</key>
+    <key>Enni-beria</key>
     <integer>-40</integer>
-    <key>S</key>
-    <integer>-30</integer>
-    <key>Y</key>
+    <key>Gay-beria</key>
     <integer>-20</integer>
-    <key>Z</key>
+    <key>Gna-beria</key>
     <integer>-130</integer>
-    <key>c</key>
+    <key>Key-beria</key>
+    <integer>-60</integer>
+    <key>Shep-beria</key>
+    <integer>-60</integer>
+    <key>Yay-beria</key>
+    <integer>-20</integer>
+    <key>chei-beria</key>
     <integer>-30</integer>
+    <key>effi-beria</key>
+    <integer>20</integer>
     <key>eight</key>
     <integer>-20</integer>
-    <key>f</key>
-    <integer>20</integer>
+    <key>elli-beria</key>
+    <integer>-40</integer>
+    <key>emimi-beria</key>
+    <integer>-110</integer>
     <key>four</key>
     <integer>-90</integer>
-    <key>g</key>
+    <key>gay-beria</key>
     <integer>-10</integer>
-    <key>k</key>
+    <key>key-beria</key>
     <integer>-30</integer>
-    <key>l</key>
-    <integer>-40</integer>
-    <key>m</key>
-    <integer>-110</integer>
     <key>nine</key>
     <integer>-10</integer>
-    <key>s</key>
-    <integer>-30</integer>
     <key>seven</key>
     <integer>50</integer>
-    <key>t</key>
+    <key>shep-beria</key>
+    <integer>-30</integer>
+    <key>tai-beria</key>
     <integer>30</integer>
   </dict>
   <key>backslash</key>
   <dict>
-    <key>B</key>
+    <key>Bay-beria</key>
     <integer>-130</integer>
-    <key>C</key>
+    <key>Chei-beria</key>
     <integer>40</integer>
-    <key>F</key>
-    <integer>-30</integer>
-    <key>J</key>
+    <key>Djay-beria</key>
     <integer>20</integer>
-    <key>L</key>
+    <key>Effi-beria</key>
+    <integer>-30</integer>
+    <key>Elli-beria</key>
     <integer>40</integer>
-    <key>M</key>
+    <key>Emmi-beria</key>
     <integer>40</integer>
-    <key>P</key>
+    <key>Erri-beria</key>
     <integer>-90</integer>
-    <key>R</key>
-    <integer>-90</integer>
-    <key>S</key>
+    <key>Gna-beria</key>
     <integer>40</integer>
-    <key>T</key>
+    <key>Nay-beria</key>
+    <integer>-20</integer>
+    <key>Pi-beria</key>
+    <integer>-90</integer>
+    <key>Shep-beria</key>
+    <integer>40</integer>
+    <key>Tai-beria</key>
     <integer>-60</integer>
-    <key>W</key>
+    <key>Way-beria</key>
     <integer>-80</integer>
-    <key>X</key>
+    <key>Yay-beria</key>
     <integer>-20</integer>
-    <key>Y</key>
-    <integer>-20</integer>
-    <key>Z</key>
-    <integer>40</integer>
     <key>eight</key>
     <integer>-30</integer>
+    <key>enni-beria</key>
+    <integer>-50</integer>
     <key>four</key>
     <integer>-100</integer>
-    <key>g</key>
+    <key>gay-beria</key>
     <integer>-40</integer>
-    <key>k</key>
-    <integer>-50</integer>
-    <key>n</key>
+    <key>key-beria</key>
     <integer>-50</integer>
     <key>nine</key>
     <integer>-40</integer>
@@ -1016,22 +1016,20 @@
     <integer>-120</integer>
     <key>seven</key>
     <integer>-40</integer>
-    <key>t</key>
+    <key>tai-beria</key>
     <integer>-100</integer>
-    <key>w</key>
+    <key>way-beria</key>
     <integer>-60</integer>
-    <key>y</key>
+    <key>yay-beria</key>
     <integer>-80</integer>
   </dict>
   <key>braceleft</key>
   <dict>
-    <key>F</key>
+    <key>Effi-beria</key>
     <integer>-10</integer>
-    <key>K</key>
+    <key>Key-beria</key>
     <integer>-10</integer>
-    <key>T</key>
-    <integer>-10</integer>
-    <key>c</key>
+    <key>Tai-beria</key>
     <integer>-10</integer>
     <key>eight</key>
     <integer>-20</integer>
@@ -1039,42 +1037,44 @@
     <integer>-10</integer>
     <key>four</key>
     <integer>-20</integer>
-    <key>g</key>
+    <key>gay-beria</key>
     <integer>-10</integer>
     <key>nine</key>
     <integer>-30</integer>
     <key>one</key>
     <integer>-20</integer>
+    <key>shep-beria</key>
+    <integer>-10</integer>
     <key>three</key>
     <integer>-10</integer>
     <key>two</key>
     <integer>-10</integer>
-    <key>y</key>
+    <key>yay-beria</key>
     <integer>-10</integer>
   </dict>
   <key>bracketleft</key>
   <dict>
-    <key>F</key>
+    <key>Effi-beria</key>
     <integer>-10</integer>
-    <key>R</key>
+    <key>Erri-beria</key>
     <integer>-20</integer>
-    <key>X</key>
-    <integer>-10</integer>
-    <key>Y</key>
-    <integer>-10</integer>
-    <key>Z</key>
+    <key>Gna-beria</key>
     <integer>-20</integer>
-    <key>d</key>
+    <key>Nay-beria</key>
+    <integer>-10</integer>
+    <key>Yay-beria</key>
+    <integer>-10</integer>
+    <key>day-beria</key>
     <integer>-10</integer>
     <key>eight</key>
     <integer>-20</integer>
+    <key>emimi-beria</key>
+    <integer>-10</integer>
     <key>four</key>
     <integer>-20</integer>
-    <key>g</key>
+    <key>gay-beria</key>
     <integer>-20</integer>
-    <key>k</key>
-    <integer>-10</integer>
-    <key>m</key>
+    <key>key-beria</key>
     <integer>-10</integer>
     <key>nine</key>
     <integer>-40</integer>
@@ -1087,160 +1087,166 @@
   </dict>
   <key>bullet</key>
   <dict>
-    <key>B</key>
+    <key>Bay-beria</key>
     <integer>-20</integer>
-    <key>C</key>
+    <key>Chei-beria</key>
+    <integer>-40</integer>
+    <key>Day-beria</key>
+    <integer>-20</integer>
+    <key>Djay-beria</key>
+    <integer>-10</integer>
+    <key>Elli-beria</key>
+    <integer>-20</integer>
+    <key>Emmi-beria</key>
+    <integer>-40</integer>
+    <key>Gna-beria</key>
+    <integer>-20</integer>
+    <key>Pi-beria</key>
+    <integer>-20</integer>
+    <key>Shep-beria</key>
     <integer>-30</integer>
-    <key>D</key>
+    <key>Tai-beria</key>
     <integer>-20</integer>
-    <key>J</key>
+    <key>Way-beria</key>
+    <integer>-20</integer>
+    <key>chei-beria</key>
+    <integer>-20</integer>
+    <key>day-beria</key>
     <integer>-10</integer>
-    <key>L</key>
+    <key>effi-beria</key>
     <integer>-20</integer>
-    <key>M</key>
-    <integer>-40</integer>
-    <key>P</key>
+    <key>elli-beria</key>
     <integer>-20</integer>
-    <key>S</key>
-    <integer>-40</integer>
-    <key>T</key>
+    <key>emimi-beria</key>
     <integer>-20</integer>
-    <key>W</key>
-    <integer>-20</integer>
-    <key>Z</key>
-    <integer>-20</integer>
-    <key>c</key>
+    <key>gay-beria</key>
     <integer>-10</integer>
-    <key>d</key>
-    <integer>-10</integer>
-    <key>f</key>
-    <integer>-20</integer>
-    <key>g</key>
-    <integer>-10</integer>
-    <key>l</key>
-    <integer>-20</integer>
-    <key>m</key>
-    <integer>-20</integer>
     <key>nine</key>
     <integer>-20</integer>
     <key>one</key>
     <integer>-20</integer>
-    <key>s</key>
-    <integer>-20</integer>
     <key>seven</key>
     <integer>-30</integer>
-    <key>t</key>
+    <key>shep-beria</key>
+    <integer>-10</integer>
+    <key>tai-beria</key>
     <integer>-30</integer>
     <key>two</key>
     <integer>-20</integer>
-    <key>w</key>
+    <key>way-beria</key>
     <integer>-30</integer>
   </dict>
-  <key>c</key>
+  <key>chei-beria</key>
   <dict>
+    <key>ampersand</key>
+    <integer>-10</integer>
     <key>asterisk</key>
-    <integer>40</integer>
-    <key>c</key>
-    <integer>-65</integer>
+    <integer>30</integer>
+    <key>chei-beria</key>
+    <integer>-85</integer>
     <key>comma</key>
-    <integer>-80</integer>
-    <key>g</key>
-    <integer>-10</integer>
-    <key>j</key>
-    <integer>-10</integer>
-    <key>k</key>
-    <integer>-30</integer>
-    <key>l</key>
-    <integer>-40</integer>
-    <key>m</key>
-    <integer>-45</integer>
-    <key>n</key>
-    <integer>-10</integer>
-    <key>period</key>
     <integer>-100</integer>
-    <key>s</key>
+    <key>djay-beria</key>
+    <integer>-10</integer>
+    <key>effi-beria</key>
+    <integer>-10</integer>
+    <key>elli-beria</key>
+    <integer>-30</integer>
+    <key>emimi-beria</key>
+    <integer>-70</integer>
+    <key>enni-beria</key>
+    <integer>-25</integer>
+    <key>gay-beria</key>
+    <integer>-25</integer>
+    <key>key-beria</key>
+    <integer>-40</integer>
+    <key>period</key>
+    <integer>-110</integer>
+    <key>shep-beria</key>
     <integer>-70</integer>
     <key>slash</key>
     <integer>-120</integer>
-    <key>w</key>
-    <integer>10</integer>
+    <key>trademark</key>
+    <integer>20</integer>
+    <key>yay-beria</key>
+    <integer>-10</integer>
   </dict>
   <key>comma</key>
   <dict>
-    <key>B</key>
+    <key>Bay-beria</key>
     <integer>-120</integer>
-    <key>C</key>
+    <key>Chei-beria</key>
     <integer>-20</integer>
-    <key>F</key>
+    <key>Effi-beria</key>
     <integer>-10</integer>
-    <key>G</key>
-    <integer>-10</integer>
-    <key>M</key>
+    <key>Emmi-beria</key>
     <integer>10</integer>
-    <key>P</key>
-    <integer>-120</integer>
-    <key>R</key>
+    <key>Erri-beria</key>
     <integer>-80</integer>
-    <key>S</key>
-    <integer>-20</integer>
-    <key>T</key>
-    <integer>-70</integer>
-    <key>W</key>
-    <integer>-90</integer>
-    <key>Y</key>
+    <key>Gay-beria</key>
     <integer>-10</integer>
-    <key>d</key>
+    <key>Pi-beria</key>
+    <integer>-120</integer>
+    <key>Shep-beria</key>
+    <integer>-20</integer>
+    <key>Tai-beria</key>
+    <integer>-70</integer>
+    <key>Way-beria</key>
+    <integer>-90</integer>
+    <key>Yay-beria</key>
+    <integer>-10</integer>
+    <key>day-beria</key>
+    <integer>-10</integer>
+    <key>effi-beria</key>
     <integer>-10</integer>
     <key>eight</key>
     <integer>-30</integer>
-    <key>f</key>
-    <integer>-10</integer>
+    <key>emimi-beria</key>
+    <integer>10</integer>
+    <key>enni-beria</key>
+    <integer>-30</integer>
     <key>five</key>
     <integer>-10</integer>
     <key>four</key>
     <integer>-55</integer>
-    <key>g</key>
+    <key>gay-beria</key>
     <integer>-20</integer>
-    <key>k</key>
+    <key>key-beria</key>
     <integer>-20</integer>
-    <key>m</key>
-    <integer>10</integer>
-    <key>n</key>
-    <integer>-30</integer>
     <key>nine</key>
     <integer>-50</integer>
     <key>one</key>
     <integer>-80</integer>
     <key>seven</key>
     <integer>-40</integer>
-    <key>t</key>
+    <key>tai-beria</key>
     <integer>-100</integer>
     <key>three</key>
     <integer>-10</integer>
     <key>two</key>
     <integer>-10</integer>
-    <key>w</key>
+    <key>way-beria</key>
     <integer>-60</integer>
-    <key>y</key>
+    <key>yay-beria</key>
     <integer>-45</integer>
   </dict>
-  <key>d</key>
+  <key>day-beria</key>
   <dict>
-    <key>c</key>
-    <integer>-15</integer>
+    <key>chei-beria</key>
+    <integer>-20</integer>
     <key>comma</key>
     <integer>-30</integer>
-    <key>d</key>
+    <key>day-beria</key>
     <integer>-15</integer>
-    <key>m</key>
+    <key>emimi-beria</key>
     <integer>-10</integer>
     <key>period</key>
     <integer>-30</integer>
-    <key>s</key>
-    <integer>-20</integer>
+    <key>shep-beria</key>
+    <integer>-15</integer>
     <key>slash</key>
     <integer>-40</integer>
-    <key>t</key>
+    <key>tai-beria</key>
     <integer>-5</integer>
   </dict>
   <key>degree</key>
@@ -1261,11 +1267,73 @@
     <key>two</key>
     <integer>-10</integer>
   </dict>
+  <key>djay-beria</key>
+  <dict>
+    <key>day-beria</key>
+    <integer>-5</integer>
+    <key>emimi-beria</key>
+    <integer>25</integer>
+    <key>parenright</key>
+    <integer>-20</integer>
+    <key>question</key>
+    <integer>-10</integer>
+    <key>tai-beria</key>
+    <integer>-20</integer>
+  </dict>
   <key>dollar</key>
   <dict>
     <key>nine</key>
     <integer>-20</integer>
     <key>one</key>
+    <integer>-10</integer>
+  </dict>
+  <key>effi-beria</key>
+  <dict>
+    <key>asterisk</key>
+    <integer>-20</integer>
+    <key>backslash</key>
+    <integer>-20</integer>
+    <key>braceright</key>
+    <integer>-30</integer>
+    <key>bracketright</key>
+    <integer>-20</integer>
+    <key>chei-beria</key>
+    <integer>-55</integer>
+    <key>comma</key>
+    <integer>-50</integer>
+    <key>day-beria</key>
+    <integer>-25</integer>
+    <key>djay-beria</key>
+    <integer>-30</integer>
+    <key>effi-beria</key>
+    <integer>-50</integer>
+    <key>elli-beria</key>
+    <integer>-45</integer>
+    <key>emimi-beria</key>
+    <integer>-35</integer>
+    <key>enni-beria</key>
+    <integer>-20</integer>
+    <key>gay-beria</key>
+    <integer>-15</integer>
+    <key>key-beria</key>
+    <integer>-15</integer>
+    <key>parenright</key>
+    <integer>-40</integer>
+    <key>period</key>
+    <integer>-40</integer>
+    <key>question</key>
+    <integer>-50</integer>
+    <key>shep-beria</key>
+    <integer>-40</integer>
+    <key>slash</key>
+    <integer>-80</integer>
+    <key>tai-beria</key>
+    <integer>-35</integer>
+    <key>trademark</key>
+    <integer>-10</integer>
+    <key>way-beria</key>
+    <integer>-20</integer>
+    <key>yay-beria</key>
     <integer>-10</integer>
   </dict>
   <key>eight</key>
@@ -1301,6 +1369,107 @@
     <key>two</key>
     <integer>-10</integer>
   </dict>
+  <key>elli-beria</key>
+  <dict>
+    <key>ampersand</key>
+    <integer>-10</integer>
+    <key>asterisk</key>
+    <integer>-40</integer>
+    <key>backslash</key>
+    <integer>-90</integer>
+    <key>bullet</key>
+    <integer>-20</integer>
+    <key>elli-beria</key>
+    <integer>-15</integer>
+    <key>enni-beria</key>
+    <integer>-20</integer>
+    <key>gay-beria</key>
+    <integer>-10</integer>
+    <key>key-beria</key>
+    <integer>-10</integer>
+    <key>question</key>
+    <integer>-20</integer>
+    <key>shep-beria</key>
+    <integer>15</integer>
+    <key>tai-beria</key>
+    <integer>-45</integer>
+    <key>trademark</key>
+    <integer>-40</integer>
+    <key>way-beria</key>
+    <integer>-20</integer>
+    <key>yay-beria</key>
+    <integer>-20</integer>
+  </dict>
+  <key>emimi-beria</key>
+  <dict>
+    <key>asterisk</key>
+    <integer>30</integer>
+    <key>backslash</key>
+    <integer>10</integer>
+    <key>bracketright</key>
+    <integer>-10</integer>
+    <key>bullet</key>
+    <integer>-20</integer>
+    <key>chei-beria</key>
+    <integer>-50</integer>
+    <key>comma</key>
+    <integer>-70</integer>
+    <key>djay-beria</key>
+    <integer>-10</integer>
+    <key>elli-beria</key>
+    <integer>-35</integer>
+    <key>emimi-beria</key>
+    <integer>-90</integer>
+    <key>enni-beria</key>
+    <integer>-20</integer>
+    <key>gay-beria</key>
+    <integer>-20</integer>
+    <key>key-beria</key>
+    <integer>-35</integer>
+    <key>period</key>
+    <integer>-80</integer>
+    <key>shep-beria</key>
+    <integer>-45</integer>
+    <key>slash</key>
+    <integer>-170</integer>
+    <key>tai-beria</key>
+    <integer>10</integer>
+    <key>trademark</key>
+    <integer>20</integer>
+    <key>yay-beria</key>
+    <integer>-10</integer>
+  </dict>
+  <key>enni-beria</key>
+  <dict>
+    <key>backslash</key>
+    <integer>-50</integer>
+    <key>chei-beria</key>
+    <integer>-10</integer>
+    <key>comma</key>
+    <integer>-30</integer>
+    <key>day-beria</key>
+    <integer>-20</integer>
+    <key>effi-beria</key>
+    <integer>-20</integer>
+    <key>elli-beria</key>
+    <integer>-20</integer>
+    <key>gay-beria</key>
+    <integer>-15</integer>
+    <key>period</key>
+    <integer>-30</integer>
+    <key>question</key>
+    <integer>-30</integer>
+    <key>shep-beria</key>
+    <integer>-30</integer>
+    <key>slash</key>
+    <integer>-50</integer>
+    <key>tai-beria</key>
+    <integer>-30</integer>
+    <key>way-beria</key>
+    <integer>-30</integer>
+    <key>yay-beria</key>
+    <integer>-10</integer>
+  </dict>
   <key>equal</key>
   <dict>
     <key>four</key>
@@ -1314,55 +1483,6 @@
     <key>three</key>
     <integer>-20</integer>
     <key>two</key>
-    <integer>-10</integer>
-  </dict>
-  <key>f</key>
-  <dict>
-    <key>asterisk</key>
-    <integer>-20</integer>
-    <key>backslash</key>
-    <integer>-20</integer>
-    <key>braceright</key>
-    <integer>-30</integer>
-    <key>bracketright</key>
-    <integer>-20</integer>
-    <key>c</key>
-    <integer>-40</integer>
-    <key>comma</key>
-    <integer>-50</integer>
-    <key>d</key>
-    <integer>-25</integer>
-    <key>f</key>
-    <integer>-50</integer>
-    <key>g</key>
-    <integer>-15</integer>
-    <key>j</key>
-    <integer>-30</integer>
-    <key>k</key>
-    <integer>-15</integer>
-    <key>l</key>
-    <integer>-45</integer>
-    <key>m</key>
-    <integer>-35</integer>
-    <key>n</key>
-    <integer>-20</integer>
-    <key>parenright</key>
-    <integer>-40</integer>
-    <key>period</key>
-    <integer>-40</integer>
-    <key>question</key>
-    <integer>-50</integer>
-    <key>s</key>
-    <integer>-55</integer>
-    <key>slash</key>
-    <integer>-80</integer>
-    <key>t</key>
-    <integer>-35</integer>
-    <key>trademark</key>
-    <integer>-10</integer>
-    <key>w</key>
-    <integer>-20</integer>
-    <key>y</key>
     <integer>-10</integer>
   </dict>
   <key>five</key>
@@ -1439,7 +1559,7 @@
     <key>two</key>
     <integer>30</integer>
   </dict>
-  <key>g</key>
+  <key>gay-beria</key>
   <dict>
     <key>ampersand</key>
     <integer>-10</integer>
@@ -1453,33 +1573,72 @@
     <integer>-20</integer>
     <key>bullet</key>
     <integer>-10</integer>
-    <key>c</key>
-    <integer>-10</integer>
+    <key>chei-beria</key>
+    <integer>-20</integer>
     <key>comma</key>
     <integer>-20</integer>
-    <key>d</key>
+    <key>day-beria</key>
     <integer>-5</integer>
-    <key>g</key>
-    <integer>-25</integer>
-    <key>k</key>
+    <key>elli-beria</key>
     <integer>-10</integer>
-    <key>l</key>
-    <integer>-10</integer>
-    <key>n</key>
+    <key>enni-beria</key>
     <integer>-15</integer>
+    <key>gay-beria</key>
+    <integer>-25</integer>
+    <key>key-beria</key>
+    <integer>-10</integer>
     <key>period</key>
     <integer>-10</integer>
     <key>question</key>
     <integer>-50</integer>
-    <key>s</key>
-    <integer>-20</integer>
+    <key>shep-beria</key>
+    <integer>-10</integer>
     <key>slash</key>
     <integer>-40</integer>
-    <key>t</key>
+    <key>tai-beria</key>
     <integer>-20</integer>
-    <key>w</key>
+    <key>way-beria</key>
     <integer>-10</integer>
-    <key>y</key>
+    <key>yay-beria</key>
+    <integer>-10</integer>
+  </dict>
+  <key>gna-beria</key>
+  <dict>
+    <key>asterisk</key>
+    <integer>-30</integer>
+    <key>backslash</key>
+    <integer>-80</integer>
+    <key>braceright</key>
+    <integer>-10</integer>
+    <key>chei-beria</key>
+    <integer>-20</integer>
+    <key>comma</key>
+    <integer>-20</integer>
+    <key>day-beria</key>
+    <integer>-25</integer>
+    <key>djay-beria</key>
+    <integer>-15</integer>
+    <key>effi-beria</key>
+    <integer>-20</integer>
+    <key>gay-beria</key>
+    <integer>-20</integer>
+    <key>parenright</key>
+    <integer>-20</integer>
+    <key>period</key>
+    <integer>-10</integer>
+    <key>question</key>
+    <integer>-40</integer>
+    <key>shep-beria</key>
+    <integer>-20</integer>
+    <key>slash</key>
+    <integer>-20</integer>
+    <key>tai-beria</key>
+    <integer>-55</integer>
+    <key>trademark</key>
+    <integer>-30</integer>
+    <key>way-beria</key>
+    <integer>-40</integer>
+    <key>yay-beria</key>
     <integer>-10</integer>
   </dict>
   <key>greater</key>
@@ -1497,20 +1656,7 @@
     <key>two</key>
     <integer>-10</integer>
   </dict>
-  <key>j</key>
-  <dict>
-    <key>d</key>
-    <integer>-5</integer>
-    <key>m</key>
-    <integer>25</integer>
-    <key>parenright</key>
-    <integer>-20</integer>
-    <key>question</key>
-    <integer>-10</integer>
-    <key>t</key>
-    <integer>-20</integer>
-  </dict>
-  <key>k</key>
+  <key>key-beria</key>
   <dict>
     <key>asterisk</key>
     <integer>-50</integer>
@@ -1518,19 +1664,19 @@
     <integer>-90</integer>
     <key>braceright</key>
     <integer>-10</integer>
-    <key>c</key>
-    <integer>-15</integer>
+    <key>chei-beria</key>
+    <integer>-20</integer>
     <key>comma</key>
     <integer>-20</integer>
-    <key>d</key>
+    <key>day-beria</key>
     <integer>-30</integer>
-    <key>f</key>
+    <key>effi-beria</key>
     <integer>-30</integer>
-    <key>g</key>
-    <integer>-20</integer>
-    <key>k</key>
+    <key>elli-beria</key>
     <integer>-10</integer>
-    <key>l</key>
+    <key>gay-beria</key>
+    <integer>-20</integer>
+    <key>key-beria</key>
     <integer>-10</integer>
     <key>parenright</key>
     <integer>-20</integer>
@@ -1538,47 +1684,16 @@
     <integer>-30</integer>
     <key>question</key>
     <integer>-40</integer>
-    <key>s</key>
-    <integer>-20</integer>
+    <key>shep-beria</key>
+    <integer>-15</integer>
     <key>slash</key>
     <integer>-50</integer>
-    <key>t</key>
+    <key>tai-beria</key>
     <integer>-50</integer>
     <key>trademark</key>
     <integer>-40</integer>
-    <key>w</key>
+    <key>way-beria</key>
     <integer>-40</integer>
-  </dict>
-  <key>l</key>
-  <dict>
-    <key>ampersand</key>
-    <integer>-10</integer>
-    <key>asterisk</key>
-    <integer>-40</integer>
-    <key>backslash</key>
-    <integer>-90</integer>
-    <key>bullet</key>
-    <integer>-20</integer>
-    <key>c</key>
-    <integer>15</integer>
-    <key>g</key>
-    <integer>-10</integer>
-    <key>k</key>
-    <integer>-10</integer>
-    <key>l</key>
-    <integer>-15</integer>
-    <key>n</key>
-    <integer>-20</integer>
-    <key>question</key>
-    <integer>-20</integer>
-    <key>t</key>
-    <integer>-45</integer>
-    <key>trademark</key>
-    <integer>-40</integer>
-    <key>w</key>
-    <integer>-20</integer>
-    <key>y</key>
-    <integer>-20</integer>
   </dict>
   <key>less</key>
   <dict>
@@ -1586,45 +1701,6 @@
     <integer>-10</integer>
     <key>seven</key>
     <integer>20</integer>
-  </dict>
-  <key>m</key>
-  <dict>
-    <key>asterisk</key>
-    <integer>30</integer>
-    <key>backslash</key>
-    <integer>10</integer>
-    <key>bracketright</key>
-    <integer>-10</integer>
-    <key>bullet</key>
-    <integer>-20</integer>
-    <key>c</key>
-    <integer>-45</integer>
-    <key>comma</key>
-    <integer>-70</integer>
-    <key>g</key>
-    <integer>-20</integer>
-    <key>j</key>
-    <integer>-10</integer>
-    <key>k</key>
-    <integer>-35</integer>
-    <key>l</key>
-    <integer>-35</integer>
-    <key>m</key>
-    <integer>-90</integer>
-    <key>n</key>
-    <integer>-20</integer>
-    <key>period</key>
-    <integer>-80</integer>
-    <key>s</key>
-    <integer>-50</integer>
-    <key>slash</key>
-    <integer>-170</integer>
-    <key>t</key>
-    <integer>10</integer>
-    <key>trademark</key>
-    <integer>20</integer>
-    <key>y</key>
-    <integer>-10</integer>
   </dict>
   <key>minus</key>
   <dict>
@@ -1639,35 +1715,39 @@
     <key>two</key>
     <integer>-20</integer>
   </dict>
-  <key>n</key>
+  <key>nay-beria</key>
   <dict>
-    <key>backslash</key>
+    <key>asterisk</key>
     <integer>-50</integer>
-    <key>c</key>
-    <integer>-30</integer>
+    <key>backslash</key>
+    <integer>-110</integer>
+    <key>chei-beria</key>
+    <integer>-20</integer>
     <key>comma</key>
-    <integer>-30</integer>
-    <key>d</key>
+    <integer>-10</integer>
+    <key>day-beria</key>
     <integer>-20</integer>
-    <key>f</key>
+    <key>effi-beria</key>
     <integer>-20</integer>
-    <key>g</key>
-    <integer>-15</integer>
-    <key>l</key>
+    <key>gay-beria</key>
+    <integer>-10</integer>
+    <key>parenright</key>
     <integer>-20</integer>
     <key>period</key>
-    <integer>-30</integer>
-    <key>question</key>
-    <integer>-30</integer>
-    <key>s</key>
     <integer>-10</integer>
-    <key>slash</key>
+    <key>question</key>
     <integer>-50</integer>
-    <key>t</key>
-    <integer>-30</integer>
-    <key>w</key>
-    <integer>-30</integer>
-    <key>y</key>
+    <key>shep-beria</key>
+    <integer>-5</integer>
+    <key>slash</key>
+    <integer>-20</integer>
+    <key>tai-beria</key>
+    <integer>-50</integer>
+    <key>trademark</key>
+    <integer>-50</integer>
+    <key>way-beria</key>
+    <integer>-50</integer>
+    <key>yay-beria</key>
     <integer>-10</integer>
   </dict>
   <key>one</key>
@@ -1693,30 +1773,15 @@
     <key>slash</key>
     <integer>-70</integer>
   </dict>
-  <key>p</key>
-  <dict>
-    <key>c</key>
-    <integer>15</integer>
-    <key>comma</key>
-    <integer>10</integer>
-    <key>d</key>
-    <integer>15</integer>
-    <key>g</key>
-    <integer>5</integer>
-    <key>j</key>
-    <integer>20</integer>
-    <key>l</key>
-    <integer>30</integer>
-    <key>m</key>
-    <integer>30</integer>
-  </dict>
   <key>parenleft</key>
   <dict>
-    <key>F</key>
+    <key>Effi-beria</key>
     <integer>-10</integer>
-    <key>M</key>
+    <key>Emmi-beria</key>
     <integer>10</integer>
-    <key>R</key>
+    <key>Erri-beria</key>
+    <integer>-20</integer>
+    <key>djay-beria</key>
     <integer>-20</integer>
     <key>eight</key>
     <integer>-20</integer>
@@ -1724,60 +1789,58 @@
     <integer>-10</integer>
     <key>four</key>
     <integer>-35</integer>
-    <key>j</key>
-    <integer>-20</integer>
-    <key>k</key>
+    <key>key-beria</key>
     <integer>-20</integer>
     <key>nine</key>
     <integer>-40</integer>
-    <key>t</key>
+    <key>tai-beria</key>
     <integer>-10</integer>
     <key>three</key>
     <integer>-10</integer>
     <key>two</key>
     <integer>-20</integer>
-    <key>y</key>
+    <key>yay-beria</key>
     <integer>-30</integer>
   </dict>
   <key>period</key>
   <dict>
-    <key>B</key>
+    <key>Bay-beria</key>
     <integer>-120</integer>
-    <key>C</key>
-    <integer>-20</integer>
-    <key>F</key>
-    <integer>-10</integer>
-    <key>G</key>
-    <integer>-10</integer>
-    <key>J</key>
-    <integer>-10</integer>
-    <key>L</key>
-    <integer>-30</integer>
-    <key>N</key>
-    <integer>10</integer>
-    <key>P</key>
-    <integer>-110</integer>
-    <key>R</key>
-    <integer>-90</integer>
-    <key>S</key>
+    <key>Chei-beria</key>
     <integer>-40</integer>
-    <key>T</key>
-    <integer>-70</integer>
-    <key>W</key>
+    <key>Djay-beria</key>
+    <integer>-10</integer>
+    <key>Effi-beria</key>
+    <integer>-10</integer>
+    <key>Elli-beria</key>
+    <integer>-30</integer>
+    <key>Enni-beria</key>
+    <integer>10</integer>
+    <key>Erri-beria</key>
     <integer>-90</integer>
-    <key>Y</key>
+    <key>Gay-beria</key>
+    <integer>-10</integer>
+    <key>Pi-beria</key>
+    <integer>-110</integer>
+    <key>Shep-beria</key>
+    <integer>-20</integer>
+    <key>Tai-beria</key>
+    <integer>-70</integer>
+    <key>Way-beria</key>
+    <integer>-90</integer>
+    <key>Yay-beria</key>
     <integer>-10</integer>
     <key>eight</key>
     <integer>-20</integer>
+    <key>emimi-beria</key>
+    <integer>10</integer>
+    <key>enni-beria</key>
+    <integer>-30</integer>
     <key>four</key>
     <integer>-40</integer>
-    <key>g</key>
+    <key>gay-beria</key>
     <integer>-10</integer>
-    <key>k</key>
-    <integer>-30</integer>
-    <key>m</key>
-    <integer>10</integer>
-    <key>n</key>
+    <key>key-beria</key>
     <integer>-30</integer>
     <key>nine</key>
     <integer>-50</integer>
@@ -1787,12 +1850,29 @@
     <integer>-150</integer>
     <key>seven</key>
     <integer>-40</integer>
-    <key>t</key>
+    <key>tai-beria</key>
     <integer>-100</integer>
-    <key>w</key>
+    <key>way-beria</key>
     <integer>-50</integer>
-    <key>y</key>
+    <key>yay-beria</key>
     <integer>-50</integer>
+  </dict>
+  <key>pi-beria</key>
+  <dict>
+    <key>comma</key>
+    <integer>10</integer>
+    <key>day-beria</key>
+    <integer>15</integer>
+    <key>djay-beria</key>
+    <integer>20</integer>
+    <key>elli-beria</key>
+    <integer>30</integer>
+    <key>emimi-beria</key>
+    <integer>30</integer>
+    <key>gay-beria</key>
+    <integer>5</integer>
+    <key>shep-beria</key>
+    <integer>15</integer>
   </dict>
   <key>plus</key>
   <dict>
@@ -1807,265 +1887,367 @@
     <key>two</key>
     <integer>-20</integer>
   </dict>
-  <key>public.kern1.Aacute</key>
+  <key>public.kern1.Ay_acute-beria</key>
   <dict>
-    <key>public.kern2.Aacute</key>
+    <key>public.kern2.Ay_acute-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.B</key>
+    <key>public.kern2.Bay-beria</key>
     <integer>-5</integer>
-    <key>public.kern2.C</key>
+    <key>public.kern2.Chei-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.D</key>
+    <key>public.kern2.Day-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.E</key>
+    <key>public.kern2.Djay-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Effi-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.Enni-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.Erri-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Ey-beria</key>
     <integer>-25</integer>
-    <key>public.kern2.F</key>
-    <integer>-30</integer>
-    <key>public.kern2.G</key>
+    <key>public.kern2.Gay-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.I</key>
+    <key>public.kern2.Gna-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Iyi-beria</key>
     <integer>-15</integer>
-    <key>public.kern2.J</key>
-    <integer>-10</integer>
-    <key>public.kern2.K</key>
+    <key>public.kern2.Key-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.N</key>
-    <integer>-20</integer>
-    <key>public.kern2.O</key>
+    <key>public.kern2.Oi-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.R</key>
+    <key>public.kern2.Shep-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.S</key>
+    <key>public.kern2.Uy-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.U</key>
-    <integer>-10</integer>
-    <key>public.kern2.Y</key>
-    <integer>-10</integer>
-    <key>public.kern2.Z</key>
+    <key>public.kern2.Yay-beria</key>
     <integer>-10</integer>
     <key>public.kern2.ampersand</key>
     <integer>-40</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.bay-beria</key>
     <integer>-55</integer>
     <key>public.kern2.bullet</key>
     <integer>-40</integer>
-    <key>public.kern2.c</key>
-    <integer>-35</integer>
+    <key>public.kern2.chei-beria</key>
+    <integer>-45</integer>
     <key>public.kern2.comma</key>
     <integer>-30</integer>
-    <key>public.kern2.d</key>
+    <key>public.kern2.day-beria</key>
     <integer>-5</integer>
-    <key>public.kern2.e</key>
+    <key>public.kern2.djay-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.elli-beria</key>
+    <integer>-40</integer>
+    <key>public.kern2.emimi-beria</key>
     <integer>-20</integer>
+    <key>public.kern2.enni-beria</key>
+    <integer>-40</integer>
     <key>public.kern2.exclam</key>
     <integer>-20</integer>
-    <key>public.kern2.g</key>
+    <key>public.kern2.ey-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.gay-beria</key>
     <integer>-30</integer>
     <key>public.kern2.guilsinglleft</key>
     <integer>-40</integer>
     <key>public.kern2.hyphen</key>
     <integer>-40</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-50</integer>
-    <key>public.kern2.j</key>
-    <integer>-30</integer>
-    <key>public.kern2.k</key>
+    <key>public.kern2.key-beria</key>
     <integer>-50</integer>
-    <key>public.kern2.l</key>
-    <integer>-40</integer>
-    <key>public.kern2.m</key>
-    <integer>-20</integer>
-    <key>public.kern2.n</key>
-    <integer>-40</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-45</integer>
     <key>public.kern2.period</key>
     <integer>-30</integer>
-    <key>public.kern2.s</key>
-    <integer>-45</integer>
     <key>public.kern2.semicolon</key>
     <integer>-30</integer>
+    <key>public.kern2.shep-beria</key>
+    <integer>-35</integer>
     <key>public.kern2.trademark</key>
     <integer>30</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>10</integer>
-    <key>public.kern2.w</key>
+    <key>public.kern2.way-beria</key>
     <integer>-15</integer>
-    <key>public.kern2.y</key>
+    <key>public.kern2.yay-beria</key>
     <integer>-30</integer>
   </dict>
-  <key>public.kern1.B</key>
+  <key>public.kern1.Bay-beria</key>
   <dict>
-    <key>public.kern2.Aacute</key>
+    <key>public.kern2.Ay_acute-beria</key>
     <integer>-5</integer>
-    <key>public.kern2.I</key>
+    <key>public.kern2.Iyi-beria</key>
     <integer>10</integer>
-    <key>public.kern2.O</key>
+    <key>public.kern2.Oi-beria</key>
     <integer>-80</integer>
-    <key>public.kern2.U</key>
+    <key>public.kern2.Uy-beria</key>
     <integer>20</integer>
-    <key>public.kern2.a</key>
+    <key>public.kern2.ay-beria</key>
     <integer>15</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.bay-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.e</key>
+    <key>public.kern2.ey-beria</key>
     <integer>10</integer>
     <key>public.kern2.guilsinglleft</key>
     <integer>-10</integer>
     <key>public.kern2.hyphen</key>
     <integer>-20</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-80</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-65</integer>
     <key>public.kern2.semicolon</key>
     <integer>-20</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>30</integer>
   </dict>
-  <key>public.kern1.C</key>
+  <key>public.kern1.Chei-beria</key>
   <dict>
-    <key>public.kern2.Aacute</key>
-    <integer>-10</integer>
-    <key>public.kern2.O</key>
-    <integer>-30</integer>
-    <key>public.kern2.U</key>
+    <key>public.kern2.Ey-beria</key>
     <integer>-5</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.Oi-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.ay-beria</key>
+    <integer>10</integer>
+    <key>public.kern2.bay-beria</key>
     <integer>-10</integer>
     <key>public.kern2.dagger</key>
-    <integer>10</integer>
-    <key>public.kern2.i</key>
-    <integer>-45</integer>
-    <key>public.kern2.o</key>
-    <integer>-20</integer>
-    <key>public.kern2.u</key>
-    <integer>10</integer>
-  </dict>
-  <key>public.kern1.D</key>
-  <dict>
-    <key>public.kern2.Aacute</key>
-    <integer>-10</integer>
-    <key>public.kern2.O</key>
-    <integer>-10</integer>
-    <key>public.kern2.i</key>
-    <integer>-10</integer>
-    <key>public.kern2.o</key>
-    <integer>-10</integer>
-  </dict>
-  <key>public.kern1.E</key>
-  <dict>
-    <key>public.kern2.Aacute</key>
-    <integer>5</integer>
-    <key>public.kern2.B</key>
-    <integer>15</integer>
-    <key>public.kern2.D</key>
-    <integer>-15</integer>
-    <key>public.kern2.E</key>
-    <integer>-20</integer>
-    <key>public.kern2.F</key>
-    <integer>-15</integer>
-    <key>public.kern2.J</key>
-    <integer>5</integer>
-    <key>public.kern2.K</key>
-    <integer>-20</integer>
-    <key>public.kern2.L</key>
-    <integer>10</integer>
-    <key>public.kern2.M</key>
-    <integer>-20</integer>
-    <key>public.kern2.N</key>
-    <integer>-10</integer>
-    <key>public.kern2.O</key>
-    <integer>-15</integer>
-    <key>public.kern2.P</key>
-    <integer>15</integer>
-    <key>public.kern2.R</key>
-    <integer>-5</integer>
-    <key>public.kern2.S</key>
-    <integer>-10</integer>
-    <key>public.kern2.T</key>
     <integer>20</integer>
-    <key>public.kern2.U</key>
-    <integer>15</integer>
-    <key>public.kern2.W</key>
+    <key>public.kern2.ey-beria</key>
     <integer>10</integer>
-    <key>public.kern2.Z</key>
+    <key>public.kern2.iyi-beria</key>
+    <integer>-40</integer>
+    <key>public.kern2.oi-beria</key>
+    <integer>-40</integer>
+    <key>public.kern2.uy-beria</key>
+    <integer>20</integer>
+  </dict>
+  <key>public.kern1.Day-beria</key>
+  <dict>
+    <key>public.kern2.Ay_acute-beria</key>
     <integer>-10</integer>
+    <key>public.kern2.Oi-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.iyi-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.oi-beria</key>
+    <integer>-10</integer>
+  </dict>
+  <key>public.kern1.Djay-beria</key>
+  <dict>
+    <key>public.kern2.Ey-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Oi-beria</key>
+    <integer>-40</integer>
+    <key>public.kern2.ay-beria</key>
+    <integer>10</integer>
+    <key>public.kern2.bay-beria</key>
+    <integer>-25</integer>
+    <key>public.kern2.dagger</key>
+    <integer>10</integer>
+    <key>public.kern2.guilsinglleft</key>
+    <integer>-20</integer>
+    <key>public.kern2.hyphen</key>
+    <integer>-30</integer>
+    <key>public.kern2.iyi-beria</key>
+    <integer>-50</integer>
+    <key>public.kern2.oi-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.quoteleft</key>
+    <integer>20</integer>
+    <key>public.kern2.quoteright</key>
+    <integer>10</integer>
+    <key>public.kern2.semicolon</key>
+    <integer>-30</integer>
+    <key>public.kern2.uy-beria</key>
+    <integer>20</integer>
+  </dict>
+  <key>public.kern1.Effi-beria</key>
+  <dict>
+    <key>public.kern2.Effi-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.emimi-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.iyi-beria</key>
+    <integer>-10</integer>
+  </dict>
+  <key>public.kern1.Elli-beria</key>
+  <dict>
+    <key>public.kern2.Ey-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.Iyi-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.Oi-beria</key>
+    <integer>-5</integer>
+    <key>public.kern2.bay-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.ey-beria</key>
+    <integer>-15</integer>
+    <key>public.kern2.guilsinglleft</key>
+    <integer>-20</integer>
+    <key>public.kern2.hyphen</key>
+    <integer>-30</integer>
+    <key>public.kern2.iyi-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.oi-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.quoteleft</key>
+    <integer>-30</integer>
+    <key>public.kern2.quoteright</key>
+    <integer>-30</integer>
+    <key>public.kern2.quotesingle</key>
+    <integer>-20</integer>
+    <key>public.kern2.semicolon</key>
+    <integer>-10</integer>
+  </dict>
+  <key>public.kern1.Emmi-beria</key>
+  <dict>
+    <key>public.kern2.Oi-beria</key>
+    <integer>-50</integer>
+    <key>public.kern2.bay-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.iyi-beria</key>
+    <integer>-60</integer>
+    <key>public.kern2.oi-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.quoteleft</key>
+    <integer>-10</integer>
+    <key>public.kern2.semicolon</key>
+    <integer>-20</integer>
+    <key>public.kern2.uy-beria</key>
+    <integer>20</integer>
+  </dict>
+  <key>public.kern1.Erri-beria</key>
+  <dict>
+    <key>public.kern2.Ay_acute-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Iyi-beria</key>
+    <integer>15</integer>
+    <key>public.kern2.Oi-beria</key>
+    <integer>-55</integer>
+    <key>public.kern2.ay-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.bay-beria</key>
+    <integer>-25</integer>
+    <key>public.kern2.ey-beria</key>
+    <integer>5</integer>
+    <key>public.kern2.guilsinglright</key>
+    <integer>-20</integer>
+    <key>public.kern2.iyi-beria</key>
+    <integer>-65</integer>
+    <key>public.kern2.oi-beria</key>
+    <integer>-50</integer>
+    <key>public.kern2.quoteright</key>
+    <integer>-10</integer>
+    <key>public.kern2.uy-beria</key>
+    <integer>20</integer>
+  </dict>
+  <key>public.kern1.Ey-beria</key>
+  <dict>
+    <key>public.kern2.Ay_acute-beria</key>
+    <integer>5</integer>
+    <key>public.kern2.Bay-beria</key>
+    <integer>15</integer>
+    <key>public.kern2.Chei-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Day-beria</key>
+    <integer>-15</integer>
+    <key>public.kern2.Djay-beria</key>
+    <integer>5</integer>
+    <key>public.kern2.Effi-beria</key>
+    <integer>-15</integer>
+    <key>public.kern2.Elli-beria</key>
+    <integer>10</integer>
+    <key>public.kern2.Emmi-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.Enni-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Erri-beria</key>
+    <integer>-5</integer>
+    <key>public.kern2.Ey-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.Gna-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Key-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.Oi-beria</key>
+    <integer>-15</integer>
+    <key>public.kern2.Pi-beria</key>
+    <integer>15</integer>
+    <key>public.kern2.Tai-beria</key>
+    <integer>20</integer>
+    <key>public.kern2.Uy-beria</key>
+    <integer>15</integer>
+    <key>public.kern2.Way-beria</key>
+    <integer>10</integer>
     <key>public.kern2.ampersand</key>
     <integer>-10</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.bay-beria</key>
     <integer>-25</integer>
     <key>public.kern2.bullet</key>
     <integer>-20</integer>
-    <key>public.kern2.c</key>
-    <integer>-30</integer>
+    <key>public.kern2.chei-beria</key>
+    <integer>-10</integer>
     <key>public.kern2.comma</key>
     <integer>-30</integer>
-    <key>public.kern2.e</key>
+    <key>public.kern2.elli-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.emimi-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.enni-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.g</key>
+    <key>public.kern2.ey-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.gay-beria</key>
     <integer>-15</integer>
     <key>public.kern2.guilsinglleft</key>
     <integer>-10</integer>
     <key>public.kern2.hyphen</key>
     <integer>-20</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.k</key>
+    <key>public.kern2.key-beria</key>
     <integer>-35</integer>
-    <key>public.kern2.l</key>
-    <integer>-30</integer>
-    <key>public.kern2.m</key>
-    <integer>-20</integer>
-    <key>public.kern2.n</key>
-    <integer>-10</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-25</integer>
     <key>public.kern2.period</key>
     <integer>-40</integer>
-    <key>public.kern2.s</key>
-    <integer>-10</integer>
-    <key>public.kern2.t</key>
+    <key>public.kern2.shep-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.tai-beria</key>
     <integer>10</integer>
     <key>public.kern2.trademark</key>
     <integer>30</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>20</integer>
-    <key>public.kern2.w</key>
+    <key>public.kern2.way-beria</key>
     <integer>15</integer>
-    <key>public.kern2.y</key>
+    <key>public.kern2.yay-beria</key>
     <integer>-10</integer>
   </dict>
-  <key>public.kern1.F</key>
+  <key>public.kern1.Gay-beria</key>
   <dict>
-    <key>public.kern2.F</key>
+    <key>public.kern2.Ay_acute-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.ay-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.m</key>
-    <integer>-10</integer>
-  </dict>
-  <key>public.kern1.G</key>
-  <dict>
-    <key>public.kern2.Aacute</key>
-    <integer>-10</integer>
-    <key>public.kern2.a</key>
-    <integer>-10</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.bay-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.e</key>
+    <key>public.kern2.ey-beria</key>
     <integer>5</integer>
     <key>public.kern2.guilsinglleft</key>
     <integer>-10</integer>
     <key>public.kern2.guilsinglright</key>
     <integer>-20</integer>
-    <key>public.kern2.h</key>
+    <key>public.kern2.hay-beria</key>
     <integer>-10</integer>
     <key>public.kern2.hyphen</key>
     <integer>-10</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-10</integer>
     <key>public.kern2.quoteleft</key>
     <integer>-30</integer>
@@ -2076,84 +2258,123 @@
     <key>public.kern2.semicolon</key>
     <integer>-10</integer>
   </dict>
-  <key>public.kern1.I</key>
+  <key>public.kern1.Gna-beria</key>
   <dict>
-    <key>public.kern2.B</key>
-    <integer>-35</integer>
-    <key>public.kern2.C</key>
-    <integer>-5</integer>
-    <key>public.kern2.D</key>
+    <key>public.kern2.Ay_acute-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.Ey-beria</key>
+    <integer>-45</integer>
+    <key>public.kern2.Iyi-beria</key>
+    <integer>-60</integer>
+    <key>public.kern2.Uy-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.E</key>
-    <integer>-25</integer>
-    <key>public.kern2.F</key>
+    <key>public.kern2.ay-beria</key>
+    <integer>-35</integer>
+    <key>public.kern2.bay-beria</key>
+    <integer>-50</integer>
+    <key>public.kern2.ey-beria</key>
+    <integer>-45</integer>
+    <key>public.kern2.guilsinglleft</key>
+    <integer>-60</integer>
+    <key>public.kern2.guilsinglright</key>
+    <integer>-10</integer>
+    <key>public.kern2.hay-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.I</key>
+    <key>public.kern2.hyphen</key>
+    <integer>-80</integer>
+    <key>public.kern2.iyi-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.oi-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.quoteleft</key>
     <integer>-40</integer>
-    <key>public.kern2.J</key>
-    <integer>15</integer>
-    <key>public.kern2.K</key>
+    <key>public.kern2.quoteright</key>
+    <integer>-70</integer>
+    <key>public.kern2.quotesingle</key>
+    <integer>-50</integer>
+    <key>public.kern2.semicolon</key>
     <integer>-10</integer>
-    <key>public.kern2.L</key>
-    <integer>10</integer>
-    <key>public.kern2.M</key>
-    <integer>15</integer>
-    <key>public.kern2.P</key>
+    <key>public.kern2.uy-beria</key>
+    <integer>-20</integer>
+  </dict>
+  <key>public.kern1.Iyi-beria</key>
+  <dict>
+    <key>public.kern2.Bay-beria</key>
     <integer>-35</integer>
-    <key>public.kern2.R</key>
-    <integer>-30</integer>
-    <key>public.kern2.S</key>
+    <key>public.kern2.Chei-beria</key>
     <integer>5</integer>
-    <key>public.kern2.T</key>
-    <integer>-15</integer>
-    <key>public.kern2.W</key>
-    <integer>-25</integer>
-    <key>public.kern2.X</key>
-    <integer>-5</integer>
-    <key>public.kern2.Y</key>
+    <key>public.kern2.Day-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.a</key>
+    <key>public.kern2.Djay-beria</key>
+    <integer>15</integer>
+    <key>public.kern2.Effi-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.Elli-beria</key>
+    <integer>10</integer>
+    <key>public.kern2.Emmi-beria</key>
+    <integer>15</integer>
+    <key>public.kern2.Erri-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.Ey-beria</key>
+    <integer>-25</integer>
+    <key>public.kern2.Iyi-beria</key>
+    <integer>-40</integer>
+    <key>public.kern2.Key-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Nay-beria</key>
+    <integer>-5</integer>
+    <key>public.kern2.Pi-beria</key>
+    <integer>-35</integer>
+    <key>public.kern2.Shep-beria</key>
+    <integer>-5</integer>
+    <key>public.kern2.Tai-beria</key>
     <integer>-15</integer>
+    <key>public.kern2.Way-beria</key>
+    <integer>-25</integer>
+    <key>public.kern2.Yay-beria</key>
+    <integer>-10</integer>
     <key>public.kern2.ampersand</key>
     <integer>-30</integer>
     <key>public.kern2.asterisk</key>
     <integer>-40</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.ay-beria</key>
     <integer>-15</integer>
     <key>public.kern2.backslash</key>
     <integer>-30</integer>
+    <key>public.kern2.bay-beria</key>
+    <integer>-15</integer>
     <key>public.kern2.bullet</key>
     <integer>-20</integer>
-    <key>public.kern2.c</key>
-    <integer>-10</integer>
-    <key>public.kern2.d</key>
-    <integer>-10</integer>
+    <key>public.kern2.chei-beria</key>
+    <integer>-15</integer>
     <key>public.kern2.dagger</key>
     <integer>-40</integer>
-    <key>public.kern2.e</key>
-    <integer>-25</integer>
+    <key>public.kern2.day-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.djay-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.effi-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.emimi-beria</key>
+    <integer>5</integer>
+    <key>public.kern2.enni-beria</key>
+    <integer>-20</integer>
     <key>public.kern2.exclam</key>
     <integer>-30</integer>
-    <key>public.kern2.f</key>
-    <integer>-20</integer>
-    <key>public.kern2.g</key>
+    <key>public.kern2.ey-beria</key>
+    <integer>-25</integer>
+    <key>public.kern2.gay-beria</key>
     <integer>-30</integer>
     <key>public.kern2.guilsinglleft</key>
     <integer>-20</integer>
-    <key>public.kern2.h</key>
+    <key>public.kern2.hay-beria</key>
     <integer>-20</integer>
     <key>public.kern2.hyphen</key>
     <integer>-20</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.j</key>
-    <integer>-10</integer>
-    <key>public.kern2.k</key>
+    <key>public.kern2.key-beria</key>
     <integer>-25</integer>
-    <key>public.kern2.m</key>
-    <integer>5</integer>
-    <key>public.kern2.n</key>
-    <integer>-20</integer>
     <key>public.kern2.period</key>
     <integer>-20</integer>
     <key>public.kern2.question</key>
@@ -2164,89 +2385,60 @@
     <integer>-70</integer>
     <key>public.kern2.quotesingle</key>
     <integer>-50</integer>
-    <key>public.kern2.s</key>
-    <integer>-15</integer>
+    <key>public.kern2.shep-beria</key>
+    <integer>-10</integer>
     <key>public.kern2.slash</key>
     <integer>20</integer>
-    <key>public.kern2.t</key>
+    <key>public.kern2.tai-beria</key>
     <integer>-35</integer>
     <key>public.kern2.trademark</key>
     <integer>-30</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.w</key>
+    <key>public.kern2.way-beria</key>
     <integer>-25</integer>
-    <key>public.kern2.y</key>
+    <key>public.kern2.yay-beria</key>
     <integer>-25</integer>
   </dict>
-  <key>public.kern1.J</key>
+  <key>public.kern1.Key-beria</key>
   <dict>
-    <key>public.kern2.E</key>
+    <key>public.kern2.Ay_acute-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.Bay-beria</key>
+    <integer>-40</integer>
+    <key>public.kern2.Chei-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.O</key>
-    <integer>-40</integer>
-    <key>public.kern2.a</key>
-    <integer>10</integer>
-    <key>public.kern2.b</key>
-    <integer>-25</integer>
-    <key>public.kern2.dagger</key>
-    <integer>10</integer>
-    <key>public.kern2.guilsinglleft</key>
+    <key>public.kern2.Erri-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.hyphen</key>
-    <integer>-30</integer>
-    <key>public.kern2.i</key>
-    <integer>-50</integer>
-    <key>public.kern2.o</key>
-    <integer>-20</integer>
-    <key>public.kern2.quoteleft</key>
-    <integer>20</integer>
-    <key>public.kern2.quoteright</key>
-    <integer>10</integer>
-    <key>public.kern2.semicolon</key>
-    <integer>-30</integer>
-    <key>public.kern2.u</key>
-    <integer>20</integer>
-  </dict>
-  <key>public.kern1.K</key>
-  <dict>
-    <key>public.kern2.Aacute</key>
-    <integer>-30</integer>
-    <key>public.kern2.B</key>
-    <integer>-40</integer>
-    <key>public.kern2.E</key>
+    <key>public.kern2.Ey-beria</key>
     <integer>-15</integer>
-    <key>public.kern2.G</key>
+    <key>public.kern2.Gay-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.P</key>
+    <key>public.kern2.Pi-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.R</key>
+    <key>public.kern2.Tai-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.S</key>
-    <integer>-10</integer>
-    <key>public.kern2.T</key>
-    <integer>-20</integer>
-    <key>public.kern2.W</key>
+    <key>public.kern2.Way-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.Y</key>
+    <key>public.kern2.Yay-beria</key>
     <integer>15</integer>
-    <key>public.kern2.a</key>
-    <integer>-10</integer>
     <key>public.kern2.asterisk</key>
     <integer>-40</integer>
+    <key>public.kern2.ay-beria</key>
+    <integer>-10</integer>
     <key>public.kern2.backslash</key>
     <integer>-70</integer>
     <key>public.kern2.dagger</key>
     <integer>-30</integer>
-    <key>public.kern2.e</key>
+    <key>public.kern2.elli-beria</key>
+    <integer>10</integer>
+    <key>public.kern2.ey-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.g</key>
+    <key>public.kern2.gay-beria</key>
     <integer>-15</integer>
     <key>public.kern2.guilsinglleft</key>
     <integer>-10</integer>
-    <key>public.kern2.l</key>
-    <integer>10</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>10</integer>
     <key>public.kern2.period</key>
     <integer>10</integer>
@@ -2258,114 +2450,95 @@
     <integer>-90</integer>
     <key>public.kern2.quotesingle</key>
     <integer>-80</integer>
-    <key>public.kern2.t</key>
+    <key>public.kern2.tai-beria</key>
     <integer>-35</integer>
     <key>public.kern2.trademark</key>
     <integer>-40</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>-15</integer>
-    <key>public.kern2.w</key>
+    <key>public.kern2.way-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.y</key>
+    <key>public.kern2.yay-beria</key>
     <integer>-15</integer>
   </dict>
-  <key>public.kern1.L</key>
+  <key>public.kern1.Nay-beria</key>
   <dict>
-    <key>public.kern2.E</key>
-    <integer>-30</integer>
-    <key>public.kern2.I</key>
-    <integer>-30</integer>
-    <key>public.kern2.O</key>
-    <integer>-5</integer>
-    <key>public.kern2.b</key>
-    <integer>-10</integer>
-    <key>public.kern2.e</key>
+    <key>public.kern2.Ay_acute-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.Ey-beria</key>
     <integer>-15</integer>
-    <key>public.kern2.guilsinglleft</key>
-    <integer>-20</integer>
-    <key>public.kern2.hyphen</key>
+    <key>public.kern2.ay-beria</key>
+    <integer>-40</integer>
+    <key>public.kern2.dagger</key>
+    <integer>-80</integer>
+    <key>public.kern2.ey-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.hay-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.iyi-beria</key>
+    <integer>-15</integer>
+    <key>public.kern2.oi-beria</key>
     <integer>-10</integer>
     <key>public.kern2.quoteleft</key>
-    <integer>-30</integer>
+    <integer>-100</integer>
     <key>public.kern2.quoteright</key>
-    <integer>-30</integer>
+    <integer>-100</integer>
     <key>public.kern2.quotesingle</key>
-    <integer>-20</integer>
-    <key>public.kern2.semicolon</key>
-    <integer>-10</integer>
-  </dict>
-  <key>public.kern1.M</key>
-  <dict>
-    <key>public.kern2.O</key>
-    <integer>-50</integer>
-    <key>public.kern2.b</key>
+    <integer>-120</integer>
+    <key>public.kern2.uy-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.i</key>
-    <integer>-60</integer>
-    <key>public.kern2.o</key>
-    <integer>-30</integer>
-    <key>public.kern2.quoteleft</key>
-    <integer>-10</integer>
-    <key>public.kern2.semicolon</key>
-    <integer>-20</integer>
-    <key>public.kern2.u</key>
-    <integer>20</integer>
   </dict>
-  <key>public.kern1.O</key>
+  <key>public.kern1.Oi-beria</key>
   <dict>
-    <key>public.kern2.Aacute</key>
+    <key>public.kern2.Ay_acute-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.B</key>
+    <key>public.kern2.Bay-beria</key>
     <integer>-25</integer>
-    <key>public.kern2.D</key>
+    <key>public.kern2.Day-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.E</key>
-    <integer>-25</integer>
-    <key>public.kern2.F</key>
+    <key>public.kern2.Effi-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.I</key>
-    <integer>-15</integer>
-    <key>public.kern2.K</key>
-    <integer>-10</integer>
-    <key>public.kern2.L</key>
+    <key>public.kern2.Elli-beria</key>
     <integer>5</integer>
-    <key>public.kern2.R</key>
+    <key>public.kern2.Erri-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.a</key>
+    <key>public.kern2.Ey-beria</key>
+    <integer>-25</integer>
+    <key>public.kern2.Iyi-beria</key>
     <integer>-15</integer>
+    <key>public.kern2.Key-beria</key>
+    <integer>-10</integer>
     <key>public.kern2.ampersand</key>
     <integer>-40</integer>
     <key>public.kern2.asterisk</key>
     <integer>-10</integer>
-    <key>public.kern2.b</key>
-    <integer>-25</integer>
+    <key>public.kern2.ay-beria</key>
+    <integer>-15</integer>
     <key>public.kern2.backslash</key>
     <integer>-30</integer>
+    <key>public.kern2.bay-beria</key>
+    <integer>-25</integer>
     <key>public.kern2.bracketright</key>
     <integer>-10</integer>
-    <key>public.kern2.c</key>
-    <integer>-10</integer>
-    <key>public.kern2.e</key>
-    <integer>-25</integer>
+    <key>public.kern2.chei-beria</key>
+    <integer>-15</integer>
+    <key>public.kern2.enni-beria</key>
+    <integer>-30</integer>
     <key>public.kern2.exclam</key>
     <integer>-20</integer>
-    <key>public.kern2.g</key>
+    <key>public.kern2.ey-beria</key>
+    <integer>-25</integer>
+    <key>public.kern2.gay-beria</key>
     <integer>-15</integer>
     <key>public.kern2.guilsinglleft</key>
     <integer>-20</integer>
-    <key>public.kern2.h</key>
+    <key>public.kern2.hay-beria</key>
     <integer>-20</integer>
     <key>public.kern2.hyphen</key>
     <integer>-30</integer>
-    <key>public.kern2.k</key>
+    <key>public.kern2.key-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.n</key>
-    <integer>-30</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-20</integer>
     <key>public.kern2.period</key>
     <integer>-20</integer>
@@ -2377,101 +2550,74 @@
     <integer>-50</integer>
     <key>public.kern2.quotesingle</key>
     <integer>-30</integer>
-    <key>public.kern2.s</key>
-    <integer>-15</integer>
     <key>public.kern2.semicolon</key>
     <integer>-10</integer>
-    <key>public.kern2.t</key>
+    <key>public.kern2.shep-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.y</key>
+    <key>public.kern2.tai-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.yay-beria</key>
     <integer>-20</integer>
   </dict>
-  <key>public.kern1.P</key>
+  <key>public.kern1.Pi-beria</key>
   <dict>
-    <key>public.kern2.I</key>
+    <key>public.kern2.Iyi-beria</key>
     <integer>10</integer>
-    <key>public.kern2.O</key>
+    <key>public.kern2.Oi-beria</key>
     <integer>-35</integer>
-    <key>public.kern2.U</key>
+    <key>public.kern2.Uy-beria</key>
     <integer>30</integer>
-    <key>public.kern2.a</key>
+    <key>public.kern2.ay-beria</key>
     <integer>20</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.bay-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.e</key>
+    <key>public.kern2.ey-beria</key>
     <integer>10</integer>
     <key>public.kern2.guilsinglleft</key>
     <integer>-10</integer>
     <key>public.kern2.hyphen</key>
     <integer>-20</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-70</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-60</integer>
     <key>public.kern2.quoteleft</key>
     <integer>30</integer>
     <key>public.kern2.semicolon</key>
     <integer>-20</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>30</integer>
   </dict>
-  <key>public.kern1.R</key>
+  <key>public.kern1.Shep-beria</key>
   <dict>
-    <key>public.kern2.Aacute</key>
+    <key>public.kern2.Ay_acute-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.I</key>
-    <integer>15</integer>
-    <key>public.kern2.O</key>
-    <integer>-55</integer>
-    <key>public.kern2.a</key>
-    <integer>-10</integer>
-    <key>public.kern2.b</key>
-    <integer>-25</integer>
-    <key>public.kern2.e</key>
-    <integer>5</integer>
-    <key>public.kern2.guilsinglright</key>
-    <integer>-20</integer>
-    <key>public.kern2.i</key>
-    <integer>-65</integer>
-    <key>public.kern2.o</key>
-    <integer>-50</integer>
-    <key>public.kern2.quoteright</key>
-    <integer>-10</integer>
-    <key>public.kern2.u</key>
-    <integer>20</integer>
-  </dict>
-  <key>public.kern1.S</key>
-  <dict>
-    <key>public.kern2.E</key>
-    <integer>-5</integer>
-    <key>public.kern2.O</key>
+    <key>public.kern2.Oi-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.a</key>
-    <integer>10</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.Uy-beria</key>
+    <integer>-5</integer>
+    <key>public.kern2.bay-beria</key>
     <integer>-10</integer>
     <key>public.kern2.dagger</key>
-    <integer>20</integer>
-    <key>public.kern2.e</key>
     <integer>10</integer>
-    <key>public.kern2.i</key>
-    <integer>-40</integer>
-    <key>public.kern2.o</key>
-    <integer>-40</integer>
-    <key>public.kern2.u</key>
-    <integer>20</integer>
+    <key>public.kern2.iyi-beria</key>
+    <integer>-45</integer>
+    <key>public.kern2.oi-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.uy-beria</key>
+    <integer>10</integer>
   </dict>
-  <key>public.kern1.T</key>
+  <key>public.kern1.Tai-beria</key>
   <dict>
-    <key>public.kern2.E</key>
+    <key>public.kern2.Ey-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.O</key>
+    <key>public.kern2.Oi-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.U</key>
+    <key>public.kern2.Uy-beria</key>
     <integer>10</integer>
-    <key>public.kern2.a</key>
+    <key>public.kern2.ay-beria</key>
     <integer>10</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.bay-beria</key>
     <integer>-30</integer>
     <key>public.kern2.guilsinglleft</key>
     <integer>-20</integer>
@@ -2479,145 +2625,118 @@
     <integer>-10</integer>
     <key>public.kern2.hyphen</key>
     <integer>-40</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-50</integer>
     <key>public.kern2.semicolon</key>
     <integer>-30</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>15</integer>
   </dict>
-  <key>public.kern1.U</key>
+  <key>public.kern1.Uy-beria</key>
   <dict>
-    <key>public.kern2.Aacute</key>
+    <key>public.kern2.Ay_acute-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.B</key>
+    <key>public.kern2.Bay-beria</key>
     <integer>-60</integer>
-    <key>public.kern2.C</key>
-    <integer>-15</integer>
-    <key>public.kern2.E</key>
+    <key>public.kern2.Chei-beria</key>
     <integer>-25</integer>
-    <key>public.kern2.F</key>
+    <key>public.kern2.Effi-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.G</key>
-    <integer>-10</integer>
-    <key>public.kern2.I</key>
-    <integer>-10</integer>
-    <key>public.kern2.P</key>
-    <integer>-55</integer>
-    <key>public.kern2.R</key>
+    <key>public.kern2.Erri-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.S</key>
+    <key>public.kern2.Ey-beria</key>
     <integer>-25</integer>
-    <key>public.kern2.T</key>
+    <key>public.kern2.Gay-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Iyi-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Pi-beria</key>
+    <integer>-55</integer>
+    <key>public.kern2.Shep-beria</key>
+    <integer>-15</integer>
+    <key>public.kern2.Tai-beria</key>
     <integer>-50</integer>
-    <key>public.kern2.U</key>
+    <key>public.kern2.Uy-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.W</key>
+    <key>public.kern2.Way-beria</key>
     <integer>-50</integer>
-    <key>public.kern2.a</key>
+    <key>public.kern2.ay-beria</key>
     <integer>-15</integer>
     <key>public.kern2.backslash</key>
     <integer>-150</integer>
-    <key>public.kern2.e</key>
-    <integer>-50</integer>
+    <key>public.kern2.emimi-beria</key>
+    <integer>10</integer>
     <key>public.kern2.exclam</key>
     <integer>-10</integer>
-    <key>public.kern2.g</key>
+    <key>public.kern2.ey-beria</key>
+    <integer>-50</integer>
+    <key>public.kern2.gay-beria</key>
     <integer>-15</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>5</integer>
-    <key>public.kern2.m</key>
-    <integer>10</integer>
     <key>public.kern2.question</key>
     <integer>-80</integer>
     <key>public.kern2.quoteleft</key>
     <integer>-120</integer>
     <key>public.kern2.quoteright</key>
     <integer>-120</integer>
-    <key>public.kern2.t</key>
+    <key>public.kern2.tai-beria</key>
     <integer>-60</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>-50</integer>
-    <key>public.kern2.w</key>
+    <key>public.kern2.way-beria</key>
     <integer>-60</integer>
-    <key>public.kern2.y</key>
+    <key>public.kern2.yay-beria</key>
     <integer>-20</integer>
   </dict>
-  <key>public.kern1.W</key>
+  <key>public.kern1.Way-beria</key>
   <dict>
-    <key>public.kern2.E</key>
+    <key>public.kern2.Ey-beria</key>
     <integer>-15</integer>
-    <key>public.kern2.I</key>
+    <key>public.kern2.Iyi-beria</key>
     <integer>15</integer>
-    <key>public.kern2.O</key>
+    <key>public.kern2.Oi-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.U</key>
+    <key>public.kern2.Uy-beria</key>
     <integer>25</integer>
-    <key>public.kern2.a</key>
+    <key>public.kern2.ay-beria</key>
     <integer>10</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.bay-beria</key>
     <integer>-25</integer>
-    <key>public.kern2.e</key>
+    <key>public.kern2.ey-beria</key>
     <integer>10</integer>
     <key>public.kern2.guilsinglleft</key>
     <integer>-10</integer>
     <key>public.kern2.hyphen</key>
     <integer>-20</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-80</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-55</integer>
     <key>public.kern2.quoteleft</key>
     <integer>20</integer>
     <key>public.kern2.semicolon</key>
     <integer>-20</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>20</integer>
   </dict>
-  <key>public.kern1.X</key>
+  <key>public.kern1.Yay-beria</key>
   <dict>
-    <key>public.kern2.Aacute</key>
-    <integer>-20</integer>
-    <key>public.kern2.E</key>
-    <integer>-15</integer>
-    <key>public.kern2.a</key>
-    <integer>-40</integer>
-    <key>public.kern2.dagger</key>
-    <integer>-80</integer>
-    <key>public.kern2.e</key>
-    <integer>-30</integer>
-    <key>public.kern2.h</key>
-    <integer>-20</integer>
-    <key>public.kern2.i</key>
-    <integer>-15</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.Ay_acute-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.quoteleft</key>
-    <integer>-100</integer>
-    <key>public.kern2.quoteright</key>
-    <integer>-100</integer>
-    <key>public.kern2.quotesingle</key>
-    <integer>-120</integer>
-    <key>public.kern2.u</key>
-    <integer>-30</integer>
-  </dict>
-  <key>public.kern1.Y</key>
-  <dict>
-    <key>public.kern2.Aacute</key>
-    <integer>-10</integer>
-    <key>public.kern2.I</key>
+    <key>public.kern2.Iyi-beria</key>
     <integer>15</integer>
-    <key>public.kern2.a</key>
+    <key>public.kern2.ay-beria</key>
     <integer>-20</integer>
     <key>public.kern2.dagger</key>
     <integer>-40</integer>
     <key>public.kern2.guilsinglleft</key>
     <integer>-10</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-15</integer>
     <key>public.kern2.quoteleft</key>
     <integer>-30</integer>
@@ -2626,135 +2745,123 @@
     <key>public.kern2.quotesingle</key>
     <integer>-40</integer>
   </dict>
-  <key>public.kern1.Z</key>
+  <key>public.kern1.ampersand</key>
   <dict>
-    <key>public.kern2.Aacute</key>
-    <integer>-20</integer>
-    <key>public.kern2.E</key>
-    <integer>-45</integer>
-    <key>public.kern2.I</key>
-    <integer>-60</integer>
-    <key>public.kern2.U</key>
-    <integer>-10</integer>
-    <key>public.kern2.a</key>
-    <integer>-35</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.Ay_acute-beria</key>
     <integer>-50</integer>
-    <key>public.kern2.e</key>
-    <integer>-45</integer>
-    <key>public.kern2.guilsinglleft</key>
-    <integer>-60</integer>
-    <key>public.kern2.guilsinglright</key>
-    <integer>-10</integer>
-    <key>public.kern2.h</key>
-    <integer>-30</integer>
-    <key>public.kern2.hyphen</key>
-    <integer>-80</integer>
-    <key>public.kern2.i</key>
-    <integer>-20</integer>
-    <key>public.kern2.o</key>
-    <integer>-20</integer>
-    <key>public.kern2.quoteleft</key>
-    <integer>-40</integer>
-    <key>public.kern2.quoteright</key>
+    <key>public.kern2.Ey-beria</key>
+    <integer>30</integer>
+    <key>public.kern2.Iyi-beria</key>
+    <integer>40</integer>
+    <key>public.kern2.Oi-beria</key>
     <integer>-70</integer>
-    <key>public.kern2.quotesingle</key>
-    <integer>-50</integer>
-    <key>public.kern2.semicolon</key>
-    <integer>-10</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.ay-beria</key>
+    <integer>-25</integer>
+    <key>public.kern2.ey-beria</key>
+    <integer>20</integer>
+    <key>public.kern2.iyi-beria</key>
+    <integer>-30</integer>
+  </dict>
+  <key>public.kern1.asterisk</key>
+  <dict>
+    <key>public.kern2.Oi-beria</key>
+    <integer>-90</integer>
+    <key>public.kern2.ay-beria</key>
+    <integer>20</integer>
+    <key>public.kern2.bay-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.iyi-beria</key>
+    <integer>-90</integer>
+    <key>public.kern2.oi-beria</key>
+    <integer>-110</integer>
+    <key>public.kern2.uy-beria</key>
+    <integer>40</integer>
+    <key>public.kern2.zero</key>
     <integer>-20</integer>
   </dict>
-  <key>public.kern1.a</key>
+  <key>public.kern1.ay-beria</key>
   <dict>
     <key>public.kern2.ampersand</key>
     <integer>-10</integer>
     <key>public.kern2.asterisk</key>
     <integer>20</integer>
-    <key>public.kern2.b</key>
-    <integer>-25</integer>
     <key>public.kern2.backslash</key>
     <integer>20</integer>
+    <key>public.kern2.bay-beria</key>
+    <integer>-25</integer>
     <key>public.kern2.bracketright</key>
     <integer>-20</integer>
     <key>public.kern2.bullet</key>
     <integer>-40</integer>
-    <key>public.kern2.c</key>
-    <integer>-10</integer>
+    <key>public.kern2.chei-beria</key>
+    <integer>-15</integer>
     <key>public.kern2.comma</key>
     <integer>-10</integer>
-    <key>public.kern2.e</key>
-    <integer>-10</integer>
-    <key>public.kern2.f</key>
+    <key>public.kern2.effi-beria</key>
     <integer>5</integer>
-    <key>public.kern2.g</key>
+    <key>public.kern2.elli-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.enni-beria</key>
+    <integer>-25</integer>
+    <key>public.kern2.ey-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.gay-beria</key>
     <integer>-15</integer>
     <key>public.kern2.guilsinglleft</key>
     <integer>-10</integer>
     <key>public.kern2.hyphen</key>
     <integer>-40</integer>
-    <key>public.kern2.k</key>
+    <key>public.kern2.key-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.l</key>
-    <integer>-10</integer>
-    <key>public.kern2.n</key>
-    <integer>-25</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-20</integer>
     <key>public.kern2.parenright</key>
     <integer>-20</integer>
     <key>public.kern2.period</key>
     <integer>-10</integer>
-    <key>public.kern2.s</key>
-    <integer>-15</integer>
     <key>public.kern2.semicolon</key>
     <integer>-20</integer>
+    <key>public.kern2.shep-beria</key>
+    <integer>-10</integer>
     <key>public.kern2.slash</key>
     <integer>-40</integer>
-    <key>public.kern2.t</key>
+    <key>public.kern2.tai-beria</key>
     <integer>5</integer>
     <key>public.kern2.trademark</key>
     <integer>30</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>20</integer>
-    <key>public.kern2.y</key>
+    <key>public.kern2.yay-beria</key>
     <integer>-10</integer>
   </dict>
-  <key>public.kern1.ampersand</key>
+  <key>public.kern1.backslash</key>
   <dict>
-    <key>public.kern2.Aacute</key>
-    <integer>-50</integer>
-    <key>public.kern2.E</key>
-    <integer>30</integer>
-    <key>public.kern2.I</key>
-    <integer>40</integer>
-    <key>public.kern2.O</key>
-    <integer>-70</integer>
-    <key>public.kern2.a</key>
-    <integer>-25</integer>
-    <key>public.kern2.e</key>
-    <integer>20</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.Ey-beria</key>
+    <integer>-90</integer>
+    <key>public.kern2.Iyi-beria</key>
+    <integer>-100</integer>
+    <key>public.kern2.Oi-beria</key>
+    <integer>60</integer>
+    <key>public.kern2.Uy-beria</key>
     <integer>-30</integer>
-  </dict>
-  <key>public.kern1.asterisk</key>
-  <dict>
-    <key>public.kern2.O</key>
-    <integer>-90</integer>
-    <key>public.kern2.a</key>
-    <integer>20</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.ay-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.i</key>
-    <integer>-90</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.bay-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.ey-beria</key>
     <integer>-110</integer>
-    <key>public.kern2.u</key>
-    <integer>40</integer>
+    <key>public.kern2.hay-beria</key>
+    <integer>-40</integer>
+    <key>public.kern2.iyi-beria</key>
+    <integer>10</integer>
+    <key>public.kern2.oi-beria</key>
+    <integer>20</integer>
+    <key>public.kern2.uy-beria</key>
+    <integer>-60</integer>
     <key>public.kern2.zero</key>
-    <integer>-20</integer>
+    <integer>-90</integer>
   </dict>
-  <key>public.kern1.b</key>
+  <key>public.kern1.bay-beria</key>
   <dict>
     <key>public.kern2.comma</key>
     <integer>-20</integer>
@@ -2764,213 +2871,183 @@
     <integer>-10</integer>
     <key>public.kern2.slash</key>
     <integer>-20</integer>
-    <key>public.kern2.w</key>
+    <key>public.kern2.way-beria</key>
     <integer>10</integer>
-  </dict>
-  <key>public.kern1.backslash</key>
-  <dict>
-    <key>public.kern2.E</key>
-    <integer>-90</integer>
-    <key>public.kern2.I</key>
-    <integer>-100</integer>
-    <key>public.kern2.O</key>
-    <integer>60</integer>
-    <key>public.kern2.U</key>
-    <integer>-30</integer>
-    <key>public.kern2.a</key>
-    <integer>-20</integer>
-    <key>public.kern2.b</key>
-    <integer>-20</integer>
-    <key>public.kern2.e</key>
-    <integer>-110</integer>
-    <key>public.kern2.h</key>
-    <integer>-40</integer>
-    <key>public.kern2.i</key>
-    <integer>10</integer>
-    <key>public.kern2.o</key>
-    <integer>20</integer>
-    <key>public.kern2.u</key>
-    <integer>-60</integer>
-    <key>public.kern2.zero</key>
-    <integer>-90</integer>
   </dict>
   <key>public.kern1.braceleft</key>
   <dict>
-    <key>public.kern2.I</key>
+    <key>public.kern2.Iyi-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.bay-beria</key>
     <integer>-10</integer>
     <key>public.kern2.zero</key>
     <integer>-30</integer>
   </dict>
   <key>public.kern1.bracketleft</key>
   <dict>
-    <key>public.kern2.I</key>
+    <key>public.kern2.Iyi-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.a</key>
+    <key>public.kern2.ay-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.bay-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.e</key>
+    <key>public.kern2.ey-beria</key>
     <integer>-20</integer>
     <key>public.kern2.zero</key>
     <integer>-30</integer>
   </dict>
   <key>public.kern1.bullet</key>
   <dict>
-    <key>public.kern2.Aacute</key>
+    <key>public.kern2.Ay_acute-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.O</key>
+    <key>public.kern2.Oi-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.a</key>
+    <key>public.kern2.ay-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>-20</integer>
   </dict>
-  <key>public.kern1.c</key>
+  <key>public.kern1.chei-beria</key>
   <dict>
-    <key>public.kern2.b</key>
-    <integer>-15</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.bay-beria</key>
+    <integer>-50</integer>
+    <key>public.kern2.iyi-beria</key>
+    <integer>-70</integer>
+    <key>public.kern2.oi-beria</key>
     <integer>-55</integer>
-    <key>public.kern2.o</key>
-    <integer>-55</integer>
-    <key>public.kern2.u</key>
-    <integer>15</integer>
+    <key>public.kern2.semicolon</key>
+    <integer>-30</integer>
+    <key>public.kern2.uy-beria</key>
+    <integer>10</integer>
   </dict>
   <key>public.kern1.comma</key>
   <dict>
-    <key>public.kern2.Aacute</key>
+    <key>public.kern2.Ay_acute-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.E</key>
+    <key>public.kern2.Ey-beria</key>
     <integer>-80</integer>
-    <key>public.kern2.I</key>
+    <key>public.kern2.Iyi-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.U</key>
+    <key>public.kern2.Uy-beria</key>
     <integer>-60</integer>
-    <key>public.kern2.a</key>
+    <key>public.kern2.ay-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.bay-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.e</key>
+    <key>public.kern2.ey-beria</key>
     <integer>-110</integer>
-    <key>public.kern2.h</key>
+    <key>public.kern2.hay-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>10</integer>
     <key>public.kern2.quoteright</key>
     <integer>-120</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>-70</integer>
     <key>public.kern2.zero</key>
     <integer>-60</integer>
   </dict>
-  <key>public.kern1.d</key>
-  <dict>
-    <key>public.kern2.b</key>
-    <integer>-10</integer>
-    <key>public.kern2.i</key>
-    <integer>-30</integer>
-    <key>public.kern2.o</key>
-    <integer>-25</integer>
-    <key>public.kern2.u</key>
-    <integer>10</integer>
-  </dict>
   <key>public.kern1.dagger</key>
   <dict>
-    <key>public.kern2.C</key>
+    <key>public.kern2.Chei-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.Day-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.D</key>
-    <integer>-40</integer>
-    <key>public.kern2.E</key>
+    <key>public.kern2.Djay-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.Effi-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.Emmi-beria</key>
+    <integer>-60</integer>
+    <key>public.kern2.Enni-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.Ey-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.F</key>
-    <integer>-30</integer>
-    <key>public.kern2.J</key>
-    <integer>-20</integer>
-    <key>public.kern2.K</key>
+    <key>public.kern2.Gna-beria</key>
+    <integer>-60</integer>
+    <key>public.kern2.Key-beria</key>
     <integer>-70</integer>
-    <key>public.kern2.M</key>
-    <integer>-60</integer>
-    <key>public.kern2.N</key>
-    <integer>-30</integer>
-    <key>public.kern2.O</key>
+    <key>public.kern2.Oi-beria</key>
     <integer>-50</integer>
-    <key>public.kern2.S</key>
-    <integer>-30</integer>
-    <key>public.kern2.Y</key>
+    <key>public.kern2.Shep-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.Z</key>
-    <integer>-60</integer>
-    <key>public.kern2.b</key>
-    <integer>-20</integer>
-    <key>public.kern2.c</key>
-    <integer>-20</integer>
-    <key>public.kern2.g</key>
-    <integer>-20</integer>
-    <key>public.kern2.i</key>
-    <integer>-60</integer>
-    <key>public.kern2.k</key>
-    <integer>-30</integer>
-    <key>public.kern2.l</key>
-    <integer>-20</integer>
-    <key>public.kern2.m</key>
-    <integer>-60</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.Yay-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.s</key>
+    <key>public.kern2.bay-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.chei-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.elli-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.emimi-beria</key>
+    <integer>-60</integer>
+    <key>public.kern2.gay-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.iyi-beria</key>
+    <integer>-60</integer>
+    <key>public.kern2.key-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.oi-beria</key>
+    <integer>-40</integer>
+    <key>public.kern2.shep-beria</key>
     <integer>-20</integer>
   </dict>
-  <key>public.kern1.e</key>
+  <key>public.kern1.day-beria</key>
   <dict>
-    <key>public.kern2.b</key>
+    <key>public.kern2.bay-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.iyi-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.bullet</key>
-    <integer>-10</integer>
-    <key>public.kern2.c</key>
-    <integer>-20</integer>
-    <key>public.kern2.comma</key>
-    <integer>-50</integer>
-    <key>public.kern2.e</key>
-    <integer>-10</integer>
-    <key>public.kern2.g</key>
-    <integer>-10</integer>
+    <key>public.kern2.oi-beria</key>
+    <integer>-25</integer>
+    <key>public.kern2.uy-beria</key>
+    <integer>10</integer>
+  </dict>
+  <key>public.kern1.djay-beria</key>
+  <dict>
+    <key>public.kern2.bay-beria</key>
+    <integer>-5</integer>
     <key>public.kern2.guilsinglleft</key>
     <integer>-10</integer>
     <key>public.kern2.hyphen</key>
     <integer>-10</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
+    <integer>10</integer>
+    <key>public.kern2.quoteleft</key>
+    <integer>-20</integer>
+    <key>public.kern2.quoteright</key>
+    <integer>-20</integer>
+    <key>public.kern2.quotesingle</key>
+    <integer>-20</integer>
+    <key>public.kern2.uy-beria</key>
+    <integer>5</integer>
+  </dict>
+  <key>public.kern1.effi-beria</key>
+  <dict>
+    <key>public.kern2.ay-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.bay-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.guilsinglright</key>
+    <integer>-20</integer>
+    <key>public.kern2.iyi-beria</key>
+    <integer>-50</integer>
+    <key>public.kern2.oi-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.k</key>
-    <integer>-20</integer>
-    <key>public.kern2.l</key>
-    <integer>-20</integer>
-    <key>public.kern2.m</key>
-    <integer>-20</integer>
-    <key>public.kern2.n</key>
-    <integer>-15</integer>
-    <key>public.kern2.o</key>
-    <integer>-25</integer>
-    <key>public.kern2.period</key>
-    <integer>-40</integer>
-    <key>public.kern2.s</key>
-    <integer>-20</integer>
+    <key>public.kern2.quoteleft</key>
+    <integer>-60</integer>
+    <key>public.kern2.quoteright</key>
+    <integer>-60</integer>
+    <key>public.kern2.quotesingle</key>
+    <integer>-30</integer>
     <key>public.kern2.semicolon</key>
     <integer>-10</integer>
-    <key>public.kern2.slash</key>
-    <integer>-70</integer>
-    <key>public.kern2.t</key>
-    <integer>10</integer>
-    <key>public.kern2.trademark</key>
-    <integer>30</integer>
-    <key>public.kern2.u</key>
-    <integer>30</integer>
-    <key>public.kern2.w</key>
-    <integer>10</integer>
+    <key>public.kern2.uy-beria</key>
+    <integer>-10</integer>
   </dict>
   <key>public.kern1.eight</key>
   <dict>
@@ -2983,6 +3060,71 @@
     <key>public.kern2.quotesingle</key>
     <integer>-50</integer>
   </dict>
+  <key>public.kern1.elli-beria</key>
+  <dict>
+    <key>public.kern2.ay-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.dagger</key>
+    <integer>-20</integer>
+    <key>public.kern2.ey-beria</key>
+    <integer>-45</integer>
+    <key>public.kern2.guilsinglleft</key>
+    <integer>-20</integer>
+    <key>public.kern2.hyphen</key>
+    <integer>-20</integer>
+    <key>public.kern2.iyi-beria</key>
+    <integer>20</integer>
+    <key>public.kern2.quoteleft</key>
+    <integer>-110</integer>
+    <key>public.kern2.quoteright</key>
+    <integer>-90</integer>
+    <key>public.kern2.quotesingle</key>
+    <integer>-70</integer>
+    <key>public.kern2.uy-beria</key>
+    <integer>-10</integer>
+  </dict>
+  <key>public.kern1.emimi-beria</key>
+  <dict>
+    <key>public.kern2.bay-beria</key>
+    <integer>-35</integer>
+    <key>public.kern2.dagger</key>
+    <integer>20</integer>
+    <key>public.kern2.iyi-beria</key>
+    <integer>-90</integer>
+    <key>public.kern2.oi-beria</key>
+    <integer>-70</integer>
+    <key>public.kern2.quoteleft</key>
+    <integer>-15</integer>
+    <key>public.kern2.quotesingle</key>
+    <integer>-10</integer>
+    <key>public.kern2.semicolon</key>
+    <integer>-30</integer>
+    <key>public.kern2.uy-beria</key>
+    <integer>15</integer>
+  </dict>
+  <key>public.kern1.enni-beria</key>
+  <dict>
+    <key>public.kern2.ay-beria</key>
+    <integer>-25</integer>
+    <key>public.kern2.ey-beria</key>
+    <integer>-15</integer>
+    <key>public.kern2.guilsinglleft</key>
+    <integer>-10</integer>
+    <key>public.kern2.iyi-beria</key>
+    <integer>-25</integer>
+    <key>public.kern2.oi-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.quoteleft</key>
+    <integer>-50</integer>
+    <key>public.kern2.quoteright</key>
+    <integer>-50</integer>
+    <key>public.kern2.quotesingle</key>
+    <integer>-20</integer>
+    <key>public.kern2.semicolon</key>
+    <integer>-10</integer>
+    <key>public.kern2.uy-beria</key>
+    <integer>-10</integer>
+  </dict>
   <key>public.kern1.exclam</key>
   <dict>
     <key>public.kern2.quoteleft</key>
@@ -2992,28 +3134,52 @@
     <key>public.kern2.zero</key>
     <integer>-30</integer>
   </dict>
-  <key>public.kern1.f</key>
+  <key>public.kern1.ey-beria</key>
   <dict>
-    <key>public.kern2.a</key>
+    <key>public.kern2.bay-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.bullet</key>
+    <integer>-10</integer>
+    <key>public.kern2.chei-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.guilsinglright</key>
-    <integer>-20</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.comma</key>
     <integer>-50</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.elli-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.emimi-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.enni-beria</key>
+    <integer>-15</integer>
+    <key>public.kern2.ey-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.gay-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.guilsinglleft</key>
+    <integer>-10</integer>
+    <key>public.kern2.hyphen</key>
+    <integer>-10</integer>
+    <key>public.kern2.iyi-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.quoteleft</key>
-    <integer>-60</integer>
-    <key>public.kern2.quoteright</key>
-    <integer>-60</integer>
-    <key>public.kern2.quotesingle</key>
-    <integer>-30</integer>
+    <key>public.kern2.key-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.oi-beria</key>
+    <integer>-25</integer>
+    <key>public.kern2.period</key>
+    <integer>-40</integer>
     <key>public.kern2.semicolon</key>
     <integer>-10</integer>
-    <key>public.kern2.u</key>
-    <integer>-10</integer>
+    <key>public.kern2.shep-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.slash</key>
+    <integer>-70</integer>
+    <key>public.kern2.tai-beria</key>
+    <integer>10</integer>
+    <key>public.kern2.trademark</key>
+    <integer>30</integer>
+    <key>public.kern2.uy-beria</key>
+    <integer>30</integer>
+    <key>public.kern2.way-beria</key>
+    <integer>10</integer>
   </dict>
   <key>public.kern1.five</key>
   <dict>
@@ -3037,23 +3203,23 @@
     <key>public.kern2.quotesingle</key>
     <integer>-90</integer>
   </dict>
-  <key>public.kern1.g</key>
+  <key>public.kern1.gay-beria</key>
   <dict>
-    <key>public.kern2.a</key>
+    <key>public.kern2.ay-beria</key>
     <integer>-15</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.bay-beria</key>
     <integer>-5</integer>
     <key>public.kern2.dagger</key>
     <integer>-20</integer>
-    <key>public.kern2.e</key>
+    <key>public.kern2.ey-beria</key>
     <integer>-10</integer>
     <key>public.kern2.guilsinglleft</key>
     <integer>-10</integer>
     <key>public.kern2.hyphen</key>
     <integer>-10</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-5</integer>
     <key>public.kern2.quoteleft</key>
     <integer>-40</integer>
@@ -3062,232 +3228,251 @@
     <key>public.kern2.quotesingle</key>
     <integer>-30</integer>
     <key>public.kern2.semicolon</key>
+    <integer>-10</integer>
+  </dict>
+  <key>public.kern1.gna-beria</key>
+  <dict>
+    <key>public.kern2.ay-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.dagger</key>
+    <integer>-30</integer>
+    <key>public.kern2.ey-beria</key>
+    <integer>-25</integer>
+    <key>public.kern2.guilsinglright</key>
+    <integer>-10</integer>
+    <key>public.kern2.oi-beria</key>
+    <integer>-5</integer>
+    <key>public.kern2.quoteleft</key>
+    <integer>-70</integer>
+    <key>public.kern2.quoteright</key>
+    <integer>-60</integer>
+    <key>public.kern2.quotesingle</key>
+    <integer>-80</integer>
+    <key>public.kern2.uy-beria</key>
     <integer>-10</integer>
   </dict>
   <key>public.kern1.guilsinglleft</key>
   <dict>
-    <key>public.kern2.C</key>
-    <integer>-10</integer>
-    <key>public.kern2.F</key>
-    <integer>-10</integer>
-    <key>public.kern2.G</key>
+    <key>public.kern2.Chei-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.J</key>
+    <key>public.kern2.Djay-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.R</key>
-    <integer>-20</integer>
-    <key>public.kern2.S</key>
-    <integer>-20</integer>
-    <key>public.kern2.Z</key>
+    <key>public.kern2.Effi-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.e</key>
+    <key>public.kern2.Erri-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.Gay-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.Gna-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Shep-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.ey-beria</key>
     <integer>-10</integer>
     <key>public.kern2.four</key>
     <integer>-10</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>10</integer>
-    <key>public.kern2.y</key>
+    <key>public.kern2.yay-beria</key>
     <integer>-10</integer>
   </dict>
   <key>public.kern1.guilsinglright</key>
   <dict>
-    <key>public.kern2.Aacute</key>
+    <key>public.kern2.Ay_acute-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.B</key>
+    <key>public.kern2.Bay-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.C</key>
-    <integer>-40</integer>
-    <key>public.kern2.D</key>
-    <integer>-30</integer>
-    <key>public.kern2.G</key>
-    <integer>-10</integer>
-    <key>public.kern2.J</key>
-    <integer>-20</integer>
-    <key>public.kern2.K</key>
-    <integer>-40</integer>
-    <key>public.kern2.L</key>
-    <integer>-20</integer>
-    <key>public.kern2.M</key>
-    <integer>-40</integer>
-    <key>public.kern2.N</key>
-    <integer>-10</integer>
-    <key>public.kern2.O</key>
-    <integer>-60</integer>
-    <key>public.kern2.P</key>
-    <integer>-10</integer>
-    <key>public.kern2.S</key>
+    <key>public.kern2.Chei-beria</key>
     <integer>-50</integer>
-    <key>public.kern2.T</key>
+    <key>public.kern2.Day-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.U</key>
+    <key>public.kern2.Djay-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.Elli-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.Emmi-beria</key>
+    <integer>-40</integer>
+    <key>public.kern2.Enni-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.W</key>
+    <key>public.kern2.Gay-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.Y</key>
-    <integer>-10</integer>
-    <key>public.kern2.Z</key>
+    <key>public.kern2.Gna-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.a</key>
+    <key>public.kern2.Key-beria</key>
+    <integer>-40</integer>
+    <key>public.kern2.Oi-beria</key>
+    <integer>-60</integer>
+    <key>public.kern2.Pi-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.c</key>
+    <key>public.kern2.Shep-beria</key>
+    <integer>-40</integer>
+    <key>public.kern2.Tai-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.Uy-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Way-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Yay-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.ay-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.chei-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.d</key>
+    <key>public.kern2.day-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.e</key>
-    <integer>10</integer>
+    <key>public.kern2.djay-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.effi-beria</key>
+    <integer>-30</integer>
     <key>public.kern2.eight</key>
     <integer>-10</integer>
-    <key>public.kern2.f</key>
+    <key>public.kern2.elli-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.emimi-beria</key>
     <integer>-30</integer>
+    <key>public.kern2.enni-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.ey-beria</key>
+    <integer>10</integer>
     <key>public.kern2.five</key>
     <integer>-20</integer>
-    <key>public.kern2.g</key>
+    <key>public.kern2.gay-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.j</key>
-    <integer>-10</integer>
-    <key>public.kern2.k</key>
+    <key>public.kern2.key-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.l</key>
-    <integer>-20</integer>
-    <key>public.kern2.m</key>
-    <integer>-30</integer>
-    <key>public.kern2.n</key>
-    <integer>-10</integer>
     <key>public.kern2.nine</key>
     <integer>-20</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-30</integer>
     <key>public.kern2.one</key>
     <integer>-30</integer>
-    <key>public.kern2.s</key>
-    <integer>-20</integer>
     <key>public.kern2.seven</key>
     <integer>-30</integer>
-    <key>public.kern2.t</key>
+    <key>public.kern2.shep-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.tai-beria</key>
     <integer>-20</integer>
     <key>public.kern2.three</key>
     <integer>-30</integer>
     <key>public.kern2.two</key>
     <integer>-30</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.w</key>
+    <key>public.kern2.way-beria</key>
     <integer>-20</integer>
   </dict>
   <key>public.kern1.hyphen</key>
   <dict>
-    <key>public.kern2.Aacute</key>
+    <key>public.kern2.Ay_acute-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.B</key>
+    <key>public.kern2.Bay-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.C</key>
+    <key>public.kern2.Chei-beria</key>
+    <integer>-50</integer>
+    <key>public.kern2.Day-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.D</key>
+    <key>public.kern2.Djay-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.Elli-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.Emmi-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.G</key>
+    <key>public.kern2.Gay-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.J</key>
+    <key>public.kern2.Gna-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.K</key>
+    <key>public.kern2.Key-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.L</key>
-    <integer>-30</integer>
-    <key>public.kern2.M</key>
-    <integer>-40</integer>
-    <key>public.kern2.O</key>
+    <key>public.kern2.Oi-beria</key>
     <integer>-80</integer>
-    <key>public.kern2.P</key>
+    <key>public.kern2.Pi-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.S</key>
-    <integer>-50</integer>
-    <key>public.kern2.T</key>
-    <integer>-50</integer>
-    <key>public.kern2.U</key>
-    <integer>-20</integer>
-    <key>public.kern2.W</key>
-    <integer>-20</integer>
-    <key>public.kern2.Z</key>
-    <integer>-30</integer>
-    <key>public.kern2.a</key>
+    <key>public.kern2.Shep-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.c</key>
+    <key>public.kern2.Tai-beria</key>
+    <integer>-50</integer>
+    <key>public.kern2.Uy-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.d</key>
+    <key>public.kern2.Way-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.f</key>
+    <key>public.kern2.ay-beria</key>
+    <integer>-40</integer>
+    <key>public.kern2.chei-beria</key>
     <integer>-30</integer>
+    <key>public.kern2.day-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.djay-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.effi-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.elli-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.emimi-beria</key>
+    <integer>-40</integer>
     <key>public.kern2.five</key>
     <integer>-20</integer>
-    <key>public.kern2.g</key>
+    <key>public.kern2.gay-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.j</key>
+    <key>public.kern2.key-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.k</key>
-    <integer>-10</integer>
-    <key>public.kern2.l</key>
-    <integer>-20</integer>
-    <key>public.kern2.m</key>
-    <integer>-40</integer>
     <key>public.kern2.nine</key>
     <integer>-20</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-30</integer>
     <key>public.kern2.one</key>
     <integer>-50</integer>
-    <key>public.kern2.s</key>
-    <integer>-30</integer>
     <key>public.kern2.seven</key>
     <integer>-20</integer>
-    <key>public.kern2.t</key>
+    <key>public.kern2.shep-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.tai-beria</key>
     <integer>-30</integer>
     <key>public.kern2.three</key>
     <integer>-20</integer>
     <key>public.kern2.two</key>
     <integer>-30</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.w</key>
+    <key>public.kern2.way-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.y</key>
+    <key>public.kern2.yay-beria</key>
     <integer>-20</integer>
   </dict>
-  <key>public.kern1.i</key>
+  <key>public.kern1.iyi-beria</key>
   <dict>
-    <key>public.kern2.a</key>
-    <integer>-40</integer>
     <key>public.kern2.asterisk</key>
     <integer>-50</integer>
+    <key>public.kern2.ay-beria</key>
+    <integer>-40</integer>
     <key>public.kern2.backslash</key>
     <integer>-90</integer>
     <key>public.kern2.braceright</key>
     <integer>-20</integer>
-    <key>public.kern2.c</key>
-    <integer>-20</integer>
     <key>public.kern2.comma</key>
     <integer>-20</integer>
-    <key>public.kern2.d</key>
-    <integer>-45</integer>
     <key>public.kern2.dagger</key>
     <integer>-30</integer>
-    <key>public.kern2.e</key>
+    <key>public.kern2.day-beria</key>
+    <integer>-45</integer>
+    <key>public.kern2.djay-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.effi-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.f</key>
+    <key>public.kern2.elli-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.ey-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.g</key>
+    <key>public.kern2.gay-beria</key>
     <integer>-20</integer>
     <key>public.kern2.guilsinglright</key>
     <integer>-20</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-50</integer>
-    <key>public.kern2.j</key>
-    <integer>-10</integer>
-    <key>public.kern2.l</key>
-    <integer>-10</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-10</integer>
     <key>public.kern2.parenright</key>
     <integer>-40</integer>
@@ -3301,49 +3486,32 @@
     <integer>-80</integer>
     <key>public.kern2.quotesingle</key>
     <integer>-70</integer>
+    <key>public.kern2.shep-beria</key>
+    <integer>-20</integer>
     <key>public.kern2.slash</key>
     <integer>-90</integer>
-    <key>public.kern2.t</key>
+    <key>public.kern2.tai-beria</key>
     <integer>-50</integer>
     <key>public.kern2.trademark</key>
     <integer>-20</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.w</key>
+    <key>public.kern2.way-beria</key>
     <integer>-50</integer>
   </dict>
-  <key>public.kern1.j</key>
+  <key>public.kern1.key-beria</key>
   <dict>
-    <key>public.kern2.b</key>
-    <integer>-5</integer>
-    <key>public.kern2.guilsinglleft</key>
-    <integer>-10</integer>
-    <key>public.kern2.hyphen</key>
-    <integer>-10</integer>
-    <key>public.kern2.i</key>
-    <integer>10</integer>
-    <key>public.kern2.quoteleft</key>
-    <integer>-20</integer>
-    <key>public.kern2.quoteright</key>
-    <integer>-20</integer>
-    <key>public.kern2.quotesingle</key>
-    <integer>-20</integer>
-    <key>public.kern2.u</key>
-    <integer>5</integer>
-  </dict>
-  <key>public.kern1.k</key>
-  <dict>
-    <key>public.kern2.a</key>
+    <key>public.kern2.ay-beria</key>
     <integer>-30</integer>
     <key>public.kern2.dagger</key>
     <integer>-30</integer>
-    <key>public.kern2.e</key>
+    <key>public.kern2.ey-beria</key>
     <integer>-20</integer>
     <key>public.kern2.guilsinglright</key>
     <integer>-10</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-10</integer>
     <key>public.kern2.quoteleft</key>
     <integer>-80</integer>
@@ -3353,110 +3521,70 @@
     <integer>-80</integer>
     <key>public.kern2.semicolon</key>
     <integer>-10</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>-20</integer>
   </dict>
-  <key>public.kern1.l</key>
+  <key>public.kern1.nay-beria</key>
   <dict>
-    <key>public.kern2.a</key>
+    <key>public.kern2.ay-beria</key>
+    <integer>-40</integer>
+    <key>public.kern2.bay-beria</key>
     <integer>-10</integer>
     <key>public.kern2.dagger</key>
-    <integer>-20</integer>
-    <key>public.kern2.e</key>
-    <integer>-45</integer>
-    <key>public.kern2.guilsinglleft</key>
-    <integer>-20</integer>
-    <key>public.kern2.hyphen</key>
-    <integer>-20</integer>
-    <key>public.kern2.i</key>
-    <integer>20</integer>
-    <key>public.kern2.quoteleft</key>
-    <integer>-110</integer>
-    <key>public.kern2.quoteright</key>
-    <integer>-90</integer>
-    <key>public.kern2.quotesingle</key>
-    <integer>-70</integer>
-    <key>public.kern2.u</key>
-    <integer>-10</integer>
-  </dict>
-  <key>public.kern1.m</key>
-  <dict>
-    <key>public.kern2.b</key>
-    <integer>-35</integer>
-    <key>public.kern2.dagger</key>
-    <integer>20</integer>
-    <key>public.kern2.i</key>
-    <integer>-90</integer>
-    <key>public.kern2.o</key>
-    <integer>-70</integer>
-    <key>public.kern2.quoteleft</key>
-    <integer>-15</integer>
-    <key>public.kern2.quotesingle</key>
-    <integer>-10</integer>
-    <key>public.kern2.semicolon</key>
-    <integer>-30</integer>
-    <key>public.kern2.u</key>
-    <integer>15</integer>
-  </dict>
-  <key>public.kern1.n</key>
-  <dict>
-    <key>public.kern2.a</key>
+    <integer>-40</integer>
+    <key>public.kern2.ey-beria</key>
     <integer>-25</integer>
-    <key>public.kern2.e</key>
-    <integer>-15</integer>
-    <key>public.kern2.guilsinglleft</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.i</key>
-    <integer>-25</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-10</integer>
     <key>public.kern2.quoteleft</key>
-    <integer>-50</integer>
+    <integer>-80</integer>
     <key>public.kern2.quoteright</key>
-    <integer>-50</integer>
+    <integer>-100</integer>
     <key>public.kern2.quotesingle</key>
-    <integer>-20</integer>
-    <key>public.kern2.semicolon</key>
-    <integer>-10</integer>
-    <key>public.kern2.u</key>
-    <integer>-10</integer>
+    <integer>-100</integer>
+    <key>public.kern2.uy-beria</key>
+    <integer>-15</integer>
   </dict>
-  <key>public.kern1.o</key>
+  <key>public.kern1.oi-beria</key>
   <dict>
-    <key>public.kern2.a</key>
-    <integer>-30</integer>
     <key>public.kern2.asterisk</key>
     <integer>-70</integer>
-    <key>public.kern2.b</key>
-    <integer>-5</integer>
+    <key>public.kern2.ay-beria</key>
+    <integer>-30</integer>
     <key>public.kern2.backslash</key>
     <integer>-100</integer>
+    <key>public.kern2.bay-beria</key>
+    <integer>-5</integer>
     <key>public.kern2.braceright</key>
     <integer>-10</integer>
     <key>public.kern2.bullet</key>
     <integer>-10</integer>
+    <key>public.kern2.chei-beria</key>
+    <integer>-5</integer>
     <key>public.kern2.comma</key>
     <integer>-20</integer>
-    <key>public.kern2.d</key>
-    <integer>-15</integer>
     <key>public.kern2.dagger</key>
     <integer>-20</integer>
-    <key>public.kern2.e</key>
-    <integer>-35</integer>
-    <key>public.kern2.f</key>
+    <key>public.kern2.day-beria</key>
+    <integer>-15</integer>
+    <key>public.kern2.djay-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.effi-beria</key>
     <integer>-5</integer>
-    <key>public.kern2.g</key>
+    <key>public.kern2.emimi-beria</key>
+    <integer>10</integer>
+    <key>public.kern2.enni-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.ey-beria</key>
+    <integer>-35</integer>
+    <key>public.kern2.gay-beria</key>
     <integer>-15</integer>
     <key>public.kern2.guilsinglright</key>
     <integer>-10</integer>
-    <key>public.kern2.j</key>
-    <integer>-10</integer>
-    <key>public.kern2.k</key>
+    <key>public.kern2.key-beria</key>
     <integer>-15</integer>
-    <key>public.kern2.m</key>
-    <integer>10</integer>
-    <key>public.kern2.n</key>
-    <integer>-10</integer>
     <key>public.kern2.parenright</key>
     <integer>-30</integer>
     <key>public.kern2.period</key>
@@ -3469,21 +3597,19 @@
     <integer>-100</integer>
     <key>public.kern2.quotesingle</key>
     <integer>-90</integer>
-    <key>public.kern2.s</key>
-    <integer>-5</integer>
     <key>public.kern2.semicolon</key>
     <integer>-10</integer>
     <key>public.kern2.slash</key>
     <integer>-10</integer>
-    <key>public.kern2.t</key>
+    <key>public.kern2.tai-beria</key>
     <integer>-40</integer>
     <key>public.kern2.trademark</key>
     <integer>-60</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.w</key>
+    <key>public.kern2.way-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.y</key>
+    <key>public.kern2.yay-beria</key>
     <integer>-15</integer>
   </dict>
   <key>public.kern1.one</key>
@@ -3499,15 +3625,61 @@
     <key>public.kern2.semicolon</key>
     <integer>-30</integer>
   </dict>
-  <key>public.kern1.p</key>
+  <key>public.kern1.parenleft</key>
   <dict>
-    <key>public.kern2.b</key>
+    <key>public.kern2.Ey-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.Iyi-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.ay-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.bay-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.hay-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.iyi-beria</key>
+    <integer>20</integer>
+    <key>public.kern2.zero</key>
+    <integer>-30</integer>
+  </dict>
+  <key>public.kern1.period</key>
+  <dict>
+    <key>public.kern2.Ay_acute-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.Ey-beria</key>
+    <integer>-50</integer>
+    <key>public.kern2.Iyi-beria</key>
+    <integer>-40</integer>
+    <key>public.kern2.Oi-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Uy-beria</key>
+    <integer>-50</integer>
+    <key>public.kern2.ay-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.bay-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.ey-beria</key>
+    <integer>-90</integer>
+    <key>public.kern2.hay-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.oi-beria</key>
+    <integer>30</integer>
+    <key>public.kern2.quoteright</key>
+    <integer>-120</integer>
+    <key>public.kern2.uy-beria</key>
+    <integer>-70</integer>
+    <key>public.kern2.zero</key>
+    <integer>-60</integer>
+  </dict>
+  <key>public.kern1.pi-beria</key>
+  <dict>
+    <key>public.kern2.bay-beria</key>
     <integer>-5</integer>
     <key>public.kern2.hyphen</key>
     <integer>-10</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>20</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>30</integer>
     <key>public.kern2.quoteleft</key>
     <integer>-20</integer>
@@ -3516,483 +3688,424 @@
     <key>public.kern2.quotesingle</key>
     <integer>-20</integer>
   </dict>
-  <key>public.kern1.parenleft</key>
-  <dict>
-    <key>public.kern2.E</key>
-    <integer>-30</integer>
-    <key>public.kern2.I</key>
-    <integer>-20</integer>
-    <key>public.kern2.a</key>
-    <integer>-20</integer>
-    <key>public.kern2.b</key>
-    <integer>-20</integer>
-    <key>public.kern2.h</key>
-    <integer>-20</integer>
-    <key>public.kern2.i</key>
-    <integer>20</integer>
-    <key>public.kern2.zero</key>
-    <integer>-30</integer>
-  </dict>
-  <key>public.kern1.period</key>
-  <dict>
-    <key>public.kern2.Aacute</key>
-    <integer>-30</integer>
-    <key>public.kern2.E</key>
-    <integer>-50</integer>
-    <key>public.kern2.I</key>
-    <integer>-40</integer>
-    <key>public.kern2.O</key>
-    <integer>-10</integer>
-    <key>public.kern2.U</key>
-    <integer>-50</integer>
-    <key>public.kern2.a</key>
-    <integer>-10</integer>
-    <key>public.kern2.b</key>
-    <integer>-20</integer>
-    <key>public.kern2.e</key>
-    <integer>-90</integer>
-    <key>public.kern2.h</key>
-    <integer>-20</integer>
-    <key>public.kern2.o</key>
-    <integer>30</integer>
-    <key>public.kern2.quoteright</key>
-    <integer>-120</integer>
-    <key>public.kern2.u</key>
-    <integer>-70</integer>
-    <key>public.kern2.zero</key>
-    <integer>-60</integer>
-  </dict>
   <key>public.kern1.quoteleft</key>
   <dict>
-    <key>public.kern2.C</key>
-    <integer>-75</integer>
-    <key>public.kern2.D</key>
-    <integer>-65</integer>
-    <key>public.kern2.E</key>
-    <integer>-40</integer>
-    <key>public.kern2.F</key>
-    <integer>-50</integer>
-    <key>public.kern2.G</key>
-    <integer>-40</integer>
-    <key>public.kern2.I</key>
-    <integer>-10</integer>
-    <key>public.kern2.J</key>
-    <integer>-45</integer>
-    <key>public.kern2.K</key>
-    <integer>-110</integer>
-    <key>public.kern2.L</key>
-    <integer>-30</integer>
-    <key>public.kern2.M</key>
-    <integer>-130</integer>
-    <key>public.kern2.N</key>
-    <integer>-90</integer>
-    <key>public.kern2.O</key>
-    <integer>-130</integer>
-    <key>public.kern2.R</key>
-    <integer>-10</integer>
-    <key>public.kern2.S</key>
+    <key>public.kern2.Chei-beria</key>
     <integer>-80</integer>
-    <key>public.kern2.T</key>
-    <integer>20</integer>
-    <key>public.kern2.Y</key>
-    <integer>-70</integer>
-    <key>public.kern2.Z</key>
+    <key>public.kern2.Day-beria</key>
+    <integer>-65</integer>
+    <key>public.kern2.Djay-beria</key>
+    <integer>-45</integer>
+    <key>public.kern2.Effi-beria</key>
+    <integer>-50</integer>
+    <key>public.kern2.Elli-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.Emmi-beria</key>
+    <integer>-130</integer>
+    <key>public.kern2.Enni-beria</key>
+    <integer>-90</integer>
+    <key>public.kern2.Erri-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Ey-beria</key>
+    <integer>-40</integer>
+    <key>public.kern2.Gay-beria</key>
+    <integer>-40</integer>
+    <key>public.kern2.Gna-beria</key>
     <integer>-160</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.Iyi-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Key-beria</key>
+    <integer>-110</integer>
+    <key>public.kern2.Oi-beria</key>
+    <integer>-130</integer>
+    <key>public.kern2.Shep-beria</key>
+    <integer>-75</integer>
+    <key>public.kern2.Tai-beria</key>
+    <integer>20</integer>
+    <key>public.kern2.Yay-beria</key>
     <integer>-70</integer>
-    <key>public.kern2.c</key>
+    <key>public.kern2.bay-beria</key>
     <integer>-70</integer>
-    <key>public.kern2.e</key>
+    <key>public.kern2.chei-beria</key>
+    <integer>-70</integer>
+    <key>public.kern2.djay-beria</key>
     <integer>-20</integer>
     <key>public.kern2.eight</key>
     <integer>-50</integer>
+    <key>public.kern2.elli-beria</key>
+    <integer>-90</integer>
+    <key>public.kern2.emimi-beria</key>
+    <integer>-120</integer>
+    <key>public.kern2.enni-beria</key>
+    <integer>-50</integer>
     <key>public.kern2.exclam</key>
     <integer>-40</integer>
+    <key>public.kern2.ey-beria</key>
+    <integer>-20</integer>
     <key>public.kern2.five</key>
     <integer>-30</integer>
     <key>public.kern2.four</key>
     <integer>-100</integer>
-    <key>public.kern2.g</key>
+    <key>public.kern2.gay-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-140</integer>
-    <key>public.kern2.j</key>
-    <integer>-20</integer>
-    <key>public.kern2.k</key>
+    <key>public.kern2.key-beria</key>
     <integer>-80</integer>
-    <key>public.kern2.l</key>
-    <integer>-90</integer>
-    <key>public.kern2.m</key>
-    <integer>-120</integer>
-    <key>public.kern2.n</key>
-    <integer>-50</integer>
     <key>public.kern2.nine</key>
     <integer>-40</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-140</integer>
     <key>public.kern2.one</key>
     <integer>-20</integer>
-    <key>public.kern2.s</key>
-    <integer>-70</integer>
     <key>public.kern2.seven</key>
     <integer>20</integer>
-    <key>public.kern2.t</key>
+    <key>public.kern2.shep-beria</key>
+    <integer>-70</integer>
+    <key>public.kern2.tai-beria</key>
     <integer>10</integer>
     <key>public.kern2.three</key>
     <integer>-20</integer>
     <key>public.kern2.two</key>
     <integer>-15</integer>
-    <key>public.kern2.y</key>
+    <key>public.kern2.yay-beria</key>
     <integer>-40</integer>
     <key>public.kern2.zero</key>
     <integer>-60</integer>
   </dict>
   <key>public.kern1.quoteright</key>
   <dict>
-    <key>public.kern2.Aacute</key>
+    <key>public.kern2.Ay_acute-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.C</key>
-    <integer>-100</integer>
-    <key>public.kern2.D</key>
-    <integer>-80</integer>
-    <key>public.kern2.E</key>
-    <integer>-60</integer>
-    <key>public.kern2.F</key>
-    <integer>-90</integer>
-    <key>public.kern2.G</key>
-    <integer>-60</integer>
-    <key>public.kern2.I</key>
-    <integer>-40</integer>
-    <key>public.kern2.J</key>
-    <integer>-60</integer>
-    <key>public.kern2.K</key>
-    <integer>-130</integer>
-    <key>public.kern2.L</key>
-    <integer>-50</integer>
-    <key>public.kern2.M</key>
-    <integer>-140</integer>
-    <key>public.kern2.N</key>
-    <integer>-90</integer>
-    <key>public.kern2.O</key>
-    <integer>-140</integer>
-    <key>public.kern2.R</key>
-    <integer>-10</integer>
-    <key>public.kern2.S</key>
+    <key>public.kern2.Chei-beria</key>
     <integer>-70</integer>
-    <key>public.kern2.X</key>
-    <integer>-10</integer>
-    <key>public.kern2.Y</key>
-    <integer>-30</integer>
-    <key>public.kern2.Z</key>
-    <integer>-110</integer>
-    <key>public.kern2.b</key>
-    <integer>-110</integer>
-    <key>public.kern2.c</key>
+    <key>public.kern2.Day-beria</key>
     <integer>-80</integer>
+    <key>public.kern2.Djay-beria</key>
+    <integer>-60</integer>
+    <key>public.kern2.Effi-beria</key>
+    <integer>-90</integer>
+    <key>public.kern2.Elli-beria</key>
+    <integer>-50</integer>
+    <key>public.kern2.Emmi-beria</key>
+    <integer>-140</integer>
+    <key>public.kern2.Enni-beria</key>
+    <integer>-90</integer>
+    <key>public.kern2.Erri-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Ey-beria</key>
+    <integer>-60</integer>
+    <key>public.kern2.Gay-beria</key>
+    <integer>-60</integer>
+    <key>public.kern2.Gna-beria</key>
+    <integer>-110</integer>
+    <key>public.kern2.Iyi-beria</key>
+    <integer>-40</integer>
+    <key>public.kern2.Key-beria</key>
+    <integer>-130</integer>
+    <key>public.kern2.Nay-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Oi-beria</key>
+    <integer>-140</integer>
+    <key>public.kern2.Shep-beria</key>
+    <integer>-100</integer>
+    <key>public.kern2.Yay-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.bay-beria</key>
+    <integer>-110</integer>
+    <key>public.kern2.chei-beria</key>
+    <integer>-90</integer>
     <key>public.kern2.comma</key>
     <integer>-160</integer>
-    <key>public.kern2.e</key>
-    <integer>-40</integer>
+    <key>public.kern2.djay-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.effi-beria</key>
+    <integer>-10</integer>
     <key>public.kern2.eight</key>
     <integer>-55</integer>
-    <key>public.kern2.f</key>
-    <integer>-10</integer>
+    <key>public.kern2.elli-beria</key>
+    <integer>-90</integer>
+    <key>public.kern2.emimi-beria</key>
+    <integer>-140</integer>
+    <key>public.kern2.enni-beria</key>
+    <integer>-50</integer>
+    <key>public.kern2.ey-beria</key>
+    <integer>-40</integer>
     <key>public.kern2.five</key>
     <integer>-30</integer>
     <key>public.kern2.four</key>
     <integer>-110</integer>
-    <key>public.kern2.g</key>
+    <key>public.kern2.gay-beria</key>
     <integer>-50</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-120</integer>
-    <key>public.kern2.j</key>
-    <integer>-20</integer>
-    <key>public.kern2.k</key>
+    <key>public.kern2.key-beria</key>
     <integer>-110</integer>
-    <key>public.kern2.l</key>
-    <integer>-90</integer>
-    <key>public.kern2.m</key>
-    <integer>-140</integer>
-    <key>public.kern2.n</key>
-    <integer>-50</integer>
     <key>public.kern2.nine</key>
     <integer>-50</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-140</integer>
     <key>public.kern2.one</key>
     <integer>-30</integer>
     <key>public.kern2.period</key>
     <integer>-150</integer>
-    <key>public.kern2.s</key>
-    <integer>-90</integer>
+    <key>public.kern2.shep-beria</key>
+    <integer>-80</integer>
     <key>public.kern2.space</key>
     <integer>-80</integer>
     <key>public.kern2.three</key>
     <integer>-20</integer>
     <key>public.kern2.two</key>
     <integer>-30</integer>
-    <key>public.kern2.w</key>
+    <key>public.kern2.way-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.y</key>
+    <key>public.kern2.yay-beria</key>
     <integer>-60</integer>
     <key>public.kern2.zero</key>
     <integer>-80</integer>
   </dict>
   <key>public.kern1.quotesinglbase</key>
   <dict>
-    <key>public.kern2.Aacute</key>
+    <key>public.kern2.Ay_acute-beria</key>
     <integer>-50</integer>
-    <key>public.kern2.B</key>
+    <key>public.kern2.Bay-beria</key>
     <integer>-110</integer>
-    <key>public.kern2.C</key>
+    <key>public.kern2.Effi-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.E</key>
-    <integer>-100</integer>
-    <key>public.kern2.F</key>
-    <integer>-10</integer>
-    <key>public.kern2.G</key>
-    <integer>-10</integer>
-    <key>public.kern2.I</key>
-    <integer>-50</integer>
-    <key>public.kern2.M</key>
+    <key>public.kern2.Emmi-beria</key>
     <integer>20</integer>
-    <key>public.kern2.O</key>
-    <integer>20</integer>
-    <key>public.kern2.P</key>
+    <key>public.kern2.Erri-beria</key>
+    <integer>-80</integer>
+    <key>public.kern2.Ey-beria</key>
     <integer>-100</integer>
-    <key>public.kern2.R</key>
-    <integer>-80</integer>
-    <key>public.kern2.T</key>
-    <integer>-80</integer>
-    <key>public.kern2.U</key>
-    <integer>-40</integer>
-    <key>public.kern2.W</key>
-    <integer>-80</integer>
-    <key>public.kern2.Y</key>
+    <key>public.kern2.Gay-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.Z</key>
+    <key>public.kern2.Gna-beria</key>
     <integer>10</integer>
-    <key>public.kern2.e</key>
+    <key>public.kern2.Iyi-beria</key>
+    <integer>-50</integer>
+    <key>public.kern2.Oi-beria</key>
+    <integer>20</integer>
+    <key>public.kern2.Pi-beria</key>
+    <integer>-100</integer>
+    <key>public.kern2.Shep-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Tai-beria</key>
+    <integer>-80</integer>
+    <key>public.kern2.Uy-beria</key>
+    <integer>-40</integer>
+    <key>public.kern2.Way-beria</key>
+    <integer>-80</integer>
+    <key>public.kern2.Yay-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.djay-beria</key>
+    <integer>10</integer>
+    <key>public.kern2.emimi-beria</key>
+    <integer>20</integer>
+    <key>public.kern2.ey-beria</key>
     <integer>-90</integer>
     <key>public.kern2.four</key>
     <integer>-20</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>30</integer>
-    <key>public.kern2.j</key>
-    <integer>10</integer>
-    <key>public.kern2.m</key>
-    <integer>20</integer>
     <key>public.kern2.nine</key>
     <integer>-30</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>20</integer>
     <key>public.kern2.one</key>
     <integer>-90</integer>
     <key>public.kern2.seven</key>
     <integer>-20</integer>
-    <key>public.kern2.t</key>
+    <key>public.kern2.tai-beria</key>
     <integer>-90</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.w</key>
+    <key>public.kern2.way-beria</key>
     <integer>-50</integer>
-    <key>public.kern2.y</key>
+    <key>public.kern2.yay-beria</key>
     <integer>-30</integer>
     <key>public.kern2.zero</key>
     <integer>-30</integer>
   </dict>
   <key>public.kern1.quotesingle</key>
   <dict>
-    <key>public.kern2.C</key>
-    <integer>-80</integer>
-    <key>public.kern2.D</key>
+    <key>public.kern2.Chei-beria</key>
+    <integer>-60</integer>
+    <key>public.kern2.Day-beria</key>
     <integer>-50</integer>
-    <key>public.kern2.E</key>
-    <integer>-30</integer>
-    <key>public.kern2.F</key>
-    <integer>-30</integer>
-    <key>public.kern2.G</key>
+    <key>public.kern2.Djay-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.I</key>
+    <key>public.kern2.Effi-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.Elli-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.J</key>
-    <integer>-40</integer>
-    <key>public.kern2.K</key>
-    <integer>-110</integer>
-    <key>public.kern2.L</key>
-    <integer>-20</integer>
-    <key>public.kern2.M</key>
+    <key>public.kern2.Emmi-beria</key>
     <integer>-90</integer>
-    <key>public.kern2.N</key>
+    <key>public.kern2.Enni-beria</key>
     <integer>-80</integer>
-    <key>public.kern2.O</key>
-    <integer>-110</integer>
-    <key>public.kern2.S</key>
-    <integer>-60</integer>
-    <key>public.kern2.Y</key>
+    <key>public.kern2.Ey-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.Gay-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.Z</key>
+    <key>public.kern2.Gna-beria</key>
     <integer>-130</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.Iyi-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.Key-beria</key>
+    <integer>-110</integer>
+    <key>public.kern2.Oi-beria</key>
+    <integer>-110</integer>
+    <key>public.kern2.Shep-beria</key>
+    <integer>-80</integer>
+    <key>public.kern2.Yay-beria</key>
+    <integer>-40</integer>
+    <key>public.kern2.bay-beria</key>
     <integer>-60</integer>
-    <key>public.kern2.c</key>
+    <key>public.kern2.chei-beria</key>
     <integer>-60</integer>
-    <key>public.kern2.e</key>
-    <integer>-10</integer>
+    <key>public.kern2.djay-beria</key>
+    <integer>-20</integer>
     <key>public.kern2.eight</key>
     <integer>-50</integer>
+    <key>public.kern2.elli-beria</key>
+    <integer>-70</integer>
+    <key>public.kern2.emimi-beria</key>
+    <integer>-120</integer>
+    <key>public.kern2.enni-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.ey-beria</key>
+    <integer>-10</integer>
     <key>public.kern2.five</key>
     <integer>-30</integer>
     <key>public.kern2.four</key>
     <integer>-110</integer>
-    <key>public.kern2.g</key>
+    <key>public.kern2.gay-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.h</key>
+    <key>public.kern2.hay-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-120</integer>
-    <key>public.kern2.j</key>
-    <integer>-20</integer>
-    <key>public.kern2.k</key>
+    <key>public.kern2.key-beria</key>
     <integer>-50</integer>
-    <key>public.kern2.l</key>
-    <integer>-70</integer>
-    <key>public.kern2.m</key>
-    <integer>-120</integer>
-    <key>public.kern2.n</key>
-    <integer>-20</integer>
     <key>public.kern2.nine</key>
     <integer>-50</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-110</integer>
     <key>public.kern2.one</key>
     <integer>-30</integer>
-    <key>public.kern2.s</key>
+    <key>public.kern2.shep-beria</key>
     <integer>-60</integer>
     <key>public.kern2.three</key>
     <integer>-30</integer>
     <key>public.kern2.two</key>
     <integer>-30</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>20</integer>
-    <key>public.kern2.y</key>
+    <key>public.kern2.yay-beria</key>
     <integer>-40</integer>
     <key>public.kern2.zero</key>
     <integer>-70</integer>
   </dict>
   <key>public.kern1.registered</key>
   <dict>
-    <key>public.kern2.Aacute</key>
+    <key>public.kern2.Ay_acute-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.C</key>
-    <integer>-20</integer>
-    <key>public.kern2.D</key>
+    <key>public.kern2.Chei-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.Day-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.I</key>
+    <key>public.kern2.Djay-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Elli-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.Emmi-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.Gna-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.Iyi-beria</key>
     <integer>20</integer>
-    <key>public.kern2.J</key>
+    <key>public.kern2.Key-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.K</key>
-    <integer>-10</integer>
-    <key>public.kern2.L</key>
-    <integer>-20</integer>
-    <key>public.kern2.M</key>
-    <integer>-30</integer>
-    <key>public.kern2.O</key>
+    <key>public.kern2.Oi-beria</key>
     <integer>-50</integer>
-    <key>public.kern2.S</key>
+    <key>public.kern2.Shep-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.Tai-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.chei-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.djay-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.effi-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.elli-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.T</key>
+    <key>public.kern2.emimi-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.iyi-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.oi-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.Z</key>
+    <key>public.kern2.shep-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.c</key>
+    <key>public.kern2.tai-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.f</key>
-    <integer>-20</integer>
-    <key>public.kern2.i</key>
-    <integer>-20</integer>
-    <key>public.kern2.j</key>
+    <key>public.kern2.uy-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.l</key>
-    <integer>-30</integer>
-    <key>public.kern2.m</key>
-    <integer>-20</integer>
-    <key>public.kern2.o</key>
-    <integer>-10</integer>
-    <key>public.kern2.s</key>
-    <integer>-20</integer>
-    <key>public.kern2.t</key>
-    <integer>-20</integer>
-    <key>public.kern2.u</key>
-    <integer>-10</integer>
-  </dict>
-  <key>public.kern1.s</key>
-  <dict>
-    <key>public.kern2.b</key>
-    <integer>-50</integer>
-    <key>public.kern2.i</key>
-    <integer>-70</integer>
-    <key>public.kern2.o</key>
-    <integer>-55</integer>
-    <key>public.kern2.semicolon</key>
-    <integer>-30</integer>
-    <key>public.kern2.u</key>
-    <integer>10</integer>
   </dict>
   <key>public.kern1.semicolon</key>
   <dict>
-    <key>public.kern2.Aacute</key>
+    <key>public.kern2.Ay_acute-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.B</key>
+    <key>public.kern2.Bay-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.C</key>
-    <integer>-20</integer>
-    <key>public.kern2.D</key>
-    <integer>-20</integer>
-    <key>public.kern2.G</key>
+    <key>public.kern2.Chei-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.L</key>
-    <integer>-10</integer>
-    <key>public.kern2.P</key>
+    <key>public.kern2.Day-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.S</key>
+    <key>public.kern2.Elli-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.T</key>
+    <key>public.kern2.Gay-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Gna-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.Pi-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.Shep-beria</key>
+    <integer>-20</integer>
+    <key>public.kern2.Tai-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.U</key>
+    <key>public.kern2.Uy-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.W</key>
+    <key>public.kern2.Way-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.Z</key>
-    <integer>-10</integer>
-    <key>public.kern2.a</key>
+    <key>public.kern2.ay-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.bay-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.c</key>
+    <key>public.kern2.chei-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.day-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.d</key>
-    <integer>-10</integer>
-    <key>public.kern2.f</key>
+    <key>public.kern2.effi-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.g</key>
+    <key>public.kern2.enni-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.k</key>
+    <key>public.kern2.gay-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.key-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.n</key>
-    <integer>-10</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>10</integer>
     <key>public.kern2.one</key>
     <integer>-40</integer>
-    <key>public.kern2.s</key>
-    <integer>-30</integer>
-    <key>public.kern2.t</key>
+    <key>public.kern2.shep-beria</key>
+    <integer>-10</integer>
+    <key>public.kern2.tai-beria</key>
     <integer>-60</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.w</key>
+    <key>public.kern2.way-beria</key>
     <integer>-10</integer>
   </dict>
   <key>public.kern1.seven</key>
@@ -4003,6 +4116,17 @@
     <integer>30</integer>
     <key>public.kern2.quoteleft</key>
     <integer>30</integer>
+  </dict>
+  <key>public.kern1.shep-beria</key>
+  <dict>
+    <key>public.kern2.bay-beria</key>
+    <integer>-15</integer>
+    <key>public.kern2.iyi-beria</key>
+    <integer>-55</integer>
+    <key>public.kern2.oi-beria</key>
+    <integer>-55</integer>
+    <key>public.kern2.uy-beria</key>
+    <integer>15</integer>
   </dict>
   <key>public.kern1.six</key>
   <dict>
@@ -4015,21 +4139,21 @@
   </dict>
   <key>public.kern1.slash</key>
   <dict>
-    <key>public.kern2.E</key>
+    <key>public.kern2.Ey-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.O</key>
+    <key>public.kern2.Oi-beria</key>
     <integer>-110</integer>
-    <key>public.kern2.U</key>
+    <key>public.kern2.Uy-beria</key>
     <integer>10</integer>
-    <key>public.kern2.a</key>
+    <key>public.kern2.ay-beria</key>
     <integer>25</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.bay-beria</key>
     <integer>-70</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-170</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-170</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>40</integer>
     <key>public.kern2.zero</key>
     <integer>-20</integer>
@@ -4039,25 +4163,25 @@
     <key>public.kern2.quoteleft</key>
     <integer>-80</integer>
   </dict>
-  <key>public.kern1.t</key>
+  <key>public.kern1.tai-beria</key>
   <dict>
-    <key>public.kern2.a</key>
+    <key>public.kern2.ay-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.bay-beria</key>
     <integer>-25</integer>
-    <key>public.kern2.e</key>
+    <key>public.kern2.ey-beria</key>
     <integer>-5</integer>
     <key>public.kern2.hyphen</key>
     <integer>-20</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-15</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-20</integer>
     <key>public.kern2.quotesingle</key>
     <integer>-10</integer>
     <key>public.kern2.semicolon</key>
     <integer>-40</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>20</integer>
   </dict>
   <key>public.kern1.three</key>
@@ -4078,45 +4202,45 @@
     <key>public.kern2.quotesingle</key>
     <integer>-50</integer>
   </dict>
-  <key>public.kern1.u</key>
+  <key>public.kern1.uy-beria</key>
   <dict>
-    <key>public.kern2.a</key>
-    <integer>-40</integer>
     <key>public.kern2.asterisk</key>
     <integer>-60</integer>
-    <key>public.kern2.b</key>
-    <integer>-10</integer>
+    <key>public.kern2.ay-beria</key>
+    <integer>-40</integer>
     <key>public.kern2.backslash</key>
     <integer>-130</integer>
+    <key>public.kern2.bay-beria</key>
+    <integer>-10</integer>
     <key>public.kern2.braceright</key>
     <integer>-20</integer>
-    <key>public.kern2.c</key>
-    <integer>-40</integer>
+    <key>public.kern2.chei-beria</key>
+    <integer>-25</integer>
     <key>public.kern2.comma</key>
-    <integer>-30</integer>
-    <key>public.kern2.d</key>
     <integer>-30</integer>
     <key>public.kern2.dagger</key>
     <integer>-40</integer>
-    <key>public.kern2.e</key>
-    <integer>-25</integer>
-    <key>public.kern2.f</key>
+    <key>public.kern2.day-beria</key>
+    <integer>-30</integer>
+    <key>public.kern2.djay-beria</key>
+    <integer>-5</integer>
+    <key>public.kern2.effi-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.g</key>
+    <key>public.kern2.elli-beria</key>
+    <integer>-15</integer>
+    <key>public.kern2.ey-beria</key>
+    <integer>-25</integer>
+    <key>public.kern2.gay-beria</key>
     <integer>-30</integer>
     <key>public.kern2.guilsinglleft</key>
     <integer>-10</integer>
     <key>public.kern2.guilsinglright</key>
     <integer>-20</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.j</key>
-    <integer>-5</integer>
-    <key>public.kern2.k</key>
+    <key>public.kern2.key-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.l</key>
-    <integer>-15</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-15</integer>
     <key>public.kern2.parenright</key>
     <integer>-30</integer>
@@ -4130,72 +4254,49 @@
     <integer>-110</integer>
     <key>public.kern2.quotesingle</key>
     <integer>-70</integer>
-    <key>public.kern2.s</key>
-    <integer>-25</integer>
     <key>public.kern2.semicolon</key>
     <integer>-10</integer>
+    <key>public.kern2.shep-beria</key>
+    <integer>-40</integer>
     <key>public.kern2.slash</key>
     <integer>-50</integer>
-    <key>public.kern2.t</key>
+    <key>public.kern2.tai-beria</key>
     <integer>-60</integer>
     <key>public.kern2.trademark</key>
     <integer>-40</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>-60</integer>
-    <key>public.kern2.w</key>
+    <key>public.kern2.way-beria</key>
     <integer>-65</integer>
-    <key>public.kern2.y</key>
+    <key>public.kern2.yay-beria</key>
     <integer>-25</integer>
   </dict>
-  <key>public.kern1.w</key>
+  <key>public.kern1.way-beria</key>
   <dict>
-    <key>public.kern2.b</key>
+    <key>public.kern2.bay-beria</key>
     <integer>-50</integer>
     <key>public.kern2.guilsinglleft</key>
     <integer>-20</integer>
     <key>public.kern2.hyphen</key>
     <integer>-30</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-30</integer>
     <key>public.kern2.semicolon</key>
     <integer>-10</integer>
   </dict>
-  <key>public.kern1.x</key>
+  <key>public.kern1.yay-beria</key>
   <dict>
-    <key>public.kern2.a</key>
-    <integer>-40</integer>
-    <key>public.kern2.b</key>
-    <integer>-10</integer>
-    <key>public.kern2.dagger</key>
-    <integer>-40</integer>
-    <key>public.kern2.e</key>
-    <integer>-25</integer>
-    <key>public.kern2.i</key>
-    <integer>-10</integer>
-    <key>public.kern2.o</key>
-    <integer>-10</integer>
-    <key>public.kern2.quoteleft</key>
-    <integer>-80</integer>
-    <key>public.kern2.quoteright</key>
-    <integer>-100</integer>
-    <key>public.kern2.quotesingle</key>
-    <integer>-100</integer>
-    <key>public.kern2.u</key>
-    <integer>-15</integer>
-  </dict>
-  <key>public.kern1.y</key>
-  <dict>
-    <key>public.kern2.a</key>
+    <key>public.kern2.ay-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.b</key>
+    <key>public.kern2.bay-beria</key>
     <integer>-10</integer>
     <key>public.kern2.guilsinglright</key>
     <integer>-10</integer>
-    <key>public.kern2.i</key>
+    <key>public.kern2.iyi-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.o</key>
+    <key>public.kern2.oi-beria</key>
     <integer>-20</integer>
     <key>public.kern2.quoteleft</key>
     <integer>-40</integer>
@@ -4203,28 +4304,7 @@
     <integer>-60</integer>
     <key>public.kern2.quotesingle</key>
     <integer>-50</integer>
-    <key>public.kern2.u</key>
-    <integer>-10</integer>
-  </dict>
-  <key>public.kern1.z</key>
-  <dict>
-    <key>public.kern2.a</key>
-    <integer>-30</integer>
-    <key>public.kern2.dagger</key>
-    <integer>-30</integer>
-    <key>public.kern2.e</key>
-    <integer>-25</integer>
-    <key>public.kern2.guilsinglright</key>
-    <integer>-10</integer>
-    <key>public.kern2.o</key>
-    <integer>-5</integer>
-    <key>public.kern2.quoteleft</key>
-    <integer>-70</integer>
-    <key>public.kern2.quoteright</key>
-    <integer>-60</integer>
-    <key>public.kern2.quotesingle</key>
-    <integer>-80</integer>
-    <key>public.kern2.u</key>
+    <key>public.kern2.uy-beria</key>
     <integer>-10</integer>
   </dict>
   <key>public.kern1.zero</key>
@@ -4264,11 +4344,11 @@
   </dict>
   <key>question</key>
   <dict>
-    <key>K</key>
-    <integer>-70</integer>
-    <key>N</key>
+    <key>Enni-beria</key>
     <integer>-50</integer>
-    <key>n</key>
+    <key>Key-beria</key>
+    <integer>-70</integer>
+    <key>enni-beria</key>
     <integer>-30</integer>
   </dict>
   <key>quotedbl</key>
@@ -4282,41 +4362,6 @@
     <integer>-170</integer>
     <key>period</key>
     <integer>-160</integer>
-  </dict>
-  <key>s</key>
-  <dict>
-    <key>ampersand</key>
-    <integer>-10</integer>
-    <key>asterisk</key>
-    <integer>30</integer>
-    <key>c</key>
-    <integer>-70</integer>
-    <key>comma</key>
-    <integer>-100</integer>
-    <key>f</key>
-    <integer>-10</integer>
-    <key>g</key>
-    <integer>-25</integer>
-    <key>j</key>
-    <integer>-10</integer>
-    <key>k</key>
-    <integer>-40</integer>
-    <key>l</key>
-    <integer>-30</integer>
-    <key>m</key>
-    <integer>-70</integer>
-    <key>n</key>
-    <integer>-25</integer>
-    <key>period</key>
-    <integer>-110</integer>
-    <key>s</key>
-    <integer>-85</integer>
-    <key>slash</key>
-    <integer>-120</integer>
-    <key>trademark</key>
-    <integer>20</integer>
-    <key>y</key>
-    <integer>-10</integer>
   </dict>
   <key>section</key>
   <dict>
@@ -4362,6 +4407,35 @@
     <key>two</key>
     <integer>30</integer>
   </dict>
+  <key>shep-beria</key>
+  <dict>
+    <key>asterisk</key>
+    <integer>40</integer>
+    <key>chei-beria</key>
+    <integer>-70</integer>
+    <key>comma</key>
+    <integer>-80</integer>
+    <key>djay-beria</key>
+    <integer>-10</integer>
+    <key>elli-beria</key>
+    <integer>-40</integer>
+    <key>emimi-beria</key>
+    <integer>-45</integer>
+    <key>enni-beria</key>
+    <integer>-10</integer>
+    <key>gay-beria</key>
+    <integer>-10</integer>
+    <key>key-beria</key>
+    <integer>-30</integer>
+    <key>period</key>
+    <integer>-100</integer>
+    <key>shep-beria</key>
+    <integer>-65</integer>
+    <key>slash</key>
+    <integer>-120</integer>
+    <key>way-beria</key>
+    <integer>10</integer>
+  </dict>
   <key>six</key>
   <dict>
     <key>asterisk</key>
@@ -4397,77 +4471,77 @@
   </dict>
   <key>slash</key>
   <dict>
-    <key>B</key>
+    <key>Bay-beria</key>
     <integer>40</integer>
-    <key>C</key>
-    <integer>-30</integer>
-    <key>D</key>
-    <integer>-50</integer>
-    <key>F</key>
-    <integer>-40</integer>
-    <key>G</key>
-    <integer>-30</integer>
-    <key>J</key>
-    <integer>-20</integer>
-    <key>K</key>
-    <integer>-80</integer>
-    <key>M</key>
-    <integer>-220</integer>
-    <key>N</key>
-    <integer>-70</integer>
-    <key>P</key>
-    <integer>40</integer>
-    <key>S</key>
+    <key>Chei-beria</key>
     <integer>-60</integer>
-    <key>T</key>
-    <integer>30</integer>
-    <key>W</key>
-    <integer>40</integer>
-    <key>Y</key>
-    <integer>-40</integer>
-    <key>Z</key>
-    <integer>-150</integer>
-    <key>c</key>
+    <key>Day-beria</key>
     <integer>-50</integer>
+    <key>Djay-beria</key>
+    <integer>-20</integer>
+    <key>Effi-beria</key>
+    <integer>-40</integer>
+    <key>Emmi-beria</key>
+    <integer>-220</integer>
+    <key>Enni-beria</key>
+    <integer>-70</integer>
+    <key>Gay-beria</key>
+    <integer>-30</integer>
+    <key>Gna-beria</key>
+    <integer>-150</integer>
+    <key>Key-beria</key>
+    <integer>-80</integer>
+    <key>Pi-beria</key>
+    <integer>40</integer>
+    <key>Shep-beria</key>
+    <integer>-30</integer>
+    <key>Tai-beria</key>
+    <integer>30</integer>
+    <key>Way-beria</key>
+    <integer>40</integer>
+    <key>Yay-beria</key>
+    <integer>-40</integer>
+    <key>chei-beria</key>
+    <integer>-50</integer>
+    <key>djay-beria</key>
+    <integer>-15</integer>
+    <key>effi-beria</key>
+    <integer>20</integer>
     <key>eight</key>
     <integer>-10</integer>
-    <key>f</key>
-    <integer>20</integer>
+    <key>elli-beria</key>
+    <integer>-110</integer>
+    <key>emimi-beria</key>
+    <integer>-210</integer>
+    <key>enni-beria</key>
+    <integer>-50</integer>
     <key>four</key>
     <integer>-100</integer>
-    <key>g</key>
+    <key>gay-beria</key>
     <integer>-10</integer>
-    <key>j</key>
-    <integer>-15</integer>
-    <key>k</key>
+    <key>key-beria</key>
     <integer>-90</integer>
-    <key>l</key>
-    <integer>-110</integer>
-    <key>m</key>
-    <integer>-210</integer>
-    <key>n</key>
-    <integer>-50</integer>
     <key>period</key>
     <integer>-100</integer>
-    <key>s</key>
-    <integer>-50</integer>
     <key>seven</key>
     <integer>60</integer>
+    <key>shep-beria</key>
+    <integer>-50</integer>
     <key>slash</key>
     <integer>-380</integer>
-    <key>t</key>
+    <key>tai-beria</key>
     <integer>30</integer>
     <key>three</key>
     <integer>20</integer>
-    <key>y</key>
+    <key>yay-beria</key>
     <integer>-30</integer>
   </dict>
   <key>space</key>
   <dict>
-    <key>n</key>
+    <key>enni-beria</key>
     <integer>-80</integer>
   </dict>
-  <key>t</key>
+  <key>tai-beria</key>
   <dict>
     <key>ampersand</key>
     <integer>-10</integer>
@@ -4477,33 +4551,33 @@
     <integer>20</integer>
     <key>bullet</key>
     <integer>-20</integer>
-    <key>c</key>
-    <integer>-30</integer>
+    <key>chei-beria</key>
+    <integer>-15</integer>
     <key>comma</key>
     <integer>-30</integer>
-    <key>d</key>
+    <key>day-beria</key>
     <integer>-5</integer>
-    <key>g</key>
-    <integer>-20</integer>
-    <key>j</key>
+    <key>djay-beria</key>
     <integer>-10</integer>
-    <key>k</key>
+    <key>elli-beria</key>
+    <integer>-10</integer>
+    <key>emimi-beria</key>
+    <integer>-20</integer>
+    <key>enni-beria</key>
+    <integer>-20</integer>
+    <key>gay-beria</key>
+    <integer>-20</integer>
+    <key>key-beria</key>
     <integer>-25</integer>
-    <key>l</key>
-    <integer>-10</integer>
-    <key>m</key>
-    <integer>-20</integer>
-    <key>n</key>
-    <integer>-20</integer>
     <key>period</key>
     <integer>-30</integer>
-    <key>s</key>
-    <integer>-15</integer>
+    <key>shep-beria</key>
+    <integer>-30</integer>
     <key>slash</key>
     <integer>-60</integer>
     <key>trademark</key>
     <integer>20</integer>
-    <key>y</key>
+    <key>yay-beria</key>
     <integer>-20</integer>
   </dict>
   <key>three</key>
@@ -4556,75 +4630,40 @@
     <key>question</key>
     <integer>-30</integer>
   </dict>
-  <key>w</key>
+  <key>way-beria</key>
   <dict>
     <key>ampersand</key>
     <integer>-10</integer>
     <key>bullet</key>
     <integer>-30</integer>
-    <key>c</key>
-    <integer>-35</integer>
+    <key>chei-beria</key>
+    <integer>-30</integer>
     <key>comma</key>
     <integer>-60</integer>
-    <key>f</key>
+    <key>effi-beria</key>
     <integer>-10</integer>
-    <key>g</key>
-    <integer>-10</integer>
-    <key>k</key>
-    <integer>-35</integer>
-    <key>l</key>
+    <key>elli-beria</key>
     <integer>-20</integer>
-    <key>m</key>
+    <key>emimi-beria</key>
     <integer>-20</integer>
-    <key>n</key>
+    <key>enni-beria</key>
     <integer>-30</integer>
+    <key>gay-beria</key>
+    <integer>-10</integer>
+    <key>key-beria</key>
+    <integer>-35</integer>
     <key>period</key>
     <integer>-50</integer>
-    <key>s</key>
-    <integer>-30</integer>
+    <key>shep-beria</key>
+    <integer>-35</integer>
     <key>slash</key>
     <integer>-60</integer>
     <key>trademark</key>
     <integer>20</integer>
-    <key>w</key>
+    <key>way-beria</key>
     <integer>-20</integer>
   </dict>
-  <key>x</key>
-  <dict>
-    <key>asterisk</key>
-    <integer>-50</integer>
-    <key>backslash</key>
-    <integer>-110</integer>
-    <key>c</key>
-    <integer>-5</integer>
-    <key>comma</key>
-    <integer>-10</integer>
-    <key>d</key>
-    <integer>-20</integer>
-    <key>f</key>
-    <integer>-20</integer>
-    <key>g</key>
-    <integer>-10</integer>
-    <key>parenright</key>
-    <integer>-20</integer>
-    <key>period</key>
-    <integer>-10</integer>
-    <key>question</key>
-    <integer>-50</integer>
-    <key>s</key>
-    <integer>-20</integer>
-    <key>slash</key>
-    <integer>-20</integer>
-    <key>t</key>
-    <integer>-50</integer>
-    <key>trademark</key>
-    <integer>-50</integer>
-    <key>w</key>
-    <integer>-50</integer>
-    <key>y</key>
-    <integer>-10</integer>
-  </dict>
-  <key>y</key>
+  <key>yay-beria</key>
   <dict>
     <key>asterisk</key>
     <integer>-20</integer>
@@ -4632,21 +4671,21 @@
     <integer>-40</integer>
     <key>braceright</key>
     <integer>-10</integer>
-    <key>c</key>
-    <integer>-40</integer>
+    <key>chei-beria</key>
+    <integer>-30</integer>
     <key>comma</key>
     <integer>-35</integer>
-    <key>d</key>
+    <key>day-beria</key>
     <integer>-25</integer>
-    <key>f</key>
+    <key>effi-beria</key>
     <integer>-30</integer>
-    <key>g</key>
-    <integer>-25</integer>
-    <key>k</key>
-    <integer>-10</integer>
-    <key>l</key>
+    <key>elli-beria</key>
     <integer>-20</integer>
-    <key>m</key>
+    <key>emimi-beria</key>
+    <integer>-10</integer>
+    <key>gay-beria</key>
+    <integer>-25</integer>
+    <key>key-beria</key>
     <integer>-10</integer>
     <key>parenright</key>
     <integer>-20</integer>
@@ -4654,17 +4693,17 @@
     <integer>-40</integer>
     <key>question</key>
     <integer>-20</integer>
-    <key>s</key>
-    <integer>-30</integer>
+    <key>shep-beria</key>
+    <integer>-40</integer>
     <key>slash</key>
     <integer>-80</integer>
-    <key>t</key>
+    <key>tai-beria</key>
     <integer>-40</integer>
     <key>trademark</key>
     <integer>-10</integer>
-    <key>w</key>
+    <key>way-beria</key>
     <integer>-10</integer>
-    <key>y</key>
+    <key>yay-beria</key>
     <integer>-30</integer>
   </dict>
   <key>yen</key>
@@ -4673,45 +4712,6 @@
     <integer>-20</integer>
     <key>seven</key>
     <integer>50</integer>
-  </dict>
-  <key>z</key>
-  <dict>
-    <key>asterisk</key>
-    <integer>-30</integer>
-    <key>backslash</key>
-    <integer>-80</integer>
-    <key>braceright</key>
-    <integer>-10</integer>
-    <key>c</key>
-    <integer>-20</integer>
-    <key>comma</key>
-    <integer>-20</integer>
-    <key>d</key>
-    <integer>-25</integer>
-    <key>f</key>
-    <integer>-20</integer>
-    <key>g</key>
-    <integer>-20</integer>
-    <key>j</key>
-    <integer>-15</integer>
-    <key>parenright</key>
-    <integer>-20</integer>
-    <key>period</key>
-    <integer>-10</integer>
-    <key>question</key>
-    <integer>-40</integer>
-    <key>s</key>
-    <integer>-20</integer>
-    <key>slash</key>
-    <integer>-20</integer>
-    <key>t</key>
-    <integer>-55</integer>
-    <key>trademark</key>
-    <integer>-30</integer>
-    <key>w</key>
-    <integer>-40</integer>
-    <key>y</key>
-    <integer>-10</integer>
   </dict>
 </dict>
 </plist>

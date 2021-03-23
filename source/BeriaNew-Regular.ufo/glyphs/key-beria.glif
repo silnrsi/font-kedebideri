@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="key-beria" format="2">
+  <advance width="647"/>
+  <unicode hex="006B"/>
+  <note>
+k
+</note>
+  <outline>
+    <contour>
+      <point x="330" y="-11" type="curve" smooth="yes"/>
+      <point x="482" y="-11"/>
+      <point x="571" y="73"/>
+      <point x="571" y="207" type="curve" smooth="yes"/>
+      <point x="571" y="352"/>
+      <point x="462" y="419"/>
+      <point x="313" y="450" type="curve" smooth="yes"/>
+      <point x="294" y="454"/>
+      <point x="272" y="459"/>
+      <point x="248" y="463" type="curve"/>
+      <point x="348" y="660" type="line"/>
+      <point x="291" y="689" type="line"/>
+      <point x="176" y="458" type="line"/>
+      <point x="176" y="410" type="line"/>
+      <point x="259" y="401"/>
+      <point x="276" y="397"/>
+      <point x="302" y="392" type="curve" smooth="yes"/>
+      <point x="422" y="368"/>
+      <point x="505" y="313"/>
+      <point x="505" y="207" type="curve" smooth="yes"/>
+      <point x="505" y="107"/>
+      <point x="440" y="48"/>
+      <point x="330" y="48" type="curve" smooth="yes"/>
+      <point x="220" y="48"/>
+      <point x="141" y="94"/>
+      <point x="141" y="202" type="curve"/>
+      <point x="76" y="202" type="line"/>
+      <point x="76" y="53"/>
+      <point x="182" y="-11"/>
+    </contour>
+  </outline>
+</glyph>

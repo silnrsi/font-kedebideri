@@ -785,53 +785,53 @@
     <string>.null</string>
     <string>CR</string>
     <string>space</string>
-    <string>E</string>
-    <string>F</string>
-    <string>H</string>
-    <string>a</string>
-    <string>b</string>
+    <string>Ey-beria</string>
+    <string>Effi-beria</string>
+    <string>Hay-beria</string>
+    <string>ay-beria</string>
+    <string>bay-beria</string>
     <string>period</string>
-    <string>c</string>
-    <string>d</string>
-    <string>e</string>
-    <string>f</string>
-    <string>g</string>
-    <string>h</string>
-    <string>i</string>
-    <string>j</string>
-    <string>k</string>
-    <string>l</string>
-    <string>m</string>
-    <string>n</string>
-    <string>o</string>
-    <string>p</string>
-    <string>r</string>
-    <string>s</string>
-    <string>t</string>
-    <string>u</string>
-    <string>w</string>
-    <string>x</string>
-    <string>y</string>
-    <string>z</string>
-    <string>grave</string>
-    <string>acute</string>
-    <string>G</string>
-    <string>I</string>
-    <string>J</string>
-    <string>K</string>
-    <string>L</string>
-    <string>M</string>
-    <string>N</string>
-    <string>O</string>
-    <string>P</string>
-    <string>R</string>
-    <string>S</string>
-    <string>T</string>
-    <string>U</string>
-    <string>W</string>
-    <string>X</string>
-    <string>Y</string>
-    <string>Z</string>
+    <string>shep-beria</string>
+    <string>day-beria</string>
+    <string>ey-beria</string>
+    <string>effi-beria</string>
+    <string>gay-beria</string>
+    <string>hay-beria</string>
+    <string>iyi-beria</string>
+    <string>djay-beria</string>
+    <string>key-beria</string>
+    <string>elli-beria</string>
+    <string>emimi-beria</string>
+    <string>enni-beria</string>
+    <string>oi-beria</string>
+    <string>pi-beria</string>
+    <string>erri-beria</string>
+    <string>chei-beria</string>
+    <string>tai-beria</string>
+    <string>uy-beria</string>
+    <string>way-beria</string>
+    <string>nay-beria</string>
+    <string>yay-beria</string>
+    <string>gna-beria</string>
+    <string>grave-beria</string>
+    <string>acute-beria</string>
+    <string>Gay-beria</string>
+    <string>Iyi-beria</string>
+    <string>Djay-beria</string>
+    <string>Key-beria</string>
+    <string>Elli-beria</string>
+    <string>Emmi-beria</string>
+    <string>Enni-beria</string>
+    <string>Oi-beria</string>
+    <string>Pi-beria</string>
+    <string>Erri-beria</string>
+    <string>Chei-beria</string>
+    <string>Tai-beria</string>
+    <string>Uy-beria</string>
+    <string>Way-beria</string>
+    <string>Nay-beria</string>
+    <string>Yay-beria</string>
+    <string>Gna-beria</string>
     <string>zero</string>
     <string>one</string>
     <string>two</string>
@@ -842,9 +842,9 @@
     <string>seven</string>
     <string>eight</string>
     <string>nine</string>
-    <string>macron</string>
-    <string>dotaccent</string>
-    <string>D</string>
+    <string>macron-beria</string>
+    <string>dot-beria</string>
+    <string>Day-beria</string>
     <string>comma</string>
     <string>semicolon</string>
     <string>colon</string>
@@ -856,25 +856,25 @@
     <string>plus</string>
     <string>minus</string>
     <string>divide</string>
-    <string>Aacute</string>
+    <string>Ay_acute-beria</string>
     <string>Adotaccent</string>
-    <string>aacute</string>
+    <string>ay_acute-beria</string>
     <string>adotaccent</string>
-    <string>Eacute</string>
-    <string>Edotaccent</string>
-    <string>iacute</string>
+    <string>Ey_acute-beria</string>
+    <string>Ey_dot-beria</string>
+    <string>iyi_acute-beria</string>
     <string>idotaccent</string>
-    <string>Oacute</string>
+    <string>Oi_acute-beria</string>
     <string>Odotaccent</string>
-    <string>Iacute</string>
-    <string>Idotaccent</string>
-    <string>Uacute</string>
+    <string>Iyi_acute-beria</string>
+    <string>Iyi_dot-beria</string>
+    <string>Uy_acute-beria</string>
     <string>Udotaccent</string>
-    <string>oacute</string>
+    <string>oi_acute-beria</string>
     <string>odotaccent</string>
-    <string>eacute</string>
-    <string>edotaccent</string>
-    <string>uacute</string>
+    <string>ey_acute-beria</string>
+    <string>ey_dot-beria</string>
+    <string>uy_acute-beria</string>
     <string>udotaccent</string>
     <string>paragraph</string>
     <string>equal</string>
@@ -928,31 +928,31 @@
     <string>guillemotright</string>
     <string>asciitilde</string>
     <string>logicalnot</string>
-    <string>A</string>
-    <string>Agrave</string>
-    <string>agrave</string>
-    <string>Egrave</string>
-    <string>egrave</string>
-    <string>Igrave</string>
-    <string>igrave</string>
-    <string>Ograve</string>
-    <string>ograve</string>
-    <string>Ugrave</string>
-    <string>ugrave</string>
-    <string>Ecircumflex</string>
+    <string>Ay-beria</string>
+    <string>Ay_grave-beria</string>
+    <string>ay_grave-beria</string>
+    <string>Ey_grave-beria</string>
+    <string>ey_grave-beria</string>
+    <string>Iyi_grave-beria</string>
+    <string>iyi_grave-beria</string>
+    <string>Oi_grave-beria</string>
+    <string>oi_grave-beria</string>
+    <string>Uy_grave-beria</string>
+    <string>uy_grave-beria</string>
+    <string>Ey_macron-beria</string>
     <string>approxequal</string>
     <string>germandbls</string>
-    <string>acircumflex</string>
-    <string>Ocircumflex</string>
-    <string>Ucircumflex</string>
-    <string>Icircumflex</string>
-    <string>ucircumflex</string>
-    <string>ocircumflex</string>
-    <string>Acircumflex</string>
-    <string>icircumflex</string>
-    <string>ecircumflex</string>
-    <string>B</string>
-    <string>C</string>
+    <string>ay_macron-beria</string>
+    <string>Oi_macron-beria</string>
+    <string>Uy_macron-beria</string>
+    <string>Iyi_macron-beria</string>
+    <string>uy_macron-beria</string>
+    <string>oi_macron-beria</string>
+    <string>Ay_macron-beria</string>
+    <string>iyi_macron-beria</string>
+    <string>ey_macron-beria</string>
+    <string>Bay-beria</string>
+    <string>Shep-beria</string>
   </array>
   <key>public.postscriptNames</key>
   <dict>

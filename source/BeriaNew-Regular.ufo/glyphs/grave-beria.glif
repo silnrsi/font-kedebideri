@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave-beria" format="2">
+  <advance width="500"/>
+  <unicode hex="0060"/>
+  <note>
+grave
+</note>
+  <outline>
+    <contour>
+      <point x="110" y="812" type="line"/>
+      <point x="378" y="728" type="line"/>
+      <point x="398" y="792" type="line"/>
+      <point x="130" y="876" type="line"/>
+    </contour>
+  </outline>
+</glyph>
