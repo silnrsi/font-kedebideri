@@ -2,9 +2,6 @@
 <glyph name="Iyi_dot-beria" format="2">
   <advance width="887"/>
   <unicode hex="E02A"/>
-  <note>
-Idotaccent
-</note>
   <outline>
     <contour>
       <point x="281" y="156" type="curve" smooth="yes"/>

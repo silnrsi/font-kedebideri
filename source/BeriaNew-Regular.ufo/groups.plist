@@ -5,7 +5,6 @@
   <key>public.kern1.Ay_acute-beria</key>
   <array>
     <string>Ay_acute-beria</string>
-    <string>Adotaccent</string>
     <string>Ay-beria</string>
     <string>Ay_grave-beria</string>
     <string>Ay_macron-beria</string>
@@ -80,7 +79,6 @@
   <array>
     <string>Oi-beria</string>
     <string>Oi_acute-beria</string>
-    <string>Odotaccent</string>
     <string>Oi_grave-beria</string>
     <string>Oi_macron-beria</string>
   </array>
@@ -100,7 +98,6 @@
   <array>
     <string>Uy-beria</string>
     <string>Uy_acute-beria</string>
-    <string>Udotaccent</string>
     <string>Uy_grave-beria</string>
     <string>Uy_macron-beria</string>
   </array>
@@ -124,7 +121,6 @@
   <array>
     <string>ay-beria</string>
     <string>ay_acute-beria</string>
-    <string>adotaccent</string>
     <string>ay_grave-beria</string>
     <string>ay_macron-beria</string>
   </array>
@@ -239,7 +235,6 @@
   <array>
     <string>iyi-beria</string>
     <string>iyi_acute-beria</string>
-    <string>idotaccent</string>
     <string>iyi_grave-beria</string>
     <string>iyi_macron-beria</string>
   </array>
@@ -255,7 +250,6 @@
   <array>
     <string>oi-beria</string>
     <string>oi_acute-beria</string>
-    <string>odotaccent</string>
     <string>oi_grave-beria</string>
     <string>oi_macron-beria</string>
   </array>
@@ -341,7 +335,6 @@
   <array>
     <string>uy-beria</string>
     <string>uy_acute-beria</string>
-    <string>udotaccent</string>
     <string>uy_grave-beria</string>
     <string>uy_macron-beria</string>
   </array>
@@ -361,7 +354,6 @@
   <key>public.kern2.Ay_acute-beria</key>
   <array>
     <string>Ay_acute-beria</string>
-    <string>Adotaccent</string>
     <string>Ay-beria</string>
     <string>Ay_grave-beria</string>
     <string>Ay_macron-beria</string>
@@ -438,7 +430,6 @@
   <array>
     <string>Oi-beria</string>
     <string>Oi_acute-beria</string>
-    <string>Odotaccent</string>
     <string>Oi_grave-beria</string>
     <string>Oi_macron-beria</string>
   </array>
@@ -458,7 +449,6 @@
   <array>
     <string>Uy-beria</string>
     <string>Uy_acute-beria</string>
-    <string>Udotaccent</string>
     <string>Uy_grave-beria</string>
     <string>Uy_macron-beria</string>
   </array>
@@ -482,7 +472,6 @@
   <array>
     <string>ay-beria</string>
     <string>ay_acute-beria</string>
-    <string>adotaccent</string>
     <string>ay_grave-beria</string>
     <string>ay_macron-beria</string>
   </array>
@@ -599,7 +588,6 @@
   <array>
     <string>iyi-beria</string>
     <string>iyi_acute-beria</string>
-    <string>idotaccent</string>
     <string>iyi_grave-beria</string>
     <string>iyi_macron-beria</string>
   </array>
@@ -615,7 +603,6 @@
   <array>
     <string>oi-beria</string>
     <string>oi_acute-beria</string>
-    <string>odotaccent</string>
     <string>oi_grave-beria</string>
     <string>oi_macron-beria</string>
   </array>
@@ -700,7 +687,6 @@
   <array>
     <string>uy-beria</string>
     <string>uy_acute-beria</string>
-    <string>udotaccent</string>
     <string>uy_grave-beria</string>
     <string>uy_macron-beria</string>
   </array>

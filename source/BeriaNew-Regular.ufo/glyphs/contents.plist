@@ -6,8 +6,6 @@
   <string>_notdef.glif</string>
   <key>.null</key>
   <string>_null.glif</string>
-  <key>Adotaccent</key>
-  <string>A_dotaccent.glif</string>
   <key>Ay-beria</key>
   <string>A_y-beria.glif</string>
   <key>Ay_acute-beria</key>
@@ -68,8 +66,6 @@
   <string>K_ey-beria.glif</string>
   <key>Nay-beria</key>
   <string>N_ay-beria.glif</string>
-  <key>Odotaccent</key>
-  <string>O_dotaccent.glif</string>
   <key>Oi-beria</key>
   <string>O_i-beria.glif</string>
   <key>Oi_acute-beria</key>
@@ -84,8 +80,6 @@
   <string>S_hep-beria.glif</string>
   <key>Tai-beria</key>
   <string>T_ai-beria.glif</string>
-  <key>Udotaccent</key>
-  <string>U_dotaccent.glif</string>
   <key>Uy-beria</key>
   <string>U_y-beria.glif</string>
   <key>Uy_acute-beria</key>
@@ -104,8 +98,6 @@
   <string>Z_W_S_P_.glif</string>
   <key>acute-beria</key>
   <string>acute-beria.glif</string>
-  <key>adotaccent</key>
-  <string>adotaccent.glif</string>
   <key>ampersand</key>
   <string>ampersand.glif</string>
   <key>approxequal</key>
@@ -228,8 +220,6 @@
   <string>hay-beria.glif</string>
   <key>hyphen</key>
   <string>hyphen.glif</string>
-  <key>idotaccent</key>
-  <string>idotaccent.glif</string>
   <key>iyi-beria</key>
   <string>iyi-beria.glif</string>
   <key>iyi_acute-beria</key>
@@ -256,8 +246,6 @@
   <string>nine.glif</string>
   <key>numbersign</key>
   <string>numbersign.glif</string>
-  <key>odotaccent</key>
-  <string>odotaccent.glif</string>
   <key>oi-beria</key>
   <string>oi-beria.glif</string>
   <key>oi_acute-beria</key>
@@ -330,8 +318,6 @@
   <string>trademark.glif</string>
   <key>two</key>
   <string>two.glif</string>
-  <key>udotaccent</key>
-  <string>udotaccent.glif</string>
   <key>underscore</key>
   <string>underscore.glif</string>
   <key>uni2060</key>
