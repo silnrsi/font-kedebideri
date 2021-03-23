@@ -98,6 +98,10 @@
   <string>Y_.glif</string>
   <key>Z</key>
   <string>Z_.glif</string>
+  <key>ZWNBS</key>
+  <string>Z_W_N_B_S_.glif</string>
+  <key>ZWSP</key>
+  <string>Z_W_S_P_.glif</string>
   <key>a</key>
   <string>a.glif</string>
   <key>aacute</key>
@@ -348,9 +352,5 @@
   <string>z.glif</string>
   <key>zero</key>
   <string>zero.glif</string>
-  <key>ZWNBS</key>
-  <string>Z_W_N_B_S_.glif</string>
-  <key>ZWSP</key>
-  <string>Z_W_S_P_.glif</string>
 </dict>
 </plist>
