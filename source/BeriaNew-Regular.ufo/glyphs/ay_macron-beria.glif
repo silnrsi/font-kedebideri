@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ay_macron-beria" format="2">
   <advance width="674"/>
-  <unicode hex="00E2"/>
+  <unicode hex="E007"/>
   <note>
 acircumflex
 </note>

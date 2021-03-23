@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macron-beria" format="2">
   <advance width="508"/>
-  <unicode hex="00AF"/>
+  <unicode hex="0304"/>
   <note>
 macron
 </note>
