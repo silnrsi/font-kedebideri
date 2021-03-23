@@ -2,13 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>public.kern1.Aacute</key>
-  <array>
-    <string>Aacute</string>
-    <string>A</string>
-    <string>Agrave</string>
-    <string>Acircumflex</string>
-  </array>
   <key>public.kern1.Ay_acute-beria</key>
   <array>
     <string>Ay_acute-beria</string>
@@ -17,25 +10,13 @@
     <string>Ay_grave-beria</string>
     <string>Ay_macron-beria</string>
   </array>
-  <key>public.kern1.B</key>
-  <array>
-    <string>B</string>
-  </array>
   <key>public.kern1.Bay-beria</key>
   <array>
     <string>Bay-beria</string>
   </array>
-  <key>public.kern1.C</key>
-  <array>
-    <string>C</string>
-  </array>
   <key>public.kern1.Chei-beria</key>
   <array>
     <string>Chei-beria</string>
-  </array>
-  <key>public.kern1.D</key>
-  <array>
-    <string>D</string>
   </array>
   <key>public.kern1.Day-beria</key>
   <array>
@@ -44,14 +25,6 @@
   <key>public.kern1.Djay-beria</key>
   <array>
     <string>Djay-beria</string>
-  </array>
-  <key>public.kern1.E</key>
-  <array>
-    <string>E</string>
-    <string>Eacute</string>
-    <string>Edotaccent</string>
-    <string>Egrave</string>
-    <string>Ecircumflex</string>
   </array>
   <key>public.kern1.Effi-beria</key>
   <array>
@@ -78,15 +51,6 @@
     <string>Ey_grave-beria</string>
     <string>Ey_macron-beria</string>
   </array>
-  <key>public.kern1.F</key>
-  <array>
-    <string>F</string>
-    <string>H</string>
-  </array>
-  <key>public.kern1.G</key>
-  <array>
-    <string>G</string>
-  </array>
   <key>public.kern1.Gay-beria</key>
   <array>
     <string>Gay-beria</string>
@@ -94,14 +58,6 @@
   <key>public.kern1.Gna-beria</key>
   <array>
     <string>Gna-beria</string>
-  </array>
-  <key>public.kern1.I</key>
-  <array>
-    <string>I</string>
-    <string>Iacute</string>
-    <string>Idotaccent</string>
-    <string>Igrave</string>
-    <string>Icircumflex</string>
   </array>
   <key>public.kern1.Iyi-beria</key>
   <array>
@@ -111,38 +67,14 @@
     <string>Iyi_grave-beria</string>
     <string>Iyi_macron-beria</string>
   </array>
-  <key>public.kern1.J</key>
-  <array>
-    <string>J</string>
-  </array>
-  <key>public.kern1.K</key>
-  <array>
-    <string>K</string>
-    <string>N</string>
-  </array>
   <key>public.kern1.Key-beria</key>
   <array>
     <string>Key-beria</string>
     <string>Enni-beria</string>
   </array>
-  <key>public.kern1.L</key>
-  <array>
-    <string>L</string>
-  </array>
-  <key>public.kern1.M</key>
-  <array>
-    <string>M</string>
-  </array>
   <key>public.kern1.Nay-beria</key>
   <array>
     <string>Nay-beria</string>
-  </array>
-  <key>public.kern1.O</key>
-  <array>
-    <string>O</string>
-    <string>Oacute</string>
-    <string>Ograve</string>
-    <string>Ocircumflex</string>
   </array>
   <key>public.kern1.Oi-beria</key>
   <array>
@@ -152,40 +84,17 @@
     <string>Oi_grave-beria</string>
     <string>Oi_macron-beria</string>
   </array>
-  <key>public.kern1.P</key>
-  <array>
-    <string>P</string>
-  </array>
   <key>public.kern1.Pi-beria</key>
   <array>
     <string>Pi-beria</string>
-  </array>
-  <key>public.kern1.R</key>
-  <array>
-    <string>R</string>
-  </array>
-  <key>public.kern1.S</key>
-  <array>
-    <string>S</string>
   </array>
   <key>public.kern1.Shep-beria</key>
   <array>
     <string>Shep-beria</string>
   </array>
-  <key>public.kern1.T</key>
-  <array>
-    <string>T</string>
-  </array>
   <key>public.kern1.Tai-beria</key>
   <array>
     <string>Tai-beria</string>
-  </array>
-  <key>public.kern1.U</key>
-  <array>
-    <string>U</string>
-    <string>Uacute</string>
-    <string>Ugrave</string>
-    <string>Ucircumflex</string>
   </array>
   <key>public.kern1.Uy-beria</key>
   <array>
@@ -195,36 +104,13 @@
     <string>Uy_grave-beria</string>
     <string>Uy_macron-beria</string>
   </array>
-  <key>public.kern1.W</key>
-  <array>
-    <string>W</string>
-  </array>
   <key>public.kern1.Way-beria</key>
   <array>
     <string>Way-beria</string>
   </array>
-  <key>public.kern1.X</key>
-  <array>
-    <string>X</string>
-  </array>
-  <key>public.kern1.Y</key>
-  <array>
-    <string>Y</string>
-  </array>
   <key>public.kern1.Yay-beria</key>
   <array>
     <string>Yay-beria</string>
-  </array>
-  <key>public.kern1.Z</key>
-  <array>
-    <string>Z</string>
-  </array>
-  <key>public.kern1.a</key>
-  <array>
-    <string>a</string>
-    <string>aacute</string>
-    <string>agrave</string>
-    <string>acircumflex</string>
   </array>
   <key>public.kern1.ampersand</key>
   <array>
@@ -241,12 +127,6 @@
     <string>adotaccent</string>
     <string>ay_grave-beria</string>
     <string>ay_macron-beria</string>
-  </array>
-  <key>public.kern1.b</key>
-  <array>
-    <string>b</string>
-    <string>h</string>
-    <string>r</string>
   </array>
   <key>public.kern1.backslash</key>
   <array>
@@ -270,10 +150,6 @@
   <array>
     <string>bullet</string>
   </array>
-  <key>public.kern1.c</key>
-  <array>
-    <string>c</string>
-  </array>
   <key>public.kern1.chei-beria</key>
   <array>
     <string>chei-beria</string>
@@ -281,10 +157,6 @@
   <key>public.kern1.comma</key>
   <array>
     <string>comma</string>
-  </array>
-  <key>public.kern1.d</key>
-  <array>
-    <string>d</string>
   </array>
   <key>public.kern1.dagger</key>
   <array>
@@ -298,14 +170,6 @@
   <key>public.kern1.djay-beria</key>
   <array>
     <string>djay-beria</string>
-  </array>
-  <key>public.kern1.e</key>
-  <array>
-    <string>e</string>
-    <string>eacute</string>
-    <string>edotaccent</string>
-    <string>egrave</string>
-    <string>ecircumflex</string>
   </array>
   <key>public.kern1.effi-beria</key>
   <array>
@@ -339,10 +203,6 @@
     <string>ey_grave-beria</string>
     <string>ey_macron-beria</string>
   </array>
-  <key>public.kern1.f</key>
-  <array>
-    <string>f</string>
-  </array>
   <key>public.kern1.five</key>
   <array>
     <string>five</string>
@@ -350,10 +210,6 @@
   <key>public.kern1.four</key>
   <array>
     <string>four</string>
-  </array>
-  <key>public.kern1.g</key>
-  <array>
-    <string>g</string>
   </array>
   <key>public.kern1.gay-beria</key>
   <array>
@@ -379,13 +235,6 @@
     <string>endash</string>
     <string>emdash</string>
   </array>
-  <key>public.kern1.i</key>
-  <array>
-    <string>i</string>
-    <string>iacute</string>
-    <string>igrave</string>
-    <string>icircumflex</string>
-  </array>
   <key>public.kern1.iyi-beria</key>
   <array>
     <string>iyi-beria</string>
@@ -394,40 +243,13 @@
     <string>iyi_grave-beria</string>
     <string>iyi_macron-beria</string>
   </array>
-  <key>public.kern1.j</key>
-  <array>
-    <string>j</string>
-  </array>
-  <key>public.kern1.k</key>
-  <array>
-    <string>k</string>
-  </array>
   <key>public.kern1.key-beria</key>
   <array>
     <string>key-beria</string>
   </array>
-  <key>public.kern1.l</key>
-  <array>
-    <string>l</string>
-  </array>
-  <key>public.kern1.m</key>
-  <array>
-    <string>m</string>
-  </array>
-  <key>public.kern1.n</key>
-  <array>
-    <string>n</string>
-  </array>
   <key>public.kern1.nay-beria</key>
   <array>
     <string>nay-beria</string>
-  </array>
-  <key>public.kern1.o</key>
-  <array>
-    <string>o</string>
-    <string>oacute</string>
-    <string>ograve</string>
-    <string>ocircumflex</string>
   </array>
   <key>public.kern1.oi-beria</key>
   <array>
@@ -440,10 +262,6 @@
   <key>public.kern1.one</key>
   <array>
     <string>one</string>
-  </array>
-  <key>public.kern1.p</key>
-  <array>
-    <string>p</string>
   </array>
   <key>public.kern1.parenleft</key>
   <array>
@@ -482,10 +300,6 @@
     <string>registered</string>
     <string>copyright</string>
   </array>
-  <key>public.kern1.s</key>
-  <array>
-    <string>s</string>
-  </array>
   <key>public.kern1.semicolon</key>
   <array>
     <string>semicolon</string>
@@ -511,10 +325,6 @@
   <array>
     <string>space</string>
   </array>
-  <key>public.kern1.t</key>
-  <array>
-    <string>t</string>
-  </array>
   <key>public.kern1.tai-beria</key>
   <array>
     <string>tai-beria</string>
@@ -527,13 +337,6 @@
   <array>
     <string>two</string>
   </array>
-  <key>public.kern1.u</key>
-  <array>
-    <string>u</string>
-    <string>uacute</string>
-    <string>ugrave</string>
-    <string>ucircumflex</string>
-  </array>
   <key>public.kern1.uy-beria</key>
   <array>
     <string>uy-beria</string>
@@ -542,41 +345,18 @@
     <string>uy_grave-beria</string>
     <string>uy_macron-beria</string>
   </array>
-  <key>public.kern1.w</key>
-  <array>
-    <string>w</string>
-  </array>
   <key>public.kern1.way-beria</key>
   <array>
     <string>way-beria</string>
-  </array>
-  <key>public.kern1.x</key>
-  <array>
-    <string>x</string>
-  </array>
-  <key>public.kern1.y</key>
-  <array>
-    <string>y</string>
   </array>
   <key>public.kern1.yay-beria</key>
   <array>
     <string>yay-beria</string>
   </array>
-  <key>public.kern1.z</key>
-  <array>
-    <string>z</string>
-  </array>
   <key>public.kern1.zero</key>
   <array>
     <string>zero</string>
     <string>nine</string>
-  </array>
-  <key>public.kern2.Aacute</key>
-  <array>
-    <string>Aacute</string>
-    <string>A</string>
-    <string>Agrave</string>
-    <string>Acircumflex</string>
   </array>
   <key>public.kern2.Ay_acute-beria</key>
   <array>
@@ -586,25 +366,13 @@
     <string>Ay_grave-beria</string>
     <string>Ay_macron-beria</string>
   </array>
-  <key>public.kern2.B</key>
-  <array>
-    <string>B</string>
-  </array>
   <key>public.kern2.Bay-beria</key>
   <array>
     <string>Bay-beria</string>
   </array>
-  <key>public.kern2.C</key>
-  <array>
-    <string>C</string>
-  </array>
   <key>public.kern2.Chei-beria</key>
   <array>
     <string>Chei-beria</string>
-  </array>
-  <key>public.kern2.D</key>
-  <array>
-    <string>D</string>
   </array>
   <key>public.kern2.Day-beria</key>
   <array>
@@ -613,14 +381,6 @@
   <key>public.kern2.Djay-beria</key>
   <array>
     <string>Djay-beria</string>
-  </array>
-  <key>public.kern2.E</key>
-  <array>
-    <string>E</string>
-    <string>Eacute</string>
-    <string>Edotaccent</string>
-    <string>Egrave</string>
-    <string>Ecircumflex</string>
   </array>
   <key>public.kern2.Effi-beria</key>
   <array>
@@ -650,14 +410,6 @@
     <string>Ey_grave-beria</string>
     <string>Ey_macron-beria</string>
   </array>
-  <key>public.kern2.F</key>
-  <array>
-    <string>F</string>
-  </array>
-  <key>public.kern2.G</key>
-  <array>
-    <string>G</string>
-  </array>
   <key>public.kern2.Gay-beria</key>
   <array>
     <string>Gay-beria</string>
@@ -665,14 +417,6 @@
   <key>public.kern2.Gna-beria</key>
   <array>
     <string>Gna-beria</string>
-  </array>
-  <key>public.kern2.I</key>
-  <array>
-    <string>I</string>
-    <string>Iacute</string>
-    <string>Idotaccent</string>
-    <string>Igrave</string>
-    <string>Icircumflex</string>
   </array>
   <key>public.kern2.Iyi-beria</key>
   <array>
@@ -682,40 +426,13 @@
     <string>Iyi_grave-beria</string>
     <string>Iyi_macron-beria</string>
   </array>
-  <key>public.kern2.J</key>
-  <array>
-    <string>J</string>
-  </array>
-  <key>public.kern2.K</key>
-  <array>
-    <string>K</string>
-  </array>
   <key>public.kern2.Key-beria</key>
   <array>
     <string>Key-beria</string>
   </array>
-  <key>public.kern2.L</key>
-  <array>
-    <string>L</string>
-  </array>
-  <key>public.kern2.M</key>
-  <array>
-    <string>M</string>
-  </array>
-  <key>public.kern2.N</key>
-  <array>
-    <string>N</string>
-  </array>
   <key>public.kern2.Nay-beria</key>
   <array>
     <string>Nay-beria</string>
-  </array>
-  <key>public.kern2.O</key>
-  <array>
-    <string>O</string>
-    <string>Oacute</string>
-    <string>Ograve</string>
-    <string>Ocircumflex</string>
   </array>
   <key>public.kern2.Oi-beria</key>
   <array>
@@ -725,40 +442,17 @@
     <string>Oi_grave-beria</string>
     <string>Oi_macron-beria</string>
   </array>
-  <key>public.kern2.P</key>
-  <array>
-    <string>P</string>
-  </array>
   <key>public.kern2.Pi-beria</key>
   <array>
     <string>Pi-beria</string>
-  </array>
-  <key>public.kern2.R</key>
-  <array>
-    <string>R</string>
-  </array>
-  <key>public.kern2.S</key>
-  <array>
-    <string>S</string>
   </array>
   <key>public.kern2.Shep-beria</key>
   <array>
     <string>Shep-beria</string>
   </array>
-  <key>public.kern2.T</key>
-  <array>
-    <string>T</string>
-  </array>
   <key>public.kern2.Tai-beria</key>
   <array>
     <string>Tai-beria</string>
-  </array>
-  <key>public.kern2.U</key>
-  <array>
-    <string>U</string>
-    <string>Uacute</string>
-    <string>Ugrave</string>
-    <string>Ucircumflex</string>
   </array>
   <key>public.kern2.Uy-beria</key>
   <array>
@@ -768,36 +462,13 @@
     <string>Uy_grave-beria</string>
     <string>Uy_macron-beria</string>
   </array>
-  <key>public.kern2.W</key>
-  <array>
-    <string>W</string>
-  </array>
   <key>public.kern2.Way-beria</key>
   <array>
     <string>Way-beria</string>
   </array>
-  <key>public.kern2.X</key>
-  <array>
-    <string>X</string>
-  </array>
-  <key>public.kern2.Y</key>
-  <array>
-    <string>Y</string>
-  </array>
   <key>public.kern2.Yay-beria</key>
   <array>
     <string>Yay-beria</string>
-  </array>
-  <key>public.kern2.Z</key>
-  <array>
-    <string>Z</string>
-  </array>
-  <key>public.kern2.a</key>
-  <array>
-    <string>a</string>
-    <string>aacute</string>
-    <string>agrave</string>
-    <string>acircumflex</string>
   </array>
   <key>public.kern2.ampersand</key>
   <array>
@@ -814,11 +485,6 @@
     <string>adotaccent</string>
     <string>ay_grave-beria</string>
     <string>ay_macron-beria</string>
-  </array>
-  <key>public.kern2.b</key>
-  <array>
-    <string>b</string>
-    <string>p</string>
   </array>
   <key>public.kern2.backslash</key>
   <array>
@@ -841,10 +507,6 @@
   <array>
     <string>bullet</string>
   </array>
-  <key>public.kern2.c</key>
-  <array>
-    <string>c</string>
-  </array>
   <key>public.kern2.chei-beria</key>
   <array>
     <string>chei-beria</string>
@@ -852,10 +514,6 @@
   <key>public.kern2.comma</key>
   <array>
     <string>comma</string>
-  </array>
-  <key>public.kern2.d</key>
-  <array>
-    <string>d</string>
   </array>
   <key>public.kern2.dagger</key>
   <array>
@@ -869,14 +527,6 @@
   <key>public.kern2.djay-beria</key>
   <array>
     <string>djay-beria</string>
-  </array>
-  <key>public.kern2.e</key>
-  <array>
-    <string>e</string>
-    <string>eacute</string>
-    <string>edotaccent</string>
-    <string>egrave</string>
-    <string>ecircumflex</string>
   </array>
   <key>public.kern2.effi-beria</key>
   <array>
@@ -910,10 +560,6 @@
     <string>ey_grave-beria</string>
     <string>ey_macron-beria</string>
   </array>
-  <key>public.kern2.f</key>
-  <array>
-    <string>f</string>
-  </array>
   <key>public.kern2.five</key>
   <array>
     <string>five</string>
@@ -921,10 +567,6 @@
   <key>public.kern2.four</key>
   <array>
     <string>four</string>
-  </array>
-  <key>public.kern2.g</key>
-  <array>
-    <string>g</string>
   </array>
   <key>public.kern2.gay-beria</key>
   <array>
@@ -940,13 +582,6 @@
     <string>guilsinglright</string>
     <string>guillemotright</string>
   </array>
-  <key>public.kern2.h</key>
-  <array>
-    <string>h</string>
-    <string>r</string>
-    <string>x</string>
-    <string>z</string>
-  </array>
   <key>public.kern2.hay-beria</key>
   <array>
     <string>hay-beria</string>
@@ -960,13 +595,6 @@
     <string>endash</string>
     <string>emdash</string>
   </array>
-  <key>public.kern2.i</key>
-  <array>
-    <string>i</string>
-    <string>iacute</string>
-    <string>igrave</string>
-    <string>icircumflex</string>
-  </array>
   <key>public.kern2.iyi-beria</key>
   <array>
     <string>iyi-beria</string>
@@ -975,40 +603,13 @@
     <string>iyi_grave-beria</string>
     <string>iyi_macron-beria</string>
   </array>
-  <key>public.kern2.j</key>
-  <array>
-    <string>j</string>
-  </array>
-  <key>public.kern2.k</key>
-  <array>
-    <string>k</string>
-  </array>
   <key>public.kern2.key-beria</key>
   <array>
     <string>key-beria</string>
   </array>
-  <key>public.kern2.l</key>
-  <array>
-    <string>l</string>
-  </array>
-  <key>public.kern2.m</key>
-  <array>
-    <string>m</string>
-  </array>
-  <key>public.kern2.n</key>
-  <array>
-    <string>n</string>
-  </array>
   <key>public.kern2.nine</key>
   <array>
     <string>nine</string>
-  </array>
-  <key>public.kern2.o</key>
-  <array>
-    <string>o</string>
-    <string>oacute</string>
-    <string>ograve</string>
-    <string>ocircumflex</string>
   </array>
   <key>public.kern2.oi-beria</key>
   <array>
@@ -1058,10 +659,6 @@
     <string>quotesingle</string>
     <string>quotedbl</string>
   </array>
-  <key>public.kern2.s</key>
-  <array>
-    <string>s</string>
-  </array>
   <key>public.kern2.semicolon</key>
   <array>
     <string>semicolon</string>
@@ -1083,10 +680,6 @@
   <array>
     <string>space</string>
   </array>
-  <key>public.kern2.t</key>
-  <array>
-    <string>t</string>
-  </array>
   <key>public.kern2.tai-beria</key>
   <array>
     <string>tai-beria</string>
@@ -1103,13 +696,6 @@
   <array>
     <string>two</string>
   </array>
-  <key>public.kern2.u</key>
-  <array>
-    <string>u</string>
-    <string>uacute</string>
-    <string>ugrave</string>
-    <string>ucircumflex</string>
-  </array>
   <key>public.kern2.uy-beria</key>
   <array>
     <string>uy-beria</string>
@@ -1118,17 +704,9 @@
     <string>uy_grave-beria</string>
     <string>uy_macron-beria</string>
   </array>
-  <key>public.kern2.w</key>
-  <array>
-    <string>w</string>
-  </array>
   <key>public.kern2.way-beria</key>
   <array>
     <string>way-beria</string>
-  </array>
-  <key>public.kern2.y</key>
-  <array>
-    <string>y</string>
   </array>
   <key>public.kern2.yay-beria</key>
   <array>
