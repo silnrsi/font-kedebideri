@@ -270,6 +270,8 @@
   <string>perthousand.glif</string>
   <key>pi-beria</key>
   <string>pi-beria.glif</string>
+  <key>placeholder</key>
+  <string>placeholder.glif</string>
   <key>plus</key>
   <string>plus.glif</string>
   <key>plusminus</key>
