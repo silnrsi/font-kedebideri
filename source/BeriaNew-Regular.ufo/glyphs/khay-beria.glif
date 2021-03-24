@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="khay-beria" format="2">
+  <advance width="940"/>
+  <unicode hex="E061"/>
+  <outline>
+    <component base="placeholder"/>
+  </outline>
+</glyph>
