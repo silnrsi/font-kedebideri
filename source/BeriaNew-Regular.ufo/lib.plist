@@ -33,6 +33,8 @@
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
   <true/>
+  <key>com.schriftgestaltung.customParameter.GSFont.uniqueID</key>
+  <string>SIL International: Beria New Regular: 2021</string>
   <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
   <integer>0</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
@@ -250,6 +252,7 @@
     <string>trademark</string>
     <string>minus</string>
     <string>approxequal</string>
+    <string>ZWNBS</string>
     <string>placeholder</string>
   </array>
   <key>public.postscriptNames</key>
@@ -352,6 +355,8 @@
     <string>uniE054</string>
     <key>Yay_dot-beria</key>
     <string>uniE056</string>
+    <key>ZWNBS</key>
+    <string>uniFEFF</string>
     <key>Zay-beria</key>
     <string>uniE062</string>
     <key>acute-beria</key>

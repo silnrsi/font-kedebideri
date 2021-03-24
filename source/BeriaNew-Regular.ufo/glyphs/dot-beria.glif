@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dot-beria" format="2">
-  <advance width="508"/>
+  <advance width="500"/>
   <unicode hex="0307"/>
   <note>
 dotaccent
 </note>
+  <anchor x="250" y="720" name="_U"/>
   <outline>
     <contour>
-      <point x="209" y="828" type="line"/>
-      <point x="209" y="738" type="line"/>
-      <point x="299" y="738" type="line"/>
-      <point x="299" y="828" type="line"/>
+      <point x="205" y="828" type="line"/>
+      <point x="205" y="738" type="line"/>
+      <point x="295" y="738" type="line"/>
+      <point x="295" y="828" type="line"/>
     </contour>
   </outline>
 </glyph>

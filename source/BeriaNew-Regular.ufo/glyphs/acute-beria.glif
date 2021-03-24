@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute-beria" format="2">
-  <advance width="508"/>
+  <advance width="500"/>
   <unicode hex="0301"/>
   <note>
 acute
 </note>
+  <anchor x="250" y="720" name="_U"/>
   <outline>
     <contour>
-      <point x="110" y="792" type="line"/>
-      <point x="130" y="728" type="line"/>
-      <point x="398" y="812" type="line"/>
-      <point x="378" y="876" type="line"/>
+      <point x="112" y="792" type="line"/>
+      <point x="132" y="728" type="line"/>
+      <point x="400" y="812" type="line"/>
+      <point x="380" y="876" type="line"/>
     </contour>
   </outline>
 </glyph>
