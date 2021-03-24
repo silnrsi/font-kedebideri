@@ -1,34 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ay_macron-beria" format="2">
-  <advance width="674"/>
+  <advance width="676"/>
   <unicode hex="E007"/>
   <note>
 acircumflex
 </note>
   <outline>
-    <contour>
-      <point x="337" y="267" type="line"/>
-      <point x="551" y="-16" type="line"/>
-      <point x="601" y="24" type="line"/>
-      <point x="377" y="320" type="line"/>
-      <point x="599" y="614" type="line"/>
-      <point x="599" y="668" type="line"/>
-      <point x="73" y="668" type="line"/>
-      <point x="73" y="614" type="line"/>
-      <point x="298" y="317" type="line"/>
-      <point x="76" y="24" type="line"/>
-      <point x="123" y="-15" type="line"/>
-    </contour>
-    <contour>
-      <point x="520" y="610" type="line"/>
-      <point x="339" y="370" type="line"/>
-      <point x="156" y="610" type="line"/>
-    </contour>
-    <contour>
-      <point x="159" y="800" type="line"/>
-      <point x="159" y="738" type="line"/>
-      <point x="529" y="738" type="line"/>
-      <point x="529" y="800" type="line"/>
-    </contour>
+    <component base="ay-beria"/>
+    <component base="macron-beria" xOffset="88"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

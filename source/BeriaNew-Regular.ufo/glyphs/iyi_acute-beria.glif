@@ -1,43 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iyi_acute-beria" format="2">
-  <advance width="739"/>
+  <advance width="738"/>
   <unicode hex="E025"/>
   <note>
 iacute
 </note>
   <outline>
-    <contour>
-      <point x="54" y="54" type="curve"/>
-      <point x="76" y="-7" type="line"/>
-      <point x="234" y="36"/>
-      <point x="347" y="130"/>
-      <point x="404" y="245" type="curve"/>
-      <point x="421" y="205"/>
-      <point x="455" y="172"/>
-      <point x="522" y="172" type="curve" smooth="yes"/>
-      <point x="705" y="172" type="line"/>
-      <point x="705" y="232" type="line"/>
-      <point x="535" y="232" type="line" smooth="yes"/>
-      <point x="482" y="232"/>
-      <point x="446" y="268"/>
-      <point x="446" y="346" type="curve" smooth="yes"/>
-      <point x="446" y="668" type="line"/>
-      <point x="382" y="668" type="line"/>
-      <point x="382" y="437" type="line" smooth="yes"/>
-      <point x="382" y="252"/>
-      <point x="268" y="116"/>
-    </contour>
-    <contour>
-      <point x="439" y="82" type="line"/>
-      <point x="439" y="0" type="line"/>
-      <point x="520" y="0" type="line"/>
-      <point x="520" y="82" type="line"/>
-    </contour>
-    <contour>
-      <point x="244" y="782" type="line"/>
-      <point x="264" y="718" type="line"/>
-      <point x="532" y="802" type="line"/>
-      <point x="512" y="866" type="line"/>
-    </contour>
+    <component base="iyi-beria"/>
+    <component base="acute-beria" xOffset="130"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -103,7 +103,6 @@
     <string>Hiyi-beria</string>
     <string>hiyi-beria</string>
     <string>Iyi-beria</string>
-    <string>Pi-beria</string>
     <string>Iyi_acute-beria</string>
     <string>Iyi_grave-beria</string>
     <string>Iyi_macron-beria</string>
@@ -132,6 +131,7 @@
     <string>oi_acute-beria</string>
     <string>oi_grave-beria</string>
     <string>oi_macron-beria</string>
+    <string>Pi-beria</string>
     <string>pi-beria</string>
     <string>Erri-beria</string>
     <string>erri-beria</string>
@@ -152,8 +152,8 @@
     <string>Gna-beria</string>
     <string>gna-beria</string>
     <string>Yay-beria</string>
-    <string>yay-beria</string>
     <string>Yay_dot-beria</string>
+    <string>yay-beria</string>
     <string>yay_dot-beria</string>
     <string>Uy-beria</string>
     <string>Uy_acute-beria</string>
