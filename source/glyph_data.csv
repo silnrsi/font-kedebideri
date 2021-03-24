@@ -37,7 +37,6 @@ hay-beria,uniE01F,3101
 Hiyi-beria,uniE020,3110
 hiyi-beria,uniE021,3111
 Iyi-beria,uniE022,3120
-Pi-beria,uniE040,3120
 Iyi_acute-beria,uniE024,3120.1
 Iyi_grave-beria,uniE026,3120.2
 Iyi_macron-beria,uniE028,3120.3
@@ -66,6 +65,7 @@ oi-beria,uniE039,3191
 oi_acute-beria,uniE03B,3191.1
 oi_grave-beria,uniE03D,3191.2
 oi_macron-beria,uniE03F,3191.3
+Pi-beria,uniE040,3210
 pi-beria,uniE041,3211
 Erri-beria,uniE042,3220
 erri-beria,uniE043,3221
@@ -86,9 +86,9 @@ nay-beria,uniE051,3281
 Gna-beria,uniE052,3290
 gna-beria,uniE053,3291
 Yay-beria,uniE054,3300
+Yay_dot-beria,uniE056,3300.4
 yay-beria,uniE055,3301
-Yay_dot-beria,uniE056,3310
-yay_dot-beria,uniE057,3311
+yay_dot-beria,uniE057,3301.4
 Uy-beria,uniE058,3320
 Uy_acute-beria,uniE05A,3320.1
 Uy_grave-beria,uniE05C,3320.2
