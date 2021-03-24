@@ -1,12 +1,16 @@
 #!/bin/sh
 
-echo
 echo "-----Normalizing Regular UFO..."
-psfnormalize -p checkfix=fix source/BeriaNew-Regular.ufo
+echo "-----Updating production names in Regular..."
+psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/BeriaNew-Regular.ufo -x
 
-echo
+echo "-----Updating glyph orders in Regular..."
+psfsetglyphorder -q --header sort_order -i source/glyph_data.csv source/BeriaNew-Regular.ufo -p backup=False -x
+
+# echo "-----Rebuilding composites..."
+# psfbuildcomp -i source/composites.txt -c -n source/Andika-Regular.ufo -p backup=False
+
 echo "-----Updating woff metadata file..."
 psfmakewoffmetadata -q -n "BeriaNew" -i "org.sil.fonts" source/BeriaNew-Regular.ufo
 
-echo
 echo "-----Preflight completed!"

@@ -18,8 +18,6 @@
   <string>A_y_macron-beria.glif</string>
   <key>Bay-beria</key>
   <string>B_ay-beria.glif</string>
-  <key>CR</key>
-  <string>C_R_.glif</string>
   <key>Chei-beria</key>
   <string>C_hei-beria.glif</string>
   <key>Day-beria</key>
@@ -278,6 +276,8 @@
   <string>nay-beria.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
+  <key>nonmarkingreturn</key>
+  <string>nonmarkingreturn.glif</string>
   <key>numbersign</key>
   <string>numbersign.glif</string>
   <key>oi-beria</key>
