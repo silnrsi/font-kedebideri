@@ -2,6 +2,8 @@
 
 Beria New is a font in development for the Beria script. **Please note that this is a work in progress so glyph shapes, metrics, and encoding will change.**
 
+### Project status [![Build Status](http://build.palaso.org/app/rest/builds/buildType:Fonts_BeriaNew/statusIcon)](http://build.palaso.org/viewType.html?buildTypeId=Fonts_BeriaNew&guest=1)
+
 For more details about this project, including its design history and acknowledgements see [FONTLOG.txt](FONTLOG.txt).
 
 For copyright and licensing information - including any Reserved Font Names - see [OFL.txt](OFL.txt).
