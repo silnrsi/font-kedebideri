@@ -5,26 +5,35 @@
   <credits>
     <credit
       name="Anonymous"
-      role="Volunteer designer"
+      role="Original glyph designs"
+    />
+    <credit
+      name="SIL font engineers"
+      url="https://scripts.sil.org/"
+      role="Additional font design, engineering, and production"
     />
   </credits>
   <description>
     <text lang="en">
-      This font was designed by a volunteer who chooses to remain anonymous, in cooperation with SIL International and the Mission Protestante Franco-Suisse au Tchad.
+      This font was initially designed by a volunteer who chooses to remain anonymous, in cooperation with SIL International and the Mission Protestante Franco-Suisse au Tchad.
       
-      This alphabet is built around a sampling of the markings on livestock (especially camels) within the Zaghawa Beria language region of western Sudan and eastern Chad. It is an idea that has its origins in the work of a Sudanese schoolteacher, who developed the first version of this over 25 years ago. The script has since been better adapted to the Zaghawa Beria language by Siddik Adam Issa, and he has found a great enthusiasm by the people for what he has put together.
+      This alphabet is built around a sampling of the markings on livestock (especially camels) within the Beria language region of western Sudan and eastern Chad. It is an idea that has its origins in the work of a Sudanese schoolteacher who developed the first version of this over 25 years ago. The script has since been adapted and improved for writing the Beria language by Siddik Adam Issa. There is great enthusiasm in the language community for what he has put together.
       
-      The font is a hanging font. The "clothesline" on which the font hangs is the line below the suprasegmental box, and above the lower case box. There are two types of supersegmentals: tone/stress, and ATR marking for vowels. Tone and stress marks are mutually exclusive. Tone markings occur in transcriptions, and stress markings occur in the writing system. The vowels [e], [i], [o] and [u] are marked for Advanced Tongue Root (ATR) by putting a line in the lower half of the supersegmental section above the hanging line.
+      The symbols of the alphabet seem to hang from an imaginary "clothesline" and are in matched uppercase and lowercase forms. Diacritics are placed above the letters to indicate tone, stress, and ATR (advanced tongue root) marking for vowels. Tone and stress marks are mutually exclusive. Tone markings occur in transcriptions. Stress markings occur in the writing system. The vowels /e/, /i/, /o/, and /u/ are marked for ATR by placing a line above letters.
       
-      Note that this font is not encoded according to The Unicode Standard, as the Zaghawa Bera script has not yet been accepted into the standard.
+      _Please note that this font is not yet encoded according to The Unicode Standard, as the Beria script has not yet been accepted into the standard. The letters are currently given Unicode PUA (Private Use Area) assignments while encoding proposals are in process. Once the script is accepted into Unicode all of these encoding assignments will change._
+      
+      _This font should be considered a work in progress. Glyphs shapes and metrics may change considerably prior to a final Unicode release. The font name will also change._
       
       
       ChangeLog
       ---------
       (This should list both major and minor changes, most recent first.)
       
-      17 Feb 2021 (SIL)
-      - Initial commit to new project repo
+      25 Mar 2021 (SIL) Beria New version 1.700
+      - New public repository and open source build workflow
+      - Re-encoded from legacy pre-Unicode to temporarily use Unicode PUA
+      - Changed name to Beria New
       
       30 Apr 2019 (SIL) Zaghawa Beria version 1.001
       - Updated metadata
