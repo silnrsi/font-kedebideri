@@ -29,7 +29,7 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Beria New" filename="BeriaNew-Regular.ufo" name="Beria New Regular" stylemapfamilyname="Beria New" stylemapstylename="regular" stylename="Regular">
+        <instance familyname="Beria Giray Erfe Test A" filename="BeriaGirayErfeTestA-Regular.ufo" name="Beria Giray Erfe Test A Regular" stylemapfamilyname="Beria Giray Erfe Test A" stylemapstylename="regular" stylename="Regular">
             <location>
                 <dimension name="weight" xvalue="400.000000" />
                 <dimension name="width" xvalue="100.000000" />

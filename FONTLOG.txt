@@ -1,10 +1,10 @@
 FONTLOG
-Beria New
+Beria Giray Erfe Test A
 ========================
 
 
-This file provides detailed information on the Beria New font.
-This information should be distributed along with the Beria New font and
+This file provides detailed information on the Beria Giray Erfe Test A font.
+This information should be distributed along with the Beria Giray Erfe Test A font and
 any derivative works.
 
 
@@ -26,10 +26,10 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-25 Mar 2021 (SIL) Beria New version 1.700
+8 Apr 2021 (SIL) Beria Giray Erfe Test A version 1.700
 - New public repository and open source build workflow
 - Re-encoded from legacy pre-Unicode to temporarily use Unicode PUA
-- Changed name to Beria New
+- Changed name to Beria Giray Erfe Test A
 
 30 Apr 2019 (SIL) Zaghawa Beria version 1.001
 - Updated metadata
