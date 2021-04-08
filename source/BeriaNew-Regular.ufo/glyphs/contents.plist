@@ -184,6 +184,8 @@
   <string>effi-beria.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
+  <key>eight-beria</key>
+  <string>eight-beria.glif</string>
   <key>elli-beria</key>
   <string>elli-beria.glif</string>
   <key>ellipsis</key>
@@ -216,10 +218,14 @@
   <string>ey_macron-beria.glif</string>
   <key>five</key>
   <string>five.glif</string>
+  <key>five-beria</key>
+  <string>five-beria.glif</string>
   <key>florin</key>
   <string>florin.glif</string>
   <key>four</key>
   <string>four.glif</string>
+  <key>four-beria</key>
+  <string>four-beria.glif</string>
   <key>fraction</key>
   <string>fraction.glif</string>
   <key>gay-beria</key>
@@ -274,6 +280,8 @@
   <string>nay-beria.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
+  <key>nine-beria</key>
+  <string>nine-beria.glif</string>
   <key>nonmarkingreturn</key>
   <string>nonmarkingreturn.glif</string>
   <key>numbersign</key>
@@ -288,6 +296,8 @@
   <string>oi_macron-beria.glif</string>
   <key>one</key>
   <string>one.glif</string>
+  <key>one-beria</key>
+  <string>one-beria.glif</string>
   <key>paragraph</key>
   <string>paragraph.glif</string>
   <key>parenleft</key>
@@ -334,10 +344,14 @@
   <string>semicolon.glif</string>
   <key>seven</key>
   <string>seven.glif</string>
+  <key>seven-beria</key>
+  <string>seven-beria.glif</string>
   <key>shep-beria</key>
   <string>shep-beria.glif</string>
   <key>six</key>
   <string>six.glif</string>
+  <key>six-beria</key>
+  <string>six-beria.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
   <key>space</key>
@@ -350,10 +364,14 @@
   <string>tchay-beria.glif</string>
   <key>three</key>
   <string>three.glif</string>
+  <key>three-beria</key>
+  <string>three-beria.glif</string>
   <key>trademark</key>
   <string>trademark.glif</string>
   <key>two</key>
   <string>two.glif</string>
+  <key>two-beria</key>
+  <string>two-beria.glif</string>
   <key>underscore</key>
   <string>underscore.glif</string>
   <key>uni2060</key>
@@ -378,5 +396,7 @@
   <string>zay-beria.glif</string>
   <key>zero</key>
   <string>zero.glif</string>
+  <key>zero-beria</key>
+  <string>zero-beria.glif</string>
 </dict>
 </plist>

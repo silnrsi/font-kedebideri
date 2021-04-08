@@ -167,6 +167,16 @@
     <string>khay-beria</string>
     <string>Zay-beria</string>
     <string>zay-beria</string>
+    <string>zero-beria</string>
+    <string>one-beria</string>
+    <string>two-beria</string>
+    <string>three-beria</string>
+    <string>four-beria</string>
+    <string>five-beria</string>
+    <string>six-beria</string>
+    <string>seven-beria</string>
+    <string>eight-beria</string>
+    <string>nine-beria</string>
     <string>circumflex-beria</string>
     <string>dieresis-beria</string>
     <string>space</string>
@@ -386,6 +396,8 @@
     <string>uni0307</string>
     <key>effi-beria</key>
     <string>uniE01B</string>
+    <key>eight-beria</key>
+    <string>uniE078</string>
     <key>elli-beria</key>
     <string>uniE033</string>
     <key>emimi-beria</key>
@@ -406,6 +418,10 @@
     <string>uniE013</string>
     <key>ey_macron-beria</key>
     <string>uniE015</string>
+    <key>five-beria</key>
+    <string>uniE075</string>
+    <key>four-beria</key>
+    <string>uniE074</string>
     <key>gay-beria</key>
     <string>uniE01D</string>
     <key>gna-beria</key>
@@ -436,6 +452,8 @@
     <string>uni0304</string>
     <key>nay-beria</key>
     <string>uniE051</string>
+    <key>nine-beria</key>
+    <string>uniE079</string>
     <key>oi-beria</key>
     <string>uniE039</string>
     <key>oi_acute-beria</key>
@@ -444,14 +462,24 @@
     <string>uniE03D</string>
     <key>oi_macron-beria</key>
     <string>uniE03F</string>
+    <key>one-beria</key>
+    <string>uniE071</string>
     <key>pi-beria</key>
     <string>uniE041</string>
+    <key>seven-beria</key>
+    <string>uniE077</string>
     <key>shep-beria</key>
     <string>uniE04B</string>
+    <key>six-beria</key>
+    <string>uniE076</string>
     <key>tai-beria</key>
     <string>uniE04D</string>
     <key>tchay-beria</key>
     <string>uniE00B</string>
+    <key>three-beria</key>
+    <string>uniE073</string>
+    <key>two-beria</key>
+    <string>uniE072</string>
     <key>uy-beria</key>
     <string>uniE059</string>
     <key>uy_acute-beria</key>
@@ -468,6 +496,8 @@
     <string>uniE057</string>
     <key>zay-beria</key>
     <string>uniE063</string>
+    <key>zero-beria</key>
+    <string>uniE070</string>
   </dict>
 </dict>
 </plist>
