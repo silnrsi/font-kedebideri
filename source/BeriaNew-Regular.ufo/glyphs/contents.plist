@@ -32,6 +32,8 @@
   <string>E_mmi-beria.glif</string>
   <key>Enni-beria</key>
   <string>E_nni-beria.glif</string>
+  <key>Erri-2-beria</key>
+  <string>E_rri-2-beria.glif</string>
   <key>Erri-beria</key>
   <string>E_rri-beria.glif</string>
   <key>Essi-beria</key>
@@ -56,8 +58,6 @@
   <string>H_ay-beria.glif</string>
   <key>Hiyi-beria</key>
   <string>H_iyi-beria.glif</string>
-  <key>Idem-beria</key>
-  <string>I_dem-beria.glif</string>
   <key>Iya-beria</key>
   <string>I_ya-beria.glif</string>
   <key>Iyi-beria</key>
@@ -200,6 +200,8 @@
   <string>enni-beria.glif</string>
   <key>equal</key>
   <string>equal.glif</string>
+  <key>erri-2-beria</key>
+  <string>erri-2-beria.glif</string>
   <key>erri-beria</key>
   <string>erri-beria.glif</string>
   <key>essi-beria</key>
@@ -250,8 +252,6 @@
   <string>hiyi-beria.glif</string>
   <key>hyphen</key>
   <string>hyphen.glif</string>
-  <key>idem-beria</key>
-  <string>idem-beria.glif</string>
   <key>iya-beria</key>
   <string>iya-beria.glif</string>
   <key>iyi-beria</key>

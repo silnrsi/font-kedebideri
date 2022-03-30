@@ -135,8 +135,8 @@
     <string>pi-beria</string>
     <string>Erri-beria</string>
     <string>erri-beria</string>
-    <string>Idem-beria</string>
-    <string>idem-beria</string>
+    <string>Erri-2-beria</string>
+    <string>erri-2-beria</string>
     <string>Essi-beria</string>
     <string>essi-beria</string>
     <string>Chei-beria</string>
@@ -292,6 +292,8 @@
     <string>uniE034</string>
     <key>Enni-beria</key>
     <string>uniE036</string>
+    <key>Erri-2-beria</key>
+    <string>uniE044</string>
     <key>Erri-beria</key>
     <string>uniE042</string>
     <key>Essi-beria</key>
@@ -314,8 +316,6 @@
     <string>uniE01E</string>
     <key>Hiyi-beria</key>
     <string>uniE020</string>
-    <key>Idem-beria</key>
-    <string>uniE044</string>
     <key>Iya-beria</key>
     <string>uniE02C</string>
     <key>Iyi-beria</key>
@@ -404,6 +404,8 @@
     <string>uniE035</string>
     <key>enni-beria</key>
     <string>uniE037</string>
+    <key>erri-2-beria</key>
+    <string>uniE045</string>
     <key>erri-beria</key>
     <string>uniE043</string>
     <key>essi-beria</key>
@@ -432,8 +434,6 @@
     <string>uniE01F</string>
     <key>hiyi-beria</key>
     <string>uniE021</string>
-    <key>idem-beria</key>
-    <string>uniE045</string>
     <key>iya-beria</key>
     <string>uniE02D</string>
     <key>iyi-beria</key>

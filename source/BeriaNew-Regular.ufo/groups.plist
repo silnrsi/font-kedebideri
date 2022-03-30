@@ -4,8 +4,8 @@
 <dict>
   <key>public.kern1.Ay_acute-beria</key>
   <array>
-    <string>Ay_acute-beria</string>
     <string>Ay-beria</string>
+    <string>Ay_acute-beria</string>
     <string>Ay_grave-beria</string>
     <string>Ay_macron-beria</string>
   </array>
@@ -68,8 +68,8 @@
   </array>
   <key>public.kern1.Key-beria</key>
   <array>
-    <string>Key-beria</string>
     <string>Enni-beria</string>
+    <string>Key-beria</string>
   </array>
   <key>public.kern1.Nay-beria</key>
   <array>
@@ -131,8 +131,8 @@
   <key>public.kern1.bay-beria</key>
   <array>
     <string>bay-beria</string>
-    <string>hay-beria</string>
     <string>erri-beria</string>
+    <string>hay-beria</string>
   </array>
   <key>public.kern1.braceleft</key>
   <array>
@@ -217,19 +217,19 @@
   </array>
   <key>public.kern1.guilsinglleft</key>
   <array>
-    <string>guilsinglleft</string>
     <string>guillemotleft</string>
+    <string>guilsinglleft</string>
   </array>
   <key>public.kern1.guilsinglright</key>
   <array>
-    <string>guilsinglright</string>
     <string>guillemotright</string>
+    <string>guilsinglright</string>
   </array>
   <key>public.kern1.hyphen</key>
   <array>
-    <string>hyphen</string>
-    <string>endash</string>
     <string>emdash</string>
+    <string>endash</string>
+    <string>hyphen</string>
   </array>
   <key>public.kern1.iyi-beria</key>
   <array>
@@ -271,33 +271,33 @@
   </array>
   <key>public.kern1.quoteleft</key>
   <array>
-    <string>quoteleft</string>
     <string>quotedblleft</string>
+    <string>quoteleft</string>
   </array>
   <key>public.kern1.quoteright</key>
   <array>
-    <string>quoteright</string>
     <string>quotedblright</string>
+    <string>quoteright</string>
   </array>
   <key>public.kern1.quotesinglbase</key>
   <array>
-    <string>quotesinglbase</string>
     <string>quotedblbase</string>
+    <string>quotesinglbase</string>
   </array>
   <key>public.kern1.quotesingle</key>
   <array>
-    <string>quotesingle</string>
     <string>quotedbl</string>
+    <string>quotesingle</string>
   </array>
   <key>public.kern1.registered</key>
   <array>
-    <string>registered</string>
     <string>copyright</string>
+    <string>registered</string>
   </array>
   <key>public.kern1.semicolon</key>
   <array>
-    <string>semicolon</string>
     <string>colon</string>
+    <string>semicolon</string>
   </array>
   <key>public.kern1.seven</key>
   <array>
@@ -348,13 +348,13 @@
   </array>
   <key>public.kern1.zero</key>
   <array>
-    <string>zero</string>
     <string>nine</string>
+    <string>zero</string>
   </array>
   <key>public.kern2.Ay_acute-beria</key>
   <array>
-    <string>Ay_acute-beria</string>
     <string>Ay-beria</string>
+    <string>Ay_acute-beria</string>
     <string>Ay_grave-beria</string>
     <string>Ay_macron-beria</string>
   </array>
@@ -563,26 +563,26 @@
   </array>
   <key>public.kern2.guilsinglleft</key>
   <array>
-    <string>guilsinglleft</string>
     <string>guillemotleft</string>
+    <string>guilsinglleft</string>
   </array>
   <key>public.kern2.guilsinglright</key>
   <array>
-    <string>guilsinglright</string>
     <string>guillemotright</string>
+    <string>guilsinglright</string>
   </array>
   <key>public.kern2.hay-beria</key>
   <array>
-    <string>hay-beria</string>
     <string>erri-beria</string>
-    <string>nay-beria</string>
     <string>gna-beria</string>
+    <string>hay-beria</string>
+    <string>nay-beria</string>
   </array>
   <key>public.kern2.hyphen</key>
   <array>
-    <string>hyphen</string>
-    <string>endash</string>
     <string>emdash</string>
+    <string>endash</string>
+    <string>hyphen</string>
   </array>
   <key>public.kern2.iyi-beria</key>
   <array>
@@ -629,13 +629,13 @@
   </array>
   <key>public.kern2.quoteleft</key>
   <array>
-    <string>quoteleft</string>
     <string>quotedblleft</string>
+    <string>quoteleft</string>
   </array>
   <key>public.kern2.quoteright</key>
   <array>
-    <string>quoteright</string>
     <string>quotedblright</string>
+    <string>quoteright</string>
   </array>
   <key>public.kern2.quotesinglbase</key>
   <array>
@@ -643,13 +643,13 @@
   </array>
   <key>public.kern2.quotesingle</key>
   <array>
-    <string>quotesingle</string>
     <string>quotedbl</string>
+    <string>quotesingle</string>
   </array>
   <key>public.kern2.semicolon</key>
   <array>
-    <string>semicolon</string>
     <string>colon</string>
+    <string>semicolon</string>
   </array>
   <key>public.kern2.seven</key>
   <array>
@@ -700,8 +700,8 @@
   </array>
   <key>public.kern2.zero</key>
   <array>
-    <string>zero</string>
     <string>six</string>
+    <string>zero</string>
   </array>
 </dict>
 </plist>
