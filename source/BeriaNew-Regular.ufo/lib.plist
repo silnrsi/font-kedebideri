@@ -8,27 +8,11 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3065</string>
-  <key>com.schriftgestaltung.customParameter.GSFont.Axis Mappings</key>
-  <dict>
-    <key>XXXX</key>
-    <dict>
-      <key>0</key>
-      <integer>0</integer>
-    </dict>
-    <key>wdth</key>
-    <dict>
-      <key>100</key>
-      <integer>100</integer>
-    </dict>
-    <key>wght</key>
-    <dict>
-      <key>400</key>
-      <integer>400</integer>
-      <key>700</key>
-      <integer>700</integer>
-    </dict>
-  </dict>
+  <string>3124</string>
+  <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
+  <array>
+    <string>/Oi-beria/Oi_acute-beria/oi-beria.alt/Erri-beria/erri-beria/erri-2-beria/chei-beria.alt/Erri-beria/Erri-2-beria</string>
+  </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>

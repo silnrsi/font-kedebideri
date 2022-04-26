@@ -3,7 +3,32 @@
   <advance width="868"/>
   <unicode hex="E044"/>
   <outline>
-    <component base="Erri-beria"/>
+    <contour>
+      <point x="468" y="-9" type="curve" smooth="yes"/>
+      <point x="468" y="264" type="line"/>
+      <point x="750" y="264" type="line"/>
+      <point x="750" y="630" type="line"/>
+      <point x="683" y="630" type="line"/>
+      <point x="683" y="328" type="line"/>
+      <point x="468" y="328" type="line"/>
+      <point x="468" y="675" type="line"/>
+      <point x="400" y="675" type="line"/>
+      <point x="400" y="328" type="line"/>
+      <point x="185" y="328" type="line"/>
+      <point x="185" y="630" type="line"/>
+      <point x="118" y="630" type="line"/>
+      <point x="118" y="264" type="line"/>
+      <point x="400" y="264" type="line"/>
+      <point x="400" y="-2" type="line" smooth="yes"/>
+      <point x="400" y="-39"/>
+      <point x="379" y="-72"/>
+      <point x="343" y="-72" type="curve" smooth="yes"/>
+      <point x="12" y="-72" type="line"/>
+      <point x="12" y="-136" type="line"/>
+      <point x="349" y="-136" type="line" smooth="yes"/>
+      <point x="422" y="-136"/>
+      <point x="468" y="-84"/>
+    </contour>
   </outline>
   <lib>
     <dict>
