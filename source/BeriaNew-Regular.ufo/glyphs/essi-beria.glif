@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="essi-beria" format="2">
   <advance width="940"/>
-  <unicode hex="E047"/>
+  <unicode hex="E347"/>
   <outline>
     <component base="placeholder"/>
   </outline>

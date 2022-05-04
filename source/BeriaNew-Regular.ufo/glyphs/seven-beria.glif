@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven-beria" format="2">
   <advance width="940"/>
-  <unicode hex="E077"/>
+  <unicode hex="E377"/>
   <outline>
     <component base="placeholder"/>
   </outline>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Yay_dot-beria" format="2">
   <advance width="940"/>
-  <unicode hex="E056"/>
+  <unicode hex="E356"/>
   <outline>
     <component base="placeholder"/>
   </outline>

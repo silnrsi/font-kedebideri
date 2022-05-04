@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ay_acute-beria" format="2">
   <advance width="676"/>
-  <unicode hex="E003"/>
+  <unicode hex="E303"/>
   <note>
 aacute
 </note>

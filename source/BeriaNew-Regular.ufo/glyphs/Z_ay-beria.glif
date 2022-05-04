@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zay-beria" format="2">
   <advance width="940"/>
-  <unicode hex="E062"/>
+  <unicode hex="E362"/>
   <outline>
     <component base="placeholder"/>
   </outline>

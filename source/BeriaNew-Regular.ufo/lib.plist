@@ -273,281 +273,281 @@
   <key>public.postscriptNames</key>
   <dict>
     <key>Archi-beria</key>
-    <string>uniE018</string>
+    <string>uniE318</string>
     <key>Ay-beria</key>
-    <string>uniE000</string>
+    <string>uniE300</string>
     <key>Ay-beria.alt</key>
-    <string>uniE200</string>
+    <string>uniE400</string>
     <key>Ay_acute-beria</key>
-    <string>uniE002</string>
+    <string>uniE302</string>
     <key>Ay_grave-beria</key>
-    <string>uniE004</string>
+    <string>uniE304</string>
     <key>Ay_macron-beria</key>
-    <string>uniE006</string>
+    <string>uniE306</string>
     <key>Bay-beria</key>
-    <string>uniE008</string>
+    <string>uniE308</string>
     <key>Chei-beria</key>
-    <string>uniE048</string>
+    <string>uniE348</string>
     <key>Chei-beria.alt</key>
-    <string>uniE248</string>
+    <string>uniE448</string>
     <key>Day-beria</key>
-    <string>uniE00C</string>
+    <string>uniE30C</string>
     <key>Djay-beria</key>
-    <string>uniE02E</string>
+    <string>uniE32E</string>
     <key>Effi-beria</key>
-    <string>uniE01A</string>
+    <string>uniE31A</string>
     <key>Effi-beria.alt</key>
-    <string>uniE21A</string>
+    <string>uniE41A</string>
     <key>Elli-beria</key>
-    <string>uniE032</string>
+    <string>uniE332</string>
     <key>Elli-beria.alt</key>
-    <string>uniE232</string>
+    <string>uniE432</string>
     <key>Emmi-beria</key>
-    <string>uniE034</string>
+    <string>uniE334</string>
     <key>Enni-beria</key>
-    <string>uniE036</string>
+    <string>uniE336</string>
     <key>Erri-2-beria</key>
-    <string>uniE044</string>
+    <string>uniE344</string>
     <key>Erri-beria</key>
-    <string>uniE042</string>
+    <string>uniE342</string>
     <key>Essi-beria</key>
-    <string>uniE046</string>
+    <string>uniE346</string>
     <key>Ey-beria</key>
-    <string>uniE00E</string>
+    <string>uniE30E</string>
     <key>Ey-beria.alt</key>
-    <string>uniE20E</string>
+    <string>uniE40E</string>
     <key>Ey_acute-beria</key>
-    <string>uniE010</string>
+    <string>uniE310</string>
     <key>Ey_dot-beria</key>
-    <string>uniE016</string>
+    <string>uniE316</string>
     <key>Ey_grave-beria</key>
-    <string>uniE012</string>
+    <string>uniE312</string>
     <key>Ey_macron-beria</key>
-    <string>uniE014</string>
+    <string>uniE314</string>
     <key>Gay-beria</key>
-    <string>uniE01C</string>
+    <string>uniE31C</string>
     <key>Gna-beria</key>
-    <string>uniE052</string>
+    <string>uniE352</string>
     <key>Hay-beria</key>
-    <string>uniE01E</string>
+    <string>uniE31E</string>
     <key>Hiyi-beria</key>
-    <string>uniE020</string>
+    <string>uniE320</string>
     <key>Iya-beria</key>
-    <string>uniE02C</string>
+    <string>uniE32C</string>
     <key>Iyi-beria</key>
-    <string>uniE022</string>
+    <string>uniE322</string>
     <key>Iyi-beria.alt</key>
-    <string>uniE222</string>
+    <string>uniE422</string>
     <key>Iyi_acute-beria</key>
-    <string>uniE024</string>
+    <string>uniE324</string>
     <key>Iyi_dot-beria</key>
-    <string>uniE02A</string>
+    <string>uniE32A</string>
     <key>Iyi_grave-beria</key>
-    <string>uniE026</string>
+    <string>uniE326</string>
     <key>Iyi_macron-beria</key>
-    <string>uniE028</string>
+    <string>uniE328</string>
     <key>Key-beria</key>
-    <string>uniE030</string>
+    <string>uniE330</string>
     <key>Key-beria.alt</key>
-    <string>uniE230</string>
+    <string>uniE430</string>
     <key>Khay-beria</key>
-    <string>uniE060</string>
+    <string>uniE360</string>
     <key>Nay-beria</key>
-    <string>uniE050</string>
+    <string>uniE350</string>
     <key>Oi-beria</key>
-    <string>uniE038</string>
+    <string>uniE338</string>
     <key>Oi_acute-beria</key>
-    <string>uniE03A</string>
+    <string>uniE33A</string>
     <key>Oi_grave-beria</key>
-    <string>uniE03C</string>
+    <string>uniE33C</string>
     <key>Oi_macron-beria</key>
-    <string>uniE03E</string>
+    <string>uniE33E</string>
     <key>Pi-beria</key>
-    <string>uniE040</string>
+    <string>uniE340</string>
     <key>Shep-beria</key>
-    <string>uniE04A</string>
+    <string>uniE34A</string>
     <key>Shep-beria.alt</key>
-    <string>uniE24A</string>
+    <string>uniE44A</string>
     <key>Tai-beria</key>
-    <string>uniE04C</string>
+    <string>uniE34C</string>
     <key>Tchay-beria</key>
-    <string>uniE00A</string>
+    <string>uniE30A</string>
     <key>Uy-beria</key>
-    <string>uniE058</string>
+    <string>uniE358</string>
     <key>Uy_acute-beria</key>
-    <string>uniE05A</string>
+    <string>uniE35A</string>
     <key>Uy_grave-beria</key>
-    <string>uniE05C</string>
+    <string>uniE35C</string>
     <key>Uy_macron-beria</key>
-    <string>uniE05E</string>
+    <string>uniE35E</string>
     <key>Way-beria</key>
-    <string>uniE04E</string>
+    <string>uniE34E</string>
     <key>Yay-beria</key>
-    <string>uniE054</string>
+    <string>uniE354</string>
     <key>Yay_dot-beria</key>
-    <string>uniE056</string>
+    <string>uniE356</string>
     <key>ZWNBS</key>
     <string>uniFEFF</string>
     <key>Zay-beria</key>
-    <string>uniE062</string>
+    <string>uniE362</string>
     <key>acute-beria</key>
     <string>acutecomb</string>
     <key>archi-beria</key>
-    <string>uniE019</string>
+    <string>uniE319</string>
     <key>ay-beria</key>
-    <string>uniE001</string>
+    <string>uniE301</string>
     <key>ay-beria.alt</key>
-    <string>uniE201</string>
+    <string>uniE401</string>
     <key>ay_acute-beria</key>
-    <string>uniE003</string>
+    <string>uniE303</string>
     <key>ay_grave-beria</key>
-    <string>uniE005</string>
+    <string>uniE305</string>
     <key>ay_macron-beria</key>
-    <string>uniE007</string>
+    <string>uniE307</string>
     <key>bay-beria</key>
-    <string>uniE009</string>
+    <string>uniE309</string>
     <key>bay-beria.alt</key>
-    <string>uniE209</string>
+    <string>uniE409</string>
     <key>chei-beria</key>
-    <string>uniE049</string>
+    <string>uniE349</string>
     <key>chei-beria.alt</key>
-    <string>uniE249</string>
+    <string>uniE449</string>
     <key>circumflex-beria</key>
     <string>uni0302</string>
     <key>day-beria</key>
-    <string>uniE00D</string>
+    <string>uniE30D</string>
     <key>day-beria.alt</key>
-    <string>uniE20D</string>
+    <string>uniE40D</string>
     <key>dieresis-beria</key>
     <string>uni0308</string>
     <key>djay-beria</key>
-    <string>uniE02F</string>
+    <string>uniE32F</string>
     <key>djay-beria.alt</key>
-    <string>uniE22F</string>
+    <string>uniE42F</string>
     <key>dot-beria</key>
     <string>uni0307</string>
     <key>effi-beria</key>
-    <string>uniE01B</string>
+    <string>uniE31B</string>
     <key>eight-beria</key>
-    <string>uniE078</string>
+    <string>uniE378</string>
     <key>elli-beria</key>
-    <string>uniE033</string>
+    <string>uniE333</string>
     <key>elli-beria.alt</key>
-    <string>uniE233</string>
+    <string>uniE433</string>
     <key>emimi-beria</key>
-    <string>uniE035</string>
+    <string>uniE335</string>
     <key>emimi-beria.alt</key>
-    <string>uniE235</string>
+    <string>uniE435</string>
     <key>enni-beria</key>
-    <string>uniE037</string>
+    <string>uniE337</string>
     <key>enni-beria.alt</key>
-    <string>uniE237</string>
+    <string>uniE437</string>
     <key>erri-2-beria</key>
-    <string>uniE045</string>
+    <string>uniE345</string>
     <key>erri-beria</key>
-    <string>uniE043</string>
+    <string>uniE343</string>
     <key>essi-beria</key>
-    <string>uniE047</string>
+    <string>uniE347</string>
     <key>ey-beria</key>
-    <string>uniE00F</string>
+    <string>uniE30F</string>
     <key>ey-beria.alt</key>
-    <string>uniE20F</string>
+    <string>uniE40F</string>
     <key>ey_acute-beria</key>
-    <string>uniE011</string>
+    <string>uniE311</string>
     <key>ey_dot-beria</key>
-    <string>uniE017</string>
+    <string>uniE317</string>
     <key>ey_grave-beria</key>
-    <string>uniE013</string>
+    <string>uniE313</string>
     <key>ey_macron-beria</key>
-    <string>uniE015</string>
+    <string>uniE315</string>
     <key>five-beria</key>
-    <string>uniE075</string>
+    <string>uniE375</string>
     <key>four-beria</key>
-    <string>uniE074</string>
+    <string>uniE374</string>
     <key>gay-beria</key>
-    <string>uniE01D</string>
+    <string>uniE31D</string>
     <key>gay-beria.alt</key>
-    <string>uniE21D</string>
+    <string>uniE41D</string>
     <key>gna-beria</key>
-    <string>uniE053</string>
+    <string>uniE353</string>
     <key>gna-beria.alt</key>
-    <string>uniE253</string>
+    <string>uniE453</string>
     <key>grave-beria</key>
     <string>gravecomb</string>
     <key>hay-beria</key>
-    <string>uniE01F</string>
+    <string>uniE31F</string>
     <key>hiyi-beria</key>
-    <string>uniE021</string>
+    <string>uniE321</string>
     <key>iya-beria</key>
-    <string>uniE02D</string>
+    <string>uniE32D</string>
     <key>iyi-beria</key>
-    <string>uniE023</string>
+    <string>uniE323</string>
     <key>iyi_acute-beria</key>
-    <string>uniE025</string>
+    <string>uniE325</string>
     <key>iyi_grave-beria</key>
-    <string>uniE027</string>
+    <string>uniE327</string>
     <key>iyi_macron-beria</key>
-    <string>uniE029</string>
+    <string>uniE329</string>
     <key>key-beria</key>
-    <string>uniE031</string>
+    <string>uniE331</string>
     <key>key-beria.alt</key>
-    <string>uniE231</string>
+    <string>uniE431</string>
     <key>khay-beria</key>
-    <string>uniE061</string>
+    <string>uniE361</string>
     <key>macron-beria</key>
     <string>uni0304</string>
     <key>nay-beria</key>
-    <string>uniE051</string>
+    <string>uniE351</string>
     <key>nine-beria</key>
-    <string>uniE079</string>
+    <string>uniE379</string>
     <key>oi-beria</key>
-    <string>uniE039</string>
+    <string>uniE339</string>
     <key>oi-beria.alt</key>
-    <string>uniE239</string>
+    <string>uniE439</string>
     <key>oi_acute-beria</key>
-    <string>uniE03B</string>
+    <string>uniE33B</string>
     <key>oi_grave-beria</key>
-    <string>uniE03D</string>
+    <string>uniE33D</string>
     <key>oi_macron-beria</key>
-    <string>uniE03F</string>
+    <string>uniE33F</string>
     <key>one-beria</key>
-    <string>uniE071</string>
+    <string>uniE371</string>
     <key>pi-beria</key>
-    <string>uniE041</string>
+    <string>uniE341</string>
     <key>seven-beria</key>
-    <string>uniE077</string>
+    <string>uniE377</string>
     <key>shep-beria</key>
-    <string>uniE04B</string>
+    <string>uniE34B</string>
     <key>shep-beria.alt</key>
-    <string>uniE24B</string>
+    <string>uniE44B</string>
     <key>six-beria</key>
-    <string>uniE076</string>
+    <string>uniE376</string>
     <key>tai-beria</key>
-    <string>uniE04D</string>
+    <string>uniE34D</string>
     <key>tchay-beria</key>
-    <string>uniE00B</string>
+    <string>uniE30B</string>
     <key>three-beria</key>
-    <string>uniE073</string>
+    <string>uniE373</string>
     <key>two-beria</key>
-    <string>uniE072</string>
+    <string>uniE372</string>
     <key>uy-beria</key>
-    <string>uniE059</string>
+    <string>uniE359</string>
     <key>uy_acute-beria</key>
-    <string>uniE05B</string>
+    <string>uniE35B</string>
     <key>uy_grave-beria</key>
-    <string>uniE05D</string>
+    <string>uniE35D</string>
     <key>uy_macron-beria</key>
-    <string>uniE05F</string>
+    <string>uniE35F</string>
     <key>way-beria</key>
-    <string>uniE04F</string>
+    <string>uniE34F</string>
     <key>yay-beria</key>
-    <string>uniE055</string>
+    <string>uniE355</string>
     <key>yay_dot-beria</key>
-    <string>uniE057</string>
+    <string>uniE357</string>
     <key>zay-beria</key>
-    <string>uniE063</string>
+    <string>uniE363</string>
     <key>zero-beria</key>
-    <string>uniE070</string>
+    <string>uniE370</string>
   </dict>
 </dict>
 </plist>

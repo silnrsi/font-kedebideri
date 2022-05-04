@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tchay-beria" format="2">
   <advance width="940"/>
-  <unicode hex="E00B"/>
+  <unicode hex="E30B"/>
   <outline>
     <component base="placeholder"/>
   </outline>

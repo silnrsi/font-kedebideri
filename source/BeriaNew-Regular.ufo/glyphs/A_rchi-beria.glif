@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Archi-beria" format="2">
   <advance width="940"/>
-  <unicode hex="E018"/>
+  <unicode hex="E318"/>
   <outline>
     <component base="placeholder"/>
   </outline>

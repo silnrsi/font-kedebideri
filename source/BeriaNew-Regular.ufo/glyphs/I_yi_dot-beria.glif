@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iyi_dot-beria" format="2">
   <advance width="887"/>
-  <unicode hex="E02A"/>
+  <unicode hex="E32A"/>
   <outline>
     <component base="Iyi-beria"/>
     <component base="dot-beria" xOffset="203"/>
