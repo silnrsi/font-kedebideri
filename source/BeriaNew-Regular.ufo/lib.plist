@@ -60,12 +60,16 @@
     <string>ay_acute-beria</string>
     <string>ay_grave-beria</string>
     <string>ay_macron-beria</string>
+    <string>Ay-beria.alt</string>
+    <string>ay-beria.alt</string>
     <string>Bay-beria</string>
     <string>bay-beria</string>
+    <string>bay-beria.alt</string>
     <string>Tchay-beria</string>
     <string>tchay-beria</string>
     <string>Day-beria</string>
     <string>day-beria</string>
+    <string>day-beria.alt</string>
     <string>Ey-beria</string>
     <string>Ey_acute-beria</string>
     <string>Ey_grave-beria</string>
@@ -76,12 +80,16 @@
     <string>ey_grave-beria</string>
     <string>ey_macron-beria</string>
     <string>ey_dot-beria</string>
+    <string>Ey-beria.alt</string>
+    <string>ey-beria.alt</string>
     <string>Archi-beria</string>
     <string>archi-beria</string>
     <string>Effi-beria</string>
     <string>effi-beria</string>
+    <string>Effi-beria.alt</string>
     <string>Gay-beria</string>
     <string>gay-beria</string>
+    <string>gay-beria.alt</string>
     <string>Hay-beria</string>
     <string>hay-beria</string>
     <string>Hiyi-beria</string>
@@ -95,18 +103,26 @@
     <string>iyi_acute-beria</string>
     <string>iyi_grave-beria</string>
     <string>iyi_macron-beria</string>
+    <string>Iyi-beria.alt</string>
     <string>Iya-beria</string>
     <string>iya-beria</string>
     <string>Djay-beria</string>
     <string>djay-beria</string>
+    <string>djay-beria.alt</string>
     <string>Key-beria</string>
     <string>key-beria</string>
+    <string>Key-beria.alt</string>
+    <string>key-beria.alt</string>
     <string>Elli-beria</string>
     <string>elli-beria</string>
+    <string>Elli-beria.alt</string>
+    <string>elli-beria.alt</string>
     <string>Emmi-beria</string>
     <string>emimi-beria</string>
+    <string>emimi-beria.alt</string>
     <string>Enni-beria</string>
     <string>enni-beria</string>
+    <string>enni-beria.alt</string>
     <string>Oi-beria</string>
     <string>Oi_acute-beria</string>
     <string>Oi_grave-beria</string>
@@ -115,6 +131,7 @@
     <string>oi_acute-beria</string>
     <string>oi_grave-beria</string>
     <string>oi_macron-beria</string>
+    <string>oi-beria.alt</string>
     <string>Pi-beria</string>
     <string>pi-beria</string>
     <string>Erri-beria</string>
@@ -125,8 +142,12 @@
     <string>essi-beria</string>
     <string>Chei-beria</string>
     <string>chei-beria</string>
+    <string>Chei-beria.alt</string>
+    <string>chei-beria.alt</string>
     <string>Shep-beria</string>
     <string>shep-beria</string>
+    <string>Shep-beria.alt</string>
+    <string>shep-beria.alt</string>
     <string>Tai-beria</string>
     <string>tai-beria</string>
     <string>Way-beria</string>
@@ -135,6 +156,7 @@
     <string>nay-beria</string>
     <string>Gna-beria</string>
     <string>gna-beria</string>
+    <string>gna-beria.alt</string>
     <string>Yay-beria</string>
     <string>Yay_dot-beria</string>
     <string>yay-beria</string>
@@ -254,6 +276,8 @@
     <string>uniE018</string>
     <key>Ay-beria</key>
     <string>uniE000</string>
+    <key>Ay-beria.alt</key>
+    <string>uniE200</string>
     <key>Ay_acute-beria</key>
     <string>uniE002</string>
     <key>Ay_grave-beria</key>
@@ -264,14 +288,20 @@
     <string>uniE008</string>
     <key>Chei-beria</key>
     <string>uniE048</string>
+    <key>Chei-beria.alt</key>
+    <string>uniE248</string>
     <key>Day-beria</key>
     <string>uniE00C</string>
     <key>Djay-beria</key>
     <string>uniE02E</string>
     <key>Effi-beria</key>
     <string>uniE01A</string>
+    <key>Effi-beria.alt</key>
+    <string>uniE21A</string>
     <key>Elli-beria</key>
     <string>uniE032</string>
+    <key>Elli-beria.alt</key>
+    <string>uniE232</string>
     <key>Emmi-beria</key>
     <string>uniE034</string>
     <key>Enni-beria</key>
@@ -284,6 +314,8 @@
     <string>uniE046</string>
     <key>Ey-beria</key>
     <string>uniE00E</string>
+    <key>Ey-beria.alt</key>
+    <string>uniE20E</string>
     <key>Ey_acute-beria</key>
     <string>uniE010</string>
     <key>Ey_dot-beria</key>
@@ -304,6 +336,8 @@
     <string>uniE02C</string>
     <key>Iyi-beria</key>
     <string>uniE022</string>
+    <key>Iyi-beria.alt</key>
+    <string>uniE222</string>
     <key>Iyi_acute-beria</key>
     <string>uniE024</string>
     <key>Iyi_dot-beria</key>
@@ -314,6 +348,8 @@
     <string>uniE028</string>
     <key>Key-beria</key>
     <string>uniE030</string>
+    <key>Key-beria.alt</key>
+    <string>uniE230</string>
     <key>Khay-beria</key>
     <string>uniE060</string>
     <key>Nay-beria</key>
@@ -330,6 +366,8 @@
     <string>uniE040</string>
     <key>Shep-beria</key>
     <string>uniE04A</string>
+    <key>Shep-beria.alt</key>
+    <string>uniE24A</string>
     <key>Tai-beria</key>
     <string>uniE04C</string>
     <key>Tchay-beria</key>
@@ -358,6 +396,8 @@
     <string>uniE019</string>
     <key>ay-beria</key>
     <string>uniE001</string>
+    <key>ay-beria.alt</key>
+    <string>uniE201</string>
     <key>ay_acute-beria</key>
     <string>uniE003</string>
     <key>ay_grave-beria</key>
@@ -366,16 +406,24 @@
     <string>uniE007</string>
     <key>bay-beria</key>
     <string>uniE009</string>
+    <key>bay-beria.alt</key>
+    <string>uniE209</string>
     <key>chei-beria</key>
     <string>uniE049</string>
+    <key>chei-beria.alt</key>
+    <string>uniE249</string>
     <key>circumflex-beria</key>
     <string>uni0302</string>
     <key>day-beria</key>
     <string>uniE00D</string>
+    <key>day-beria.alt</key>
+    <string>uniE20D</string>
     <key>dieresis-beria</key>
     <string>uni0308</string>
     <key>djay-beria</key>
     <string>uniE02F</string>
+    <key>djay-beria.alt</key>
+    <string>uniE22F</string>
     <key>dot-beria</key>
     <string>uni0307</string>
     <key>effi-beria</key>
@@ -384,10 +432,16 @@
     <string>uniE078</string>
     <key>elli-beria</key>
     <string>uniE033</string>
+    <key>elli-beria.alt</key>
+    <string>uniE233</string>
     <key>emimi-beria</key>
     <string>uniE035</string>
+    <key>emimi-beria.alt</key>
+    <string>uniE235</string>
     <key>enni-beria</key>
     <string>uniE037</string>
+    <key>enni-beria.alt</key>
+    <string>uniE237</string>
     <key>erri-2-beria</key>
     <string>uniE045</string>
     <key>erri-beria</key>
@@ -396,6 +450,8 @@
     <string>uniE047</string>
     <key>ey-beria</key>
     <string>uniE00F</string>
+    <key>ey-beria.alt</key>
+    <string>uniE20F</string>
     <key>ey_acute-beria</key>
     <string>uniE011</string>
     <key>ey_dot-beria</key>
@@ -410,8 +466,12 @@
     <string>uniE074</string>
     <key>gay-beria</key>
     <string>uniE01D</string>
+    <key>gay-beria.alt</key>
+    <string>uniE21D</string>
     <key>gna-beria</key>
     <string>uniE053</string>
+    <key>gna-beria.alt</key>
+    <string>uniE253</string>
     <key>grave-beria</key>
     <string>gravecomb</string>
     <key>hay-beria</key>
@@ -430,6 +490,8 @@
     <string>uniE029</string>
     <key>key-beria</key>
     <string>uniE031</string>
+    <key>key-beria.alt</key>
+    <string>uniE231</string>
     <key>khay-beria</key>
     <string>uniE061</string>
     <key>macron-beria</key>
@@ -440,6 +502,8 @@
     <string>uniE079</string>
     <key>oi-beria</key>
     <string>uniE039</string>
+    <key>oi-beria.alt</key>
+    <string>uniE239</string>
     <key>oi_acute-beria</key>
     <string>uniE03B</string>
     <key>oi_grave-beria</key>
@@ -454,6 +518,8 @@
     <string>uniE077</string>
     <key>shep-beria</key>
     <string>uniE04B</string>
+    <key>shep-beria.alt</key>
+    <string>uniE24B</string>
     <key>six-beria</key>
     <string>uniE076</string>
     <key>tai-beria</key>

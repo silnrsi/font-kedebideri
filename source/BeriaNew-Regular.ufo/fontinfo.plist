@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Beria New</string>
   <key>openTypeHeadCreated</key>
-  <string>2022/04/26 13:40:43</string>
+  <string>2022/05/04 11:17:17</string>
   <key>openTypeHheaAscender</key>
   <integer>1000</integer>
   <key>openTypeHheaDescender</key>
@@ -84,6 +84,11 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <string>SIL International: Beria New Regular: 2022</string>
   <key>openTypeNameVersion</key>
   <string>Version 1.700</string>
+  <key>openTypeOS2CodePageRanges</key>
+  <array>
+    <integer>0</integer>
+    <integer>29</integer>
+  </array>
   <key>openTypeOS2Panose</key>
   <array>
     <integer>2</integer>
