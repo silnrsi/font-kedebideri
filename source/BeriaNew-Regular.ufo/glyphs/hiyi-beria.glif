@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hiyi-beria" format="2">
   <advance width="940"/>
-  <unicode hex="E321"/>
+  <unicode hex="E435"/>
   <outline>
     <component base="placeholder"/>
   </outline>

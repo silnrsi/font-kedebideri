@@ -42,7 +42,7 @@
     <integer>-120</integer>
     <key>elli-beria</key>
     <integer>-40</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-100</integer>
     <key>enni-beria</key>
     <integer>-30</integer>
@@ -111,7 +111,7 @@
     <integer>-70</integer>
     <key>elli-beria</key>
     <integer>-30</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-55</integer>
     <key>enni-beria</key>
     <integer>-10</integer>
@@ -146,7 +146,7 @@
     <integer>-10</integer>
     <key>comma</key>
     <integer>-10</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-10</integer>
     <key>key-beria</key>
     <integer>-20</integer>
@@ -195,7 +195,7 @@
     <integer>-50</integer>
     <key>elli-beria</key>
     <integer>-30</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-30</integer>
     <key>enni-beria</key>
     <integer>-10</integer>
@@ -238,7 +238,7 @@
     <integer>-15</integer>
     <key>elli-beria</key>
     <integer>-20</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-10</integer>
     <key>enni-beria</key>
     <integer>-10</integer>
@@ -301,7 +301,7 @@
     <integer>-50</integer>
     <key>elli-beria</key>
     <integer>-20</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-50</integer>
     <key>exclam</key>
     <integer>-20</integer>
@@ -359,7 +359,7 @@
     <integer>-80</integer>
     <key>elli-beria</key>
     <integer>-40</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-60</integer>
     <key>enni-beria</key>
     <integer>-20</integer>
@@ -421,7 +421,7 @@
     <integer>-10</integer>
     <key>elli-beria</key>
     <integer>-10</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-10</integer>
     <key>enni-beria</key>
     <integer>-15</integer>
@@ -490,7 +490,7 @@
     <integer>-10</integer>
     <key>elli-beria</key>
     <integer>-20</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-20</integer>
     <key>enni-beria</key>
     <integer>-30</integer>
@@ -562,7 +562,7 @@
     <integer>-20</integer>
     <key>elli-beria</key>
     <integer>-15</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-10</integer>
     <key>enni-beria</key>
     <integer>-10</integer>
@@ -631,7 +631,7 @@
     <integer>20</integer>
     <key>elli-beria</key>
     <integer>-40</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-90</integer>
     <key>enni-beria</key>
     <integer>-20</integer>
@@ -682,7 +682,7 @@
     <integer>-10</integer>
     <key>elli-beria</key>
     <integer>-25</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-30</integer>
     <key>gay-beria</key>
     <integer>-15</integer>
@@ -741,7 +741,7 @@
     <integer>-10</integer>
     <key>elli-beria</key>
     <integer>-20</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-50</integer>
     <key>enni-beria</key>
     <integer>-20</integer>
@@ -802,7 +802,7 @@
     <integer>10</integer>
     <key>elli-beria</key>
     <integer>-20</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-80</integer>
     <key>enni-beria</key>
     <integer>-20</integer>
@@ -859,7 +859,7 @@
     <integer>-10</integer>
     <key>elli-beria</key>
     <integer>-20</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-20</integer>
     <key>exclam</key>
     <integer>-20</integer>
@@ -953,7 +953,7 @@
     <integer>-20</integer>
     <key>elli-beria</key>
     <integer>-40</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-110</integer>
     <key>four</key>
     <integer>-90</integer>
@@ -1068,7 +1068,7 @@
     <integer>-10</integer>
     <key>eight</key>
     <integer>-20</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-10</integer>
     <key>four</key>
     <integer>-20</integer>
@@ -1117,7 +1117,7 @@
     <integer>-20</integer>
     <key>elli-beria</key>
     <integer>-20</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-20</integer>
     <key>gay-beria</key>
     <integer>-10</integer>
@@ -1152,7 +1152,7 @@
     <integer>-10</integer>
     <key>elli-beria</key>
     <integer>-30</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-70</integer>
     <key>enni-beria</key>
     <integer>-25</integer>
@@ -1201,7 +1201,7 @@
     <integer>-10</integer>
     <key>eight</key>
     <integer>-30</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>10</integer>
     <key>enni-beria</key>
     <integer>-30</integer>
@@ -1238,7 +1238,7 @@
     <integer>-30</integer>
     <key>day-beria</key>
     <integer>-15</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-10</integer>
     <key>period</key>
     <integer>-30</integer>
@@ -1271,7 +1271,7 @@
   <dict>
     <key>day-beria</key>
     <integer>-5</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>25</integer>
     <key>parenright</key>
     <integer>-20</integer>
@@ -1309,7 +1309,7 @@
     <integer>-50</integer>
     <key>elli-beria</key>
     <integer>-45</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-35</integer>
     <key>enni-beria</key>
     <integer>-20</integer>
@@ -1400,7 +1400,7 @@
     <key>yay-beria</key>
     <integer>-20</integer>
   </dict>
-  <key>emimi-beria</key>
+  <key>emmi-beria</key>
   <dict>
     <key>asterisk</key>
     <integer>30</integer>
@@ -1418,7 +1418,7 @@
     <integer>-10</integer>
     <key>elli-beria</key>
     <integer>-35</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-90</integer>
     <key>enni-beria</key>
     <integer>-20</integer>
@@ -1832,7 +1832,7 @@
     <integer>-10</integer>
     <key>eight</key>
     <integer>-20</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>10</integer>
     <key>enni-beria</key>
     <integer>-30</integer>
@@ -1867,7 +1867,7 @@
     <integer>20</integer>
     <key>elli-beria</key>
     <integer>30</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>30</integer>
     <key>gay-beria</key>
     <integer>5</integer>
@@ -1939,7 +1939,7 @@
     <integer>-30</integer>
     <key>public.kern2.elli-beria</key>
     <integer>-40</integer>
-    <key>public.kern2.emimi-beria</key>
+    <key>public.kern2.emmi-beria</key>
     <integer>-20</integer>
     <key>public.kern2.enni-beria</key>
     <integer>-40</integer>
@@ -2068,7 +2068,7 @@
   <dict>
     <key>public.kern2.Effi-beria</key>
     <integer>-10</integer>
-    <key>public.kern2.emimi-beria</key>
+    <key>public.kern2.emmi-beria</key>
     <integer>-10</integer>
     <key>public.kern2.iyi-beria</key>
     <integer>-10</integer>
@@ -2194,7 +2194,7 @@
     <integer>-30</integer>
     <key>public.kern2.elli-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.emimi-beria</key>
+    <key>public.kern2.emmi-beria</key>
     <integer>-20</integer>
     <key>public.kern2.enni-beria</key>
     <integer>-10</integer>
@@ -2355,7 +2355,7 @@
     <integer>-10</integer>
     <key>public.kern2.effi-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.emimi-beria</key>
+    <key>public.kern2.emmi-beria</key>
     <integer>5</integer>
     <key>public.kern2.enni-beria</key>
     <integer>-20</integer>
@@ -2666,7 +2666,7 @@
     <integer>-15</integer>
     <key>public.kern2.backslash</key>
     <integer>-150</integer>
-    <key>public.kern2.emimi-beria</key>
+    <key>public.kern2.emmi-beria</key>
     <integer>10</integer>
     <key>public.kern2.exclam</key>
     <integer>-10</integer>
@@ -2983,7 +2983,7 @@
     <integer>-20</integer>
     <key>public.kern2.elli-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.emimi-beria</key>
+    <key>public.kern2.emmi-beria</key>
     <integer>-60</integer>
     <key>public.kern2.gay-beria</key>
     <integer>-20</integer>
@@ -3083,7 +3083,7 @@
     <key>public.kern2.uy-beria</key>
     <integer>-10</integer>
   </dict>
-  <key>public.kern1.emimi-beria</key>
+  <key>public.kern1.emmi-beria</key>
   <dict>
     <key>public.kern2.bay-beria</key>
     <integer>-35</integer>
@@ -3146,7 +3146,7 @@
     <integer>-50</integer>
     <key>public.kern2.elli-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.emimi-beria</key>
+    <key>public.kern2.emmi-beria</key>
     <integer>-20</integer>
     <key>public.kern2.enni-beria</key>
     <integer>-15</integer>
@@ -3328,7 +3328,7 @@
     <integer>-10</integer>
     <key>public.kern2.elli-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.emimi-beria</key>
+    <key>public.kern2.emmi-beria</key>
     <integer>-30</integer>
     <key>public.kern2.enni-beria</key>
     <integer>-10</integer>
@@ -3409,7 +3409,7 @@
     <integer>-30</integer>
     <key>public.kern2.elli-beria</key>
     <integer>-20</integer>
-    <key>public.kern2.emimi-beria</key>
+    <key>public.kern2.emmi-beria</key>
     <integer>-40</integer>
     <key>public.kern2.five</key>
     <integer>-20</integer>
@@ -3573,7 +3573,7 @@
     <integer>-10</integer>
     <key>public.kern2.effi-beria</key>
     <integer>-5</integer>
-    <key>public.kern2.emimi-beria</key>
+    <key>public.kern2.emmi-beria</key>
     <integer>10</integer>
     <key>public.kern2.enni-beria</key>
     <integer>-10</integer>
@@ -3734,7 +3734,7 @@
     <integer>-50</integer>
     <key>public.kern2.elli-beria</key>
     <integer>-90</integer>
-    <key>public.kern2.emimi-beria</key>
+    <key>public.kern2.emmi-beria</key>
     <integer>-120</integer>
     <key>public.kern2.enni-beria</key>
     <integer>-50</integer>
@@ -3825,7 +3825,7 @@
     <integer>-55</integer>
     <key>public.kern2.elli-beria</key>
     <integer>-90</integer>
-    <key>public.kern2.emimi-beria</key>
+    <key>public.kern2.emmi-beria</key>
     <integer>-140</integer>
     <key>public.kern2.enni-beria</key>
     <integer>-50</integer>
@@ -3900,7 +3900,7 @@
     <integer>-10</integer>
     <key>public.kern2.djay-beria</key>
     <integer>10</integer>
-    <key>public.kern2.emimi-beria</key>
+    <key>public.kern2.emmi-beria</key>
     <integer>20</integer>
     <key>public.kern2.ey-beria</key>
     <integer>-90</integer>
@@ -3969,7 +3969,7 @@
     <integer>-50</integer>
     <key>public.kern2.elli-beria</key>
     <integer>-70</integer>
-    <key>public.kern2.emimi-beria</key>
+    <key>public.kern2.emmi-beria</key>
     <integer>-120</integer>
     <key>public.kern2.enni-beria</key>
     <integer>-20</integer>
@@ -4040,7 +4040,7 @@
     <integer>-20</integer>
     <key>public.kern2.elli-beria</key>
     <integer>-30</integer>
-    <key>public.kern2.emimi-beria</key>
+    <key>public.kern2.emmi-beria</key>
     <integer>-20</integer>
     <key>public.kern2.iyi-beria</key>
     <integer>-20</integer>
@@ -4419,7 +4419,7 @@
     <integer>-10</integer>
     <key>elli-beria</key>
     <integer>-40</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-45</integer>
     <key>enni-beria</key>
     <integer>-10</integer>
@@ -4511,7 +4511,7 @@
     <integer>-10</integer>
     <key>elli-beria</key>
     <integer>-110</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-210</integer>
     <key>enni-beria</key>
     <integer>-50</integer>
@@ -4561,7 +4561,7 @@
     <integer>-10</integer>
     <key>elli-beria</key>
     <integer>-10</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-20</integer>
     <key>enni-beria</key>
     <integer>-20</integer>
@@ -4644,7 +4644,7 @@
     <integer>-10</integer>
     <key>elli-beria</key>
     <integer>-20</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-20</integer>
     <key>enni-beria</key>
     <integer>-30</integer>
@@ -4681,7 +4681,7 @@
     <integer>-30</integer>
     <key>elli-beria</key>
     <integer>-20</integer>
-    <key>emimi-beria</key>
+    <key>emmi-beria</key>
     <integer>-10</integer>
     <key>gay-beria</key>
     <integer>-25</integer>

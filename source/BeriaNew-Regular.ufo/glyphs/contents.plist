@@ -220,10 +220,10 @@
   <string>ellipsis.glif</string>
   <key>emdash</key>
   <string>emdash.glif</string>
-  <key>emimi-beria</key>
-  <string>emimi-beria.glif</string>
-  <key>emimi-beria.alt</key>
-  <string>emimi-beria.alt.glif</string>
+  <key>emmi-beria</key>
+  <string>emmi-beria.glif</string>
+  <key>emmi-beria.alt</key>
+  <string>emmi-beria.alt.glif</string>
   <key>endash</key>
   <string>endash.glif</string>
   <key>enni-beria</key>

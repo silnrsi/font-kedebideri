@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four-beria" format="2">
   <advance width="940"/>
-  <unicode hex="E374"/>
+  <unicode hex="E474"/>
   <outline>
     <component base="placeholder"/>
   </outline>
