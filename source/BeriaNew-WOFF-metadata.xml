@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata version="1.0">
   <uniqueid id="org.sil.fonts.BeriaNew.1.700" />
-  <vendor name="SIL International" url="http://www.sil.org/" />
+  <vendor name="SIL International" url="https://www.sil.org/" />
   <credits>
     <credit
       name="Anonymous"
@@ -42,11 +42,11 @@
       - Initial freeware release
     </text>
   </description>
-  <license url="http://scripts.sil.org/OFL" id="org.sil.ofl.1.1">
+  <license url="https://scripts.sil.org/OFL" id="org.sil.ofl.1.1">
     <text lang="en">
-      Copyright (c) 2007-2021 SIL International (http://www.sil.org/).
+      Copyright (c) 2007-2021 SIL International (https://www.sil.org/).
       
-      This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
+      This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: https://scripts.sil.org/OFL
       
       
       -----------------------------------------------------------

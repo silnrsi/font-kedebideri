@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Beria New</string>
   <key>openTypeHeadCreated</key>
-  <string>2022/05/12 16:25:02</string>
+  <string>2023/05/04 16:48:40</string>
   <key>openTypeHheaAscender</key>
   <integer>1000</integer>
   <key>openTypeHheaDescender</key>
@@ -25,11 +25,11 @@
   <key>openTypeNameDesigner</key>
   <string>SIL staff and anonymous volunteer</string>
   <key>openTypeNameDesignerURL</key>
-  <string>http://scripts.sil.org/</string>
+  <string>https://scripts.sil.org/</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 2007-2021 SIL International (http://www.sil.org/).
+  <string>Copyright (c) 2007-2021 SIL International (https://www.sil.org/).
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: https://scripts.sil.org/OFL
 
 
 -----------------------------------------------------------
@@ -71,17 +71,17 @@ This license becomes null and void if any of the above conditions are not met.
 DISCLAIMER
 THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>openTypeNameLicenseURL</key>
-  <string>http://scripts.sil.org/OFL</string>
+  <string>https://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
   <string>SIL International</string>
   <key>openTypeNameManufacturerURL</key>
-  <string>http://www.sil.org/</string>
+  <string>https://www.sil.org/</string>
   <key>openTypeNamePreferredFamilyName</key>
   <string>Beria New</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: Beria New Regular: 2022</string>
+  <string>SIL International: Beria New Regular: 2023</string>
   <key>openTypeNameVersion</key>
   <string>Version 1.700</string>
   <key>openTypeOS2CodePageRanges</key>
