@@ -7,13 +7,13 @@
   <key>capHeight</key>
   <integer>668</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2007-2021 SIL International</string>
+  <string>Copyright (c) 2007-2023 SIL International</string>
   <key>descender</key>
   <integer>-250</integer>
   <key>familyName</key>
   <string>Beria New</string>
   <key>openTypeHeadCreated</key>
-  <string>2023/05/04 16:48:40</string>
+  <string>2023/09/21 14:29:56</string>
   <key>openTypeHheaAscender</key>
   <integer>1000</integer>
   <key>openTypeHheaDescender</key>
@@ -121,6 +121,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2UnicodeRanges</key>
   <array>
     <integer>0</integer>
+    <integer>57</integer>
   </array>
   <key>openTypeOS2VendorID</key>
   <string>SIL </string>
