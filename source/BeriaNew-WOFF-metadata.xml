@@ -9,7 +9,7 @@
     />
     <credit
       name="SIL font engineers"
-      url="https://scripts.sil.org/"
+      url="https://software.sil.org/wstech/"
       role="Additional font design, engineering, and production"
     />
   </credits>
@@ -42,11 +42,11 @@
       - Initial freeware release
     </text>
   </description>
-  <license url="https://scripts.sil.org/OFL" id="org.sil.ofl.1.1">
+  <license url="https://openfontlicense.org/" id="org.sil.ofl.1.1">
     <text lang="en">
-      Copyright (c) 2007-2021 SIL International (https://www.sil.org/).
+      Copyright (c) 2007-2024 SIL International (https://www.sil.org/).
       
-      This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: https://scripts.sil.org/OFL
+      This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: https://openfontlicense.org/
       
       
       -----------------------------------------------------------
@@ -91,7 +91,7 @@
   </license>
   <copyright>
     <text lang="en">
-      Copyright (c) 2007-2021 SIL International
+      Copyright (c) 2007-2024 SIL International
     </text>
   </copyright>
 </metadata>

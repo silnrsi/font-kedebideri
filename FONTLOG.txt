@@ -49,7 +49,7 @@ D: Original glyph designs
 
 N: SIL font engineers
 E: fonts@sil.org
-W: https://scripts.sil.org/
+W: https://software.sil.org/wstech/
 D: Additional font design, engineering, and production
 
 
