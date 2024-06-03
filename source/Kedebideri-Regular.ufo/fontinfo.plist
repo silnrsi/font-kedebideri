@@ -11,7 +11,7 @@
   <key>descender</key>
   <integer>-250</integer>
   <key>familyName</key>
-  <string>Beria New</string>
+  <string>Kedebideri</string>
   <key>openTypeHeadCreated</key>
   <string>2024/01/25 09:21:05</string>
   <key>openTypeHheaAscender</key>
@@ -21,7 +21,7 @@
   <key>openTypeHheaLineGap</key>
   <integer>0</integer>
   <key>openTypeNameDescription</key>
-  <string>Beria New is a temporary font prepared to support the Beria script Unicode proposal.</string>
+  <string>Kedebideri is a font for the Beria language using the Beria Erfe script.</string>
   <key>openTypeNameDesigner</key>
   <string>SIL staff and anonymous volunteer</string>
   <key>openTypeNameDesignerURL</key>
@@ -77,13 +77,13 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameManufacturerURL</key>
   <string>https://www.sil.org/</string>
   <key>openTypeNamePreferredFamilyName</key>
-  <string>Beria New</string>
+  <string>Kedebideri</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: Beria New Regular: 2024</string>
+  <string>SIL International: Kedebideri Regular: 2024</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.700</string>
+  <string>Version 1.701</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -143,7 +143,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>684</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>BeriaNew-Regular</string>
+  <string>-Regular</string>
   <key>postscriptOtherBlues</key>
   <array>
     <integer>-151</integer>
@@ -154,7 +154,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>postscriptUnderlineThickness</key>
   <integer>50</integer>
   <key>styleMapFamilyName</key>
-  <string>Beria New</string>
+  <string>Kedebideri</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
@@ -164,7 +164,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>700</integer>
+  <integer>701</integer>
   <key>xHeight</key>
   <integer>668</integer>
 </dict>

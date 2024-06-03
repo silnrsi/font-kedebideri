@@ -1,6 +1,6 @@
-# Beria Giray Erfe Test A
+# Kedebideri
 
-Beria Giray Erfe Test A is a font in development for the Beria script. **Please note that this is a work in progress so glyph shapes, metrics, and encoding will change.**
+Kedebideri is a font for the Beria language using the Beria Erfe script. **Please note that this is a work in progress so glyph shapes, metrics, and encoding will change.**
 
 For more details about this project, including its design history and acknowledgements see FONTLOG.txt.
 

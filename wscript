@@ -5,9 +5,9 @@
 # DOCDIR = ["documentation", "web"]
 
 # set the font name and description
-APPNAME = 'BeriaNew'
+APPNAME = 'Kedebideri'
 FAMILY = APPNAME
-DESC_SHORT = "Font for the Beria script"
+DESC_SHORT = "Font for the Beria Erfe script"
 
 # Get version and authorship information from Regular UFO (canonical metadata); must be first function call:
 getufoinfo('source/' + FAMILY + '-Regular' + '.ufo')

@@ -1,6 +1,6 @@
-# Beria Giray Erfe Test A
+# Kedebideri
 
-Beria Giray Erfe Test A is a font in development for the Beria script. **Please note that this is a work in progress so glyph shapes, metrics, and encoding will change.**
+Kedebideri is a font in development for the Beria Erfe script. **Please note that this is a work in progress so glyph shapes, metrics, and encoding will change.**
 
 ### Project status [![Build Status](https://build.palaso.org/app/rest/builds/buildType:Fonts_Kedebideri/statusIcon)](https://build.palaso.org/viewType.html?buildTypeId=Fonts_Kedebideri&guest=1)
 

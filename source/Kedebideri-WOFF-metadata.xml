@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata version="1.0">
-  <uniqueid id="org.sil.fonts.BeriaGirayErfeTestB.1.700" />
+  <uniqueid id="org.sil.fonts.Kedebideri.1.701" />
   <vendor name="SIL International" url="https://www.sil.org/" />
   <credits>
     <credit
@@ -15,20 +15,16 @@
   </credits>
   <description>
     <text lang="en">
+      The Beria Erfe script is built around a sampling of the markings on livestock (especially camels) within the Beria language region of western Sudan and eastern Chad. It is an idea that has its origins in the work of a Sudanese schoolteacher who developed the first version of this over 25 years ago. The Beria Erfe script has since been provisionally accepted for addition to Unicode.
+      
       This font was initially designed by a volunteer who chooses to remain anonymous, in cooperation with SIL International and the Mission Protestante Franco-Suisse au Tchad.
-      
-      This alphabet is built around a sampling of the markings on livestock (especially camels) within the Beria language region of western Sudan and eastern Chad. It is an idea that has its origins in the work of a Sudanese schoolteacher who developed the first version of this over 25 years ago. The script has since been adapted and improved for writing the Beria language by Siddick Adam Issa. There is great enthusiasm in the language community for what he has put together.
-      
-      The symbols of the alphabet seem to hang from an imaginary "clothesline" and are in matched uppercase and lowercase forms. Diacritics are placed above the letters to indicate tone, stress, and ATR (advanced tongue root) marking for vowels. Tone and stress marks are mutually exclusive. Tone markings occur in transcriptions. Stress markings occur in the writing system. The vowels /e/, /i/, /o/, and /u/ are marked for ATR by placing a line above letters.
-      
-      _Please note that this font is not yet encoded according to The Unicode Standard, as the Beria script has not yet been accepted into the standard. The letters are currently given Unicode PUA (Private Use Area) assignments while encoding proposals are in process. Once the script is accepted into Unicode all of these encoding assignments will change._
-      
-      _This font should be considered a work in progress. Glyphs shapes and metrics may change considerably prior to a final Unicode release. The font name will also change._
-      
       
       ChangeLog
       ---------
       (This should list both major and minor changes, most recent first.)
+      
+      3 June 2024 (Kedebideri) version 1.701
+      - Renamed to Kedebideri
       
       8 Apr 2021 (SIL) Beria Giray Erfe Test A version 1.700
       - New public repository and open source build workflow

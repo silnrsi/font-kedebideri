@@ -1,9 +1,10 @@
-Copyright (c) 2007-2024, SIL International (https://www.sil.org/).
+Copyright (c) 2007-2024, SIL International (https://www.sil.org/),
+with Reserved Font Names "Kedebideri" and "SIL".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is copied below, and is also available with a FAQ at:
-https://openfontlicense.org/
 
+This license is copied below, and is also available with an FAQ at:
+https://openfontlicense.org/
 
 -----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007

@@ -16,7 +16,7 @@
         </axis>
     </axes>
     <sources>
-        <source familyname="Beria New" filename="BeriaNew-Regular.ufo" name="Beria New Regular" stylename="Regular">
+        <source familyname="Kedebideri" filename="Kedebideri-Regular.ufo" name="Kedebideri Regular" stylename="Regular">
             <lib copy="1" />
             <groups copy="1" />
             <features copy="1" />
@@ -29,7 +29,7 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Beria Giray Erfe Test B" filename="BeriaGirayErfeTestB-Regular.ufo" name="Beria Giray Erfe Test B Regular" stylemapfamilyname="Beria Giray Erfe Test B" stylemapstylename="regular" stylename="Regular">
+        <instance familyname="Kedebideri" filename="Kedebideri-Regular.ufo" name="Kedebideri Regular" stylemapfamilyname="Kedebideri" stylemapstylename="regular" stylename="Regular">
             <location>
                 <dimension name="weight" xvalue="400.000000" />
                 <dimension name="width" xvalue="100.000000" />
