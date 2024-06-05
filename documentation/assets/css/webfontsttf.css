@@ -1,0 +1,12 @@
+/*
+This file is from the SIL Fontdocs project (https://github.com/silnrsi/fontdocs).
+Copyright (c) 2021 SIL International (http://www.sil.org/). This Font Software is
+released under the MIT license (http://opensource.org/licenses/MIT).
+*/
+@font-face {
+    font-family: Kedebideri-R;
+    src: url("../../../results/Kedebideri-Regular.ttf") format("truetype");
+}
+
+.kede-R { font-family: Kedebideri-R; }
+

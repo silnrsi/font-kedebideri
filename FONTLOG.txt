@@ -20,7 +20,7 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-3 June 2024 (Kedebideri) version 1.701
+3 Jun 2024 (Kedebideri) version 1.701
 - Renamed to Kedebideri
 
 8 Apr 2021 (SIL) Beria Giray Erfe Test A version 1.700
