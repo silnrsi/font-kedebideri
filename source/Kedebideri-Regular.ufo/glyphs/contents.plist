@@ -6,8 +6,6 @@
   <string>_notdef.glif</string>
   <key>.null</key>
   <string>_null.glif</string>
-  <key>Archi-beria</key>
-  <string>A_rchi-beria.glif</string>
   <key>Ay-beria</key>
   <string>A_y-beria.glif</string>
   <key>Ay-beria.alt</key>
@@ -44,8 +42,6 @@
   <string>E_rri-2-beria.glif</string>
   <key>Erri-beria</key>
   <string>E_rri-beria.glif</string>
-  <key>Essi-beria</key>
-  <string>E_ssi-beria.glif</string>
   <key>Euro</key>
   <string>E_uro.glif</string>
   <key>Ey-beria</key>
@@ -66,10 +62,6 @@
   <string>G_na-beria.glif</string>
   <key>Hay-beria</key>
   <string>H_ay-beria.glif</string>
-  <key>Hiyi-beria</key>
-  <string>H_iyi-beria.glif</string>
-  <key>Iya-beria</key>
-  <string>I_ya-beria.glif</string>
   <key>Iyi-beria</key>
   <string>I_yi-beria.glif</string>
   <key>Iyi-beria.alt</key>
@@ -86,8 +78,6 @@
   <string>K_ey-beria.glif</string>
   <key>Key-beria.alt</key>
   <string>K_ey-beria.alt.glif</string>
-  <key>Khay-beria</key>
-  <string>K_hay-beria.glif</string>
   <key>Nay-beria</key>
   <string>N_ay-beria.glif</string>
   <key>Oi-beria</key>
@@ -106,8 +96,6 @@
   <string>S_hep-beria.alt.glif</string>
   <key>Tai-beria</key>
   <string>T_ai-beria.glif</string>
-  <key>Tchay-beria</key>
-  <string>T_chay-beria.glif</string>
   <key>Uy-beria</key>
   <string>U_y-beria.glif</string>
   <key>Uy_acute-beria</key>
@@ -120,22 +108,16 @@
   <string>W_ay-beria.glif</string>
   <key>Yay-beria</key>
   <string>Y_ay-beria.glif</string>
-  <key>Yay_dot-beria</key>
-  <string>Y_ay_dot-beria.glif</string>
   <key>ZWNBS</key>
   <string>Z_W_N_B_S_.glif</string>
   <key>ZWSP</key>
   <string>Z_W_S_P_.glif</string>
-  <key>Zay-beria</key>
-  <string>Z_ay-beria.glif</string>
   <key>acute-beria</key>
   <string>acute-beria.glif</string>
   <key>ampersand</key>
   <string>ampersand.glif</string>
   <key>approxequal</key>
   <string>approxequal.glif</string>
-  <key>archi-beria</key>
-  <string>archi-beria.glif</string>
   <key>asciitilde</key>
   <string>asciitilde.glif</string>
   <key>asterisk</key>
@@ -210,8 +192,6 @@
   <string>effi-beria.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
-  <key>eight-beria</key>
-  <string>eight-beria.glif</string>
   <key>elli-beria</key>
   <string>elli-beria.glif</string>
   <key>elli-beria.alt</key>
@@ -236,8 +216,6 @@
   <string>erri-2-beria.glif</string>
   <key>erri-beria</key>
   <string>erri-beria.glif</string>
-  <key>essi-beria</key>
-  <string>essi-beria.glif</string>
   <key>exclam</key>
   <string>exclam.glif</string>
   <key>ey-beria</key>
@@ -254,14 +232,10 @@
   <string>ey_macron-beria.glif</string>
   <key>five</key>
   <string>five.glif</string>
-  <key>five-beria</key>
-  <string>five-beria.glif</string>
   <key>florin</key>
   <string>florin.glif</string>
   <key>four</key>
   <string>four.glif</string>
-  <key>four-beria</key>
-  <string>four-beria.glif</string>
   <key>fraction</key>
   <string>fraction.glif</string>
   <key>gay-beria</key>
@@ -286,12 +260,8 @@
   <string>guilsinglright.glif</string>
   <key>hay-beria</key>
   <string>hay-beria.glif</string>
-  <key>hiyi-beria</key>
-  <string>hiyi-beria.glif</string>
   <key>hyphen</key>
   <string>hyphen.glif</string>
-  <key>iya-beria</key>
-  <string>iya-beria.glif</string>
   <key>iyi-beria</key>
   <string>iyi-beria.glif</string>
   <key>iyi_acute-beria</key>
@@ -304,8 +274,6 @@
   <string>key-beria.glif</string>
   <key>key-beria.alt</key>
   <string>key-beria.alt.glif</string>
-  <key>khay-beria</key>
-  <string>khay-beria.glif</string>
   <key>less</key>
   <string>less.glif</string>
   <key>logicalnot</key>
@@ -320,8 +288,6 @@
   <string>nay-beria.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
-  <key>nine-beria</key>
-  <string>nine-beria.glif</string>
   <key>nonmarkingreturn</key>
   <string>nonmarkingreturn.glif</string>
   <key>numbersign</key>
@@ -338,8 +304,6 @@
   <string>oi_macron-beria.glif</string>
   <key>one</key>
   <string>one.glif</string>
-  <key>one-beria</key>
-  <string>one-beria.glif</string>
   <key>paragraph</key>
   <string>paragraph.glif</string>
   <key>parenleft</key>
@@ -386,16 +350,12 @@
   <string>semicolon.glif</string>
   <key>seven</key>
   <string>seven.glif</string>
-  <key>seven-beria</key>
-  <string>seven-beria.glif</string>
   <key>shep-beria</key>
   <string>shep-beria.glif</string>
   <key>shep-beria.alt</key>
   <string>shep-beria.alt.glif</string>
   <key>six</key>
   <string>six.glif</string>
-  <key>six-beria</key>
-  <string>six-beria.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
   <key>space</key>
@@ -404,18 +364,12 @@
   <string>sterling.glif</string>
   <key>tai-beria</key>
   <string>tai-beria.glif</string>
-  <key>tchay-beria</key>
-  <string>tchay-beria.glif</string>
   <key>three</key>
   <string>three.glif</string>
-  <key>three-beria</key>
-  <string>three-beria.glif</string>
   <key>trademark</key>
   <string>trademark.glif</string>
   <key>two</key>
   <string>two.glif</string>
-  <key>two-beria</key>
-  <string>two-beria.glif</string>
   <key>underscore</key>
   <string>underscore.glif</string>
   <key>uni2060</key>
@@ -432,15 +386,9 @@
   <string>way-beria.glif</string>
   <key>yay-beria</key>
   <string>yay-beria.glif</string>
-  <key>yay_dot-beria</key>
-  <string>yay_dot-beria.glif</string>
   <key>yen</key>
   <string>yen.glif</string>
-  <key>zay-beria</key>
-  <string>zay-beria.glif</string>
   <key>zero</key>
   <string>zero.glif</string>
-  <key>zero-beria</key>
-  <string>zero-beria.glif</string>
 </dict>
 </plist>

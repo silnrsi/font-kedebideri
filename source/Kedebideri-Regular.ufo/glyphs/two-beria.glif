@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="two-beria" format="2">
-  <advance width="940"/>
-  <unicode hex="E472"/>
-  <outline>
-    <component base="placeholder"/>
-  </outline>
-</glyph>
