@@ -112,8 +112,8 @@
   <string>Z_W_N_B_S_.glif</string>
   <key>ZWSP</key>
   <string>Z_W_S_P_.glif</string>
-  <key>acute-beria</key>
-  <string>acute-beria.glif</string>
+  <key>acutecomb</key>
+  <string>acutecomb.glif</string>
   <key>ampersand</key>
   <string>ampersand.glif</string>
   <key>approxequal</key>
@@ -158,8 +158,6 @@
   <string>chei-beria.glif</string>
   <key>chei-beria.alt</key>
   <string>chei-beria.alt.glif</string>
-  <key>circumflex-beria</key>
-  <string>circumflex-beria.glif</string>
   <key>colon</key>
   <string>colon.glif</string>
   <key>comma</key>
@@ -176,8 +174,6 @@
   <string>day-beria.alt.glif</string>
   <key>degree</key>
   <string>degree.glif</string>
-  <key>dieresis-beria</key>
-  <string>dieresis-beria.glif</string>
   <key>divide</key>
   <string>divide.glif</string>
   <key>djay-beria</key>
@@ -186,8 +182,8 @@
   <string>djay-beria.alt.glif</string>
   <key>dollar</key>
   <string>dollar.glif</string>
-  <key>dot-beria</key>
-  <string>dot-beria.glif</string>
+  <key>dotaccentcmb</key>
+  <string>dotaccentcmb.glif</string>
   <key>effi-beria</key>
   <string>effi-beria.glif</string>
   <key>eight</key>
@@ -246,8 +242,8 @@
   <string>gna-beria.glif</string>
   <key>gna-beria.alt</key>
   <string>gna-beria.alt.glif</string>
-  <key>grave-beria</key>
-  <string>grave-beria.glif</string>
+  <key>gravecomb</key>
+  <string>gravecomb.glif</string>
   <key>greater</key>
   <string>greater.glif</string>
   <key>guillemotleft</key>
@@ -278,8 +274,8 @@
   <string>less.glif</string>
   <key>logicalnot</key>
   <string>logicalnot.glif</string>
-  <key>macron-beria</key>
-  <string>macron-beria.glif</string>
+  <key>macroncomb</key>
+  <string>macroncomb.glif</string>
   <key>minus</key>
   <string>minus.glif</string>
   <key>multiply</key>

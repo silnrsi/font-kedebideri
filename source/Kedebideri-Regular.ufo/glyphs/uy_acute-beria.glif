@@ -7,12 +7,12 @@ uacute
 </note>
   <outline>
     <component base="uy-beria"/>
-    <component base="acute-beria" xOffset="-13"/>
+    <component base="acutecomb" xOffset="-13"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -180,12 +180,10 @@
     <string>way-beria</string>
     <string>Yay-beria</string>
     <string>yay-beria</string>
-    <string>grave-beria</string>
-    <string>acute-beria</string>
-    <string>circumflex-beria</string>
-    <string>macron-beria</string>
-    <string>dot-beria</string>
-    <string>dieresis-beria</string>
+    <string>gravecomb</string>
+    <string>acutecomb</string>
+    <string>macroncomb</string>
+    <string>dotaccentcmb</string>
     <string>Ay_acute-beria</string>
     <string>Ay_grave-beria</string>
     <string>Ay_macron-beria</string>
@@ -348,8 +346,8 @@
     <string>u16EB8</string>
     <key>ZWNBS</key>
     <string>uniFEFF</string>
-    <key>acute-beria</key>
-    <string>acutecomb</string>
+    <key>acutecomb</key>
+    <string>uni0301</string>
     <key>ay-beria</key>
     <string>u16EBB</string>
     <key>ay-beria.alt</key>
@@ -368,19 +366,15 @@
     <string>u16ECE</string>
     <key>chei-beria.alt</key>
     <string>uniE32B.alt</string>
-    <key>circumflex-beria</key>
-    <string>uni0302</string>
     <key>day-beria</key>
     <string>u16EBD</string>
     <key>day-beria.alt</key>
     <string>uniE307.alt</string>
-    <key>dieresis-beria</key>
-    <string>uni0308</string>
     <key>djay-beria</key>
     <string>u16EC3</string>
     <key>djay-beria.alt</key>
     <string>uniE317.alt</string>
-    <key>dot-beria</key>
+    <key>dotaccentcmb</key>
     <string>uni0307</string>
     <key>effi-beria</key>
     <string>u16EBF</string>
@@ -420,8 +414,8 @@
     <string>u16EC9</string>
     <key>gna-beria.alt</key>
     <string>uniE335.alt</string>
-    <key>grave-beria</key>
-    <string>gravecomb</string>
+    <key>gravecomb</key>
+    <string>uni0300</string>
     <key>hay-beria</key>
     <string>u16EC1</string>
     <key>iyi-beria</key>
@@ -436,7 +430,7 @@
     <string>u16EC4</string>
     <key>key-beria.alt</key>
     <string>uniE319.alt</string>
-    <key>macron-beria</key>
+    <key>macroncomb</key>
     <string>uni0304</string>
     <key>nay-beria</key>
     <string>u16EC8</string>
