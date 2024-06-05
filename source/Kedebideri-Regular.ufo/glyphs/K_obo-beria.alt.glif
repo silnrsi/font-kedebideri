@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kobo-beria.alt" format="2">
+  <advance width="788"/>
+  <note>
+K
+</note>
+  <outline>
+    <contour>
+      <point x="418" y="-156" type="curve" smooth="yes"/>
+      <point x="582" y="-156"/>
+      <point x="710" y="-72"/>
+      <point x="710" y="86" type="curve" smooth="yes"/>
+      <point x="710" y="232"/>
+      <point x="587" y="312"/>
+      <point x="433" y="321" type="curve"/>
+      <point x="433" y="604" type="line"/>
+      <point x="564" y="604" type="line"/>
+      <point x="564" y="668" type="line"/>
+      <point x="235" y="668" type="line"/>
+      <point x="235" y="604" type="line"/>
+      <point x="365" y="604" type="line"/>
+      <point x="365" y="259" type="line"/>
+      <point x="403" y="259" type="line" smooth="yes"/>
+      <point x="534" y="258"/>
+      <point x="641" y="200"/>
+      <point x="641" y="85" type="curve" smooth="yes"/>
+      <point x="641" y="-33"/>
+      <point x="543" y="-93"/>
+      <point x="417" y="-93" type="curve" smooth="yes"/>
+      <point x="273" y="-93"/>
+      <point x="163" y="-18"/>
+      <point x="143" y="103" type="curve"/>
+      <point x="74" y="88" type="line"/>
+      <point x="101" y="-63"/>
+      <point x="237" y="-156"/>
+    </contour>
+  </outline>
+</glyph>

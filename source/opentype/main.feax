@@ -1,0 +1,14 @@
+#**********************************
+# This file is part of Kedebideri font family (https://software.sil.org/kedebideri/) 
+# and is Copyright (c) 2007-2024 SIL International (https://www.sil.org/),
+# with Reserved Font Names "Kedebideri" and "SIL".
+#
+# This Font Software is licensed under the SIL Open Font License, Version 1.1.
+#
+# You should have received a copy of the license along with this Font Software.
+# If this is not the case, go to (https://openfontlicense.org/) for all the
+# details including an FAQ.
+#**********************************
+
+include(../../source/opentype/gsub.feax);
+include(../../source/opentype/gpos.feax);

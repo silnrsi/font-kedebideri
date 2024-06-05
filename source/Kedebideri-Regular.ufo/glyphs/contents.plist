@@ -6,108 +6,74 @@
   <string>_notdef.glif</string>
   <key>.null</key>
   <string>_null.glif</string>
+  <key>Arkab-beria</key>
+  <string>A_rkab-beria.glif</string>
   <key>Ay-beria</key>
   <string>A_y-beria.glif</string>
   <key>Ay-beria.alt</key>
   <string>A_y-beria.alt.glif</string>
-  <key>Ay_acute-beria</key>
-  <string>A_y_acute-beria.glif</string>
-  <key>Ay_grave-beria</key>
-  <string>A_y_grave-beria.glif</string>
-  <key>Ay_macron-beria</key>
-  <string>A_y_macron-beria.glif</string>
-  <key>Bay-beria</key>
-  <string>B_ay-beria.glif</string>
-  <key>Chei-beria</key>
-  <string>C_hei-beria.glif</string>
-  <key>Chei-beria.alt</key>
-  <string>C_hei-beria.alt.glif</string>
-  <key>Day-beria</key>
-  <string>D_ay-beria.glif</string>
-  <key>Djay-beria</key>
-  <string>D_jay-beria.glif</string>
-  <key>Effi-beria</key>
-  <string>E_ffi-beria.glif</string>
-  <key>Effi-beria.alt</key>
-  <string>E_ffi-beria.alt.glif</string>
-  <key>Elli-beria</key>
-  <string>E_lli-beria.glif</string>
-  <key>Elli-beria.alt</key>
-  <string>E_lli-beria.alt.glif</string>
-  <key>Emmi-beria</key>
-  <string>E_mmi-beria.glif</string>
-  <key>Enni-beria</key>
-  <string>E_nni-beria.glif</string>
-  <key>Erri-2-beria</key>
-  <string>E_rri-2-beria.glif</string>
-  <key>Erri-beria</key>
-  <string>E_rri-beria.glif</string>
+  <key>Basigna-beria</key>
+  <string>B_asigna-beria.glif</string>
+  <key>Darbai-beria</key>
+  <string>D_arbai-beria.glif</string>
+  <key>Djai-beria</key>
+  <string>D_jai-beria.glif</string>
+  <key>Eh-beria</key>
+  <string>E_h-beria.glif</string>
+  <key>Eh-beria.alt</key>
+  <string>E_h-beria.alt.glif</string>
+  <key>Erigo-Tamura-beria</key>
+  <string>E_rigo-T_amura-beria.glif</string>
+  <key>Erigo-beria</key>
+  <string>E_rigo-beria.glif</string>
   <key>Euro</key>
   <string>E_uro.glif</string>
-  <key>Ey-beria</key>
-  <string>E_y-beria.glif</string>
-  <key>Ey-beria.alt</key>
-  <string>E_y-beria.alt.glif</string>
-  <key>Ey_acute-beria</key>
-  <string>E_y_acute-beria.glif</string>
-  <key>Ey_dot-beria</key>
-  <string>E_y_dot-beria.glif</string>
-  <key>Ey_grave-beria</key>
-  <string>E_y_grave-beria.glif</string>
-  <key>Ey_macron-beria</key>
-  <string>E_y_macron-beria.glif</string>
-  <key>Gay-beria</key>
-  <string>G_ay-beria.glif</string>
+  <key>Fitko-beria</key>
+  <string>F_itko-beria.glif</string>
+  <key>Fitko-beria.alt</key>
+  <string>F_itko-beria.alt.glif</string>
   <key>Gna-beria</key>
   <string>G_na-beria.glif</string>
-  <key>Hay-beria</key>
-  <string>H_ay-beria.glif</string>
-  <key>Iyi-beria</key>
-  <string>I_yi-beria.glif</string>
-  <key>Iyi-beria.alt</key>
-  <string>I_yi-beria.alt.glif</string>
-  <key>Iyi_acute-beria</key>
-  <string>I_yi_acute-beria.glif</string>
-  <key>Iyi_dot-beria</key>
-  <string>I_yi_dot-beria.glif</string>
-  <key>Iyi_grave-beria</key>
-  <string>I_yi_grave-beria.glif</string>
-  <key>Iyi_macron-beria</key>
-  <string>I_yi_macron-beria.glif</string>
-  <key>Key-beria</key>
-  <string>K_ey-beria.glif</string>
-  <key>Key-beria.alt</key>
-  <string>K_ey-beria.alt.glif</string>
-  <key>Nay-beria</key>
-  <string>N_ay-beria.glif</string>
+  <key>Goway-beria</key>
+  <string>G_oway-beria.glif</string>
+  <key>Hirdeabo-beria</key>
+  <string>H_irdeabo-beria.glif</string>
+  <key>I-beria</key>
+  <string>I_-beria.glif</string>
+  <key>I-beria.alt</key>
+  <string>I_-beria.alt.glif</string>
+  <key>Kobo-beria</key>
+  <string>K_obo-beria.glif</string>
+  <key>Kobo-beria.alt</key>
+  <string>K_obo-beria.alt.glif</string>
+  <key>Lakko-beria</key>
+  <string>L_akko-beria.glif</string>
+  <key>Lakko-beria.alt</key>
+  <string>L_akko-beria.alt.glif</string>
+  <key>Meri-beria</key>
+  <string>M_eri-beria.glif</string>
+  <key>Ngay-beria</key>
+  <string>N_gay-beria.glif</string>
+  <key>Nini-beria</key>
+  <string>N_ini-beria.glif</string>
   <key>Oi-beria</key>
   <string>O_i-beria.glif</string>
-  <key>Oi_acute-beria</key>
-  <string>O_i_acute-beria.glif</string>
-  <key>Oi_grave-beria</key>
-  <string>O_i_grave-beria.glif</string>
-  <key>Oi_macron-beria</key>
-  <string>O_i_macron-beria.glif</string>
   <key>Pi-beria</key>
   <string>P_i-beria.glif</string>
+  <key>Seri-beria</key>
+  <string>S_eri-beria.glif</string>
+  <key>Seri-beria.alt</key>
+  <string>S_eri-beria.alt.glif</string>
   <key>Shep-beria</key>
   <string>S_hep-beria.glif</string>
   <key>Shep-beria.alt</key>
   <string>S_hep-beria.alt.glif</string>
-  <key>Tai-beria</key>
-  <string>T_ai-beria.glif</string>
-  <key>Uy-beria</key>
-  <string>U_y-beria.glif</string>
-  <key>Uy_acute-beria</key>
-  <string>U_y_acute-beria.glif</string>
-  <key>Uy_grave-beria</key>
-  <string>U_y_grave-beria.glif</string>
-  <key>Uy_macron-beria</key>
-  <string>U_y_macron-beria.glif</string>
-  <key>Way-beria</key>
-  <string>W_ay-beria.glif</string>
-  <key>Yay-beria</key>
-  <string>Y_ay-beria.glif</string>
+  <key>Tatasoue-beria</key>
+  <string>T_atasoue-beria.glif</string>
+  <key>Ui-beria</key>
+  <string>U_i-beria.glif</string>
+  <key>Wasse-beria</key>
+  <string>W_asse-beria.glif</string>
   <key>ZWNBS</key>
   <string>Z_W_N_B_S_.glif</string>
   <key>ZWSP</key>
@@ -118,6 +84,8 @@
   <string>ampersand.glif</string>
   <key>approxequal</key>
   <string>approxequal.glif</string>
+  <key>arkab-beria</key>
+  <string>arkab-beria.glif</string>
   <key>asciitilde</key>
   <string>asciitilde.glif</string>
   <key>asterisk</key>
@@ -128,18 +96,12 @@
   <string>ay-beria.glif</string>
   <key>ay-beria.alt</key>
   <string>ay-beria.alt.glif</string>
-  <key>ay_acute-beria</key>
-  <string>ay_acute-beria.glif</string>
-  <key>ay_grave-beria</key>
-  <string>ay_grave-beria.glif</string>
-  <key>ay_macron-beria</key>
-  <string>ay_macron-beria.glif</string>
   <key>backslash</key>
   <string>backslash.glif</string>
   <key>bar</key>
   <string>bar.glif</string>
-  <key>bay-beria</key>
-  <string>bay-beria.glif</string>
+  <key>basigna-beria</key>
+  <string>basigna-beria.glif</string>
   <key>bay-beria.alt</key>
   <string>bay-beria.alt.glif</string>
   <key>braceleft</key>
@@ -154,10 +116,6 @@
   <string>bullet.glif</string>
   <key>cent</key>
   <string>cent.glif</string>
-  <key>chei-beria</key>
-  <string>chei-beria.glif</string>
-  <key>chei-beria.alt</key>
-  <string>chei-beria.alt.glif</string>
   <key>colon</key>
   <string>colon.glif</string>
   <key>comma</key>
@@ -168,64 +126,44 @@
   <string>dagger.glif</string>
   <key>daggerdbl</key>
   <string>daggerdbl.glif</string>
-  <key>day-beria</key>
-  <string>day-beria.glif</string>
+  <key>darbai-beria</key>
+  <string>darbai-beria.glif</string>
   <key>day-beria.alt</key>
   <string>day-beria.alt.glif</string>
   <key>degree</key>
   <string>degree.glif</string>
   <key>divide</key>
   <string>divide.glif</string>
-  <key>djay-beria</key>
-  <string>djay-beria.glif</string>
-  <key>djay-beria.alt</key>
-  <string>djay-beria.alt.glif</string>
+  <key>djai-beria</key>
+  <string>djai-beria.glif</string>
+  <key>djai-beria.alt</key>
+  <string>djai-beria.alt.glif</string>
   <key>dollar</key>
   <string>dollar.glif</string>
   <key>dotaccentcmb</key>
   <string>dotaccentcmb.glif</string>
-  <key>effi-beria</key>
-  <string>effi-beria.glif</string>
+  <key>eh-beria</key>
+  <string>eh-beria.glif</string>
+  <key>eh-beria.alt</key>
+  <string>eh-beria.alt.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
-  <key>elli-beria</key>
-  <string>elli-beria.glif</string>
-  <key>elli-beria.alt</key>
-  <string>elli-beria.alt.glif</string>
   <key>ellipsis</key>
   <string>ellipsis.glif</string>
   <key>emdash</key>
   <string>emdash.glif</string>
-  <key>emmi-beria</key>
-  <string>emmi-beria.glif</string>
-  <key>emmi-beria.alt</key>
-  <string>emmi-beria.alt.glif</string>
   <key>endash</key>
   <string>endash.glif</string>
-  <key>enni-beria</key>
-  <string>enni-beria.glif</string>
-  <key>enni-beria.alt</key>
-  <string>enni-beria.alt.glif</string>
   <key>equal</key>
   <string>equal.glif</string>
-  <key>erri-2-beria</key>
-  <string>erri-2-beria.glif</string>
-  <key>erri-beria</key>
-  <string>erri-beria.glif</string>
+  <key>erigo-beria</key>
+  <string>erigo-beria.glif</string>
+  <key>erigo-tamura-beria</key>
+  <string>erigo-tamura-beria.glif</string>
   <key>exclam</key>
   <string>exclam.glif</string>
-  <key>ey-beria</key>
-  <string>ey-beria.glif</string>
-  <key>ey-beria.alt</key>
-  <string>ey-beria.alt.glif</string>
-  <key>ey_acute-beria</key>
-  <string>ey_acute-beria.glif</string>
-  <key>ey_dot-beria</key>
-  <string>ey_dot-beria.glif</string>
-  <key>ey_grave-beria</key>
-  <string>ey_grave-beria.glif</string>
-  <key>ey_macron-beria</key>
-  <string>ey_macron-beria.glif</string>
+  <key>fitko-beria</key>
+  <string>fitko-beria.glif</string>
   <key>five</key>
   <string>five.glif</string>
   <key>florin</key>
@@ -234,14 +172,12 @@
   <string>four.glif</string>
   <key>fraction</key>
   <string>fraction.glif</string>
-  <key>gay-beria</key>
-  <string>gay-beria.glif</string>
-  <key>gay-beria.alt</key>
-  <string>gay-beria.alt.glif</string>
   <key>gna-beria</key>
   <string>gna-beria.glif</string>
-  <key>gna-beria.alt</key>
-  <string>gna-beria.alt.glif</string>
+  <key>goway-beria</key>
+  <string>goway-beria.glif</string>
+  <key>goway-beria.alt</key>
+  <string>goway-beria.alt.glif</string>
   <key>gravecomb</key>
   <string>gravecomb.glif</string>
   <key>greater</key>
@@ -254,36 +190,44 @@
   <string>guilsinglleft.glif</string>
   <key>guilsinglright</key>
   <string>guilsinglright.glif</string>
-  <key>hay-beria</key>
-  <string>hay-beria.glif</string>
+  <key>hirdeabo-beria</key>
+  <string>hirdeabo-beria.glif</string>
   <key>hyphen</key>
   <string>hyphen.glif</string>
-  <key>iyi-beria</key>
-  <string>iyi-beria.glif</string>
-  <key>iyi_acute-beria</key>
-  <string>iyi_acute-beria.glif</string>
-  <key>iyi_grave-beria</key>
-  <string>iyi_grave-beria.glif</string>
-  <key>iyi_macron-beria</key>
-  <string>iyi_macron-beria.glif</string>
-  <key>key-beria</key>
-  <string>key-beria.glif</string>
-  <key>key-beria.alt</key>
-  <string>key-beria.alt.glif</string>
+  <key>i-beria</key>
+  <string>i-beria.glif</string>
+  <key>kobo-beria</key>
+  <string>kobo-beria.glif</string>
+  <key>kobo-beria.alt</key>
+  <string>kobo-beria.alt.glif</string>
+  <key>lakko-beria</key>
+  <string>lakko-beria.glif</string>
+  <key>lakko-beria.alt</key>
+  <string>lakko-beria.alt.glif</string>
   <key>less</key>
   <string>less.glif</string>
   <key>logicalnot</key>
   <string>logicalnot.glif</string>
   <key>macroncomb</key>
   <string>macroncomb.glif</string>
+  <key>meri-beria</key>
+  <string>meri-beria.glif</string>
+  <key>meri-beria.alt</key>
+  <string>meri-beria.alt.glif</string>
   <key>minus</key>
   <string>minus.glif</string>
   <key>multiply</key>
   <string>multiply.glif</string>
-  <key>nay-beria</key>
-  <string>nay-beria.glif</string>
+  <key>ngay-beria</key>
+  <string>ngay-beria.glif</string>
+  <key>ngay-beria.alt</key>
+  <string>ngay-beria.alt.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
+  <key>nini-beria</key>
+  <string>nini-beria.glif</string>
+  <key>nini-beria.alt</key>
+  <string>nini-beria.alt.glif</string>
   <key>nonmarkingreturn</key>
   <string>nonmarkingreturn.glif</string>
   <key>numbersign</key>
@@ -292,12 +236,6 @@
   <string>oi-beria.glif</string>
   <key>oi-beria.alt</key>
   <string>oi-beria.alt.glif</string>
-  <key>oi_acute-beria</key>
-  <string>oi_acute-beria.glif</string>
-  <key>oi_grave-beria</key>
-  <string>oi_grave-beria.glif</string>
-  <key>oi_macron-beria</key>
-  <string>oi_macron-beria.glif</string>
   <key>one</key>
   <string>one.glif</string>
   <key>paragraph</key>
@@ -344,6 +282,10 @@
   <string>section.glif</string>
   <key>semicolon</key>
   <string>semicolon.glif</string>
+  <key>seri-beria</key>
+  <string>seri-beria.glif</string>
+  <key>seri-beria.alt</key>
+  <string>seri-beria.alt.glif</string>
   <key>seven</key>
   <string>seven.glif</string>
   <key>shep-beria</key>
@@ -358,30 +300,22 @@
   <string>space.glif</string>
   <key>sterling</key>
   <string>sterling.glif</string>
-  <key>tai-beria</key>
-  <string>tai-beria.glif</string>
+  <key>tatasoue-beria</key>
+  <string>tatasoue-beria.glif</string>
   <key>three</key>
   <string>three.glif</string>
   <key>trademark</key>
   <string>trademark.glif</string>
   <key>two</key>
   <string>two.glif</string>
+  <key>ui-beria</key>
+  <string>ui-beria.glif</string>
   <key>underscore</key>
   <string>underscore.glif</string>
   <key>uni2060</key>
   <string>uni2060.glif</string>
-  <key>uy-beria</key>
-  <string>uy-beria.glif</string>
-  <key>uy_acute-beria</key>
-  <string>uy_acute-beria.glif</string>
-  <key>uy_grave-beria</key>
-  <string>uy_grave-beria.glif</string>
-  <key>uy_macron-beria</key>
-  <string>uy_macron-beria.glif</string>
-  <key>way-beria</key>
-  <string>way-beria.glif</string>
-  <key>yay-beria</key>
-  <string>yay-beria.glif</string>
+  <key>wasse-beria</key>
+  <string>wasse-beria.glif</string>
   <key>yen</key>
   <string>yen.glif</string>
   <key>zero</key>

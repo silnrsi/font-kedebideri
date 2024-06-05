@@ -19,7 +19,7 @@ getufoinfo('source/' + FAMILY + '-Regular' + '.ufo')
 designspace('source/' + FAMILY + '.designspace',
     target = process('${DS:FILENAME_BASE}.ttf',
        cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['source/${DS:FILENAME_BASE}.ufo'])),
-    opentype = fea("generated/${DS:FILENAME_BASE}.fea", master="source/features.feax", to_ufo = 'True'),
+    opentype = fea("generated/${DS:FILENAME_BASE}.fea", master="source/opentype/main.feax", to_ufo = 'True'),
     woff = woff('web/${DS:FILENAME_BASE}.woff',
         metadata=f'../source/{FAMILY}-WOFF-metadata.xml',
         cmd='psfwoffit -m ${SRC[1]} --woff ${TGT} --woff2 ${TGT}2 ${SRC[0]}'

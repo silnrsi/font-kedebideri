@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../tools/ftml.xsl" type="text/xsl"?>
+<ftml version="1.0">
+  <head>
+    <fontscale>250</fontscale>
+    <fontsrc label="Kedebideri (inst)">local(Kedebideri)</fontsrc>
+    <fontsrc label="Reg">url(../results/Kedebideri-Regular.ttf)</fontsrc>
+     <title>Kedebideri Positioning</title>
+  </head>
+  <testgroup label="Kerning pairs">
+    <test label="U+16EA1 U+16EA2">
+      <comment>Basigna-beria Darbai-beria</comment>
+      <string>\u16EA1\u200b\u16EA2 \u16EA1\u16EA2</string>
+    </test>
+    <test label="U+16EA1 U+16EAB">
+      <comment>Basigna-beria Meri-beria</comment>
+      <string>\u16EA1\u200b\u16EAB \u16EA1\u16EAB</string>
+    </test>
+  </testgroup>
+  <testgroup label="Mark positioning">
+    <test label="U+0300">
+      <comment>gravecomb</comment>
+      <string>\u16EA0\u0300 \u16EA3\u0300 \u16EA7\u0300 \u16EAF\u0300 \u16EB6\u0300</string>
+    </test>
+    <test label="U+0300">
+      <comment>gravecomb</comment>
+      <string>\u16EBB\u0300 \u16EBE\u0300 \u16EC2\u0300 \u16ECA\u0300 \u16ED1\u0300</string>
+    </test>
+    <test label="U+0301">
+      <comment>acutecomb</comment>
+      <string>\u16EA0\u0301 \u16EA3\u0301 \u16EA7\u0301 \u16EAF\u0301 \u16EB6\u0301</string>
+    </test>
+    <test label="U+0301">
+      <comment>acutecomb</comment>
+      <string>\u16EBB\u0301 \u16EBE\u0301 \u16EC2\u0301 \u16ECA\u0301 \u16ED1\u0301</string>
+    </test>
+    <test label="U+0304">
+      <comment>macroncomb</comment>
+      <string>\u16EA0\u0304 \u16EA3\u0304 \u16EA7\u0304 \u16EAF\u0304 \u16EB6\u0304</string>
+    </test>
+    <test label="U+0304">
+      <comment>macroncomb</comment>
+      <string>\u16EBB\u0304 \u16EBE\u0304 \u16EC2\u0304 \u16ECA\u0304 \u16ED1\u0304</string>
+    </test>
+    <test label="U+0307">
+      <comment>dotaccentcmb</comment>
+      <string>\u16EA0\u0307 \u16EA3\u0307 \u16EA7\u0307 \u16EAF\u0307 \u16EB6\u0307</string>
+    </test>
+    <test label="U+0307">
+      <comment>dotaccentcmb</comment>
+      <string>\u16EBB\u0307 \u16EBE\u0307 \u16EC2\u0307 \u16ECA\u0307 \u16ED1\u0307</string>
+    </test>
+  </testgroup>
+</ftml>
