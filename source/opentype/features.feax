@@ -1,9 +1,0 @@
-languagesystem DFLT dflt;
-
-lookup kernpairs {
-    kernpairs;
-} kernpairs;
-
-feature kern {
-    lookup kernpairs;
-} kern;

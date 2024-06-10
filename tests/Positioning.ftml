@@ -7,7 +7,7 @@
     <fontsrc label="Reg">url(../results/Kedebideri-Regular.ttf)</fontsrc>
      <title>Kedebideri Positioning</title>
   </head>
-  <testgroup label="Kerning pairs">
+  <testgroup label="Kerning pairs (1st sequence is without kerning, 2nd sequence with kerning)">
     <test label="U+16EA1 U+16EA2">
       <comment>Basigna-beria Darbai-beria</comment>
       <string>\u16EA1\u200b\u16EA2 \u16EA1\u16EA2</string>

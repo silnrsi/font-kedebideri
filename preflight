@@ -13,4 +13,9 @@ psfsetglyphorder -q --header sort_order -i source/glyph_data.csv source/Kedebide
 echo "-----Updating woff metadata file..."
 psfmakewoffmetadata -q -n "Kedebideri" -i "org.sil.fonts" source/Kedebideri-Regular.ufo
 
+echo "Building internal fea..."
+makefea -o source/Kedebideri-Regular.ufo/features.fea -i source/opentype/main.feax source/*-Regular.ufo &
+wait
+
+
 echo "-----Preflight completed!"
