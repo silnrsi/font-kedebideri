@@ -3,7 +3,7 @@ title: Kedebideri - Character Set Support
 fontversion: 1.701
 ---
 
-The Kedebideri font supports the characters in the Beria Erfe block. The script is used by the Zaghawa Beria language of Sudan and Chad.
+The Kedebideri font supports the characters in the Beria Erfe block. 
 
 ## Supported characters
 

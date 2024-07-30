@@ -2,12 +2,10 @@ FONTLOG
 Kedebideri font
 ========================
 
-
 This file provides detailed information on the Kedebideri font which supports the Beria Erfe script.
 
 This information should be distributed along with the Kedebideri font and
 any derivative works.
-
 
 Basic Font Information
 ----------------------
@@ -33,7 +31,6 @@ ChangeLog
 
 31 May 2007 (SIL) Zaghawa Beria version 1.000
 - Initial freeware release
-
 
 Acknowledgements
 ----------------

@@ -31,4 +31,8 @@ Web font versions of these fonts (in WOFF and WOFF2 formats) are available in th
 
 ## Text conversion
 
-These fonts are encoded according to [The Unicode Standard](http://unicode.org). If you have text that uses a legacy, non-Unicode encoding there are tools that can help you convert that text for use with Unicode fonts. See [Introduction to Text Conversion and Transliteration](https://scriptsource.org/entry/xlzd6n5aqt).
+Since this script is provisionally encoded, people may wish to convert documents from custom-encoded fonts to the provisional Unicode codepoints. TECkit is one program that can be used for character encoding conversion. TECkit allows users to write their own custom conversion mappings. The TECkit package is available for download from SIL’s [TECkit](https://software.sil.org/teckit/) Web site. The [SIL Converters](https://software.sil.org/silconverters/) software will be an important tool in data conversion.
+
+Other suggestions are listed here: [Introduction to Text Conversion and Transliteration](https://scriptsource.org/entry/xlzd6n5aqt).
+
+In the future we may make a TECKit mapping file available. 
