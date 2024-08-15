@@ -10,8 +10,6 @@
   <string>A_rkab-beria.glif</string>
   <key>Ay-beria</key>
   <string>A_y-beria.glif</string>
-  <key>Ay-beria.alt</key>
-  <string>A_y-beria.alt.glif</string>
   <key>Basigna-beria</key>
   <string>B_asigna-beria.glif</string>
   <key>Darbai-beria</key>
@@ -20,8 +18,6 @@
   <string>D_jai-beria.glif</string>
   <key>Eh-beria</key>
   <string>E_h-beria.glif</string>
-  <key>Eh-beria.alt</key>
-  <string>E_h-beria.alt.glif</string>
   <key>Erigo-Tamura-beria</key>
   <string>E_rigo-T_amura-beria.glif</string>
   <key>Erigo-beria</key>
@@ -30,8 +26,6 @@
   <string>E_uro.glif</string>
   <key>Fitko-beria</key>
   <string>F_itko-beria.glif</string>
-  <key>Fitko-beria.alt</key>
-  <string>F_itko-beria.alt.glif</string>
   <key>Gna-beria</key>
   <string>G_na-beria.glif</string>
   <key>Goway-beria</key>
@@ -40,16 +34,10 @@
   <string>H_irdeabo-beria.glif</string>
   <key>I-beria</key>
   <string>I_-beria.glif</string>
-  <key>I-beria.alt</key>
-  <string>I_-beria.alt.glif</string>
   <key>Kobo-beria</key>
   <string>K_obo-beria.glif</string>
-  <key>Kobo-beria.alt</key>
-  <string>K_obo-beria.alt.glif</string>
   <key>Lakko-beria</key>
   <string>L_akko-beria.glif</string>
-  <key>Lakko-beria.alt</key>
-  <string>L_akko-beria.alt.glif</string>
   <key>Meri-beria</key>
   <string>M_eri-beria.glif</string>
   <key>Ngay-beria</key>
@@ -62,12 +50,8 @@
   <string>P_i-beria.glif</string>
   <key>Seri-beria</key>
   <string>S_eri-beria.glif</string>
-  <key>Seri-beria.alt</key>
-  <string>S_eri-beria.alt.glif</string>
   <key>Shep-beria</key>
   <string>S_hep-beria.glif</string>
-  <key>Shep-beria.alt</key>
-  <string>S_hep-beria.alt.glif</string>
   <key>Tatasoue-beria</key>
   <string>T_atasoue-beria.glif</string>
   <key>Ui-beria</key>
@@ -94,16 +78,12 @@
   <string>at.glif</string>
   <key>ay-beria</key>
   <string>ay-beria.glif</string>
-  <key>ay-beria.alt</key>
-  <string>ay-beria.alt.glif</string>
   <key>backslash</key>
   <string>backslash.glif</string>
   <key>bar</key>
   <string>bar.glif</string>
   <key>basigna-beria</key>
   <string>basigna-beria.glif</string>
-  <key>bay-beria.alt</key>
-  <string>bay-beria.alt.glif</string>
   <key>braceleft</key>
   <string>braceleft.glif</string>
   <key>braceright</key>
@@ -128,24 +108,18 @@
   <string>daggerdbl.glif</string>
   <key>darbai-beria</key>
   <string>darbai-beria.glif</string>
-  <key>day-beria.alt</key>
-  <string>day-beria.alt.glif</string>
   <key>degree</key>
   <string>degree.glif</string>
   <key>divide</key>
   <string>divide.glif</string>
   <key>djai-beria</key>
   <string>djai-beria.glif</string>
-  <key>djai-beria.alt</key>
-  <string>djai-beria.alt.glif</string>
   <key>dollar</key>
   <string>dollar.glif</string>
   <key>dotaccentcmb</key>
   <string>dotaccentcmb.glif</string>
   <key>eh-beria</key>
   <string>eh-beria.glif</string>
-  <key>eh-beria.alt</key>
-  <string>eh-beria.alt.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
   <key>ellipsis</key>
@@ -176,8 +150,6 @@
   <string>gna-beria.glif</string>
   <key>goway-beria</key>
   <string>goway-beria.glif</string>
-  <key>goway-beria.alt</key>
-  <string>goway-beria.alt.glif</string>
   <key>gravecomb</key>
   <string>gravecomb.glif</string>
   <key>greater</key>
@@ -198,12 +170,8 @@
   <string>i-beria.glif</string>
   <key>kobo-beria</key>
   <string>kobo-beria.glif</string>
-  <key>kobo-beria.alt</key>
-  <string>kobo-beria.alt.glif</string>
   <key>lakko-beria</key>
   <string>lakko-beria.glif</string>
-  <key>lakko-beria.alt</key>
-  <string>lakko-beria.alt.glif</string>
   <key>less</key>
   <string>less.glif</string>
   <key>logicalnot</key>
@@ -212,30 +180,22 @@
   <string>macroncomb.glif</string>
   <key>meri-beria</key>
   <string>meri-beria.glif</string>
-  <key>meri-beria.alt</key>
-  <string>meri-beria.alt.glif</string>
   <key>minus</key>
   <string>minus.glif</string>
   <key>multiply</key>
   <string>multiply.glif</string>
   <key>ngay-beria</key>
   <string>ngay-beria.glif</string>
-  <key>ngay-beria.alt</key>
-  <string>ngay-beria.alt.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
   <key>nini-beria</key>
   <string>nini-beria.glif</string>
-  <key>nini-beria.alt</key>
-  <string>nini-beria.alt.glif</string>
   <key>nonmarkingreturn</key>
   <string>nonmarkingreturn.glif</string>
   <key>numbersign</key>
   <string>numbersign.glif</string>
   <key>oi-beria</key>
   <string>oi-beria.glif</string>
-  <key>oi-beria.alt</key>
-  <string>oi-beria.alt.glif</string>
   <key>one</key>
   <string>one.glif</string>
   <key>paragraph</key>
@@ -284,14 +244,10 @@
   <string>semicolon.glif</string>
   <key>seri-beria</key>
   <string>seri-beria.glif</string>
-  <key>seri-beria.alt</key>
-  <string>seri-beria.alt.glif</string>
   <key>seven</key>
   <string>seven.glif</string>
   <key>shep-beria</key>
   <string>shep-beria.glif</string>
-  <key>shep-beria.alt</key>
-  <string>shep-beria.alt.glif</string>
   <key>six</key>
   <string>six.glif</string>
   <key>slash</key>

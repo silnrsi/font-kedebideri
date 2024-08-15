@@ -21,7 +21,6 @@
   <key>public.kern1.Eh-beria</key>
   <array>
     <string>Eh-beria</string>
-    <string>Eh-beria.alt</string>
   </array>
   <key>public.kern1.Erigo-beria</key>
   <array>
@@ -30,7 +29,6 @@
   <key>public.kern1.Fitko-beria</key>
   <array>
     <string>Fitko-beria</string>
-    <string>Fitko-beria.alt</string>
     <string>Hirdeabo-beria</string>
   </array>
   <key>public.kern1.Gna-beria</key>
@@ -44,18 +42,15 @@
   <key>public.kern1.I-beria</key>
   <array>
     <string>I-beria</string>
-    <string>I-beria.alt</string>
   </array>
   <key>public.kern1.Kobo-beria</key>
   <array>
     <string>Kobo-beria</string>
-    <string>Kobo-beria.alt</string>
     <string>Nini-beria</string>
   </array>
   <key>public.kern1.Lakko-beria</key>
   <array>
     <string>Lakko-beria</string>
-    <string>Lakko-beria.alt</string>
   </array>
   <key>public.kern1.Meri-beria</key>
   <array>
@@ -76,12 +71,10 @@
   <key>public.kern1.Seri-beria</key>
   <array>
     <string>Seri-beria</string>
-    <string>Seri-beria.alt</string>
   </array>
   <key>public.kern1.Shep-beria</key>
   <array>
     <string>Shep-beria</string>
-    <string>Shep-beria.alt</string>
   </array>
   <key>public.kern1.Tatasoue-beria</key>
   <array>
@@ -102,7 +95,6 @@
   <key>public.kern1.arkab-beria</key>
   <array>
     <string>arkab-beria</string>
-    <string>ay-beria.alt</string>
   </array>
   <key>public.kern1.asterisk</key>
   <array>
@@ -119,7 +111,6 @@
   <key>public.kern1.basigna-beria</key>
   <array>
     <string>basigna-beria</string>
-    <string>bay-beria.alt</string>
     <string>erigo-beria</string>
     <string>hirdeabo-beria</string>
   </array>
@@ -147,17 +138,14 @@
   <key>public.kern1.darbai-beria</key>
   <array>
     <string>darbai-beria</string>
-    <string>day-beria.alt</string>
   </array>
   <key>public.kern1.djai-beria</key>
   <array>
     <string>djai-beria</string>
-    <string>djai-beria.alt</string>
   </array>
   <key>public.kern1.eh-beria</key>
   <array>
     <string>eh-beria</string>
-    <string>eh-beria.alt</string>
   </array>
   <key>public.kern1.eight</key>
   <array>
@@ -186,7 +174,6 @@
   <key>public.kern1.goway-beria</key>
   <array>
     <string>goway-beria</string>
-    <string>goway-beria.alt</string>
   </array>
   <key>public.kern1.guilsinglleft</key>
   <array>
@@ -211,32 +198,26 @@
   <key>public.kern1.kobo-beria</key>
   <array>
     <string>kobo-beria</string>
-    <string>kobo-beria.alt</string>
   </array>
   <key>public.kern1.lakko-beria</key>
   <array>
     <string>lakko-beria</string>
-    <string>lakko-beria.alt</string>
   </array>
   <key>public.kern1.meri-beria</key>
   <array>
     <string>meri-beria</string>
-    <string>meri-beria.alt</string>
   </array>
   <key>public.kern1.ngay-beria</key>
   <array>
     <string>ngay-beria</string>
-    <string>ngay-beria.alt</string>
   </array>
   <key>public.kern1.nini-beria</key>
   <array>
     <string>nini-beria</string>
-    <string>nini-beria.alt</string>
   </array>
   <key>public.kern1.oi-beria</key>
   <array>
     <string>oi-beria</string>
-    <string>oi-beria.alt</string>
   </array>
   <key>public.kern1.one</key>
   <array>
@@ -287,7 +268,6 @@
   <key>public.kern1.seri-beria</key>
   <array>
     <string>seri-beria</string>
-    <string>seri-beria.alt</string>
   </array>
   <key>public.kern1.seven</key>
   <array>
@@ -296,7 +276,6 @@
   <key>public.kern1.shep-beria</key>
   <array>
     <string>shep-beria</string>
-    <string>shep-beria.alt</string>
   </array>
   <key>public.kern1.six</key>
   <array>
@@ -354,7 +333,6 @@
   <key>public.kern2.Eh-beria</key>
   <array>
     <string>Eh-beria</string>
-    <string>Eh-beria.alt</string>
   </array>
   <key>public.kern2.Erigo-beria</key>
   <array>
@@ -363,7 +341,6 @@
   <key>public.kern2.Fitko-beria</key>
   <array>
     <string>Fitko-beria</string>
-    <string>Fitko-beria.alt</string>
   </array>
   <key>public.kern2.Gna-beria</key>
   <array>
@@ -376,17 +353,14 @@
   <key>public.kern2.I-beria</key>
   <array>
     <string>I-beria</string>
-    <string>I-beria.alt</string>
   </array>
   <key>public.kern2.Kobo-beria</key>
   <array>
     <string>Kobo-beria</string>
-    <string>Kobo-beria.alt</string>
   </array>
   <key>public.kern2.Lakko-beria</key>
   <array>
     <string>Lakko-beria</string>
-    <string>Lakko-beria.alt</string>
   </array>
   <key>public.kern2.Meri-beria</key>
   <array>
@@ -411,12 +385,10 @@
   <key>public.kern2.Seri-beria</key>
   <array>
     <string>Seri-beria</string>
-    <string>Seri-beria.alt</string>
   </array>
   <key>public.kern2.Shep-beria</key>
   <array>
     <string>Shep-beria</string>
-    <string>Shep-beria.alt</string>
   </array>
   <key>public.kern2.Tatasoue-beria</key>
   <array>
@@ -437,7 +409,6 @@
   <key>public.kern2.arkab-beria</key>
   <array>
     <string>arkab-beria</string>
-    <string>ay-beria.alt</string>
   </array>
   <key>public.kern2.asterisk</key>
   <array>
@@ -454,7 +425,6 @@
   <key>public.kern2.basigna-beria</key>
   <array>
     <string>basigna-beria</string>
-    <string>bay-beria.alt</string>
     <string>pi-beria</string>
   </array>
   <key>public.kern2.braceright</key>
@@ -481,17 +451,14 @@
   <key>public.kern2.darbai-beria</key>
   <array>
     <string>darbai-beria</string>
-    <string>day-beria.alt</string>
   </array>
   <key>public.kern2.djai-beria</key>
   <array>
     <string>djai-beria</string>
-    <string>djai-beria.alt</string>
   </array>
   <key>public.kern2.eh-beria</key>
   <array>
     <string>eh-beria</string>
-    <string>eh-beria.alt</string>
   </array>
   <key>public.kern2.eight</key>
   <array>
@@ -516,7 +483,6 @@
   <key>public.kern2.goway-beria</key>
   <array>
     <string>goway-beria</string>
-    <string>goway-beria.alt</string>
   </array>
   <key>public.kern2.guilsinglleft</key>
   <array>
@@ -534,7 +500,6 @@
     <string>gna-beria</string>
     <string>hirdeabo-beria</string>
     <string>ngay-beria</string>
-    <string>ngay-beria.alt</string>
   </array>
   <key>public.kern2.hyphen</key>
   <array>
@@ -549,17 +514,14 @@
   <key>public.kern2.kobo-beria</key>
   <array>
     <string>kobo-beria</string>
-    <string>kobo-beria.alt</string>
   </array>
   <key>public.kern2.lakko-beria</key>
   <array>
     <string>lakko-beria</string>
-    <string>lakko-beria.alt</string>
   </array>
   <key>public.kern2.meri-beria</key>
   <array>
     <string>meri-beria</string>
-    <string>meri-beria.alt</string>
   </array>
   <key>public.kern2.nine</key>
   <array>
@@ -568,12 +530,10 @@
   <key>public.kern2.nini-beria</key>
   <array>
     <string>nini-beria</string>
-    <string>nini-beria.alt</string>
   </array>
   <key>public.kern2.oi-beria</key>
   <array>
     <string>oi-beria</string>
-    <string>oi-beria.alt</string>
   </array>
   <key>public.kern2.one</key>
   <array>
@@ -623,7 +583,6 @@
   <key>public.kern2.seri-beria</key>
   <array>
     <string>seri-beria</string>
-    <string>seri-beria.alt</string>
   </array>
   <key>public.kern2.seven</key>
   <array>
@@ -632,7 +591,6 @@
   <key>public.kern2.shep-beria</key>
   <array>
     <string>shep-beria</string>
-    <string>shep-beria.alt</string>
   </array>
   <key>public.kern2.slash</key>
   <array>
