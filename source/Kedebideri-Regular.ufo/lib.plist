@@ -399,13 +399,6 @@
     <string>wasse-beria</string>
     <string>Ay-beria</string>
     <string>ay-beria</string>
-    <string>period.copy1</string>
-    <string>one.dnom</string>
-    <string>two.dnom</string>
-    <string>three.dnom</string>
-    <string>four.dnom</string>
-    <string>a.sups</string>
-    <string>o.sups</string>
     <string>_acutecomb</string>
     <string>_acutecomb.cap</string>
     <string>_caroncomb</string>
@@ -416,17 +409,16 @@
     <string>_circumflexcomb.cap</string>
     <string>_dieresiscomb</string>
     <string>_dieresiscomb.cap</string>
+    <string>_four.dnom</string>
     <string>_gravecomb</string>
     <string>_gravecomb.cap</string>
+    <string>_one.dnom</string>
     <string>_ringcomb</string>
     <string>_ringcomb.cap</string>
+    <string>_three.dnom</string>
     <string>_tildecomb</string>
     <string>_tildecomb.cap</string>
-    <string>brevecmb</string>
-    <string>dotaccentcmb</string>
-    <string>hungarumlautcmb</string>
-    <string>macroncmb</string>
-    <string>ogonekcmb</string>
+    <string>_two.dnom</string>
   </array>
   <key>public.postscriptNames</key>
   <dict>

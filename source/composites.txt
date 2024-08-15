@@ -35,3 +35,4 @@ softhyphen = hyphen | 00AD
 hyphentwo = hyphen | 2010
 nonbreakinghyphen = hyphen | 2011
 horizontalbar = emdash | 2015
+hyphenationpoint = periodcentered | 2027

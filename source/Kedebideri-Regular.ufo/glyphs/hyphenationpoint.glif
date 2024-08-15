@@ -3,12 +3,12 @@
   <advance width="245"/>
   <unicode hex="2027"/>
   <outline>
-    <component base="period.copy1" yOffset="287"/>
+    <component base="periodcentered"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

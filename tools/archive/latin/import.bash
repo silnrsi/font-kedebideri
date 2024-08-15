@@ -29,7 +29,7 @@ do
     psfsetunicodes -i $ar/encode.csv $ufo
     $HOME/script/tools/anchor-keep.py only $ar/anchors.json $ufo
     $HOME/script/tools/fix-spaces.py $ufo
-    $ar/../gdef.py $ufo
+    $ar/cleanup.py $ufo
     psfsetmarkcolors -i $ar/import.txt -u -c g_light_gray $ufo
     psfsetmarkcolors -i $ar/imported.txt -c g_light_gray $ufo
 

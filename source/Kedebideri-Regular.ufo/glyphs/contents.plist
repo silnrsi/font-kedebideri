@@ -230,22 +230,28 @@
   <string>_dieresiscomb.glif</string>
   <key>_dieresiscomb.cap</key>
   <string>_dieresiscomb.cap.glif</string>
+  <key>_four.dnom</key>
+  <string>_four.dnom.glif</string>
   <key>_gravecomb</key>
   <string>_gravecomb.glif</string>
   <key>_gravecomb.cap</key>
   <string>_gravecomb.cap.glif</string>
+  <key>_one.dnom</key>
+  <string>_one.dnom.glif</string>
   <key>_ringcomb</key>
   <string>_ringcomb.glif</string>
   <key>_ringcomb.cap</key>
   <string>_ringcomb.cap.glif</string>
+  <key>_three.dnom</key>
+  <string>_three.dnom.glif</string>
   <key>_tildecomb</key>
   <string>_tildecomb.glif</string>
   <key>_tildecomb.cap</key>
   <string>_tildecomb.cap.glif</string>
+  <key>_two.dnom</key>
+  <string>_two.dnom.glif</string>
   <key>a</key>
   <string>a.glif</string>
-  <key>a.sups</key>
-  <string>a.sups.glif</string>
   <key>aacute</key>
   <string>aacute.glif</string>
   <key>acircumflex</key>
@@ -300,8 +306,6 @@
   <string>bracketright.glif</string>
   <key>breve</key>
   <string>breve.glif</string>
-  <key>brevecmb</key>
-  <string>brevecmb.glif</string>
   <key>brokenbar</key>
   <string>brokenbar.glif</string>
   <key>bullet</key>
@@ -350,8 +354,6 @@
   <string>dollar.glif</string>
   <key>dotaccent</key>
   <string>dotaccent.glif</string>
-  <key>dotaccentcmb</key>
-  <string>dotaccentcmb.glif</string>
   <key>dotaccentcomb</key>
   <string>dotaccentcomb.glif</string>
   <key>dottedCircle</key>
@@ -416,8 +418,6 @@
   <string>florin.glif</string>
   <key>four</key>
   <string>four.glif</string>
-  <key>four.dnom</key>
-  <string>four.dnom.glif</string>
   <key>fourperemspace</key>
   <string>fourperemspace.glif</string>
   <key>foursuperior</key>
@@ -460,8 +460,6 @@
   <string>horizontalbar.glif</string>
   <key>hungarumlaut</key>
   <string>hungarumlaut.glif</string>
-  <key>hungarumlautcmb</key>
-  <string>hungarumlautcmb.glif</string>
   <key>hyphen</key>
   <string>hyphen.glif</string>
   <key>hyphenationpoint</key>
@@ -512,8 +510,6 @@
   <string>m.glif</string>
   <key>macron</key>
   <string>macron.glif</string>
-  <key>macroncmb</key>
-  <string>macroncmb.glif</string>
   <key>macroncomb</key>
   <string>macroncomb.glif</string>
   <key>meri-beria</key>
@@ -548,8 +544,6 @@
   <string>numbersign.glif</string>
   <key>o</key>
   <string>o.glif</string>
-  <key>o.sups</key>
-  <string>o.sups.glif</string>
   <key>oacute</key>
   <string>oacute.glif</string>
   <key>objectReplacementCharacter</key>
@@ -562,16 +556,12 @@
   <string>oe.glif</string>
   <key>ogonek</key>
   <string>ogonek.glif</string>
-  <key>ogonekcmb</key>
-  <string>ogonekcmb.glif</string>
   <key>ograve</key>
   <string>ograve.glif</string>
   <key>oi-beria</key>
   <string>oi-beria.glif</string>
   <key>one</key>
   <string>one.glif</string>
-  <key>one.dnom</key>
-  <string>one.dnom.glif</string>
   <key>onehalf</key>
   <string>onehalf.glif</string>
   <key>onequarter</key>
@@ -602,8 +592,6 @@
   <string>percent.glif</string>
   <key>period</key>
   <string>period.glif</string>
-  <key>period.copy1</key>
-  <string>period.copy1.glif</string>
   <key>periodcentered</key>
   <string>periodcentered.glif</string>
   <key>perthousand</key>
@@ -694,8 +682,6 @@
   <string>thorn.glif</string>
   <key>three</key>
   <string>three.glif</string>
-  <key>three.dnom</key>
-  <string>three.dnom.glif</string>
   <key>threeperemspace</key>
   <string>threeperemspace.glif</string>
   <key>threequarters</key>
@@ -708,8 +694,6 @@
   <string>trademark.glif</string>
   <key>two</key>
   <string>two.glif</string>
-  <key>two.dnom</key>
-  <string>two.dnom.glif</string>
   <key>twosuperior</key>
   <string>twosuperior.glif</string>
   <key>u</key>

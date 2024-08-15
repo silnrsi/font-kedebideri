@@ -14,6 +14,10 @@ mn = [cgj] + list(vs)
 dotted_circle = 0x25CC
 latn = (0x0060, 0x00A8, 0x00AF, 0x00B4, 0x00B8, 0x02C6, 0x02C7, 0x02D8, 0x02DB, 0x02D9, 0x02DA, 0x02DC, 0x02DD)
 
+glyph = font['periodcentered']
+glyph.decompose()
+print('Manually adjust /bulletoperator and remove /period.copy1')
+
 for glyph in font:
     if glyph.unicode in mn:
         glyph.appendAnchor('_none', (0, 0))
