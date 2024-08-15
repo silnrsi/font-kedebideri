@@ -8,7 +8,7 @@ echo "-----Updating glyph orders in Regular..."
 psfsetglyphorder -q --header sort_final -i source/glyph_data.csv source/Kedebideri-Regular.ufo -p backup=False
 
 # echo "-----Rebuilding composites..."
-# psfbuildcomp -i source/composites.txt -c -n source/Kedebideri-Regular.ufo -p backup=False
+psfbuildcomp -i source/composites.txt -c -n source/Kedebideri-Regular.ufo -p backup=False
 
 echo "-----Updating woff metadata file..."
 psfmakewoffmetadata -q -n "Kedebideri" -i "org.sil.fonts" source/Kedebideri-Regular.ufo

@@ -100,6 +100,7 @@
     <string>copyright</string>
     <string>guillemetleft</string>
     <string>logicalnot</string>
+    <string>softhyphen</string>
     <string>registered</string>
     <string>degree</string>
     <string>plusminus</string>
@@ -113,8 +114,11 @@
     <string>macroncomb</string>
     <string>dotaccentcomb</string>
     <string>zerowidthspace</string>
+    <string>hyphentwo</string>
+    <string>nonbreakinghyphen</string>
     <string>endash</string>
     <string>emdash</string>
+    <string>horizontalbar</string>
     <string>quoteleft</string>
     <string>quoteright</string>
     <string>quotesinglbase</string>
@@ -270,6 +274,10 @@
     <string>guillemotright</string>
     <key>hirdeabo-beria</key>
     <string>u16EC1</string>
+    <key>horizontalbar</key>
+    <string>uni2015</string>
+    <key>hyphentwo</key>
+    <string>uni2010</string>
     <key>i-beria</key>
     <string>u16EC2</string>
     <key>kobo-beria</key>
@@ -284,6 +292,8 @@
     <string>u16EC9</string>
     <key>nini-beria</key>
     <string>u16EC7</string>
+    <key>nonbreakinghyphen</key>
+    <string>uni2011</string>
     <key>oi-beria</key>
     <string>u16ECA</string>
     <key>pi-beria</key>
@@ -292,6 +302,8 @@
     <string>u16ECE</string>
     <key>shep-beria</key>
     <string>u16ECF</string>
+    <key>softhyphen</key>
+    <string>uni00AD</string>
     <key>tatasoue-beria</key>
     <string>u16ED0</string>
     <key>ui-beria</key>

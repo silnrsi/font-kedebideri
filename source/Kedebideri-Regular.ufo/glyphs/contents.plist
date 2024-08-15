@@ -160,8 +160,12 @@
   <string>guilsinglright.glif</string>
   <key>hirdeabo-beria</key>
   <string>hirdeabo-beria.glif</string>
+  <key>horizontalbar</key>
+  <string>horizontalbar.glif</string>
   <key>hyphen</key>
   <string>hyphen.glif</string>
+  <key>hyphentwo</key>
+  <string>hyphentwo.glif</string>
   <key>i-beria</key>
   <string>i-beria.glif</string>
   <key>kobo-beria</key>
@@ -186,6 +190,8 @@
   <string>nine.glif</string>
   <key>nini-beria</key>
   <string>nini-beria.glif</string>
+  <key>nonbreakinghyphen</key>
+  <string>nonbreakinghyphen.glif</string>
   <key>nonmarkingreturn</key>
   <string>nonmarkingreturn.glif</string>
   <key>numbersign</key>
@@ -246,6 +252,8 @@
   <string>six.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
+  <key>softhyphen</key>
+  <string>softhyphen.glif</string>
   <key>space</key>
   <string>space.glif</string>
   <key>sterling</key>
