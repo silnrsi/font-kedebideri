@@ -1,0 +1,34 @@
+#!/bin/bash
+
+# This script rebuilds the algorithmically-generated ftml files.
+
+set -e
+
+if [ ! -f wscript ]
+then
+	echo "Must be in the root of the project"
+	exit 2
+fi
+
+# configure tests
+tests="AllChars"
+urls='local(Kedebideri)=installed url(../references/Kedebideri-Regular.ttf)=refReg url(../results/Kedebideri-Regular.ttf)=Reg'
+ufo='source/Kedebideri-Regular.ufo'
+
+# list all the fonts to test
+fonts=''
+for url in $urls
+do
+	fonts="$fonts -s '$url'"
+done
+
+echo "Rebuilding ftml files..."
+for test in $tests
+do
+	title="\"${test} auto\""
+	ftml=tests/${test}.ftml
+	log=tests/logs/${test}.log
+	eval tools/psfgenftml.py -q -t "$title" --ucdxml source/additional_ucd.xml --prevfont references/Kedebideri-Regular.ttf --scale 200 -i source/glyph_data.csv --norendercheck --xsl ../tools/ftml.xsl "$fonts" -l $log $ufo $ftml &
+done
+wait
+echo "done."
