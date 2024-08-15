@@ -2,10 +2,10 @@
 
 echo "-----Normalizing Regular UFO..."
 echo "-----Updating production names in Regular..."
-psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/Kedebideri-Regular.ufo -x
+psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/Kedebideri-Regular.ufo
 
 echo "-----Updating glyph orders in Regular..."
-psfsetglyphorder -q --header sort_order -i source/glyph_data.csv source/Kedebideri-Regular.ufo -p backup=False -x
+psfsetglyphorder -q --header sort_final -i source/glyph_data.csv source/Kedebideri-Regular.ufo -p backup=False
 
 # echo "-----Rebuilding composites..."
 # psfbuildcomp -i source/composites.txt -c -n source/Kedebideri-Regular.ufo -p backup=False
