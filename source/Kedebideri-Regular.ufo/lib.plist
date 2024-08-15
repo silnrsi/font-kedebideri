@@ -85,37 +85,204 @@
     <string>greater</string>
     <string>question</string>
     <string>at</string>
+    <string>A</string>
+    <string>B</string>
+    <string>C</string>
+    <string>D</string>
+    <string>E</string>
+    <string>F</string>
+    <string>G</string>
+    <string>H</string>
+    <string>I</string>
+    <string>J</string>
+    <string>K</string>
+    <string>L</string>
+    <string>M</string>
+    <string>N</string>
+    <string>O</string>
+    <string>P</string>
+    <string>Q</string>
+    <string>R</string>
+    <string>S</string>
+    <string>T</string>
+    <string>U</string>
+    <string>V</string>
+    <string>W</string>
+    <string>X</string>
+    <string>Y</string>
+    <string>Z</string>
     <string>bracketleft</string>
     <string>backslash</string>
     <string>bracketright</string>
+    <string>asciicircum</string>
     <string>underscore</string>
+    <string>grave</string>
+    <string>a</string>
+    <string>b</string>
+    <string>c</string>
+    <string>d</string>
+    <string>e</string>
+    <string>f</string>
+    <string>g</string>
+    <string>h</string>
+    <string>i</string>
+    <string>j</string>
+    <string>k</string>
+    <string>l</string>
+    <string>m</string>
+    <string>n</string>
+    <string>o</string>
+    <string>p</string>
+    <string>q</string>
+    <string>r</string>
+    <string>s</string>
+    <string>t</string>
+    <string>u</string>
+    <string>v</string>
+    <string>w</string>
+    <string>x</string>
+    <string>y</string>
+    <string>z</string>
     <string>braceleft</string>
     <string>bar</string>
     <string>braceright</string>
     <string>asciitilde</string>
+    <string>nbspace</string>
+    <string>exclamdown</string>
     <string>cent</string>
     <string>sterling</string>
+    <string>currency</string>
     <string>yen</string>
+    <string>brokenbar</string>
     <string>section</string>
+    <string>dieresis</string>
     <string>copyright</string>
+    <string>ordfeminine</string>
     <string>guillemetleft</string>
     <string>logicalnot</string>
     <string>softhyphen</string>
     <string>registered</string>
+    <string>macron</string>
     <string>degree</string>
     <string>plusminus</string>
+    <string>twosuperior</string>
+    <string>threesuperior</string>
+    <string>acute</string>
+    <string>micro</string>
     <string>paragraph</string>
+    <string>periodcentered</string>
+    <string>cedilla</string>
+    <string>onesuperior</string>
+    <string>ordmasculine</string>
     <string>guillemetright</string>
+    <string>onequarter</string>
+    <string>onehalf</string>
+    <string>threequarters</string>
+    <string>questiondown</string>
+    <string>Agrave</string>
+    <string>Aacute</string>
+    <string>Acircumflex</string>
+    <string>Atilde</string>
+    <string>Adieresis</string>
+    <string>Aring</string>
+    <string>AE</string>
+    <string>Ccedilla</string>
+    <string>Egrave</string>
+    <string>Eacute</string>
+    <string>Ecircumflex</string>
+    <string>Edieresis</string>
+    <string>Igrave</string>
+    <string>Iacute</string>
+    <string>Icircumflex</string>
+    <string>Idieresis</string>
+    <string>Eth</string>
+    <string>Ntilde</string>
+    <string>Ograve</string>
+    <string>Oacute</string>
+    <string>Ocircumflex</string>
+    <string>Otilde</string>
+    <string>Odieresis</string>
     <string>multiply</string>
+    <string>Oslash</string>
+    <string>Ugrave</string>
+    <string>Uacute</string>
+    <string>Ucircumflex</string>
+    <string>Udieresis</string>
+    <string>Yacute</string>
+    <string>Thorn</string>
+    <string>germandbls</string>
+    <string>agrave</string>
+    <string>aacute</string>
+    <string>acircumflex</string>
+    <string>atilde</string>
+    <string>adieresis</string>
+    <string>aring</string>
+    <string>ae</string>
+    <string>ccedilla</string>
+    <string>egrave</string>
+    <string>eacute</string>
+    <string>ecircumflex</string>
+    <string>edieresis</string>
+    <string>igrave</string>
+    <string>iacute</string>
+    <string>icircumflex</string>
+    <string>idieresis</string>
+    <string>eth</string>
+    <string>ntilde</string>
+    <string>ograve</string>
+    <string>oacute</string>
+    <string>ocircumflex</string>
+    <string>otilde</string>
+    <string>odieresis</string>
     <string>divide</string>
+    <string>oslash</string>
+    <string>ugrave</string>
+    <string>uacute</string>
+    <string>ucircumflex</string>
+    <string>udieresis</string>
+    <string>yacute</string>
+    <string>thorn</string>
+    <string>ydieresis</string>
+    <string>idotless</string>
+    <string>OE</string>
+    <string>oe</string>
+    <string>Scaron</string>
+    <string>scaron</string>
+    <string>Ydieresis</string>
+    <string>Zcaron</string>
+    <string>zcaron</string>
     <string>florin</string>
+    <string>circumflex</string>
+    <string>caron</string>
+    <string>breve</string>
+    <string>dotaccent</string>
+    <string>ring</string>
+    <string>ogonek</string>
+    <string>tilde</string>
+    <string>hungarumlaut</string>
     <string>gravecomb</string>
     <string>acutecomb</string>
     <string>macroncomb</string>
     <string>dotaccentcomb</string>
+    <string>graphemejoinercomb</string>
+    <string>pi</string>
+    <string>enquad</string>
+    <string>emquad</string>
+    <string>enspace</string>
+    <string>emspace</string>
+    <string>threeperemspace</string>
+    <string>fourperemspace</string>
+    <string>sixperemspace</string>
+    <string>figurespace</string>
+    <string>punctuationspace</string>
+    <string>thinspace</string>
+    <string>hairspace</string>
     <string>zerowidthspace</string>
+    <string>zerowidthnonjoiner</string>
+    <string>zerowidthjoiner</string>
     <string>hyphentwo</string>
     <string>nonbreakinghyphen</string>
+    <string>figuredash</string>
     <string>endash</string>
     <string>emdash</string>
     <string>horizontalbar</string>
@@ -129,16 +296,59 @@
     <string>daggerdbl</string>
     <string>bullet</string>
     <string>ellipsis</string>
+    <string>hyphenationpoint</string>
+    <string>lineseparator</string>
+    <string>paragraphseparator</string>
+    <string>narrownbspace</string>
     <string>perthousand</string>
     <string>guilsinglleft</string>
     <string>guilsinglright</string>
     <string>fraction</string>
     <string>wordjoiner</string>
+    <string>foursuperior</string>
     <string>euro</string>
     <string>trademark</string>
+    <string>Ohm</string>
+    <string>partialdiff</string>
+    <string>increment</string>
+    <string>product</string>
+    <string>summation</string>
     <string>minus</string>
+    <string>divisionslash</string>
+    <string>bulletoperator</string>
+    <string>radical</string>
+    <string>infinity</string>
+    <string>integral</string>
     <string>approxequal</string>
+    <string>notequal</string>
+    <string>lessequal</string>
+    <string>greaterequal</string>
+    <string>blank</string>
+    <string>lozenge</string>
+    <string>dottedCircle</string>
+    <string>sidebearingleft</string>
+    <string>sidebearingright</string>
+    <string>fi</string>
+    <string>fl</string>
+    <string>VS1</string>
+    <string>VS2</string>
+    <string>VS3</string>
+    <string>VS4</string>
+    <string>VS5</string>
+    <string>VS6</string>
+    <string>VS7</string>
+    <string>VS8</string>
+    <string>VS9</string>
+    <string>VS10</string>
+    <string>VS11</string>
+    <string>VS12</string>
+    <string>VS13</string>
+    <string>VS14</string>
+    <string>VS15</string>
+    <string>VS16</string>
     <string>zeroWidthNoBreakSpace</string>
+    <string>objectReplacementCharacter</string>
+    <string>replacementCharacter</string>
     <string>Arkab-beria</string>
     <string>arkab-beria</string>
     <string>Basigna-beria</string>
@@ -189,6 +399,34 @@
     <string>wasse-beria</string>
     <string>Ay-beria</string>
     <string>ay-beria</string>
+    <string>period.copy1</string>
+    <string>one.dnom</string>
+    <string>two.dnom</string>
+    <string>three.dnom</string>
+    <string>four.dnom</string>
+    <string>a.sups</string>
+    <string>o.sups</string>
+    <string>_acutecomb</string>
+    <string>_acutecomb.cap</string>
+    <string>_caroncomb</string>
+    <string>_caroncomb.cap</string>
+    <string>_cedillacomb</string>
+    <string>_cedillacomb.cap</string>
+    <string>_circumflexcomb</string>
+    <string>_circumflexcomb.cap</string>
+    <string>_dieresiscomb</string>
+    <string>_dieresiscomb.cap</string>
+    <string>_gravecomb</string>
+    <string>_gravecomb.cap</string>
+    <string>_ringcomb</string>
+    <string>_ringcomb.cap</string>
+    <string>_tildecomb</string>
+    <string>_tildecomb.cap</string>
+    <string>brevecmb</string>
+    <string>dotaccentcmb</string>
+    <string>hungarumlautcmb</string>
+    <string>macroncmb</string>
+    <string>ogonekcmb</string>
   </array>
   <key>public.postscriptNames</key>
   <dict>
@@ -228,6 +466,8 @@
     <string>u16EAE</string>
     <key>Nini-beria</key>
     <string>u16EAC</string>
+    <key>Ohm</key>
+    <string>Omega</string>
     <key>Oi-beria</key>
     <string>u16EAF</string>
     <key>Pi-beria</key>
@@ -240,6 +480,38 @@
     <string>u16EB5</string>
     <key>Ui-beria</key>
     <string>u16EB6</string>
+    <key>VS1</key>
+    <string>uniFE00</string>
+    <key>VS10</key>
+    <string>uniFE09</string>
+    <key>VS11</key>
+    <string>uniFE0A</string>
+    <key>VS12</key>
+    <string>uniFE0B</string>
+    <key>VS13</key>
+    <string>uniFE0C</string>
+    <key>VS14</key>
+    <string>uniFE0D</string>
+    <key>VS15</key>
+    <string>uniFE0E</string>
+    <key>VS16</key>
+    <string>uniFE0F</string>
+    <key>VS2</key>
+    <string>uniFE01</string>
+    <key>VS3</key>
+    <string>uniFE02</string>
+    <key>VS4</key>
+    <string>uniFE03</string>
+    <key>VS5</key>
+    <string>uniFE04</string>
+    <key>VS6</key>
+    <string>uniFE05</string>
+    <key>VS7</key>
+    <string>uniFE06</string>
+    <key>VS8</key>
+    <string>uniFE07</string>
+    <key>VS9</key>
+    <string>uniFE08</string>
     <key>Wasse-beria</key>
     <string>u16EB7</string>
     <key>arkab-beria</key>
@@ -248,64 +520,132 @@
     <string>u16ED3</string>
     <key>basigna-beria</key>
     <string>u16EBC</string>
+    <key>blank</key>
+    <string>uni2423</string>
+    <key>bulletoperator</key>
+    <string>uni2219</string>
     <key>darbai-beria</key>
     <string>u16EBD</string>
+    <key>divisionslash</key>
+    <string>uni2215</string>
     <key>djai-beria</key>
     <string>u16EC3</string>
     <key>dotaccentcomb</key>
     <string>uni0307</string>
+    <key>dottedCircle</key>
+    <string>uni25CC</string>
     <key>eh-beria</key>
     <string>u16EBE</string>
+    <key>emquad</key>
+    <string>uni2001</string>
+    <key>emspace</key>
+    <string>uni2003</string>
+    <key>enquad</key>
+    <string>uni2000</string>
+    <key>enspace</key>
+    <string>uni2002</string>
     <key>erigo-beria</key>
     <string>u16ECC</string>
     <key>erigo-tamura-beria</key>
     <string>u16ECD</string>
     <key>euro</key>
     <string>Euro</string>
+    <key>fi</key>
+    <string>uniFB01</string>
+    <key>figurespace</key>
+    <string>uni2007</string>
     <key>fitko-beria</key>
     <string>u16EBF</string>
+    <key>fl</key>
+    <string>uniFB02</string>
+    <key>fourperemspace</key>
+    <string>uni2005</string>
+    <key>foursuperior</key>
+    <string>uni2074</string>
     <key>gna-beria</key>
     <string>u16EC8</string>
     <key>goway-beria</key>
     <string>u16EC0</string>
+    <key>graphemejoinercomb</key>
+    <string>uni034F</string>
     <key>guillemetleft</key>
     <string>guillemotleft</string>
     <key>guillemetright</key>
     <string>guillemotright</string>
+    <key>hairspace</key>
+    <string>uni200A</string>
     <key>hirdeabo-beria</key>
     <string>u16EC1</string>
     <key>horizontalbar</key>
     <string>uni2015</string>
+    <key>hyphenationpoint</key>
+    <string>uni2027</string>
     <key>hyphentwo</key>
     <string>uni2010</string>
     <key>i-beria</key>
     <string>u16EC2</string>
+    <key>idotless</key>
+    <string>dotlessi</string>
+    <key>increment</key>
+    <string>Delta</string>
     <key>kobo-beria</key>
     <string>u16EC4</string>
     <key>lakko-beria</key>
     <string>u16EC5</string>
+    <key>lineseparator</key>
+    <string>uni2028</string>
     <key>macroncomb</key>
     <string>uni0304</string>
     <key>meri-beria</key>
     <string>u16EC6</string>
+    <key>micro</key>
+    <string>mu</string>
+    <key>narrownbspace</key>
+    <string>uni202F</string>
+    <key>nbspace</key>
+    <string>uni00A0</string>
     <key>ngay-beria</key>
     <string>u16EC9</string>
     <key>nini-beria</key>
     <string>u16EC7</string>
     <key>nonbreakinghyphen</key>
     <string>uni2011</string>
+    <key>objectReplacementCharacter</key>
+    <string>uniFFFC</string>
     <key>oi-beria</key>
     <string>u16ECA</string>
+    <key>onesuperior</key>
+    <string>uni00B9</string>
+    <key>paragraphseparator</key>
+    <string>uni2029</string>
     <key>pi-beria</key>
     <string>u16ECB</string>
+    <key>punctuationspace</key>
+    <string>uni2008</string>
+    <key>replacementCharacter</key>
+    <string>uniFFFD</string>
     <key>seri-beria</key>
     <string>u16ECE</string>
     <key>shep-beria</key>
     <string>u16ECF</string>
+    <key>sidebearingleft</key>
+    <string>uniF130</string>
+    <key>sidebearingright</key>
+    <string>uniF131</string>
+    <key>sixperemspace</key>
+    <string>uni2006</string>
     <key>softhyphen</key>
     <string>uni00AD</string>
     <key>tatasoue-beria</key>
     <string>u16ED0</string>
+    <key>thinspace</key>
+    <string>uni2009</string>
+    <key>threeperemspace</key>
+    <string>uni2004</string>
+    <key>threesuperior</key>
+    <string>uni00B3</string>
+    <key>twosuperior</key>
+    <string>uni00B2</string>
     <key>ui-beria</key>
     <string>u16ED1</string>
     <key>wasse-beria</key>
@@ -314,6 +654,10 @@
     <string>uni2060</string>
     <key>zeroWidthNoBreakSpace</key>
     <string>uniFEFF</string>
+    <key>zerowidthjoiner</key>
+    <string>uni200D</string>
+    <key>zerowidthnonjoiner</key>
+    <string>uni200C</string>
     <key>zerowidthspace</key>
     <string>uni200B</string>
   </dict>

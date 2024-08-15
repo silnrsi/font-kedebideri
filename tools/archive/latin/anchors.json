@@ -1,0 +1,14 @@
+{
+  "base": [
+    "U",
+    "aboveUC",
+    "aboveLC",
+    "baseLC"
+  ],
+  "mark": [
+    "_U",
+    "_aboveUC",
+    "_aboveLC",
+    "_baseLC"
+  ]
+}

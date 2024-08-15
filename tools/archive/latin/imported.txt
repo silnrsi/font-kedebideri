@@ -1,0 +1,17 @@
+divisionslash
+_acutecomb.cap
+_acutecomb
+_caroncomb.cap
+_caroncomb
+_cedillacomb.cap
+_cedillacomb
+_circumflexcomb.cap
+_circumflexcomb
+_dieresiscomb.cap
+_dieresiscomb
+_gravecomb.cap
+_gravecomb
+_ringcomb.cap
+_ringcomb
+_tildecomb.cap
+_tildecomb

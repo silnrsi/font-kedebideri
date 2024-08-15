@@ -1,7 +1,15 @@
 
 # Main Classes
-@GDEF_bases = [.notdef .null Arkab-beria Ay-beria Basigna-beria Darbai-beria Djai-beria Eh-beria Erigo-Tamura-beria Erigo-beria Fitko-beria Gna-beria Goway-beria Hirdeabo-beria I-beria Kobo-beria Lakko-beria Meri-beria Ngay-beria Nini-beria Oi-beria Pi-beria Seri-beria Shep-beria Tatasoue-beria Ui-beria Wasse-beria ampersand approxequal arkab-beria asciitilde asterisk at ay-beria backslash bar basigna-beria braceleft braceright bracketleft bracketright bullet cent colon comma copyright dagger daggerdbl darbai-beria degree divide djai-beria dollar eh-beria eight ellipsis emdash endash equal erigo-beria erigo-tamura-beria euro exclam fitko-beria five florin four fraction gna-beria goway-beria greater guillemetleft guillemetright guilsinglleft guilsinglright hirdeabo-beria horizontalbar hyphen hyphentwo i-beria kobo-beria lakko-beria less logicalnot meri-beria minus multiply ngay-beria nine nini-beria nonbreakinghyphen nonmarkingreturn numbersign oi-beria one paragraph parenleft parenright percent period perthousand pi-beria plus plusminus question quotedbl quotedblbase quotedblleft quotedblright quoteleft quoteright quotesinglbase quotesingle registered section semicolon seri-beria seven shep-beria six slash softhyphen space sterling tatasoue-beria three trademark two ui-beria underscore wasse-beria wordjoiner yen zero zeroWidthNoBreakSpace zerowidthspace];
-@GDEF_marks = [acutecomb dotaccentcomb gravecomb macroncomb];
+@GDEF_bases = [.notdef .null A AE Aacute Acircumflex Adieresis Agrave Aring Arkab-beria Atilde Ay-beria B Basigna-beria C Ccedilla D Darbai-beria Djai-beria E Eacute Ecircumflex Edieresis Egrave Eh-beria Erigo-Tamura-beria Erigo-beria Eth F Fitko-beria G Gna-beria Goway-beria H Hirdeabo-beria I I-beria Iacute Icircumflex Idieresis Igrave J K Kobo-beria L Lakko-beria M Meri-beria N Ngay-beria Nini-beria Ntilde O OE Oacute Ocircumflex Odieresis Ograve Ohm Oi-beria Oslash Otilde P Pi-beria Q R S Scaron Seri-beria Shep-beria T Tatasoue-beria Thorn U Uacute Ucircumflex Udieresis Ugrave Ui-beria V W Wasse-beria X Y Yacute Ydieresis Z Zcaron a a.sups aacute acircumflex acute adieresis ae agrave ampersand approxequal aring arkab-beria asciicircum asciitilde asterisk at atilde ay-beria b backslash bar basigna-beria blank braceleft braceright bracketleft bracketright breve brokenbar bullet bulletoperator c caron ccedilla cedilla cent circumflex colon comma copyright currency d dagger daggerdbl darbai-beria degree dieresis divide divisionslash djai-beria dollar dotaccent dottedCircle e eacute ecircumflex edieresis egrave eh-beria eight ellipsis emdash emquad emspace endash enquad enspace equal erigo-beria erigo-tamura-beria eth euro exclam exclamdown f fi figuredash figurespace fitko-beria five fl florin four four.dnom fourperemspace foursuperior fraction g germandbls gna-beria goway-beria grave greater greaterequal guillemetleft guillemetright guilsinglleft guilsinglright h hairspace hirdeabo-beria horizontalbar hungarumlaut hyphen hyphenationpoint hyphentwo i i-beria iacute icircumflex idieresis idotless igrave increment infinity integral j k kobo-beria l lakko-beria less lessequal lineseparator logicalnot lozenge m macron meri-beria micro minus multiply n narrownbspace nbspace ngay-beria nine nini-beria nonbreakinghyphen nonmarkingreturn notequal ntilde numbersign o o.sups oacute objectReplacementCharacter ocircumflex odieresis oe ogonek ogonekcmb ograve oi-beria one one.dnom onehalf onequarter onesuperior ordfeminine ordmasculine oslash otilde p paragraph paragraphseparator parenleft parenright partialdiff percent period period.copy1 periodcentered perthousand pi pi-beria plus plusminus product punctuationspace q question questiondown quotedbl quotedblbase quotedblleft quotedblright quoteleft quoteright quotesinglbase quotesingle r radical registered replacementCharacter ring s scaron section semicolon seri-beria seven shep-beria sidebearingleft sidebearingright six sixperemspace slash softhyphen space sterling summation t tatasoue-beria thinspace thorn three three.dnom threeperemspace threequarters threesuperior tilde trademark two two.dnom twosuperior u uacute ucircumflex udieresis ugrave ui-beria underscore v w wasse-beria wordjoiner x y yacute ydieresis yen z zcaron zero zeroWidthNoBreakSpace zerowidthjoiner zerowidthnonjoiner zerowidthspace];
+@GDEF_marks = [VS1 VS10 VS11 VS12 VS13 VS14 VS15 VS16 VS2 VS3 VS4 VS5 VS6 VS7 VS8 VS9 _acutecomb _acutecomb.cap _caroncomb _caroncomb.cap _cedillacomb _cedillacomb.cap _circumflexcomb _circumflexcomb.cap _dieresiscomb _dieresiscomb.cap _gravecomb _gravecomb.cap _ringcomb _ringcomb.cap _tildecomb _tildecomb.cap acutecomb brevecmb dotaccentcmb dotaccentcomb graphemejoinercomb gravecomb hungarumlautcmb macroncmb macroncomb];
+@c_cap = [_acutecomb.cap _caroncomb.cap _cedillacomb.cap _circumflexcomb.cap _dieresiscomb.cap _gravecomb.cap _ringcomb.cap _tildecomb.cap];
+@cno_cap = [_acutecomb _caroncomb _cedillacomb _circumflexcomb _dieresiscomb _gravecomb _ringcomb _tildecomb];
+@c_copy1 = [period.copy1];
+@cno_copy1 = [period];
+@c_dnom = [four.dnom one.dnom three.dnom two.dnom];
+@cno_dnom = [four one three two];
+@c_sups = [a.sups o.sups];
+@cno_sups = [a o];
 @public.kern1.Ay-beria = [Ay-beria];
 @public.kern1.Basigna-beria = [Basigna-beria];
 @public.kern1.Darbai-beria = [Darbai-beria];
@@ -154,16 +162,102 @@
 
 # Positioning classes and statements
 
+# AP: aboveUC
+@aboveUC = [A AE B E C N D F G H I J K L M O Q OE Oslash P R S T U V W X Y Z];
+# baseClass A <anchor 276 702> @aboveUC;
+# baseClass AE <anchor 589 717> @aboveUC;
+# baseClass [B E] <anchor 293 702> @aboveUC;
+# baseClass [C N] <anchor 336 702> @aboveUC;
+# baseClass D <anchor 315 702> @aboveUC;
+# baseClass F <anchor 295 702> @aboveUC;
+# baseClass G <anchor 361 702> @aboveUC;
+# baseClass H <anchor 333 702> @aboveUC;
+# baseClass I <anchor 131 702> @aboveUC;
+# baseClass J <anchor 356 702> @aboveUC;
+# baseClass K <anchor 318 702> @aboveUC;
+# baseClass L <anchor 132 702> @aboveUC;
+# baseClass M <anchor 370 702> @aboveUC;
+# baseClass [O Q] <anchor 340 702> @aboveUC;
+# baseClass OE <anchor 550 702> @aboveUC;
+# baseClass Oslash <anchor 341 702> @aboveUC;
+# baseClass P <anchor 309 702> @aboveUC;
+# baseClass R <anchor 300 702> @aboveUC;
+# baseClass S <anchor 284 702> @aboveUC;
+# baseClass T <anchor 273 702> @aboveUC;
+# baseClass U <anchor 330 702> @aboveUC;
+# baseClass V <anchor 260 702> @aboveUC;
+# baseClass W <anchor 402 702> @aboveUC;
+# baseClass X <anchor 259 702> @aboveUC;
+# baseClass Y <anchor 239 702> @aboveUC;
+# baseClass Z <anchor 288 702> @aboveUC;
+
 # AP: U
-@U = [Arkab-beria oi-beria Eh-beria I-beria Oi-beria Ui-beria arkab-beria eh-beria i-beria ui-beria];
+@U = [Arkab-beria oi-beria Eh-beria I-beria Oi-beria Ui-beria arkab-beria dottedCircle eh-beria i-beria ui-beria];
 # baseClass [Arkab-beria oi-beria] <anchor 393 720> @U;
 # baseClass Eh-beria <anchor 402 720> @U;
 # baseClass [I-beria Oi-beria] <anchor 453 720> @U;
 # baseClass Ui-beria <anchor 262 720> @U;
 # baseClass arkab-beria <anchor 338 720> @U;
+# baseClass dottedCircle <anchor 303 574> @U;
 # baseClass eh-beria <anchor 335 720> @U;
 # baseClass i-beria <anchor 380 720> @U;
 # baseClass ui-beria <anchor 237 720> @U;
+
+# AP: baseLC
+@baseLC = [C S T c dottedCircle s t];
+# baseClass C <anchor 353 0> @baseLC;
+# baseClass S <anchor 280 0> @baseLC;
+# baseClass T <anchor 274 0> @baseLC;
+# baseClass c <anchor 277 0> @baseLC;
+# baseClass dottedCircle <anchor 303 0> @baseLC;
+# baseClass s <anchor 228 0> @baseLC;
+# baseClass t <anchor 220 0> @baseLC;
+
+# AP: _none
+markClass [VS1 VS10 VS11 VS12 VS13 VS14 VS15 VS16 VS2 VS3 VS4 VS5 VS6 VS7 VS8 VS9 graphemejoinercomb] <anchor 0 0> @_none;
+
+# AP: _aboveLC
+markClass [_acutecomb _caroncomb _circumflexcomb _dieresiscomb _gravecomb _ringcomb _tildecomb brevecmb dotaccentcmb hungarumlautcmb macroncmb] <anchor 0 524> @_aboveLC;
+
+# AP: _aboveUC
+markClass [_acutecomb.cap _caroncomb.cap _circumflexcomb.cap _dieresiscomb.cap _gravecomb.cap _ringcomb.cap _tildecomb.cap] <anchor 0 702> @_aboveUC;
+
+# AP: _baseLC
+markClass [_cedillacomb _cedillacomb.cap] <anchor 0 0> @_baseLC;
+
+# AP: aboveLC
+@aboveLC = [a ae b k thorn breve c circumflex d dottedCircle e f g h i idotless j l m n p o oslash u oe q r s x t v w y z];
+@aboveLC_MarkBase = [_circumflexcomb _dieresiscomb dotaccentcmb];
+# baseClass a <anchor 275 524> @aboveLC;
+# baseClass ae <anchor 426 524> @aboveLC;
+# baseClass [b k thorn] <anchor 126 754> @aboveLC;
+# baseClass breve <anchor 278 727> @aboveLC;
+# baseClass c <anchor 280 524> @aboveLC;
+# baseClass circumflex <anchor 278 738> @aboveLC;
+# baseClass d <anchor 401 754> @aboveLC;
+# baseClass dottedCircle <anchor 303 524> @aboveLC;
+# baseClass e <anchor 271 524> @aboveLC;
+# baseClass f <anchor 223 764> @aboveLC;
+# baseClass g <anchor 263 524> @aboveLC;
+# baseClass h <anchor 123 754> @aboveLC;
+# baseClass i <anchor 122 710> @aboveLC;
+# baseClass idotless <anchor 124 524> @aboveLC;
+# baseClass j <anchor 125 710> @aboveLC;
+# baseClass l <anchor 122 754> @aboveLC;
+# baseClass m <anchor 428 524> @aboveLC;
+# baseClass [n p] <anchor 296 524> @aboveLC;
+# baseClass [o oslash u] <anchor 278 524> @aboveLC;
+# baseClass oe <anchor 458 524> @aboveLC;
+# baseClass q <anchor 283 524> @aboveLC;
+# baseClass r <anchor 216 524> @aboveLC;
+# baseClass [s x] <anchor 222 524> @aboveLC;
+# baseClass t <anchor 142 660> @aboveLC;
+# baseClass v <anchor 235 524> @aboveLC;
+# baseClass w <anchor 364 524> @aboveLC;
+# baseClass y <anchor 245 524> @aboveLC;
+# baseClass z <anchor 232 524> @aboveLC;
+# baseClass _circumflexcomb <anchor 0 755> @aboveLC_MarkBase;
+# baseClass [_dieresiscomb dotaccentcmb] <anchor 0 711> @aboveLC_MarkBase;
 
 # AP: _U
 markClass [acutecomb dotaccentcomb gravecomb macroncomb] <anchor 250 720> @_U;
@@ -2287,6 +2381,7 @@ lookup AttachMarks {
     pos base [I-beria Oi-beria] <anchor 453 720> mark @_U;
     pos base Ui-beria <anchor 262 720> mark @_U;
     pos base arkab-beria <anchor 338 720> mark @_U;
+    pos base dottedCircle <anchor 303 574> mark @_U;
     pos base eh-beria <anchor 335 720> mark @_U;
     pos base i-beria <anchor 380 720> mark @_U;
     pos base ui-beria <anchor 237 720> mark @_U;
