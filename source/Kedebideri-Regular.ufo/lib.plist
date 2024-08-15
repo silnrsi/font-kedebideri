@@ -98,21 +98,21 @@
     <string>yen</string>
     <string>section</string>
     <string>copyright</string>
-    <string>guillemotleft</string>
+    <string>guillemetleft</string>
     <string>logicalnot</string>
     <string>registered</string>
     <string>degree</string>
     <string>plusminus</string>
     <string>paragraph</string>
-    <string>guillemotright</string>
+    <string>guillemetright</string>
     <string>multiply</string>
     <string>divide</string>
     <string>florin</string>
     <string>gravecomb</string>
     <string>acutecomb</string>
     <string>macroncomb</string>
-    <string>dotaccentcmb</string>
-    <string>ZWSP</string>
+    <string>dotaccentcomb</string>
+    <string>zerowidthspace</string>
     <string>endash</string>
     <string>emdash</string>
     <string>quoteleft</string>
@@ -129,12 +129,12 @@
     <string>guilsinglleft</string>
     <string>guilsinglright</string>
     <string>fraction</string>
-    <string>uni2060</string>
-    <string>Euro</string>
+    <string>wordjoiner</string>
+    <string>euro</string>
     <string>trademark</string>
     <string>minus</string>
     <string>approxequal</string>
-    <string>ZWNBS</string>
+    <string>zeroWidthNoBreakSpace</string>
     <string>Arkab-beria</string>
     <string>arkab-beria</string>
     <string>Basigna-beria</string>
@@ -239,10 +239,6 @@
     <string>u16EB6</string>
     <key>Wasse-beria</key>
     <string>u16EB7</string>
-    <key>ZWNBS</key>
-    <string>uniFEFF</string>
-    <key>ZWSP</key>
-    <string>uni200B</string>
     <key>arkab-beria</key>
     <string>u16EBB</string>
     <key>ay-beria</key>
@@ -253,7 +249,7 @@
     <string>u16EBD</string>
     <key>djai-beria</key>
     <string>u16EC3</string>
-    <key>dotaccentcmb</key>
+    <key>dotaccentcomb</key>
     <string>uni0307</string>
     <key>eh-beria</key>
     <string>u16EBE</string>
@@ -261,12 +257,18 @@
     <string>u16ECC</string>
     <key>erigo-tamura-beria</key>
     <string>u16ECD</string>
+    <key>euro</key>
+    <string>Euro</string>
     <key>fitko-beria</key>
     <string>u16EBF</string>
     <key>gna-beria</key>
     <string>u16EC8</string>
     <key>goway-beria</key>
     <string>u16EC0</string>
+    <key>guillemetleft</key>
+    <string>guillemotleft</string>
+    <key>guillemetright</key>
+    <string>guillemotright</string>
     <key>hirdeabo-beria</key>
     <string>u16EC1</string>
     <key>i-beria</key>
@@ -297,6 +299,12 @@
     <string>u16ED1</string>
     <key>wasse-beria</key>
     <string>u16ED2</string>
+    <key>wordjoiner</key>
+    <string>uni2060</string>
+    <key>zeroWidthNoBreakSpace</key>
+    <string>uniFEFF</string>
+    <key>zerowidthspace</key>
+    <string>uni200B</string>
   </dict>
 </dict>
 </plist>

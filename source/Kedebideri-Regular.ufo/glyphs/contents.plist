@@ -22,8 +22,6 @@
   <string>E_rigo-T_amura-beria.glif</string>
   <key>Erigo-beria</key>
   <string>E_rigo-beria.glif</string>
-  <key>Euro</key>
-  <string>E_uro.glif</string>
   <key>Fitko-beria</key>
   <string>F_itko-beria.glif</string>
   <key>Gna-beria</key>
@@ -58,10 +56,6 @@
   <string>U_i-beria.glif</string>
   <key>Wasse-beria</key>
   <string>W_asse-beria.glif</string>
-  <key>ZWNBS</key>
-  <string>Z_W_N_B_S_.glif</string>
-  <key>ZWSP</key>
-  <string>Z_W_S_P_.glif</string>
   <key>acutecomb</key>
   <string>acutecomb.glif</string>
   <key>ampersand</key>
@@ -116,8 +110,8 @@
   <string>djai-beria.glif</string>
   <key>dollar</key>
   <string>dollar.glif</string>
-  <key>dotaccentcmb</key>
-  <string>dotaccentcmb.glif</string>
+  <key>dotaccentcomb</key>
+  <string>dotaccentcomb.glif</string>
   <key>eh-beria</key>
   <string>eh-beria.glif</string>
   <key>eight</key>
@@ -134,6 +128,8 @@
   <string>erigo-beria.glif</string>
   <key>erigo-tamura-beria</key>
   <string>erigo-tamura-beria.glif</string>
+  <key>euro</key>
+  <string>euro.glif</string>
   <key>exclam</key>
   <string>exclam.glif</string>
   <key>fitko-beria</key>
@@ -154,10 +150,10 @@
   <string>gravecomb.glif</string>
   <key>greater</key>
   <string>greater.glif</string>
-  <key>guillemotleft</key>
-  <string>guillemotleft.glif</string>
-  <key>guillemotright</key>
-  <string>guillemotright.glif</string>
+  <key>guillemetleft</key>
+  <string>guillemetleft.glif</string>
+  <key>guillemetright</key>
+  <string>guillemetright.glif</string>
   <key>guilsinglleft</key>
   <string>guilsinglleft.glif</string>
   <key>guilsinglright</key>
@@ -268,13 +264,17 @@
   <string>ui-beria.glif</string>
   <key>underscore</key>
   <string>underscore.glif</string>
-  <key>uni2060</key>
-  <string>uni2060.glif</string>
   <key>wasse-beria</key>
   <string>wasse-beria.glif</string>
+  <key>wordjoiner</key>
+  <string>wordjoiner.glif</string>
   <key>yen</key>
   <string>yen.glif</string>
   <key>zero</key>
   <string>zero.glif</string>
+  <key>zeroWidthNoBreakSpace</key>
+  <string>zeroW_idthN_oB_reakS_pace.glif</string>
+  <key>zerowidthspace</key>
+  <string>zerowidthspace.glif</string>
 </dict>
 </plist>

@@ -177,12 +177,12 @@
   </array>
   <key>public.kern1.guilsinglleft</key>
   <array>
-    <string>guillemotleft</string>
+    <string>guillemetleft</string>
     <string>guilsinglleft</string>
   </array>
   <key>public.kern1.guilsinglright</key>
   <array>
-    <string>guillemotright</string>
+    <string>guillemetright</string>
     <string>guilsinglright</string>
   </array>
   <key>public.kern1.hyphen</key>
@@ -486,12 +486,12 @@
   </array>
   <key>public.kern2.guilsinglleft</key>
   <array>
-    <string>guillemotleft</string>
+    <string>guillemetleft</string>
     <string>guilsinglleft</string>
   </array>
   <key>public.kern2.guilsinglright</key>
   <array>
-    <string>guillemotright</string>
+    <string>guillemetright</string>
     <string>guilsinglright</string>
   </array>
   <key>public.kern2.hirdeabo-beria</key>

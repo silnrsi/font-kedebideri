@@ -1,7 +1,7 @@
 
 # Main Classes
-@GDEF_bases = [.notdef .null Arkab-beria Ay-beria Basigna-beria Darbai-beria Djai-beria Eh-beria Erigo-Tamura-beria Erigo-beria Euro Fitko-beria Gna-beria Goway-beria Hirdeabo-beria I-beria Kobo-beria Lakko-beria Meri-beria Ngay-beria Nini-beria Oi-beria Pi-beria Seri-beria Shep-beria Tatasoue-beria Ui-beria Wasse-beria ZWNBS ZWSP ampersand approxequal arkab-beria asciitilde asterisk at ay-beria backslash bar basigna-beria braceleft braceright bracketleft bracketright bullet cent colon comma copyright dagger daggerdbl darbai-beria degree divide djai-beria dollar eh-beria eight ellipsis emdash endash equal erigo-beria erigo-tamura-beria exclam fitko-beria five florin four fraction gna-beria goway-beria greater guillemotleft guillemotright guilsinglleft guilsinglright hirdeabo-beria hyphen i-beria kobo-beria lakko-beria less logicalnot meri-beria minus multiply ngay-beria nine nini-beria nonmarkingreturn numbersign oi-beria one paragraph parenleft parenright percent period perthousand pi-beria placeholder plus plusminus question quotedbl quotedblbase quotedblleft quotedblright quoteleft quoteright quotesinglbase quotesingle registered section semicolon seri-beria seven shep-beria six slash space sterling tatasoue-beria three trademark two ui-beria underscore uni2060 wasse-beria yen zero];
-@GDEF_marks = [acutecomb dotaccentcmb gravecomb macroncomb];
+@GDEF_bases = [.notdef .null Arkab-beria Ay-beria Basigna-beria Darbai-beria Djai-beria Eh-beria Erigo-Tamura-beria Erigo-beria Fitko-beria Gna-beria Goway-beria Hirdeabo-beria I-beria Kobo-beria Lakko-beria Meri-beria Ngay-beria Nini-beria Oi-beria Pi-beria Seri-beria Shep-beria Tatasoue-beria Ui-beria Wasse-beria ampersand approxequal arkab-beria asciitilde asterisk at ay-beria backslash bar basigna-beria braceleft braceright bracketleft bracketright bullet cent colon comma copyright dagger daggerdbl darbai-beria degree divide djai-beria dollar eh-beria eight ellipsis emdash endash equal erigo-beria erigo-tamura-beria euro exclam fitko-beria five florin four fraction gna-beria goway-beria greater guillemetleft guillemetright guilsinglleft guilsinglright hirdeabo-beria hyphen i-beria kobo-beria lakko-beria less logicalnot meri-beria minus multiply ngay-beria nine nini-beria nonmarkingreturn numbersign oi-beria one paragraph parenleft parenright percent period perthousand pi-beria placeholder plus plusminus question quotedbl quotedblbase quotedblleft quotedblright quoteleft quoteright quotesinglbase quotesingle registered section semicolon seri-beria seven shep-beria six slash space sterling tatasoue-beria three trademark two ui-beria underscore wasse-beria wordjoiner yen zero zeroWidthNoBreakSpace zerowidthspace];
+@GDEF_marks = [acutecomb dotaccentcomb gravecomb macroncomb];
 @public.kern1.Ay-beria = [Ay-beria];
 @public.kern1.Basigna-beria = [Basigna-beria];
 @public.kern1.Darbai-beria = [Darbai-beria];
@@ -44,8 +44,8 @@
 @public.kern1.four = [four];
 @public.kern1.gna-beria = [gna-beria];
 @public.kern1.goway-beria = [goway-beria];
-@public.kern1.guilsinglleft = [guillemotleft guilsinglleft];
-@public.kern1.guilsinglright = [guillemotright guilsinglright];
+@public.kern1.guilsinglleft = [guillemetleft guilsinglleft];
+@public.kern1.guilsinglright = [guillemetright guilsinglright];
 @public.kern1.hyphen = [emdash endash hyphen];
 @public.kern1.i-beria = [i-beria];
 @public.kern1.kobo-beria = [kobo-beria];
@@ -118,8 +118,8 @@
 @public.kern2.five = [five];
 @public.kern2.four = [four];
 @public.kern2.goway-beria = [goway-beria];
-@public.kern2.guilsinglleft = [guillemotleft guilsinglleft];
-@public.kern2.guilsinglright = [guillemotright guilsinglright];
+@public.kern2.guilsinglleft = [guillemetleft guilsinglleft];
+@public.kern2.guilsinglright = [guillemetright guilsinglright];
 @public.kern2.hirdeabo-beria = [erigo-beria gna-beria hirdeabo-beria ngay-beria];
 @public.kern2.hyphen = [emdash endash hyphen];
 @public.kern2.i-beria = [i-beria];
@@ -166,7 +166,7 @@
 # baseClass ui-beria <anchor 237 720> @U;
 
 # AP: _U
-markClass [acutecomb dotaccentcmb gravecomb macroncomb] <anchor 250 720> @_U;
+markClass [acutecomb dotaccentcomb gravecomb macroncomb] <anchor 250 720> @_U;
 #**********************************
 # This file is part of Kedebideri font family (https://software.sil.org/kedebideri/) 
 # and is Copyright (c) 2007-2024 SIL International (https://www.sil.org/),
@@ -328,9 +328,6 @@ lookup kernpairs {
     pos Erigo-beria -30 seri-beria;
     pos Erigo-beria -25 shep-beria;
     pos Erigo-beria -90 slash;
-    pos Euro -20 four;
-    pos Euro -10 nine;
-    pos Euro 20 seven;
     pos Gna-beria -5 Ay-beria;
     pos Gna-beria -50 Basigna-beria;
     pos Gna-beria -5 Darbai-beria;
@@ -822,6 +819,9 @@ lookup kernpairs {
     pos equal -20 seven;
     pos equal -20 three;
     pos equal -10 two;
+    pos euro -20 four;
+    pos euro -10 nine;
+    pos euro 20 seven;
     pos fitko-beria -20 asterisk;
     pos fitko-beria -10 ay-beria;
     pos fitko-beria -20 backslash;

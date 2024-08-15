@@ -261,15 +261,6 @@
     <key>slash</key>
     <integer>-90</integer>
   </dict>
-  <key>Euro</key>
-  <dict>
-    <key>four</key>
-    <integer>-20</integer>
-    <key>nine</key>
-    <integer>-10</integer>
-    <key>seven</key>
-    <integer>20</integer>
-  </dict>
   <key>Gna-beria</key>
   <dict>
     <key>Ay-beria</key>
@@ -1326,6 +1317,15 @@
     <integer>-20</integer>
     <key>two</key>
     <integer>-10</integer>
+  </dict>
+  <key>euro</key>
+  <dict>
+    <key>four</key>
+    <integer>-20</integer>
+    <key>nine</key>
+    <integer>-10</integer>
+    <key>seven</key>
+    <integer>20</integer>
   </dict>
   <key>fitko-beria</key>
   <dict>
