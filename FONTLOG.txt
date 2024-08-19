@@ -14,12 +14,22 @@ The Beria Erfe script is built around a sampling of the markings on livestock (e
 
 This font was initially designed by a volunteer who chooses to remain anonymous, in cooperation with SIL International and the Mission Protestante Franco-Suisse au Tchad.
 
+One weight for this typeface family is included:
+
+     * Kedebideri Regular
+
+The Latin glyphs are based on the OFL-licensed Source Sans Pro fonts
+(https://github.com/adobe-fonts/source-sans-pro). 
+
+For detailed documentation see the contents of the 'documentation' folder.
+
 ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
 3 Jun 2024 (Kedebideri) version 1.701
 - Renamed to Kedebideri
+- Imported Latin glyphs from Source Sans Pro
 
 8 Apr 2021 (SIL) Beria Giray Erfe Test A version 1.700
 - New public repository and open source build workflow
