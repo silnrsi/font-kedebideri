@@ -161,7 +161,9 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>684</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>-Regular</string>
+  <string>Kedebideri-Regular</string>
+  <key>postscriptFullName</key>
+  <string>Kedebideri Regular</string>
   <key>postscriptOtherBlues</key>
   <array>
     <integer>-151</integer>
