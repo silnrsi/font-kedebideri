@@ -7,16 +7,16 @@ quotedbl
 </note>
   <outline>
     <contour>
-      <point x="96" y="864" type="line"/>
-      <point x="114" y="571" type="line"/>
-      <point x="166" y="571" type="line"/>
-      <point x="184" y="864" type="line"/>
+      <point x="96" y="764" type="line"/>
+      <point x="114" y="471" type="line"/>
+      <point x="166" y="471" type="line"/>
+      <point x="184" y="764" type="line"/>
     </contour>
     <contour>
-      <point x="253" y="864" type="line"/>
-      <point x="271" y="571" type="line"/>
-      <point x="323" y="571" type="line"/>
-      <point x="341" y="864" type="line"/>
+      <point x="253" y="764" type="line"/>
+      <point x="271" y="471" type="line"/>
+      <point x="323" y="471" type="line"/>
+      <point x="341" y="764" type="line"/>
     </contour>
   </outline>
 </glyph>

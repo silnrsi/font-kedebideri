@@ -13,10 +13,10 @@ exclam
       <point x="242" y="103" type="line"/>
     </contour>
     <contour>
-      <point x="151" y="794" type="line"/>
+      <point x="151" y="684" type="line"/>
       <point x="162" y="213" type="line"/>
       <point x="224" y="213" type="line"/>
-      <point x="235" y="794" type="line"/>
+      <point x="235" y="684" type="line"/>
     </contour>
   </outline>
 </glyph>
