@@ -1,5 +1,0 @@
-Basic test of kerning (using hacked ANSI encoding)
-First sequence is without kerning (due to added ZWNBS)
-Second sequence should show -110 units of kerning
-\U0042\U200B\U004D
-\U0042\U004D
