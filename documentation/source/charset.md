@@ -11,7 +11,7 @@ The following character ranges are supported by this font:
 
 Unicode block | Kedebideri support
 ------------- | ---------------
-Beria Erfe|✓
+Beria Erfe (16EA0..16EDF)| ✓
 Codepage 1252 (Western)¹ | ✓
 
 A selection of characters from the General Punctuation block, such as various-sized spaces, are also supported; a utility such as <a href="https://scripts.sil.org/ViewGlyph_home">SIL ViewGlyph</a> can be used to examine the exact repertoire of this font. 
