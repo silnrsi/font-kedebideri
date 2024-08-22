@@ -15,6 +15,7 @@
 #**********************************
 
 languagesystem DFLT dflt ;
+# languagesystem latn dflt ;
 
 
 @MarksAbove = [@_U] ;
@@ -32,8 +33,16 @@ languagesystem DFLT dflt ;
 # GSUB (Subtitution) lookups
 #**********************************
 
-# None needed
+# None currently. We can't really do the following until there is an OpenType code for Beria Erfe
 
+# feature locl {
+# 	script latn;
+
+# 	lookup locl_lkp {
+# 		sub space by space-latin;
+# 		sub nbspace by nbspace-latin;
+# 	} locl_lkp;
+# } locl;	
 
 # Lookups for GPOS
 

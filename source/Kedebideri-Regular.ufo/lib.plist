@@ -349,6 +349,8 @@
     <string>zeroWidthNoBreakSpace</string>
     <string>objectReplacementCharacter</string>
     <string>replacementCharacter</string>
+    <string>space-latin</string>
+    <string>nbspace-latin</string>
     <string>Arkab-beria</string>
     <string>arkab-beria</string>
     <string>Basigna-beria</string>
@@ -596,6 +598,8 @@
     <string>uni202F</string>
     <key>nbspace</key>
     <string>uni00A0</string>
+    <key>nbspace-latin</key>
+    <string>uni00A0-latin</string>
     <key>ngay-beria</key>
     <string>u16EC9</string>
     <key>nini-beria</key>
