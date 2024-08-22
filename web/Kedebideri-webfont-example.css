@@ -1,0 +1,39 @@
+/*
+Kedebideri-webfont-example.css
+This file is part of Kedebideri font family (https://software.sil.org/kedebideri).
+Copyright (c) 2007-2024, SIL International (https://www.sil.org/),
+with Reserved Font Names "Kedebideri" and "SIL".
+
+Latin glyph design Copyright (c) 2010-2024 Adobe (http://www.adobe.com/),
+with Reserved Font Name "Source" (Latin glyphs).
+
+This Font Software is licensed
+under the SIL Open Font License, Version 1.1. You should have received a copy
+of the license along with this Font Software. If this is not the case, go to
+(https://openfontlicense.org/) for all the details including a FAQ.
+*/
+
+/* use Kedebideri - Regular in .woff format */
+@font-face {
+  font-family: KedebideriW;
+  src: url(Kedebideri-Regular.woff2);
+}
+
+/* set body to use Kedebideri in .ttf format */
+body {
+  font-family: KedebideriW, serif;
+    /* fall back to serif so that it's really obvious if the fonts don't load */
+}
+
+/* remove bold styling from heading */
+h1 {
+  font-weight: normal;	
+}
+
+h2 {
+  font-family: "Times New Roman"; font-size:30px; color: Blue;
+}
+
+h3 {
+  font-family: "Times New Roman"; font-size:20px; color: Blue;	
+}
