@@ -19,11 +19,7 @@ See [Character set support](charset.md) for details of the Unicode characters su
 
 ## Rendering and application support
 
-These fonts will work normally like any other fonts in most applications. Since the writing system requires special diacritic positioning, and reordering, the application/OS will need to support OpenType.
-
-These fonts also include OpenType features for character alternates and stylistic sets. For information on the specific features available in these fonts see [Font features](features.md). 
-
-If special font features are to be activated the application will need to provide a way to turn on the feature or choose the feature setting. Details of current application support, and specific techniques for activating features, are on the [Using Font Features](http://software.sil.org/fonts/features) help page.
+These fonts will work normally like any other fonts in most applications. Since the writing system requires special diacritic positioning and kerning, the application/OS will need to support OpenType.
 
 ## Web fonts
 
