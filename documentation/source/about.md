@@ -7,7 +7,7 @@ fontversion: 1.701
 
 _The Beria Erfe script has received [provisional codepoint assignments](https://www.unicode.org/alloc/Pipeline.html) by the Unicode Technical Committee. The script has not yet been formally accepted and approved for a future version of the Unicode Standard. The Kedebideri font is using the provisional codepoints, but those codepoints can always change. Should those codepoints change, this font would be re-released with the new encoding. Documents would then need converting to use the new codepoints._
 
-The Beria Erfe script is built around a sampling of the traditional animal brands attested on livestock, rocks of the desert, and caves of North Darfur and eastern Chad. The script was first introduced by a school teacher named Adam Tajir, and it was further developed by Siddick Adam Issa.
+The Beria Erfe script is built around a sampling of the traditional animal brands seen on livestock, rocks of the desert, and in caves of North Darfur and eastern Chad. The script was first introduced by a school teacher named Adam Tajir, and it was further developed by Siddick Adam Issa.
 
 The font name, Kedebideri, means "Let's write!" in the Zaghawa Beria language.
 
