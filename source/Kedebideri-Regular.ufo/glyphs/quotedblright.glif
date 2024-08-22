@@ -7,22 +7,22 @@ quotedblright
 </note>
   <outline>
     <contour>
-      <point x="81" y="622" type="line"/>
-      <point x="122" y="606" type="line"/>
+      <point x="81" y="522" type="line"/>
+      <point x="122" y="506" type="line"/>
+      <point x="188" y="664" type="line"/>
       <point x="188" y="764" type="line"/>
-      <point x="188" y="864" type="line"/>
-      <point x="89" y="864" type="line"/>
-      <point x="89" y="756" type="line"/>
-      <point x="125" y="756" type="line"/>
+      <point x="89" y="764" type="line"/>
+      <point x="89" y="656" type="line"/>
+      <point x="125" y="656" type="line"/>
     </contour>
     <contour>
-      <point x="232" y="622" type="line"/>
-      <point x="273" y="606" type="line"/>
+      <point x="232" y="522" type="line"/>
+      <point x="273" y="506" type="line"/>
+      <point x="339" y="664" type="line"/>
       <point x="339" y="764" type="line"/>
-      <point x="339" y="864" type="line"/>
-      <point x="240" y="864" type="line"/>
-      <point x="240" y="756" type="line"/>
-      <point x="276" y="756" type="line"/>
+      <point x="240" y="764" type="line"/>
+      <point x="240" y="656" type="line"/>
+      <point x="276" y="656" type="line"/>
     </contour>
   </outline>
 </glyph>
