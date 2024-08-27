@@ -6,14 +6,6 @@
 quoteright
 </note>
   <outline>
-    <contour>
-      <point x="89" y="764" type="line"/>
-      <point x="89" y="656" type="line"/>
-      <point x="125" y="656" type="line"/>
-      <point x="81" y="522" type="line"/>
-      <point x="123" y="506" type="line"/>
-      <point x="189" y="664" type="line"/>
-      <point x="189" y="764" type="line"/>
-    </contour>
+    <component base="quoteleft" xScale="-1" yScale="-1" xOffset="266" yOffset="1130"/>
   </outline>
 </glyph>

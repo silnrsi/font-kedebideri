@@ -6,17 +6,7 @@
 quotedbl
 </note>
   <outline>
-    <contour>
-      <point x="96" y="764" type="line"/>
-      <point x="114" y="471" type="line"/>
-      <point x="166" y="471" type="line"/>
-      <point x="184" y="764" type="line"/>
-    </contour>
-    <contour>
-      <point x="253" y="764" type="line"/>
-      <point x="271" y="471" type="line"/>
-      <point x="323" y="471" type="line"/>
-      <point x="341" y="764" type="line"/>
-    </contour>
+    <component base="quotesingle"/>
+    <component base="quotesingle" xOffset="156"/>
   </outline>
 </glyph>
