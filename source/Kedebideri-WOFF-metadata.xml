@@ -32,11 +32,13 @@
       ---------
       (This should list both major and minor changes, most recent first.)
       
-      3 Jun 2024 (Kedebideri) version 1.701
-      - Renamed to Kedebideri
+      x Sept 2024 (WSTech team) Kedebideri version 2.000
+      - Updated font name to Kedebideri
+      - Encoded font according to the provisional Unicode characters
+      - Added a new character called Erigo Tamura
       - Imported Latin glyphs from Source Sans Pro at 103% and a weight of CSS 360
       
-      8 Apr 2021 (SIL) Beria Giray Erfe Test A version 1.700
+      8 Apr 2021 (WSTech team) Beria Giray Erfe Test A version 1.700
       - New public repository and open source build workflow
       - Re-encoded from legacy pre-Unicode to temporarily use Unicode PUA
       - Changed name to Beria Giray Erfe Test A
@@ -103,4 +105,7 @@
       Copyright (c) 2007-2024 SIL International
     </text>
   </copyright>
+  <trademark>
+    <text lang="en">Kedebideri is a trademark of SIL International.</text>
+  </trademark>
 </metadata>
