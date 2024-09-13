@@ -2,7 +2,8 @@
 # this is a smith configuration file
 
 # override the default folders
-# DOCDIR = ["documentation", "web"]
+DOCDIR = ["documentation", "web"]
+genout = "generated/"
 
 # set the font name and description
 APPNAME = 'Kedebideri'
@@ -11,7 +12,6 @@ DESC_SHORT = "Font for the Beria Erfe script"
 
 # Get version and authorship information from Regular UFO (canonical metadata); must be first function call:
 getufoinfo('source/' + FAMILY + '-Regular' + '.ufo')
-# BUILDLABEL = 'beta1'
 
 # Set up the FTML tests
 # ftmlTest('tools/ftml-smith.xsl')
