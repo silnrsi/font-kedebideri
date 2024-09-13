@@ -1,6 +1,6 @@
 ---
 title: Kedebideri - Versions and Changes
-fontversion: 1.701
+fontversion: 2.000
 ---
 
 ## Announcement list
@@ -11,13 +11,11 @@ Our font announcements are also available through X (formerly Twitter) [\@silfon
 
 ## Current versions
 
-The latest version of the fonts is always available from the [Kedebideri Github releases page](https://github.com/silnrsi/font-kedebideri/releases) as a .zip archive for all major platforms.
-
-This font package may also be available in the [SIL software repository for Ubuntu](https://packages.sil.org/). Users can subscribe to this software repository and get current versions and updates automatically.
+The latest version of the fonts is always available from the [Kedebideri download page](https://software.sil.org/kedebideri/download/) as a .zip archive for all major platforms.
 
 ## Previous versions
 
-Previous versions remain available from the [Kedebideri Github releases page](https://github.com/silnrsi/font-kedebideri/releases).
+There are no previous versions at this point.
 
 ## Change history
 

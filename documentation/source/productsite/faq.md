@@ -1,7 +1,3 @@
----
-title: Kedebideri - Frequently Asked Questions
-fontversion: 2.000
----
 
 Many questions can be answered by consulting the following FAQ pages. Here are a few sample questions answered in each FAQ:
 
@@ -42,7 +38,7 @@ The Latin glyphs in Kedebideri are based on Source Sans Pro at 103% and a weight
 
 #### *I used the Zaghawa Beria font which was custom encoded. How can I convert my data from the Zaghawa Beria encoding to Unicode?*
 
-Data which was created with the Zaghawa Beria font will not be automatically converted to Unicode by switching fonts. The data must be converted to Unicode using a data conversion routine. See "Text conversion" in [Resources](resources.md) for information on converting your data.
+Data which was created with the Zaghawa Beria font will not be automatically converted to Unicode by switching fonts. The data must be converted to Unicode using a data conversion routine. See "Text conversion" in [Resources](resources) for information on converting your data.
 
 There is a minimally tested TECKit mapping file available for converting data from the custom encoded Zaghawa Beria font to the provisional Unicode codepoints:
 

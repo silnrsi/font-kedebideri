@@ -1,7 +1,3 @@
----
-title: Kedebideri - Design
-fontversion: 2.000
----
 
 The Kedebideri font supports the Beria Erfe script which is used for the Zaghawa Beria language of Sudan and Chad.
 
@@ -16,10 +12,9 @@ One font from this typeface family is included in the *Kedebideri* release:
 ## Type Samples
 
 Type samples showing some of the inventory of glyphs can be found here: 
-[Kedebideri Type Sample](sample.md).
+[Kedebideri Type Sample](sample).
 
 One example of some text is shown below. 
 
-![Kedebideri Sample](../assets/images/milkseller.png){.fullsize}
-<!-- PRODUCT SITE IMAGE SRC https://software.sil.org/kedebideri/wp-content/uploads/sites/73/2024/09/milkseller.png -->
-<figcaption>Kedebideri Sample</figcaption>
+<img class='fullsize' alt='Kedebideri Sample' src='https://software.sil.org/kedebideri/wp-content/uploads/sites/73/2024/09/milkseller.png' />
+[caption]<em>Kedebideri Sample</em>[/caption]

@@ -1,7 +1,3 @@
----
-title: Kedebideri - Version History
-fontversion: 2.000
----
 
 ### 13 Sept 2024 (WSTech team) Kedebideri version 2.000
 - Updated font name to Kedebideri

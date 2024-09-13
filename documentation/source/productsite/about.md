@@ -1,7 +1,3 @@
----
-title: Kedebideri - About
-fontversion: 2.000
----
 
 ## About this project
 
@@ -11,7 +7,7 @@ The Beria Erfe script is built around a sampling of the traditional animal brand
 
 The font name, Kedebideri, means "Let's write!" in the Zaghawa Beria language.
 
-For more information on the visual characteristics of the font family see [Design](design.md).
+For more information on the visual characteristics of the font family see [Design](design).
 
 ## Future plans
 
@@ -22,7 +18,7 @@ The highest priorities for future additions and enhancements are mainly driven b
 - New additions to [The Unicode Standard](https://unicode.org/)
 - Requests from language communities using the fonts
 
-Please submit requests using the [issue tracker on the font repository](https://github.com/silnrsi/font-kedebideri/issues). If you are interested in helping us make the fonts better see the [Developer](developer.md) page.
+Please submit requests using the [issue tracker on the font repository](https://github.com/silnrsi/font-kedebideri/issues). If you are interested in helping us make the fonts better see the [Developer](developer) page.
 
 ## Announcement list
 
@@ -34,7 +30,7 @@ You can subscribe using either of the two following options.
 
 - If you would rather not use a Google profile, you can subscribe any email address by sending a message to [sil-font-news+subscribe@groups.sil.org](mailto:sil-font-news+subscribe@groups.sil.org) and following the instructions you get in the confirmation message.
 
-Our font announcements are also available through X (formerly Twitter) [\@silfonts](https://x.com/silfonts).
+Our font announcements are also available through X (formerly Twitter) [@silfonts](https://x.com/silfonts).
 
 ## Supporting the project
 

@@ -1,7 +1,3 @@
----
-title: Kedebideri - Resources
-fontversion: 2.000
----
 
 ## Requirements
 
@@ -19,7 +15,7 @@ This font package does not include keyboards or other software for entering text
 
 Various other means may be available for different operating-system platforms to create additional input methods. Some suggestions are listed here: [Keyboard Systems Overview](https://scriptsource.org/entry/ytr8g8n6sw).
 
-See [Character set support](charset.md) for details of the Unicode characters supported by this font.
+See [Character set support](charset) for details of the Unicode characters supported by this font.
 
 ## Rendering and application support
 

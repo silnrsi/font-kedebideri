@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata version="1.0">
-  <uniqueid id="org.sil.fonts.Kedebideri.1.701" />
+  <uniqueid id="org.sil.fonts.Kedebideri.2.000" />
   <vendor name="SIL International" url="https://www.sil.org/" />
   <credits>
     <credit
@@ -32,7 +32,7 @@
       ---------
       (This should list both major and minor changes, most recent first.)
       
-      x Sept 2024 (WSTech team) Kedebideri version 2.000
+      13 Sept 2024 (WSTech team) Kedebideri version 2.000
       - Updated font name to Kedebideri
       - Encoded font according to the provisional Unicode characters
       - Added a new character called Erigo Tamura
@@ -43,10 +43,10 @@
       - Re-encoded from legacy pre-Unicode to temporarily use Unicode PUA
       - Changed name to Beria Giray Erfe Test A
       
-      30 Apr 2019 (SIL) Zaghawa Beria version 1.001
+      30 Apr 2019 (SIL) Zaghawa Beria version 1.001 (custom encoded font)
       - Updated metadata
       
-      31 May 2007 (SIL) Zaghawa Beria version 1.000
+      31 May 2007 (SIL) Zaghawa Beria version 1.000 (custom encoded font)
       - Initial freeware release
     </text>
   </description>
