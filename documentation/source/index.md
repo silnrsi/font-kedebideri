@@ -7,7 +7,7 @@ Thank you for your interest in the Kedebideri fonts. This font family supports t
 
 This documentation is a set of HTML pages that can be viewed in any modern web browser. PDF versions of these pages are also provided. This content, plus download links and a contact form, are available from the [Kedebideri site](https://software.sil.org/kedebideri/).
 
-- [About](about.md) — Information about this project and SIL International
+- [About](about.md) — Information about this project and SIL Global
 - [Announcement](announcement.md) — Announcement for font release
 - [Resources](resources.md) — Help with installation and use
 - [FAQ](faq.md) — Common questions and answers

@@ -1,7 +1,7 @@
 
 The Kedebideri font supports the Beria Erfe script which is used for the Zaghawa Beria language of Sudan and Chad.
 
-This font was initially designed by a volunteer who chooses to remain anonymous, in cooperation with SIL International and the Mission Protestante Franco-Suisse au Tchad.
+This font was initially designed by a volunteer who chooses to remain anonymous, in cooperation with SIL Global and the Mission Protestante Franco-Suisse au Tchad.
 
 The Latin glyphs were imported from Source Sans Pro at 103% and a weight of CSS 360.
 
