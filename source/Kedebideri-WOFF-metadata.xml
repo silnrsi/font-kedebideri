@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata version="1.0">
-  <uniqueid id="org.sil.fonts.Kedebideri.2.001" />
-  <vendor name="SIL International" url="https://www.sil.org/" />
+  <uniqueid id="org.sil.fonts.Kedebideri.2.900" />
+  <vendor name="SIL Global" url="https://www.sil.org/" />
   <credits>
     <credit
       name="Anonymous"
@@ -17,7 +17,7 @@
     <text lang="en">
       The Beria Erfe script is built around a sampling of the markings on livestock (especially camels) within the Beria language region of western Sudan and eastern Chad. It is an idea that has its origins in the work of a Sudanese schoolteacher who developed the first version of this over 25 years ago. The Beria Erfe script has since been provisionally accepted for addition to Unicode.
       
-      This font was initially designed by a volunteer who chooses to remain anonymous, in cooperation with SIL International and the Mission Protestante Franco-Suisse au Tchad.
+      This font was initially designed by a volunteer who chooses to remain anonymous, in cooperation with SIL Global and the Mission Protestante Franco-Suisse au Tchad.
       
       One weight for this typeface family is included:
       
@@ -52,7 +52,7 @@
   </description>
   <license url="https://openfontlicense.org" id="org.openfontlicense.1.1">
     <text lang="en">
-      Copyright (c) 2007-2024 SIL International (https://www.sil.org/),
+      Copyright (c) 2007-2025 SIL Global (https://www.sil.org/),
       with Reserved Font Names "Kedebideri" and "SIL".
       Copyright (c) 2010-2024 Adobe (http://www.adobe.com/),
       with Reserved Font Name "Source" (Latin glyphs).
@@ -102,10 +102,10 @@
   </license>
   <copyright>
     <text lang="en">
-      Copyright (c) 2007-2024 SIL International
+      Copyright (c) 2007-2025 SIL Global
     </text>
   </copyright>
   <trademark>
-    <text lang="en">Kedebideri is a trademark of SIL International.</text>
+    <text lang="en">Kedebideri is a trademark of SIL Global.</text>
   </trademark>
 </metadata>

@@ -7,7 +7,7 @@ fonts and any derivative works.
 
 These files are part of the Kedebideri font family 
 (https://software.sil.org/kedebideri/) and are 
-Copyright (c) 2007-2024 SIL International (https://www.sil.org/),
+Copyright (c) 2007-2025 SIL Global (https://www.sil.org/),
 with Reserved Font Names "Kedebideri" and "SIL".
 
 This Font Software is licensed under the SIL Open Font License,

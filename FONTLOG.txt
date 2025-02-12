@@ -12,7 +12,7 @@ Basic Font Information
 
 The Beria Erfe script is built around a sampling of the markings on livestock (especially camels) within the Beria language region of western Sudan and eastern Chad. It is an idea that has its origins in the work of a Sudanese schoolteacher who developed the first version of this over 25 years ago. The Beria Erfe script has since been provisionally accepted for addition to Unicode.
 
-This font was initially designed by a volunteer who chooses to remain anonymous, in cooperation with SIL International and the Mission Protestante Franco-Suisse au Tchad.
+This font was initially designed by a volunteer who chooses to remain anonymous, in cooperation with SIL Global and the Mission Protestante Franco-Suisse au Tchad.
 
 One weight for this typeface family is included:
 
@@ -59,6 +59,6 @@ W: https://software.sil.org/wstech/
 D: Additional font design, engineering, and production
 
 
-The Kedebideri project is maintained by SIL International.
+The Kedebideri project is maintained by SIL Global.
 
-For more information please visit SIL International's website: https://software.sil.org/fonts/
+For more information please visit SIL Global's website: https://software.sil.org/fonts/

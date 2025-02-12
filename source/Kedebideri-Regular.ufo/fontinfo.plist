@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>668</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2007-2024 SIL International</string>
+  <string>Copyright (c) 2007-2025 SIL Global</string>
   <key>descender</key>
   <integer>-250</integer>
   <key>familyName</key>
@@ -27,7 +27,7 @@
   <key>openTypeNameDesignerURL</key>
   <string>https://www.sil.org/</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 2007-2024 SIL International (https://www.sil.org/),
+  <string>Copyright (c) 2007-2025 SIL Global (https://www.sil.org/),
 with Reserved Font Names "Kedebideri" and "SIL".
 Copyright (c) 2010-2024 Adobe (http://www.adobe.com/),
 with Reserved Font Name "Source" (Latin glyphs).
@@ -76,7 +76,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameLicenseURL</key>
   <string>https://openfontlicense.org/</string>
   <key>openTypeNameManufacturer</key>
-  <string>SIL International</string>
+  <string>SIL Global</string>
   <key>openTypeNameManufacturerURL</key>
   <string>https://www.sil.org/</string>
   <key>openTypeNamePreferredFamilyName</key>
@@ -84,9 +84,9 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: Kedebideri Regular: 2024</string>
+  <string>SIL Global: Kedebideri Regular: 2025</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.001</string>
+  <string>Version 2.900</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -183,13 +183,13 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>styleName</key>
   <string>Regular</string>
   <key>trademark</key>
-  <string>Kedebideri is a trademark of SIL International.</string>
+  <string>Kedebideri is a trademark of SIL Global.</string>
   <key>unitsPerEm</key>
   <integer>1000</integer>
   <key>versionMajor</key>
   <integer>2</integer>
   <key>versionMinor</key>
-  <integer>1</integer>
+  <integer>900</integer>
   <key>xHeight</key>
   <integer>668</integer>
 </dict>
