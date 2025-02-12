@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_cedillacomb.cap" format="2">
+  <anchor x="0" y="0" name="_baseLC"/>
+  <outline>
+    <contour>
+      <point x="-85" y="-230" type="line"/>
+      <point x="18" y="-225"/>
+      <point x="76" y="-196"/>
+      <point x="76" y="-139" type="curve" smooth="yes"/>
+      <point x="76" y="-97"/>
+      <point x="47" y="-77"/>
+      <point x="1" y="-66" type="curve"/>
+      <point x="32" y="2" type="line"/>
+      <point x="-15" y="2" type="line"/>
+      <point x="-59" y="-90" type="line"/>
+      <point x="-1" y="-98"/>
+      <point x="20" y="-112"/>
+      <point x="20" y="-140" type="curve" smooth="yes"/>
+      <point x="20" y="-170"/>
+      <point x="-5" y="-187"/>
+      <point x="-93" y="-193" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

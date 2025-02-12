@@ -2,20 +2,24 @@
 
 echo "-----Normalizing Regular UFO..."
 echo "-----Updating production names in Regular..."
-psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/Kedebideri-Regular.ufo
+psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/masters/Kedebideri-Regular.ufo
 
 echo "-----Updating glyph orders in Regular..."
-psfsetglyphorder -q --header sort_final -i source/glyph_data.csv source/Kedebideri-Regular.ufo -p backup=False
+psfsetglyphorder -q --header sort_final -i source/glyph_data.csv source/masters/Kedebideri-Regular.ufo -p backup=False
 
-# echo "-----Rebuilding composites..."
-psfbuildcomp -i source/composites.txt -c -n source/Kedebideri-Regular.ufo -p backup=False
+echo "-----Normalizing other weights..."
+psfnormalize -p checkfix=fix source/masters/Kedebideri-Bold.ufo
+
+echo "-----Rebuilding composites..."
+psfbuildcomp -i source/composites.txt -c -n source/masters/Kedebideri-Regular.ufo -p backup=False
+psfbuildcomp -i source/composites.txt -c -n source/masters/Kedebideri-Bold.ufo -p backup=False
 
 echo "-----Updating woff metadata file..."
-psfmakewoffmetadata -q -n "Kedebideri" -i "org.sil.fonts" source/Kedebideri-Regular.ufo
+psfmakewoffmetadata -q -n "Kedebideri" -i "org.sil.fonts" source/masters/Kedebideri-Regular.ufo
 
 echo "Building internal fea..."
-makefea -o source/Kedebideri-Regular.ufo/features.fea -i source/opentype/main.feax source/*-Regular.ufo &
+makefea -o source/masters/Kedebideri-Regular.ufo/features.fea -i source/opentype/main.feax source/masters/*-Regular.ufo &
+makefea -o source/masters/Kedebideri-Bold.ufo/features.fea -i source/opentype/main.feax source/masters/*-Bold.ufo &
 wait
-
 
 echo "-----Preflight completed!"
