@@ -11,7 +11,7 @@ FAMILY = APPNAME
 DESC_SHORT = "Font for the Beria Erfe script"
 
 # Get version and authorship information from Regular UFO (canonical metadata); must be first function call:
-getufoinfo('source/' + FAMILY + '-Regular' + '.ufo')
+getufoinfo('source/masters/' + FAMILY + '-Regular' + '.ufo')
 
 # Set up the FTML tests
 # ftmlTest('tools/ftml-smith.xsl')
