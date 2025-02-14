@@ -163,8 +163,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   </array>
   <key>postscriptFontName</key>
   <string>Kedebideri-Regular</string>
-  <key>postscriptFullName</key>
-  <string>Kedebideri Regular</string>
   <key>postscriptOtherBlues</key>
   <array>
     <integer>-151</integer>
@@ -174,10 +172,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>-100</integer>
   <key>postscriptUnderlineThickness</key>
   <integer>50</integer>
-  <key>styleMapFamilyName</key>
-  <string>Kedebideri</string>
-  <key>styleMapStyleName</key>
-  <string>regular</string>
   <key>styleName</key>
   <string>Regular</string>
   <key>trademark</key>
