@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Arkab-beria</key>
+  <string>A_rkab-beria.glif</string>
+  <key>Basigna-beria</key>
+  <string>B_asigna-beria.glif</string>
+  <key>Djai-beria</key>
+  <string>D_jai-beria.glif</string>
+  <key>Eh-beria</key>
+  <string>E_h-beria.glif</string>
+  <key>Fitko-beria</key>
+  <string>F_itko-beria.glif</string>
+  <key>Oi-beria</key>
+  <string>O_i-beria.glif</string>
+  <key>Tatasoue-beria</key>
+  <string>T_atasoue-beria.glif</string>
+</dict>
+</plist>

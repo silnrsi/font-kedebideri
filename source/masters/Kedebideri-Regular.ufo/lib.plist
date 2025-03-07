@@ -29,11 +29,16 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3316</string>
+  <string>3343</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>«/Kobo-beria/hirdeabo-beria/arkab-beria/lakko-beria/arkab-beria/seri-beria ,/space/goway-beria/eh-beria/nini-beria/i-beria »/space/kobo-beria/i-beria/goway-beria/oi-beria/space/guilsinglleft/ui-beria/erigo-beria/ui-beria -"/goway-beria/i-beria/nini-beria/i-beria ",/guilsinglright/space/basigna-beria/i-beria/ay-beria/eh-beria/space/erigo-beria/ui-beria/space/quotedblleft/Tatasoue-beria/i-beria/eh-beria/space/eh-beria/nini-beria/nini-beria/eh-beria/quotedblright "'/space/quoteleft/quoteright/tatasoue-beria/quotedblright ?/space 
 /quotedblleft Let/space us/space see/quotedblright</string>
+    <string>UC
+/Arkab-beria/Basigna-beria/Oi-beria/Lakko-beria/Tatasoue-beria 
+/Eh-beria/Fitko-beria/Djai-beria/Gna-beria/Ay-beria</string>
+    <string>lc/arkab-beria/basigna-beria/darbai-beria/eh-beria/fitko-beria/goway-beria/hirdeabo-beria/i-beria/djai-beria/kobo-beria/lakko-beria/meri-beria/nini-beria/gna-beria/ngay-beria/oi-beria/pi-beria/erigo-beria/erigo-tamura-beria/seri-beria/shep-beria/tatasoue-beria/ui-beria/wasse-beria/ay-beria</string>
+    <string>all/Arkab-beria/arkab-beria/Basigna-beria/basigna-beria/Darbai-beria/darbai-beria/Eh-beria/eh-beria/Fitko-beria/fitko-beria/Goway-beria/goway-beria/Hirdeabo-beria/hirdeabo-beria/I-beria/i-beria/Djai-beria/djai-beria/Kobo-beria/kobo-beria/Lakko-beria/lakko-beria/Meri-beria/meri-beria/Nini-beria/nini-beria/Gna-beria/gna-beria/Ngay-beria/ngay-beria/Oi-beria/oi-beria/Pi-beria/pi-beria/Erigo-beria/erigo-beria/Erigo-Tamura-beria/erigo-tamura-beria/Seri-beria/seri-beria/Shep-beria/shep-beria/Tatasoue-beria/tatasoue-beria/Ui-beria/ui-beria/Wasse-beria/wasse-beria/Ay-beria/ay-beria</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
