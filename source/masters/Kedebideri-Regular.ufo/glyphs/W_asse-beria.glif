@@ -19,10 +19,10 @@ W
       <point x="832" y="646" type="line"/>
       <point x="771" y="673" type="line"/>
       <point x="478" y="-73" type="line"/>
-      <point x="475" y="-73" type="line"/>
-      <point x="475" y="674" type="line"/>
-      <point x="409" y="674" type="line"/>
-      <point x="409" y="-73" type="line"/>
+      <point x="476" y="-73" type="line"/>
+      <point x="476" y="674" type="line"/>
+      <point x="408" y="674" type="line"/>
+      <point x="408" y="-73" type="line"/>
     </contour>
   </outline>
 </glyph>

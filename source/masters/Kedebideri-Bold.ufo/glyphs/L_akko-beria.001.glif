@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lakko-beria.001" format="2">
+  <advance width="550"/>
+  <note>
+L
+</note>
+  <outline>
+    <contour>
+      <point x="108" y="668" type="line"/>
+      <point x="108" y="549" type="line"/>
+      <point x="206" y="549" type="line"/>
+      <point x="206" y="-17" type="line"/>
+      <point x="55" y="-17" type="line"/>
+      <point x="55" y="-136" type="line"/>
+      <point x="495" y="-136" type="line"/>
+      <point x="495" y="-17" type="line"/>
+      <point x="344" y="-17" type="line"/>
+      <point x="344" y="549" type="line"/>
+      <point x="443" y="549" type="line"/>
+      <point x="443" y="668" type="line"/>
+    </contour>
+  </outline>
+</glyph>

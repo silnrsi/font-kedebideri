@@ -19,9 +19,9 @@ P
       <point x="508" y="409"/>
       <point x="457" y="412" type="curve"/>
       <point x="457" y="676" type="line"/>
-      <point x="391" y="676" type="line"/>
-      <point x="391" y="410" type="line"/>
-      <point x="342" y="405"/>
+      <point x="389" y="676" type="line"/>
+      <point x="389" y="410" type="line"/>
+      <point x="340" y="405"/>
       <point x="299" y="392"/>
       <point x="252" y="373" type="curve"/>
       <point x="108" y="675" type="line"/>

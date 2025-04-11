@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tatasoue-beria.001" format="2">
+  <advance width="710"/>
+  <outline>
+    <contour>
+      <point x="415" y="327" type="line"/>
+      <point x="90" y="674" type="line"/>
+      <point x="39" y="626" type="line"/>
+      <point x="382" y="258" type="line"/>
+    </contour>
+    <contour>
+      <point x="575" y="684" type="line"/>
+      <point x="203" y="-77" type="line"/>
+      <point x="203" y="-136" type="line"/>
+      <point x="574" y="-136" type="line"/>
+      <point x="574" y="-72" type="line"/>
+      <point x="235" y="-72" type="line"/>
+      <point x="260" y="-112" type="line"/>
+      <point x="635" y="654" type="line"/>
+    </contour>
+  </outline>
+</glyph>

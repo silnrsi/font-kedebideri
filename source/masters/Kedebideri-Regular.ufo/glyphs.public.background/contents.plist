@@ -4,13 +4,23 @@
 <dict>
   <key>Arkab-beria</key>
   <string>A_rkab-beria.glif</string>
+  <key>Arkab-beria.001</key>
+  <string>A_rkab-beria.001.glif</string>
   <key>Basigna-beria</key>
   <string>B_asigna-beria.glif</string>
+  <key>Basigna-beria.001</key>
+  <string>B_asigna-beria.001.glif</string>
   <key>Djai-beria</key>
   <string>D_jai-beria.glif</string>
+  <key>Djai-beria.001</key>
+  <string>D_jai-beria.001.glif</string>
   <key>Oi-beria</key>
   <string>O_i-beria.glif</string>
+  <key>Oi-beria.001</key>
+  <string>O_i-beria.001.glif</string>
   <key>Tatasoue-beria</key>
   <string>T_atasoue-beria.glif</string>
+  <key>Tatasoue-beria.001</key>
+  <string>T_atasoue-beria.001.glif</string>
 </dict>
 </plist>

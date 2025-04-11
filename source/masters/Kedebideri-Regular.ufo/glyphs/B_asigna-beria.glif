@@ -2,12 +2,9 @@
 <glyph name="Basigna-beria" format="2">
   <advance width="831"/>
   <unicode hex="16EA1"/>
-  <note>
-B
-</note>
   <outline>
     <contour>
-      <point x="724" y="673" type="line"/>
+      <point x="724" y="674" type="line"/>
       <point x="400" y="-110" type="line"/>
       <point x="434" y="-110" type="line"/>
       <point x="109" y="674" type="line"/>
@@ -20,12 +17,12 @@ B
       <point x="589" y="289" type="curve"/>
       <point x="613" y="348" type="line"/>
       <point x="559" y="375"/>
-      <point x="500" y="389"/>
-      <point x="447" y="393" type="curve"/>
-      <point x="447" y="674" type="line"/>
-      <point x="381" y="674" type="line"/>
-      <point x="381" y="393" type="line"/>
-      <point x="333" y="389"/>
+      <point x="501" y="389"/>
+      <point x="450" y="393" type="curve"/>
+      <point x="450" y="674" type="line"/>
+      <point x="382" y="674" type="line"/>
+      <point x="382" y="393" type="line"/>
+      <point x="332" y="389"/>
       <point x="285" y="378"/>
       <point x="220" y="350" type="curve"/>
       <point x="245" y="292" type="line"/>

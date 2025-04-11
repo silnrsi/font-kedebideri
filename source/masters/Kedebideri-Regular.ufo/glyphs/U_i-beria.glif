@@ -24,8 +24,8 @@ U
     </contour>
     <contour>
       <point x="281" y="-73" type="curve" smooth="yes"/>
-      <point x="260" y="-73" type="line"/>
-      <point x="260" y="253" type="line"/>
+      <point x="261" y="-73" type="line"/>
+      <point x="261" y="253" type="line"/>
       <point x="281" y="253" type="line" smooth="yes"/>
       <point x="421" y="253"/>
       <point x="525" y="196"/>

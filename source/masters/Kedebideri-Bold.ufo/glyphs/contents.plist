@@ -22,14 +22,20 @@
   <string>A_ring.glif</string>
   <key>Arkab-beria</key>
   <string>A_rkab-beria.glif</string>
+  <key>Arkab-beria.001</key>
+  <string>A_rkab-beria.001.glif</string>
   <key>Atilde</key>
   <string>A_tilde.glif</string>
   <key>Ay-beria</key>
   <string>A_y-beria.glif</string>
+  <key>Ay-beria.001</key>
+  <string>A_y-beria.001.glif</string>
   <key>B</key>
   <string>B_.glif</string>
   <key>Basigna-beria</key>
   <string>B_asigna-beria.glif</string>
+  <key>Basigna-beria.001</key>
+  <string>B_asigna-beria.001.glif</string>
   <key>C</key>
   <string>C_.glif</string>
   <key>Ccedilla</key>
@@ -40,6 +46,8 @@
   <string>D_arbai-beria.glif</string>
   <key>Djai-beria</key>
   <string>D_jai-beria.glif</string>
+  <key>Djai-beria.001</key>
+  <string>D_jai-beria.001.glif</string>
   <key>E</key>
   <string>E_.glif</string>
   <key>Eacute</key>
@@ -52,6 +60,8 @@
   <string>E_grave.glif</string>
   <key>Eh-beria</key>
   <string>E_h-beria.glif</string>
+  <key>Eh-beria.001</key>
+  <string>E_h-beria.001.glif</string>
   <key>Erigo-Tamura-beria</key>
   <string>E_rigo-T_amura-beria.glif</string>
   <key>Erigo-beria</key>
@@ -62,10 +72,14 @@
   <string>F_.glif</string>
   <key>Fitko-beria</key>
   <string>F_itko-beria.glif</string>
+  <key>Fitko-beria.001</key>
+  <string>F_itko-beria.001.glif</string>
   <key>G</key>
   <string>G_.glif</string>
   <key>Gna-beria</key>
   <string>G_na-beria.glif</string>
+  <key>Gna-beria.001</key>
+  <string>G_na-beria.001.glif</string>
   <key>Goway-beria</key>
   <string>G_oway-beria.glif</string>
   <key>H</key>
@@ -94,6 +108,8 @@
   <string>L_.glif</string>
   <key>Lakko-beria</key>
   <string>L_akko-beria.glif</string>
+  <key>Lakko-beria.001</key>
+  <string>L_akko-beria.001.glif</string>
   <key>M</key>
   <string>M_.glif</string>
   <key>Meri-beria</key>
@@ -122,6 +138,8 @@
   <string>O_hm.glif</string>
   <key>Oi-beria</key>
   <string>O_i-beria.glif</string>
+  <key>Oi-beria.001</key>
+  <string>O_i-beria.001.glif</string>
   <key>Oslash</key>
   <string>O_slash.glif</string>
   <key>Otilde</key>
@@ -146,6 +164,8 @@
   <string>T_.glif</string>
   <key>Tatasoue-beria</key>
   <string>T_atasoue-beria.glif</string>
+  <key>Tatasoue-beria.001</key>
+  <string>T_atasoue-beria.001.glif</string>
   <key>Thorn</key>
   <string>T_horn.glif</string>
   <key>U</key>
