@@ -2,16 +2,8 @@
 <glyph name="Lakko-beria" format="2">
   <advance width="550"/>
   <unicode hex="16EAA"/>
-  <note>
-L
-</note>
   <outline>
     <contour>
-      <point x="133" y="668" type="line"/>
-      <point x="133" y="564" type="line"/>
-      <point x="221" y="564" type="line"/>
-      <point x="221" y="-32" type="line"/>
-      <point x="60" y="-32" type="line"/>
       <point x="60" y="-136" type="line"/>
       <point x="490" y="-136" type="line"/>
       <point x="490" y="-32" type="line"/>
@@ -19,6 +11,11 @@ L
       <point x="329" y="564" type="line"/>
       <point x="418" y="564" type="line"/>
       <point x="418" y="668" type="line"/>
+      <point x="133" y="668" type="line"/>
+      <point x="133" y="564" type="line"/>
+      <point x="221" y="564" type="line"/>
+      <point x="221" y="-32" type="line"/>
+      <point x="60" y="-32" type="line"/>
     </contour>
   </outline>
 </glyph>

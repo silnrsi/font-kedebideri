@@ -6,6 +6,8 @@
   <string>A_rkab-beria.glif</string>
   <key>Arkab-beria.001</key>
   <string>A_rkab-beria.001.glif</string>
+  <key>Ay-beria</key>
+  <string>A_y-beria.glif</string>
   <key>Basigna-beria</key>
   <string>B_asigna-beria.glif</string>
   <key>Basigna-beria.001</key>
@@ -14,13 +16,35 @@
   <string>D_jai-beria.glif</string>
   <key>Djai-beria.001</key>
   <string>D_jai-beria.001.glif</string>
+  <key>Erigo-Tamura-beria</key>
+  <string>E_rigo-T_amura-beria.glif</string>
+  <key>Goway-beria</key>
+  <string>G_oway-beria.glif</string>
+  <key>Kobo-beria</key>
+  <string>K_obo-beria.glif</string>
+  <key>Lakko-beria</key>
+  <string>L_akko-beria.glif</string>
+  <key>Meri-beria</key>
+  <string>M_eri-beria.glif</string>
+  <key>Nini-beria</key>
+  <string>N_ini-beria.glif</string>
   <key>Oi-beria</key>
   <string>O_i-beria.glif</string>
   <key>Oi-beria.001</key>
   <string>O_i-beria.001.glif</string>
+  <key>Pi-beria</key>
+  <string>P_i-beria.glif</string>
+  <key>Seri-beria</key>
+  <string>S_eri-beria.glif</string>
+  <key>Shep-beria</key>
+  <string>S_hep-beria.glif</string>
   <key>Tatasoue-beria</key>
   <string>T_atasoue-beria.glif</string>
   <key>Tatasoue-beria.001</key>
   <string>T_atasoue-beria.001.glif</string>
+  <key>Ui-beria</key>
+  <string>U_i-beria.glif</string>
+  <key>Wasse-beria</key>
+  <string>W_asse-beria.glif</string>
 </dict>
 </plist>

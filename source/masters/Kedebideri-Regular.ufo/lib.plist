@@ -34,18 +34,23 @@
   <array>
     <string>«/Kobo-beria/hirdeabo-beria/arkab-beria/lakko-beria/arkab-beria/seri-beria ,/space/goway-beria/eh-beria/nini-beria/i-beria »/space/kobo-beria/i-beria/goway-beria/oi-beria/space/guilsinglleft/ui-beria/erigo-beria/ui-beria -"/goway-beria/i-beria/nini-beria/i-beria ",/guilsinglright/space/basigna-beria/i-beria/ay-beria/eh-beria/space/erigo-beria/ui-beria/space/quotedblleft/Tatasoue-beria/i-beria/eh-beria/space/eh-beria/nini-beria/nini-beria/eh-beria/quotedblright "'/space/quoteleft/quoteleft/quoteright/tatasoue-beria/quotedblright ?!/space 
 /quotedblleft Let/space us/space see/quotedblright</string>
-    <string>
-UC1
+    <string>UC1
 /Arkab-beria/Basigna-beria/Oi-beria/Lakko-beria/Tatasoue-beria/Eh-beria/Ay-beria/Fitko-beria/Djai-beria/Gna-beria 
 UC/space 2
 /Arkab-beria.001/Basigna-beria.001/Oi-beria.001/Lakko-beria.001/Tatasoue-beria.001/Eh-beria.001/Ay-beria.001/Fitko-beria.001/Djai-beria.001/Gna-beria.001</string>
-    <string>lc/arkab-beria/basigna-beria/darbai-beria/eh-beria/fitko-beria/goway-beria/hirdeabo-beria/i-beria/djai-beria/kobo-beria/lakko-beria/meri-beria/nini-beria/gna-beria/ngay-beria/oi-beria/pi-beria/erigo-beria/erigo-tamura-beria/seri-beria/shep-beria/tatasoue-beria/ui-beria/wasse-beria/ay-beria</string>
-    <string>all/Arkab-beria/arkab-beria/Basigna-beria/basigna-beria/Darbai-beria/darbai-beria/Eh-beria/eh-beria/Fitko-beria/fitko-beria/Goway-beria/goway-beria/Hirdeabo-beria/hirdeabo-beria/I-beria/i-beria/Djai-beria/djai-beria/Kobo-beria/kobo-beria/Lakko-beria/lakko-beria/Meri-beria/meri-beria/Nini-beria/nini-beria/Gna-beria/gna-beria/Ngay-beria/ngay-beria/Oi-beria/oi-beria/Pi-beria/pi-beria/Erigo-beria/erigo-beria/Erigo-Tamura-beria/erigo-tamura-beria/Seri-beria/seri-beria/Shep-beria/shep-beria/Tatasoue-beria/tatasoue-beria/Ui-beria/ui-beria/Wasse-beria/wasse-beria/Ay-beria/ay-beria</string>
-    <string>/wasse-beria</string>
-    <string>19/space Capitals/space w//vertical/space stems
-/Darbai-beria/Basigna-beria/Eh-beria/Fitko-beria/Goway-beria/Hirdeabo-beria/I-beria/Djai-beria/Kobo-beria/Lakko-beria/Nini-beria/Gna-beria/Oi-beria/Pi-beria/Erigo-beria/Erigo-Tamura-beria/Seri-beria/Shep-beria/Ui-beria/Wasse-beria/space/space 
-10/space @/space 68,/space 5/space @/space 67,/space 5/space @/space 66;/space 
-standardized/space all/space to/space 68</string>
+    <string>lc
+/arkab-beria/basigna-beria/darbai-beria/eh-beria/fitko-beria/goway-beria/hirdeabo-beria/i-beria/djai-beria 
+/kobo-beria/lakko-beria/meri-beria/nini-beria/gna-beria/ngay-beria/oi-beria/pi-beria/erigo-beria 
+/erigo-tamura-beria/seri-beria/shep-beria/tatasoue-beria/ui-beria/wasse-beria/ay-beria</string>
+    <string>all
+/Arkab-beria/arkab-beria/Basigna-beria/basigna-beria/Darbai-beria/darbai-beria/Eh-beria/eh-beria/Fitko-beria/fitko-beria/Goway-beria/goway-beria/Hirdeabo-beria/hirdeabo-beria 
+/I-beria/i-beria/Djai-beria/djai-beria/Kobo-beria/kobo-beria/Lakko-beria/lakko-beria/Meri-beria/meri-beria/Nini-beria/nini-beria/Gna-beria/gna-beria 
+/Ngay-beria/ngay-beria/Oi-beria/oi-beria/Pi-beria/pi-beria/Erigo-beria/erigo-beria/Erigo-Tamura-beria/erigo-tamura-beria/Seri-beria/seri-beria/Shep-beria/shep-beria 
+/Tatasoue-beria/tatasoue-beria/Ui-beria/ui-beria/Wasse-beria/wasse-beria/Ay-beria/ay-beria</string>
+    <string>UC
+/Arkab-beria/Basigna-beria/Darbai-beria/Eh-beria/Fitko-beria/Goway-beria/Hirdeabo-beria/I-beria 
+/Djai-beria/Kobo-beria/Lakko-beria/Meri-beria/Nini-beria/Gna-beria/Ngay-beria/Oi-beria/Pi-beria 
+/Erigo-beria/Erigo-Tamura-beria/Seri-beria/Shep-beria/Tatasoue-beria/Ui-beria/Wasse-beria/Ay-beria</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
