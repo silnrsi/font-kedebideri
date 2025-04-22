@@ -2,9 +2,6 @@
 <glyph name="Darbai-beria" format="2">
   <advance width="795"/>
   <unicode hex="16EA2"/>
-  <note>
-D
-</note>
   <outline>
     <contour>
       <point x="239" y="-136" type="curve" smooth="yes"/>

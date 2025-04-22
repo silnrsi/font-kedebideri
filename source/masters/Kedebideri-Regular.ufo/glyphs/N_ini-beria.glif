@@ -2,9 +2,6 @@
 <glyph name="Nini-beria" format="2">
   <advance width="785"/>
   <unicode hex="16EAC"/>
-  <note>
-N
-</note>
   <outline>
     <contour>
       <point x="391" y="327" type="curve" smooth="yes"/>

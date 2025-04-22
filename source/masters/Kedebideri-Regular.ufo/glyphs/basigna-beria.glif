@@ -2,9 +2,6 @@
 <glyph name="basigna-beria" format="2">
   <advance width="634"/>
   <unicode hex="16EBC"/>
-  <note>
-b
-</note>
   <outline>
     <contour>
       <point x="448" y="316" type="line"/>

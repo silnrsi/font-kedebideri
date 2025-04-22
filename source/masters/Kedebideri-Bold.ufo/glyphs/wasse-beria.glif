@@ -2,9 +2,6 @@
 <glyph name="wasse-beria" format="2">
   <advance width="771"/>
   <unicode hex="16ED2"/>
-  <note>
-w
-</note>
   <outline>
     <contour>
       <point x="127" y="46" type="curve"/>

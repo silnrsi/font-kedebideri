@@ -2,9 +2,6 @@
 <glyph name="degree" format="2">
   <advance width="392"/>
   <unicode hex="00B0"/>
-  <note>
-degree
-</note>
   <outline>
     <contour>
       <point x="196" y="430" type="curve" smooth="yes"/>

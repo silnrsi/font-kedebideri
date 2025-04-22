@@ -2,9 +2,6 @@
 <glyph name="cent" format="2">
   <advance width="531"/>
   <unicode hex="00A2"/>
-  <note>
-cent
-</note>
   <outline>
     <contour>
       <point x="278" y="109" type="curve"/>

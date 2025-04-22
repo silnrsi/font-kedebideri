@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccentcomb" format="2">
   <unicode hex="0307"/>
-  <note>
-dotaccent
-</note>
   <anchor x="250" y="720" name="_U"/>
   <outline>
     <contour>

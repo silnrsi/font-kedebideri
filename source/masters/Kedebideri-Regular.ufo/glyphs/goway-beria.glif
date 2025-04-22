@@ -2,9 +2,6 @@
 <glyph name="goway-beria" format="2">
   <advance width="755"/>
   <unicode hex="16EC0"/>
-  <note>
-g
-</note>
   <outline>
     <contour>
       <point x="345" y="158" type="curve"/>

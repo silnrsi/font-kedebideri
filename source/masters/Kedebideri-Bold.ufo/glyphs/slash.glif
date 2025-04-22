@@ -2,9 +2,6 @@
 <glyph name="slash" format="2">
   <advance width="711"/>
   <unicode hex="002F"/>
-  <note>
-slash
-</note>
   <outline>
     <contour>
       <point x="17" y="-117" type="line"/>

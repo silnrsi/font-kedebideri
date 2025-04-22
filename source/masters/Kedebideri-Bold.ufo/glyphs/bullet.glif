@@ -2,9 +2,6 @@
 <glyph name="bullet" format="2">
   <advance width="508"/>
   <unicode hex="2022"/>
-  <note>
-bullet
-</note>
   <outline>
     <contour>
       <point x="129" y="418" type="line"/>

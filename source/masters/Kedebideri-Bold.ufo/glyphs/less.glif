@@ -2,9 +2,6 @@
 <glyph name="less" format="2">
   <advance width="646"/>
   <unicode hex="003C"/>
-  <note>
-less
-</note>
   <outline>
     <contour>
       <point x="529" y="48" type="line"/>

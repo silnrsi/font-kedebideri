@@ -2,9 +2,6 @@
 <glyph name="guilsinglright" format="2">
   <advance width="479"/>
   <unicode hex="203A"/>
-  <note>
-guilsinglright
-</note>
   <outline>
     <component base="guilsinglleft" xScale="-1" xOffset="451"/>
   </outline>

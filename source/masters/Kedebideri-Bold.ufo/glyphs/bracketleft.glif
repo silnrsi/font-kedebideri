@@ -2,9 +2,6 @@
 <glyph name="bracketleft" format="2">
   <advance width="438"/>
   <unicode hex="005B"/>
-  <note>
-bracketleft
-</note>
   <outline>
     <contour>
       <point x="158" y="844" type="line"/>

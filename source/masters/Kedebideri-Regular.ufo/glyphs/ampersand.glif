@@ -2,9 +2,6 @@
 <glyph name="ampersand" format="2">
   <advance width="742"/>
   <unicode hex="0026"/>
-  <note>
-ampersand
-</note>
   <outline>
     <contour>
       <point x="445" y="335" type="line"/>

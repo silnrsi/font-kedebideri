@@ -2,9 +2,6 @@
 <glyph name="zero" format="2">
   <advance width="630"/>
   <unicode hex="0030"/>
-  <note>
-zero
-</note>
   <outline>
     <contour>
       <point x="315" y="45" type="curve" smooth="yes"/>

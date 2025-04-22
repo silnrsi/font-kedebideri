@@ -2,9 +2,6 @@
 <glyph name="approxequal" format="2">
   <advance width="576"/>
   <unicode hex="2248"/>
-  <note>
-approxequal
-</note>
   <outline>
     <contour>
       <point x="51" y="379" type="curve"/>

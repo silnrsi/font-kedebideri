@@ -2,9 +2,6 @@
 <glyph name="erigo-beria" format="2">
   <advance width="828"/>
   <unicode hex="16ECC"/>
-  <note>
-r
-</note>
   <outline>
     <contour>
       <point x="383" y="60" type="line"/>

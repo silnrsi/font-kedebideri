@@ -2,9 +2,6 @@
 <glyph name="pi-beria" format="2">
   <advance width="660"/>
   <unicode hex="16ECB"/>
-  <note>
-p
-</note>
   <outline>
     <contour>
       <point x="102" y="255" type="curve" smooth="yes"/>

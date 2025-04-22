@@ -2,9 +2,6 @@
 <glyph name="three" format="2">
   <advance width="535"/>
   <unicode hex="0033"/>
-  <note>
-three
-</note>
   <outline>
     <contour>
       <point x="249" y="-15" type="curve" smooth="yes"/>

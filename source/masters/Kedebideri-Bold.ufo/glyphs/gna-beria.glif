@@ -2,9 +2,6 @@
 <glyph name="gna-beria" format="2">
   <advance width="700"/>
   <unicode hex="16EC8"/>
-  <note>
-x
-</note>
   <outline>
     <contour>
       <point x="426" y="-5" type="curve" smooth="yes"/>

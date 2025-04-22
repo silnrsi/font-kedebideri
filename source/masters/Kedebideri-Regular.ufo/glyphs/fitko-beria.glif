@@ -2,9 +2,6 @@
 <glyph name="fitko-beria" format="2">
   <advance width="628"/>
   <unicode hex="16EBF"/>
-  <note>
-f
-</note>
   <outline>
     <contour>
       <point x="93" y="60" type="line"/>

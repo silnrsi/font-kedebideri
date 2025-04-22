@@ -2,9 +2,6 @@
 <glyph name="sterling" format="2">
   <advance width="501"/>
   <unicode hex="00A3"/>
-  <note>
-sterling
-</note>
   <outline>
     <contour>
       <point x="103" y="374" type="line"/>

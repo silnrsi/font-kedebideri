@@ -2,9 +2,6 @@
 <glyph name="plusminus" format="2">
   <advance width="608"/>
   <unicode hex="00B1"/>
-  <note>
-plusminus
-</note>
   <outline>
     <contour>
       <point x="73" y="97" type="line"/>

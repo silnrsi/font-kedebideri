@@ -2,9 +2,6 @@
 <glyph name="copyright" format="2">
   <advance width="926"/>
   <unicode hex="00A9"/>
-  <note>
-copyright
-</note>
   <outline>
     <contour>
       <point x="490" y="106" type="curve" smooth="yes"/>

@@ -2,9 +2,6 @@
 <glyph name="fraction" format="2">
   <advance width="587"/>
   <unicode hex="2044"/>
-  <note>
-fraction
-</note>
   <outline>
     <contour>
       <point x="-75" y="-117" type="line"/>

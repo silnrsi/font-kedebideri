@@ -2,9 +2,6 @@
 <glyph name="paragraph" format="2">
   <advance width="629"/>
   <unicode hex="00B6"/>
-  <note>
-paragraph
-</note>
   <outline>
     <contour>
       <point x="297" y="367" type="line"/>

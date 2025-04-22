@@ -2,9 +2,6 @@
 <glyph name="logicalnot" format="2">
   <advance width="676"/>
   <unicode hex="00AC"/>
-  <note>
-logicalnot
-</note>
   <outline>
     <contour>
       <point x="490" y="328" type="line"/>

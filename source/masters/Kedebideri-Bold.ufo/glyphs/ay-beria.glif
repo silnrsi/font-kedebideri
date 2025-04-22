@@ -2,9 +2,6 @@
 <glyph name="ay-beria" format="2">
   <advance width="622"/>
   <unicode hex="16ED3"/>
-  <note>
-y
-</note>
   <outline>
     <contour>
       <point x="75" y="409" type="curve"/>

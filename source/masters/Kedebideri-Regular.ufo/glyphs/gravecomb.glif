@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gravecomb" format="2">
   <unicode hex="0300"/>
-  <note>
-grave
-</note>
   <anchor x="250" y="720" name="_U"/>
   <outline>
     <contour>

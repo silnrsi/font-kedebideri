@@ -2,9 +2,6 @@
 <glyph name="registered" format="2">
   <advance width="926"/>
   <unicode hex="00AE"/>
-  <note>
-registered
-</note>
   <outline>
     <contour>
       <point x="459" y="296" type="curve"/>

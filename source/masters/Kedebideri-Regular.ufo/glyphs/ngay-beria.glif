@@ -2,9 +2,6 @@
 <glyph name="ngay-beria" format="2">
   <advance width="649"/>
   <unicode hex="16EC9"/>
-  <note>
-z
-</note>
   <outline>
     <contour>
       <point x="399" y="-5" type="curve" smooth="yes"/>

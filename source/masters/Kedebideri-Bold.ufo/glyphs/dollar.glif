@@ -2,9 +2,6 @@
 <glyph name="dollar" format="2">
   <advance width="525"/>
   <unicode hex="0024"/>
-  <note>
-dollar
-</note>
   <outline>
     <contour>
       <point x="231" y="3" type="line"/>

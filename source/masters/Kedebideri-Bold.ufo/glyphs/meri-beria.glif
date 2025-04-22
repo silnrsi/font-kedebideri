@@ -2,9 +2,6 @@
 <glyph name="meri-beria" format="2">
   <advance width="735"/>
   <unicode hex="16EC6"/>
-  <note>
-m
-</note>
   <outline>
     <contour>
       <point x="426" y="507" type="curve"/>

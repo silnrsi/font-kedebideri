@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecomb" format="2">
   <unicode hex="0301"/>
-  <note>
-acute
-</note>
   <anchor x="250" y="720" name="_U"/>
   <outline>
     <contour>

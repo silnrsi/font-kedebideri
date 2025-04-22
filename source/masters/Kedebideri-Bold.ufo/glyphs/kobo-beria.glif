@@ -2,9 +2,6 @@
 <glyph name="kobo-beria" format="2">
   <advance width="647"/>
   <unicode hex="16EC4"/>
-  <note>
-k
-</note>
   <outline>
     <contour>
       <point x="330" y="-11" type="curve" smooth="yes"/>

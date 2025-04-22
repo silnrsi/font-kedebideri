@@ -2,9 +2,6 @@
 <glyph name="ellipsis" format="2">
   <advance width="644"/>
   <unicode hex="2026"/>
-  <note>
-ellipsis
-</note>
   <outline>
     <contour>
       <point x="276" y="102" type="line"/>

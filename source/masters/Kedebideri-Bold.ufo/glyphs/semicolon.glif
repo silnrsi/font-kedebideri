@@ -2,9 +2,6 @@
 <glyph name="semicolon" format="2">
   <advance width="308"/>
   <unicode hex="003B"/>
-  <note>
-semicolon
-</note>
   <outline>
     <contour>
       <point x="105" y="108" type="line"/>

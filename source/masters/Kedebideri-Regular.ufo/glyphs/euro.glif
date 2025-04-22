@@ -2,9 +2,6 @@
 <glyph name="euro" format="2">
   <advance width="581"/>
   <unicode hex="20AC"/>
-  <note>
-Euro
-</note>
   <outline>
     <contour>
       <point x="66" y="457" type="line"/>
