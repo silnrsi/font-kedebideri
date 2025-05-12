@@ -1,30 +1,28 @@
 
 # Main Classes
-@GDEF_bases = [.notdef .null A AE Aacute Acircumflex Adieresis Agrave Aring Arkab-beria Arkab-beria.001 Atilde Ay-beria Ay-beria.001 B Basigna-beria Basigna-beria.001 C Ccedilla D Darbai-beria Djai-beria Djai-beria.001 E Eacute Ecircumflex Edieresis Egrave Eh-beria Eh-beria.001 Erigo-Tamura-beria Erigo-beria Eth F Fitko-beria Fitko-beria.001 G Gna-beria Gna-beria.001 Goway-beria H Hirdeabo-beria I I-beria Iacute Icircumflex Idieresis Igrave J K Kobo-beria L Lakko-beria Lakko-beria.001 M Meri-beria N Ngay-beria Nini-beria Ntilde O OE Oacute Ocircumflex Odieresis Ograve Ohm Oi-beria Oi-beria.001 Oslash Otilde P Pi-beria Q R S Scaron Seri-beria Shep-beria T Tatasoue-beria Tatasoue-beria.001 Thorn U Uacute Ucircumflex Udieresis Ugrave Ui-beria V W Wasse-beria X Y Yacute Ydieresis Z Zcaron _four.dnom _one.dnom _three.dnom _two.dnom a aacute acircumflex acute adieresis ae agrave ampersand approxequal aring arkab-beria asciicircum asciitilde asterisk at atilde ay-beria b backslash bar basigna-beria blank braceleft braceright bracketleft bracketright breve brokenbar bullet bulletoperator c caron ccedilla cedilla cent circumflex colon comma copyright currency d dagger daggerdbl darbai-beria degree dieresis divide divisionslash djai-beria dollar dotaccent dottedCircle e eacute ecircumflex edieresis egrave eh-beria eight ellipsis emdash emquad emspace endash enquad enspace equal erigo-beria erigo-tamura-beria eth euro exclam exclamdown f fi figuredash figurespace fitko-beria five fl florin four fourperemspace foursuperior fraction g germandbls gna-beria goway-beria grave greater greaterequal guillemetleft guillemetright guilsinglleft guilsinglright h hairspace hirdeabo-beria horizontalbar hungarumlaut hyphen hyphenationpoint hyphentwo i i-beria iacute icircumflex idieresis idotless igrave increment infinity integral j k kobo-beria l lakko-beria less lessequal lineseparator logicalnot lozenge m macron meri-beria micro minus multiply n narrownbspace nbspace nbspace-latin ngay-beria nine nini-beria nonbreakinghyphen nonmarkingreturn notequal ntilde numbersign o oacute objectReplacementCharacter ocircumflex odieresis oe ogonek ograve oi-beria one onehalf onequarter onesuperior ordfeminine ordmasculine oslash otilde p paragraph paragraphseparator parenleft parenright partialdiff percent period periodcentered perthousand pi pi-beria plus plusminus product punctuationspace q question questiondown quotedbl quotedblbase quotedblleft quotedblright quoteleft quoteright quotesinglbase quotesingle r radical registered replacementCharacter ring s scaron section semicolon seri-beria seven shep-beria sidebearingleft sidebearingright six sixperemspace slash softhyphen space space-latin sterling summation t tatasoue-beria thinspace thorn three threeperemspace threequarters threesuperior tilde trademark two twosuperior u uacute ucircumflex udieresis ugrave ui-beria underscore v w wasse-beria wordjoiner x y yacute ydieresis yen z zcaron zero zeroWidthNoBreakSpace zerowidthjoiner zerowidthnonjoiner zerowidthspace];
+@GDEF_bases = [.notdef .null A AE Aacute Acircumflex Adieresis Agrave Aring Arkab-beria Atilde Ay-beria B Basigna-beria C Ccedilla D Darbai-beria Djai-beria E Eacute Ecircumflex Edieresis Egrave Eh-beria Erigo-Tamura-beria Erigo-beria Eth F Fitko-beria G Gna-beria Goway-beria H Hirdeabo-beria I I-beria Iacute Icircumflex Idieresis Igrave J K Kobo-beria L Lakko-beria M Meri-beria N Ngay-beria Nini-beria Ntilde O OE Oacute Ocircumflex Odieresis Ograve Ohm Oi-beria Oslash Otilde P Pi-beria Q R S Scaron Seri-beria Shep-beria T Tatasoue-beria Thorn U Uacute Ucircumflex Udieresis Ugrave Ui-beria V W Wasse-beria X Y Yacute Ydieresis Z Zcaron _four.dnom _one.dnom _three.dnom _two.dnom a aacute acircumflex acute adieresis ae agrave ampersand approxequal aring arkab-beria asciicircum asciitilde asterisk at atilde ay-beria b backslash bar basigna-beria blank braceleft braceright bracketleft bracketright breve brokenbar bullet bulletoperator c caron ccedilla cedilla cent circumflex colon comma copyright currency d dagger daggerdbl darbai-beria degree dieresis divide divisionslash djai-beria dollar dotaccent dottedCircle e eacute ecircumflex edieresis egrave eh-beria eight ellipsis emdash emquad emspace endash enquad enspace equal erigo-beria erigo-tamura-beria eth euro exclam exclamdown f fi figuredash figurespace fitko-beria five fl florin four fourperemspace foursuperior fraction g germandbls gna-beria goway-beria grave greater greaterequal guillemetleft guillemetright guilsinglleft guilsinglright h hairspace hirdeabo-beria horizontalbar hungarumlaut hyphen hyphenationpoint hyphentwo i i-beria iacute icircumflex idieresis idotless igrave increment infinity integral j k kobo-beria l lakko-beria less lessequal lineseparator logicalnot lozenge m macron meri-beria micro minus multiply n narrownbspace nbspace nbspace-latin ngay-beria nine nini-beria nonbreakinghyphen nonmarkingreturn notequal ntilde numbersign o oacute objectReplacementCharacter ocircumflex odieresis oe ogonek ograve oi-beria one onehalf onequarter onesuperior ordfeminine ordmasculine oslash otilde p paragraph paragraphseparator parenleft parenright partialdiff percent period periodcentered perthousand pi pi-beria plus plusminus product punctuationspace q question questiondown quotedbl quotedblbase quotedblleft quotedblright quoteleft quoteright quotesinglbase quotesingle r radical registered replacementCharacter ring s scaron section semicolon seri-beria seven shep-beria sidebearingleft sidebearingright six sixperemspace slash softhyphen space space-latin sterling summation t tatasoue-beria thinspace thorn three threeperemspace threequarters threesuperior tilde trademark two twosuperior u uacute ucircumflex udieresis ugrave ui-beria underscore v w wasse-beria wordjoiner x y yacute ydieresis yen z zcaron zero zeroWidthNoBreakSpace zerowidthjoiner zerowidthnonjoiner zerowidthspace];
 @GDEF_marks = [VS1 VS10 VS11 VS12 VS13 VS14 VS15 VS16 VS2 VS3 VS4 VS5 VS6 VS7 VS8 VS9 _acutecomb _acutecomb.cap _caroncomb _caroncomb.cap _cedillacomb _cedillacomb.cap _circumflexcomb _circumflexcomb.cap _dieresiscomb _dieresiscomb.cap _gravecomb _gravecomb.cap _ringcomb _ringcomb.cap _tildecomb _tildecomb.cap acutecomb dotaccentcomb graphemejoinercomb gravecomb macroncomb];
-@c_001 = [Arkab-beria.001 Ay-beria.001 Basigna-beria.001 Djai-beria.001 Eh-beria.001 Fitko-beria.001 Gna-beria.001 Lakko-beria.001 Oi-beria.001 Tatasoue-beria.001];
-@cno_001 = [Arkab-beria Ay-beria Basigna-beria Djai-beria Eh-beria Fitko-beria Gna-beria Lakko-beria Oi-beria Tatasoue-beria];
 @c_cap = [_acutecomb.cap _caroncomb.cap _cedillacomb.cap _circumflexcomb.cap _dieresiscomb.cap _gravecomb.cap _ringcomb.cap _tildecomb.cap];
 @cno_cap = [_acutecomb _caroncomb _cedillacomb _circumflexcomb _dieresiscomb _gravecomb _ringcomb _tildecomb];
-@public.kern1.Ay-beria = [Ay-beria Ay-beria.001];
-@public.kern1.Basigna-beria = [Basigna-beria Basigna-beria.001];
+@public.kern1.Ay-beria = [Ay-beria];
+@public.kern1.Basigna-beria = [Basigna-beria];
 @public.kern1.Darbai-beria = [Darbai-beria];
-@public.kern1.Djai-beria = [Djai-beria Djai-beria.001];
-@public.kern1.Eh-beria = [Eh-beria Eh-beria.001];
+@public.kern1.Djai-beria = [Djai-beria];
+@public.kern1.Eh-beria = [Eh-beria];
 @public.kern1.Erigo-beria = [Erigo-beria];
-@public.kern1.Fitko-beria = [Fitko-beria Fitko-beria.001 Hirdeabo-beria];
-@public.kern1.Gna-beria = [Gna-beria Gna-beria.001];
+@public.kern1.Fitko-beria = [Fitko-beria Hirdeabo-beria];
+@public.kern1.Gna-beria = [Gna-beria];
 @public.kern1.Goway-beria = [Goway-beria];
 @public.kern1.I-beria = [I-beria];
 @public.kern1.Kobo-beria = [Kobo-beria Nini-beria];
-@public.kern1.Lakko-beria = [Lakko-beria Lakko-beria.001];
+@public.kern1.Lakko-beria = [Lakko-beria];
 @public.kern1.Meri-beria = [Meri-beria];
 @public.kern1.Ngay-beria = [Ngay-beria];
-@public.kern1.Oi-beria = [Oi-beria Oi-beria.001];
+@public.kern1.Oi-beria = [Oi-beria];
 @public.kern1.Pi-beria = [Pi-beria];
 @public.kern1.Seri-beria = [Seri-beria];
 @public.kern1.Shep-beria = [Shep-beria];
-@public.kern1.Tatasoue-beria = [Tatasoue-beria Tatasoue-beria.001];
+@public.kern1.Tatasoue-beria = [Tatasoue-beria];
 @public.kern1.Ui-beria = [Ui-beria];
 @public.kern1.Wasse-beria = [Wasse-beria];
 @public.kern1.ampersand = [ampersand];
@@ -80,26 +78,26 @@
 @public.kern1.ui-beria = [ui-beria];
 @public.kern1.wasse-beria = [wasse-beria];
 @public.kern1.zero = [nine zero];
-@public.kern2.Ay-beria = [Ay-beria Ay-beria.001];
-@public.kern2.Basigna-beria = [Basigna-beria Basigna-beria.001];
+@public.kern2.Ay-beria = [Ay-beria];
+@public.kern2.Basigna-beria = [Basigna-beria];
 @public.kern2.Darbai-beria = [Darbai-beria];
-@public.kern2.Djai-beria = [Djai-beria Djai-beria.001];
-@public.kern2.Eh-beria = [Eh-beria Eh-beria.001];
+@public.kern2.Djai-beria = [Djai-beria];
+@public.kern2.Eh-beria = [Eh-beria];
 @public.kern2.Erigo-beria = [Erigo-beria];
-@public.kern2.Fitko-beria = [Fitko-beria Fitko-beria.001];
-@public.kern2.Gna-beria = [Gna-beria Gna-beria.001];
+@public.kern2.Fitko-beria = [Fitko-beria];
+@public.kern2.Gna-beria = [Gna-beria];
 @public.kern2.Goway-beria = [Goway-beria];
 @public.kern2.I-beria = [I-beria];
 @public.kern2.Kobo-beria = [Kobo-beria];
-@public.kern2.Lakko-beria = [Lakko-beria Lakko-beria.001];
+@public.kern2.Lakko-beria = [Lakko-beria];
 @public.kern2.Meri-beria = [Meri-beria];
 @public.kern2.Ngay-beria = [Ngay-beria];
 @public.kern2.Nini-beria = [Nini-beria];
-@public.kern2.Oi-beria = [Oi-beria Oi-beria.001];
+@public.kern2.Oi-beria = [Oi-beria];
 @public.kern2.Pi-beria = [Pi-beria];
 @public.kern2.Seri-beria = [Seri-beria];
 @public.kern2.Shep-beria = [Shep-beria];
-@public.kern2.Tatasoue-beria = [Tatasoue-beria Tatasoue-beria.001];
+@public.kern2.Tatasoue-beria = [Tatasoue-beria];
 @public.kern2.Ui-beria = [Ui-beria];
 @public.kern2.Wasse-beria = [Wasse-beria];
 @public.kern2.ampersand = [ampersand];
@@ -188,10 +186,10 @@
 # baseClass Z <anchor 288 702> @aboveUC;
 
 # AP: U
-@U = [Arkab-beria Arkab-beria.001 oi-beria Eh-beria Eh-beria.001 I-beria Oi-beria Oi-beria.001 Ui-beria arkab-beria dottedCircle eh-beria i-beria ui-beria];
-# baseClass [Arkab-beria Arkab-beria.001 oi-beria] <anchor 393 720> @U;
-# baseClass [Eh-beria Eh-beria.001] <anchor 402 720> @U;
-# baseClass [I-beria Oi-beria Oi-beria.001] <anchor 453 720> @U;
+@U = [Arkab-beria oi-beria Eh-beria I-beria Oi-beria Ui-beria arkab-beria dottedCircle eh-beria i-beria ui-beria];
+# baseClass [Arkab-beria oi-beria] <anchor 393 720> @U;
+# baseClass Eh-beria <anchor 402 720> @U;
+# baseClass [I-beria Oi-beria] <anchor 453 720> @U;
 # baseClass Ui-beria <anchor 262 720> @U;
 # baseClass arkab-beria <anchor 338 720> @U;
 # baseClass dottedCircle <anchor 303 574> @U;
@@ -2380,9 +2378,9 @@ lookup kernpairs {
 
 lookup AttachMarks {
     lookupflag 0;
-    pos base [Arkab-beria Arkab-beria.001 oi-beria] <anchor 393 720> mark @_U;
-    pos base [Eh-beria Eh-beria.001] <anchor 402 720> mark @_U;
-    pos base [I-beria Oi-beria Oi-beria.001] <anchor 453 720> mark @_U;
+    pos base [Arkab-beria oi-beria] <anchor 393 720> mark @_U;
+    pos base Eh-beria <anchor 402 720> mark @_U;
+    pos base [I-beria Oi-beria] <anchor 453 720> mark @_U;
     pos base Ui-beria <anchor 262 720> mark @_U;
     pos base arkab-beria <anchor 338 720> mark @_U;
     pos base dottedCircle <anchor 303 574> mark @_U;

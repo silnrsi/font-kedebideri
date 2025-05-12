@@ -34,10 +34,9 @@
   <array>
     <string>«/Kobo-beria/hirdeabo-beria/arkab-beria/lakko-beria/arkab-beria/seri-beria ,/space/goway-beria/eh-beria/nini-beria/i-beria »/space/kobo-beria/i-beria/goway-beria/oi-beria/space/guilsinglleft/ui-beria/erigo-beria/ui-beria -"/goway-beria/i-beria/nini-beria/i-beria ",/guilsinglright/space/basigna-beria/i-beria/ay-beria/eh-beria/space/erigo-beria/ui-beria/space/quotedblleft/Tatasoue-beria/i-beria/eh-beria/space/eh-beria/nini-beria/nini-beria/eh-beria/quotedblright "'/space/quoteleft/quoteleft/quoteright/tatasoue-beria/quotedblright ?!/space 
 /quotedblleft Let/space us/space see/quotedblright</string>
-    <string>UC1
+    <string>UC
 /Arkab-beria/Basigna-beria/Oi-beria/Lakko-beria/Tatasoue-beria/Eh-beria/Ay-beria/Fitko-beria/Djai-beria/Gna-beria 
-UC/space 2
-/Arkab-beria.001/Basigna-beria.001/Oi-beria.001/Lakko-beria.001/Tatasoue-beria.001/Eh-beria.001/Ay-beria.001/Fitko-beria.001/Djai-beria.001/Gna-beria.001</string>
+</string>
     <string>lc
 /arkab-beria/basigna-beria/darbai-beria/eh-beria/fitko-beria/goway-beria/hirdeabo-beria/i-beria/djai-beria 
 /kobo-beria/lakko-beria/meri-beria/nini-beria/gna-beria/ngay-beria/oi-beria/pi-beria/erigo-beria 
@@ -51,6 +50,7 @@ UC/space 2
 /Arkab-beria/Basigna-beria/Darbai-beria/Eh-beria/Fitko-beria/Goway-beria/Hirdeabo-beria/I-beria 
 /Djai-beria/Kobo-beria/Lakko-beria/Meri-beria/Nini-beria/Gna-beria/Ngay-beria/Oi-beria/Pi-beria 
 /Erigo-beria/Erigo-Tamura-beria/Seri-beria/Shep-beria/Tatasoue-beria/Ui-beria/Wasse-beria/Ay-beria</string>
+    <string>2</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

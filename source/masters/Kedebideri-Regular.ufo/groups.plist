@@ -5,12 +5,10 @@
   <key>public.kern1.Ay-beria</key>
   <array>
     <string>Ay-beria</string>
-    <string>Ay-beria.001</string>
   </array>
   <key>public.kern1.Basigna-beria</key>
   <array>
     <string>Basigna-beria</string>
-    <string>Basigna-beria.001</string>
   </array>
   <key>public.kern1.Darbai-beria</key>
   <array>
@@ -19,12 +17,10 @@
   <key>public.kern1.Djai-beria</key>
   <array>
     <string>Djai-beria</string>
-    <string>Djai-beria.001</string>
   </array>
   <key>public.kern1.Eh-beria</key>
   <array>
     <string>Eh-beria</string>
-    <string>Eh-beria.001</string>
   </array>
   <key>public.kern1.Erigo-beria</key>
   <array>
@@ -33,13 +29,11 @@
   <key>public.kern1.Fitko-beria</key>
   <array>
     <string>Fitko-beria</string>
-    <string>Fitko-beria.001</string>
     <string>Hirdeabo-beria</string>
   </array>
   <key>public.kern1.Gna-beria</key>
   <array>
     <string>Gna-beria</string>
-    <string>Gna-beria.001</string>
   </array>
   <key>public.kern1.Goway-beria</key>
   <array>
@@ -57,7 +51,6 @@
   <key>public.kern1.Lakko-beria</key>
   <array>
     <string>Lakko-beria</string>
-    <string>Lakko-beria.001</string>
   </array>
   <key>public.kern1.Meri-beria</key>
   <array>
@@ -70,7 +63,6 @@
   <key>public.kern1.Oi-beria</key>
   <array>
     <string>Oi-beria</string>
-    <string>Oi-beria.001</string>
   </array>
   <key>public.kern1.Pi-beria</key>
   <array>
@@ -87,7 +79,6 @@
   <key>public.kern1.Tatasoue-beria</key>
   <array>
     <string>Tatasoue-beria</string>
-    <string>Tatasoue-beria.001</string>
   </array>
   <key>public.kern1.Ui-beria</key>
   <array>
@@ -326,12 +317,10 @@
   <key>public.kern2.Ay-beria</key>
   <array>
     <string>Ay-beria</string>
-    <string>Ay-beria.001</string>
   </array>
   <key>public.kern2.Basigna-beria</key>
   <array>
     <string>Basigna-beria</string>
-    <string>Basigna-beria.001</string>
   </array>
   <key>public.kern2.Darbai-beria</key>
   <array>
@@ -340,12 +329,10 @@
   <key>public.kern2.Djai-beria</key>
   <array>
     <string>Djai-beria</string>
-    <string>Djai-beria.001</string>
   </array>
   <key>public.kern2.Eh-beria</key>
   <array>
     <string>Eh-beria</string>
-    <string>Eh-beria.001</string>
   </array>
   <key>public.kern2.Erigo-beria</key>
   <array>
@@ -354,12 +341,10 @@
   <key>public.kern2.Fitko-beria</key>
   <array>
     <string>Fitko-beria</string>
-    <string>Fitko-beria.001</string>
   </array>
   <key>public.kern2.Gna-beria</key>
   <array>
     <string>Gna-beria</string>
-    <string>Gna-beria.001</string>
   </array>
   <key>public.kern2.Goway-beria</key>
   <array>
@@ -376,7 +361,6 @@
   <key>public.kern2.Lakko-beria</key>
   <array>
     <string>Lakko-beria</string>
-    <string>Lakko-beria.001</string>
   </array>
   <key>public.kern2.Meri-beria</key>
   <array>
@@ -393,7 +377,6 @@
   <key>public.kern2.Oi-beria</key>
   <array>
     <string>Oi-beria</string>
-    <string>Oi-beria.001</string>
   </array>
   <key>public.kern2.Pi-beria</key>
   <array>
@@ -410,7 +393,6 @@
   <key>public.kern2.Tatasoue-beria</key>
   <array>
     <string>Tatasoue-beria</string>
-    <string>Tatasoue-beria.001</string>
   </array>
   <key>public.kern2.Ui-beria</key>
   <array>
