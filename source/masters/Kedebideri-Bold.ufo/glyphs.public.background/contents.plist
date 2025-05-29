@@ -40,5 +40,19 @@
   <string>S_hep-beria.glif</string>
   <key>Tatasoue-beria</key>
   <string>T_atasoue-beria.glif</string>
+  <key>arkab-beria</key>
+  <string>arkab-beria.glif</string>
+  <key>basigna-beria</key>
+  <string>basigna-beria.glif</string>
+  <key>djai-beria</key>
+  <string>djai-beria.glif</string>
+  <key>eh-beria</key>
+  <string>eh-beria.glif</string>
+  <key>fitko-beria</key>
+  <string>fitko-beria.glif</string>
+  <key>goway-beria</key>
+  <string>goway-beria.glif</string>
+  <key>i-beria</key>
+  <string>i-beria.glif</string>
 </dict>
 </plist>

@@ -5,13 +5,13 @@
   <outline>
     <contour>
       <point x="694" y="674" type="line"/>
-      <point x="380" y="-56" type="line"/>
-      <point x="451" y="-56" type="line"/>
-      <point x="138" y="674" type="line"/>
-      <point x="-17" y="609" type="line"/>
-      <point x="312" y="-136" type="line"/>
-      <point x="519" y="-136" type="line"/>
-      <point x="849" y="609" type="line"/>
+      <point x="364" y="-66" type="line"/>
+      <point x="466" y="-66" type="line"/>
+      <point x="137" y="674" type="line"/>
+      <point x="-12" y="609" type="line"/>
+      <point x="327" y="-136" type="line"/>
+      <point x="503" y="-136" type="line"/>
+      <point x="843" y="609" type="line"/>
     </contour>
     <contour>
       <point x="337" y="353" type="line"/>

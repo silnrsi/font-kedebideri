@@ -36,5 +36,9 @@
   <string>U_i-beria.glif</string>
   <key>Wasse-beria</key>
   <string>W_asse-beria.glif</string>
+  <key>djai-beria</key>
+  <string>djai-beria.glif</string>
+  <key>eh-beria</key>
+  <string>eh-beria.glif</string>
 </dict>
 </plist>
