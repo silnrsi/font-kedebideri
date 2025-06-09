@@ -7,8 +7,10 @@
       <point x="122" y="668" type="line"/>
       <point x="122" y="0" type="line"/>
       <point x="186" y="0" type="line"/>
-      <point x="186" y="608" type="line"/>
-      <point x="562" y="608" type="line"/>
+      <point x="186" y="653" type="line"/>
+      <point x="141" y="608" type="line"/>
+      <point x="607" y="608" type="line"/>
+      <point x="562" y="653" type="line"/>
       <point x="562" y="0" type="line"/>
       <point x="626" y="0" type="line"/>
       <point x="626" y="668" type="line"/>
