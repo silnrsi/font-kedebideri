@@ -27,5 +27,17 @@
       <point x="517" y="609" type="line"/>
       <point x="517" y="668" type="line"/>
     </contour>
+    <contour>
+      <point x="220" y="0" type="move"/>
+      <point x="324" y="0"/>
+      <point x="413" y="96"/>
+      <point x="413" y="187" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="279" y="201" type="move"/>
+      <point x="279" y="150"/>
+      <point x="254" y="125"/>
+      <point x="206" y="125" type="curve" smooth="yes"/>
+    </contour>
   </outline>
 </glyph>
