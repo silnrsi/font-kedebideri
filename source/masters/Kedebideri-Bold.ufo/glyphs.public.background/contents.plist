@@ -8,6 +8,8 @@
   <string>A_y-beria.glif</string>
   <key>Basigna-beria</key>
   <string>B_asigna-beria.glif</string>
+  <key>Darbai-beria</key>
+  <string>D_arbai-beria.glif</string>
   <key>Djai-beria</key>
   <string>D_jai-beria.glif</string>
   <key>Eh-beria</key>
@@ -20,6 +22,8 @@
   <string>G_na-beria.glif</string>
   <key>I-beria</key>
   <string>I_-beria.glif</string>
+  <key>Kobo-beria</key>
+  <string>K_obo-beria.glif</string>
   <key>Lakko-beria</key>
   <string>L_akko-beria.glif</string>
   <key>Meri-beria</key>
@@ -38,6 +42,8 @@
   <string>S_hep-beria.glif</string>
   <key>Tatasoue-beria</key>
   <string>T_atasoue-beria.glif</string>
+  <key>Ui-beria</key>
+  <string>U_i-beria.glif</string>
   <key>arkab-beria</key>
   <string>arkab-beria.glif</string>
   <key>ay-beria</key>
