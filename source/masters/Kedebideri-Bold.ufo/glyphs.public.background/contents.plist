@@ -14,8 +14,6 @@
   <string>D_jai-beria.glif</string>
   <key>Eh-beria</key>
   <string>E_h-beria.glif</string>
-  <key>Erigo-Tamura-beria</key>
-  <string>E_rigo-T_amura-beria.glif</string>
   <key>Fitko-beria</key>
   <string>F_itko-beria.glif</string>
   <key>Gna-beria</key>
@@ -44,6 +42,8 @@
   <string>T_atasoue-beria.glif</string>
   <key>Ui-beria</key>
   <string>U_i-beria.glif</string>
+  <key>Wasse-beria</key>
+  <string>W_asse-beria.glif</string>
   <key>arkab-beria</key>
   <string>arkab-beria.glif</string>
   <key>ay-beria</key>
