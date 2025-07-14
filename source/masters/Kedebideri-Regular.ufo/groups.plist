@@ -87,6 +87,7 @@
   <key>public.kern1.Wasse-beria</key>
   <array>
     <string>Wasse-beria</string>
+    <string>Wasse-beria.001</string>
   </array>
   <key>public.kern1.ampersand</key>
   <array>
@@ -401,6 +402,7 @@
   <key>public.kern2.Wasse-beria</key>
   <array>
     <string>Wasse-beria</string>
+    <string>Wasse-beria.001</string>
   </array>
   <key>public.kern2.ampersand</key>
   <array>

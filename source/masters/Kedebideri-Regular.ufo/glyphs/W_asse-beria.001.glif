@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Wasse-beria" format="2">
+<glyph name="Wasse-beria.001" format="2">
+  <advance width="884"/>
   <outline>
     <contour>
       <point x="221" y="-136" type="line"/>
