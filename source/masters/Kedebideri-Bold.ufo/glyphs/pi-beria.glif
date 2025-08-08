@@ -18,8 +18,8 @@
       <point x="398" y="332" type="line"/>
       <point x="463" y="408" type="line"/>
       <point x="255" y="408" type="line" smooth="yes"/>
-      <point x="153" y="408"/>
-      <point x="82" y="321"/>
+      <point x="133" y="408"/>
+      <point x="82" y="328"/>
     </contour>
     <contour>
       <point x="447" y="125" type="line"/>
