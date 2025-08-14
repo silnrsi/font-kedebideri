@@ -1,0 +1,36 @@
+\begin[class=fontproof]{document}
+\bidi-off
+\setTestFont[size="20pt"]
+
+%%%%% GROUPS
+
+% Lowercase in frequency order
+\patterngroup[name="lowercase"]{𖺻𖻂𖺾𖻌𖻊𖻀𖻁𖻄𖻅𖻑𖺽𖻐𖺼𖻇𖻓𖻎𖻒𖻆𖻃𖻋𖻏𖻈𖺿}
+
+% Caps in frequency order
+\patterngroup[name="capitals"]{𖺩𖺪𖺶𖺠𖺡𖺢𖺯𖺳𖺵𖺷𖺥𖺣𖺧𖺨𖺦𖺤𖺫𖺬𖺰𖺴}
+
+% All letters in font order
+\patterngroup[name="allfont"]{𖺠𖺻𖺡𖺼𖺢𖺽𖺣𖺾𖺤𖺿𖺥𖻀𖺦𖻁𖺧𖻂𖺨𖻃𖺩𖻄𖺪𖻅𖺫𖻆𖺬𖻇𖺭𖻈𖺮𖻉𖺯𖻊𖺰𖻋𖺱𖻌𖺲𖻍𖺳𖻎𖺴𖻏𖺵𖻐𖺶𖻑𖺷𖻒𖺸𖻓}
+
+% Diacritics
+
+% Numerals
+\patterngroup[name="nums"]{0123456789}
+
+% Punctuation
+\patterngroup[name="commonpunct"]{,;:.!?-()"'‘’“”}
+
+%%%%% TESTS
+
+\section{LETTERS IN FONT ORDER}
+
+\proof[size="28pt"]{𖺠𖺻𖺡𖺼𖺢𖺽𖺣𖺾𖺤𖺿𖺥𖻀𖺦𖻁𖺧𖻂𖺨𖻃𖺩𖻄𖺪𖻅𖺫𖻆𖺬𖻇𖺭𖻈𖺮𖻉𖺯𖻊𖺰𖻋𖺱𖻌𖺲𖻍𖺳𖻎𖺴𖻏𖺵𖻐𖺶𖻑𖺷𖻒𖺸𖻓}
+
+\section{FRAMES}
+
+\subsection{CAP FRAMES}
+\pattern[chars="@",reps="group_capitals",format="list"]{𖺦@𖺦@𖺠@𖺠@𖺩@𖺩@𖺡@𖺡@𖺣@𖺣}
+\pattern[chars="@",reps="group_lowercase",format="list"]{𖻁@𖻁@𖻌@𖻌@𖺻@𖺻@𖺾@𖺾@𖻄@𖻄@𖻂@𖻂}
+
+\end{document}
