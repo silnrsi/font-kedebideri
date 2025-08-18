@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Arkab-beria" format="2">
-  <advance width="785"/>
+  <advance width="806"/>
   <unicode hex="16EA0"/>
-  <anchor x="393" y="720" name="U"/>
+  <anchor x="401" y="720" name="U"/>
   <outline>
     <contour>
-      <point x="78" y="-68" type="line"/>
-      <point x="187" y="-146" type="line"/>
-      <point x="725" y="535" type="line"/>
-      <point x="725" y="668" type="line"/>
-      <point x="65" y="668" type="line"/>
-      <point x="65" y="535" type="line"/>
-      <point x="615" y="-146" type="line"/>
-      <point x="721" y="-60" type="line"/>
-      <point x="143" y="651" type="line"/>
-      <point x="124" y="541" type="line"/>
-      <point x="669" y="541" type="line"/>
-      <point x="649" y="652" type="line"/>
+      <point x="86" y="-68" type="line"/>
+      <point x="195" y="-146" type="line"/>
+      <point x="733" y="535" type="line"/>
+      <point x="733" y="668" type="line"/>
+      <point x="73" y="668" type="line"/>
+      <point x="73" y="535" type="line"/>
+      <point x="623" y="-146" type="line"/>
+      <point x="729" y="-60" type="line"/>
+      <point x="151" y="651" type="line"/>
+      <point x="132" y="541" type="line"/>
+      <point x="677" y="541" type="line"/>
+      <point x="657" y="652" type="line"/>
     </contour>
   </outline>
 </glyph>

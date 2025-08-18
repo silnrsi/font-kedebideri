@@ -186,16 +186,18 @@
 # baseClass Z <anchor 288 702> @aboveUC;
 
 # AP: U
-@U = [Arkab-beria oi-beria Eh-beria I-beria Oi-beria Ui-beria arkab-beria dottedCircle eh-beria i-beria ui-beria];
-# baseClass [Arkab-beria oi-beria] <anchor 393 720> @U;
+@U = [Arkab-beria Eh-beria I-beria Oi-beria Ui-beria arkab-beria dottedCircle eh-beria i-beria oi-beria ui-beria];
+# baseClass Arkab-beria <anchor 401 720> @U;
 # baseClass Eh-beria <anchor 402 720> @U;
-# baseClass [I-beria Oi-beria] <anchor 453 720> @U;
-# baseClass Ui-beria <anchor 262 720> @U;
-# baseClass arkab-beria <anchor 338 720> @U;
+# baseClass I-beria <anchor 427 720> @U;
+# baseClass Oi-beria <anchor 478 720> @U;
+# baseClass Ui-beria <anchor 292 720> @U;
+# baseClass arkab-beria <anchor 345 720> @U;
 # baseClass dottedCircle <anchor 303 574> @U;
-# baseClass eh-beria <anchor 335 720> @U;
-# baseClass i-beria <anchor 380 720> @U;
-# baseClass ui-beria <anchor 237 720> @U;
+# baseClass eh-beria <anchor 323 720> @U;
+# baseClass i-beria <anchor 372 720> @U;
+# baseClass oi-beria <anchor 423 720> @U;
+# baseClass ui-beria <anchor 267 720> @U;
 
 # AP: baseLC
 @baseLC = [C S T c dottedCircle s t];
@@ -2378,15 +2380,17 @@ lookup kernpairs {
 
 lookup AttachMarks {
     lookupflag 0;
-    pos base [Arkab-beria oi-beria] <anchor 393 720> mark @_U;
+    pos base Arkab-beria <anchor 401 720> mark @_U;
     pos base Eh-beria <anchor 402 720> mark @_U;
-    pos base [I-beria Oi-beria] <anchor 453 720> mark @_U;
-    pos base Ui-beria <anchor 262 720> mark @_U;
-    pos base arkab-beria <anchor 338 720> mark @_U;
+    pos base I-beria <anchor 427 720> mark @_U;
+    pos base Oi-beria <anchor 478 720> mark @_U;
+    pos base Ui-beria <anchor 292 720> mark @_U;
+    pos base arkab-beria <anchor 345 720> mark @_U;
     pos base dottedCircle <anchor 303 574> mark @_U;
-    pos base eh-beria <anchor 335 720> mark @_U;
-    pos base i-beria <anchor 380 720> mark @_U;
-    pos base ui-beria <anchor 237 720> mark @_U;
+    pos base eh-beria <anchor 323 720> mark @_U;
+    pos base i-beria <anchor 372 720> mark @_U;
+    pos base oi-beria <anchor 423 720> mark @_U;
+    pos base ui-beria <anchor 267 720> mark @_U;
 } AttachMarks;
 
 #**********************************

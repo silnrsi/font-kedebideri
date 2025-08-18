@@ -2,28 +2,28 @@
 <glyph name="Oi-beria" format="2">
   <outline>
     <contour>
-      <point x="26" y="-72" type="line"/>
-      <point x="26" y="-136" type="line"/>
-      <point x="208" y="-136" type="line"/>
-      <point x="453" y="458" type="line"/>
-      <point x="673" y="-73" type="line"/>
-      <point x="542" y="-73" type="line"/>
-      <point x="542" y="-136" type="line"/>
-      <point x="746" y="-136" type="line"/>
-      <point x="746" y="-78" type="line"/>
-      <point x="487" y="545" type="line"/>
-      <point x="487" y="549" type="line"/>
-      <point x="703" y="549" type="line"/>
-      <point x="703" y="613" type="line"/>
-      <point x="487" y="613" type="line"/>
-      <point x="487" y="684" type="line"/>
-      <point x="419" y="684" type="line"/>
-      <point x="419" y="613" type="line"/>
-      <point x="209" y="613" type="line"/>
-      <point x="209" y="549" type="line"/>
-      <point x="419" y="549" type="line"/>
-      <point x="419" y="543" type="line"/>
-      <point x="164" y="-72" type="line"/>
+      <point x="51" y="-72" type="line"/>
+      <point x="51" y="-136" type="line"/>
+      <point x="233" y="-136" type="line"/>
+      <point x="478" y="458" type="line"/>
+      <point x="698" y="-73" type="line"/>
+      <point x="567" y="-73" type="line"/>
+      <point x="567" y="-136" type="line"/>
+      <point x="771" y="-136" type="line"/>
+      <point x="771" y="-78" type="line"/>
+      <point x="512" y="545" type="line"/>
+      <point x="512" y="549" type="line"/>
+      <point x="728" y="549" type="line"/>
+      <point x="728" y="613" type="line"/>
+      <point x="512" y="613" type="line"/>
+      <point x="512" y="684" type="line"/>
+      <point x="444" y="684" type="line"/>
+      <point x="444" y="613" type="line"/>
+      <point x="234" y="613" type="line"/>
+      <point x="234" y="549" type="line"/>
+      <point x="444" y="549" type="line"/>
+      <point x="444" y="543" type="line"/>
+      <point x="189" y="-72" type="line"/>
     </contour>
   </outline>
 </glyph>

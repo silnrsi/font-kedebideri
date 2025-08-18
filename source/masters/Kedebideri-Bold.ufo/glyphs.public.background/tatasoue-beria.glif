@@ -2,17 +2,17 @@
 <glyph name="tatasoue-beria" format="2">
   <outline>
     <contour>
-      <point x="180" y="55" type="line"/>
-      <point x="180" y="0" type="line"/>
-      <point x="540" y="0" type="line"/>
-      <point x="540" y="60" type="line"/>
-      <point x="255" y="60" type="line"/>
-      <point x="591" y="647" type="line"/>
-      <point x="537" y="679" type="line"/>
-      <point x="359" y="368" type="line"/>
-      <point x="89" y="673" type="line"/>
-      <point x="41" y="628" type="line"/>
-      <point x="324" y="307" type="line"/>
+      <point x="167" y="55" type="line"/>
+      <point x="167" y="0" type="line"/>
+      <point x="527" y="0" type="line"/>
+      <point x="527" y="60" type="line"/>
+      <point x="242" y="60" type="line"/>
+      <point x="578" y="647" type="line"/>
+      <point x="524" y="679" type="line"/>
+      <point x="346" y="368" type="line"/>
+      <point x="76" y="673" type="line"/>
+      <point x="28" y="628" type="line"/>
+      <point x="311" y="307" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hirdeabo-beria" format="2">
-  <advance width="850"/>
+  <advance width="870"/>
   <unicode hex="16EA6"/>
   <outline>
     <contour>
-      <point x="108" y="668" type="line"/>
-      <point x="108" y="-136" type="line"/>
-      <point x="245" y="-136" type="line"/>
-      <point x="245" y="650" type="line"/>
-      <point x="161" y="541" type="line"/>
-      <point x="689" y="541" type="line"/>
-      <point x="605" y="650" type="line"/>
-      <point x="605" y="-136" type="line"/>
-      <point x="742" y="-136" type="line"/>
-      <point x="742" y="668" type="line"/>
+      <point x="118" y="668" type="line"/>
+      <point x="118" y="-136" type="line"/>
+      <point x="255" y="-136" type="line"/>
+      <point x="255" y="650" type="line"/>
+      <point x="171" y="541" type="line"/>
+      <point x="699" y="541" type="line"/>
+      <point x="615" y="650" type="line"/>
+      <point x="615" y="-136" type="line"/>
+      <point x="752" y="-136" type="line"/>
+      <point x="752" y="668" type="line"/>
     </contour>
   </outline>
 </glyph>

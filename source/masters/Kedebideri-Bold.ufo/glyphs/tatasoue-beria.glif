@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tatasoue-beria" format="2">
-  <advance width="651"/>
+  <advance width="633"/>
   <unicode hex="16ED0"/>
   <outline>
     <contour>
-      <point x="155" y="0" type="line"/>
-      <point x="553" y="0" type="line"/>
-      <point x="553" y="125" type="line"/>
-      <point x="210" y="125" type="line"/>
-      <point x="249" y="21" type="line"/>
-      <point x="604" y="615" type="line"/>
-      <point x="487" y="674" type="line"/>
-      <point x="155" y="120" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="540" y="0" type="line"/>
+      <point x="540" y="125" type="line"/>
+      <point x="197" y="125" type="line"/>
+      <point x="236" y="21" type="line"/>
+      <point x="591" y="615" type="line"/>
+      <point x="474" y="674" type="line"/>
+      <point x="142" y="120" type="line"/>
     </contour>
     <contour>
-      <point x="311" y="278" type="line"/>
-      <point x="396" y="383" type="line"/>
-      <point x="125" y="674" type="line"/>
-      <point x="34" y="575" type="line"/>
+      <point x="298" y="278" type="line"/>
+      <point x="383" y="383" type="line"/>
+      <point x="112" y="674" type="line"/>
+      <point x="21" y="575" type="line"/>
     </contour>
   </outline>
 </glyph>

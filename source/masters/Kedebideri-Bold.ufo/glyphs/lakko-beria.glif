@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lakko-beria" format="2">
-  <advance width="548"/>
+  <advance width="568"/>
   <unicode hex="16EC5"/>
   <outline>
     <contour>
-      <point x="40" y="125" type="line"/>
-      <point x="40" y="0" type="line"/>
-      <point x="508" y="0" type="line"/>
-      <point x="508" y="125" type="line"/>
-      <point x="261" y="125" type="line"/>
-      <point x="341" y="15" type="line"/>
-      <point x="341" y="668" type="line"/>
-      <point x="207" y="668" type="line"/>
-      <point x="207" y="15" type="line"/>
-      <point x="287" y="125" type="line"/>
+      <point x="50" y="125" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="518" y="0" type="line"/>
+      <point x="518" y="125" type="line"/>
+      <point x="271" y="125" type="line"/>
+      <point x="351" y="15" type="line"/>
+      <point x="351" y="668" type="line"/>
+      <point x="217" y="668" type="line"/>
+      <point x="217" y="15" type="line"/>
+      <point x="297" y="125" type="line"/>
     </contour>
   </outline>
 </glyph>
