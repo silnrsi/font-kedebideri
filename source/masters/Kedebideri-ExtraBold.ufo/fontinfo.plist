@@ -82,9 +82,9 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNamePreferredFamilyName</key>
   <string>Kedebideri</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Bold</string>
+  <string>ExtraBold</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL Global: Kedebideri Bold: 2025</string>
+  <string>SIL Global: Kedebideri ExtraBold: 2025</string>
   <key>openTypeNameVersion</key>
   <string>Version 2.900</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -164,7 +164,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>684</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>Kedebideri-Bold</string>
+  <string>Kedebideri-ExtraBold</string>
   <key>postscriptOtherBlues</key>
   <array>
     <integer>-151</integer>
@@ -175,7 +175,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>postscriptUnderlineThickness</key>
   <integer>50</integer>
   <key>styleName</key>
-  <string>Bold</string>
+  <string>ExtraBold</string>
   <key>trademark</key>
   <string>Kedebideri is a trademark of SIL Global.</string>
   <key>unitsPerEm</key>
