@@ -27,11 +27,27 @@
                 <dimension name="custom" xvalue="0.000000" />
             </location>
         </source>
+        <source familyname="Kedebideri" filename="masters/Kedebideri-Bold.ufo" name="Kedebideri Bold" stylename="Bold">
+            <location>
+                <dimension name="weight" xvalue="700.000000" />
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="custom" xvalue="0.000000" />
+            </location>
+        </source>
     </sources>
     <instances>
         <instance familyname="Kedebideri" filename="instances/Kedebideri-Regular.ufo" name="Kedebideri Regular" stylemapfamilyname="Kedebideri" stylemapstylename="regular" stylename="Regular">
             <location>
                 <dimension name="weight" xvalue="400.000000" />
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="custom" xvalue="0.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Kedebideri" filename="instances/Kedebideri-Bold.ufo" name="Kedebideri Bold" postscriptfontname="Kedebideri-Bold" stylemapfamilyname="Kedebideri" stylemapstylename="bold" stylename="Bold">
+            <location>
+                <dimension name="weight" xvalue="700.000000" />
                 <dimension name="width" xvalue="100.000000" />
                 <dimension name="custom" xvalue="0.000000" />
             </location>
