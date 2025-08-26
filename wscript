@@ -18,11 +18,13 @@ getufoinfo('source/masters/' + FAMILY + '-Regular' + '.ufo')
 
 designspace('source/' + FAMILY + '.designspace',
     target = process('${DS:FILENAME_BASE}.ttf',
-       cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['source/masters/${DS:FILENAME_BASE}.ufo'])),
+        cmd('gftools fix-nonhinting -q --no-backup ${DEP} ${TGT}'),
+        cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['${source}']),
+    ),
+    version=VERSION,  # Needed to ensure dev information on version string
     opentype = fea("generated/${DS:FILENAME_BASE}.fea", master="source/opentype/main.feax", to_ufo = 'True'),
+    pdf = fret(params='-oi'),
     woff = woff('web/${DS:FILENAME_BASE}.woff',
         metadata=f'../source/{FAMILY}-WOFF-metadata.xml',
-        cmd='psfwoffit -m ${SRC[1]} --woff ${TGT} --woff2 ${TGT}2 ${SRC[0]}'
         ),
-    pdf = fret(params='-oi')
-)
+    )
