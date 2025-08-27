@@ -8,18 +8,18 @@ echo "-----Updating glyph orders in Regular..."
 psfsetglyphorder -q --header sort_final -i source/glyph_data.csv source/masters/Kedebideri-Regular.ufo -p backup=False
 
 echo "-----Normalizing other weights..."
-psfnormalize -p checkfix=fix source/masters/Kedebideri-ExtraBold.ufo
+psfnormalize -p checkfix=fix source/masters/Kedebideri-Black.ufo
 
 echo "-----Rebuilding composites..."
 psfbuildcomp -i source/composites.txt -c -n source/masters/Kedebideri-Regular.ufo -p backup=False
-psfbuildcomp -i source/composites.txt -c -n source/masters/Kedebideri-ExtraBold.ufo -p backup=False
+psfbuildcomp -i source/composites.txt -c -n source/masters/Kedebideri-Black.ufo -p backup=False
 
 echo "-----Updating woff metadata file..."
 psfmakewoffmetadata -q -n "Kedebideri" -i "org.sil.fonts" source/masters/Kedebideri-Regular.ufo
 
 echo "Building internal fea..."
 makefea -o source/masters/Kedebideri-Regular.ufo/features.fea -i source/opentype/main.feax source/masters/*-Regular.ufo &
-makefea -o source/masters/Kedebideri-ExtraBold.ufo/features.fea -i source/opentype/main.feax source/masters/*-ExtraBold.ufo &
+makefea -o source/masters/Kedebideri-Black.ufo/features.fea -i source/opentype/main.feax source/masters/*-Black.ufo &
 wait
 
 echo "-----Preflight completed!"

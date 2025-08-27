@@ -35,6 +35,10 @@ of the license along with this Font Software. If this is not the case, go to
   src: url(Kedebideri-ExtraBold.woff2);
 }
 
+@font-face {
+  font-family: KedebideriBlk;
+  src: url(Kedebideri-Black.woff2);
+}
 /* set body to use Kedebideri in .ttf format */
 body {
   font-family: KedebideriR, serif;
@@ -43,33 +47,37 @@ body {
 
 /* remove bold styling from heading */
 h1 {
-  font-weight: bold;	
+  font-weight: normal;
 }
 h2 {
-  font-weight: normal;font-size:30px;
+  font-weight: bold;font-size:30px; 
 }
 
 h3 {
-  font-family: "Times New Roman"; font-size:20px; color: Blue;	
+  font-family: "Times New Roman"; font-size:20px; 
 }
 
 .Reg {
   font-family: KedebideriR;
-  font-size: 110%; 
+  font-size: 100%; 
 }
 .Med {
   font-family: KedebideriM;
-  font-size: 110%; 
+  font-size: 100%; 
 }
 .SB {
   font-family: KedebideriSB;
-  font-size: 110%; 
+  font-size: 100%; 
 }
 .Bld {
   font-family: KedebideriB;
-  font-size: 110%; 
+  font-size: 100%; 
 }
 .ExBd {
   font-family: KedebideriEB;
-  font-size: 110%; 
+  font-size: 100%; 
+}
+.Blk {
+  font-family: KedebideriBlk;
+  font-size: 100%; 
 }

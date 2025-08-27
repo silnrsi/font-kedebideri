@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="3">
     <axes>
-        <axis default="400.0" maximum="800.0" minimum="400.0" name="weight" tag="wght">
+        <axis default="400.0" maximum="1000.0" minimum="400.0" name="weight" tag="wght">
             <map input="400.0" output="400.0" /> <!-- Regular -->
             <map input="500.0" output="500.0" /> <!-- Medium -->
             <map input="600.0" output="600.0" /> <!-- SemiBold -->
             <map input="700.0" output="700.0" /> <!-- Bold -->
             <map input="800.0" output="800.0" /> <!-- ExtraBold -->
+            <map input="1000.0" output="1000.0" /> <!-- Black -->
             <labelname xml:lang="en">Weight</labelname>
         </axis>
         <axis default="100.0" maximum="100.0" minimum="100.0" name="width" tag="wdth">
@@ -30,11 +31,11 @@
                 <dimension name="custom" xvalue="0.000000" />
             </location>
         </source>
-        <source familyname="Kedebideri" filename="masters/Kedebideri-ExtraBold.ufo" name="Kedebideri-ExtraBold" stylename="ExtraBold">
+        <source familyname="Kedebideri" filename="masters/Kedebideri-Black.ufo" name="Kedebideri-Black" stylename="Black">
             <location>
-                <dimension name="weight" xvalue="800.000000" />
-                <dimension name="width" xvalue="100.000000" />
-                <dimension name="custom" xvalue="0.000000" />
+                <dimension name="weight" xvalue="1000.0" />
+                <dimension name="width" xvalue="100.0" />
+                <dimension name="custom" xvalue="0.0" />
             </location>
         </source>
     </sources>
@@ -62,9 +63,9 @@
                    stylename="Medium"
           postscriptfontname="Kedebideri-Medium">
             <location>
-                <dimension name="weight" xvalue="500.000000" />
-                <dimension name="width" xvalue="100.000000" />
-                <dimension name="custom" xvalue="0.000000" />
+                <dimension name="weight" xvalue="500.0" />
+                <dimension name="width" xvalue="100.0" />
+                <dimension name="custom" xvalue="0.0" />
             </location>
             <info />
             <kerning />
@@ -77,9 +78,9 @@
                    stylename="SemiBold"
           postscriptfontname="Kedebideri-SemiBold">
             <location>
-                <dimension name="weight" xvalue="600.000000" />
-                <dimension name="width" xvalue="100.000000" />
-                <dimension name="custom" xvalue="0.000000" />
+                <dimension name="weight" xvalue="600.0" />
+                <dimension name="width" xvalue="100.0" />
+                <dimension name="custom" xvalue="0.0" />
             </location>
             <info />
             <kerning />
@@ -92,9 +93,9 @@
                    stylename="Bold"
           postscriptfontname="Kedebideri-Bold">
             <location>
-                <dimension name="weight" xvalue="700.000000" />
-                <dimension name="width" xvalue="100.000000" />
-                <dimension name="custom" xvalue="0.000000" />
+                <dimension name="weight" xvalue="700.0" />
+                <dimension name="width" xvalue="100.0" />
+                <dimension name="custom" xvalue="0.0" />
             </location>
             <info />
             <kerning />
@@ -107,9 +108,24 @@
                    stylename="ExtraBold"
           postscriptfontname="Kedebideri-ExtraBold">
             <location>
-                <dimension name="weight" xvalue="800.000000" />
-                <dimension name="width" xvalue="100.000000" />
-                <dimension name="custom" xvalue="0.000000" />
+                <dimension name="weight" xvalue="800.0" />
+                <dimension name="width" xvalue="100.0" />
+                <dimension name="custom" xvalue="0.0" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Kedebideri" 
+                    filename="instances/Kedebideri-Black.ufo"
+                        name="Kedebideri Black"
+          stylemapfamilyname="Kedebideri Black"
+           stylemapstylename="regular"
+                   stylename="Black"
+          postscriptfontname="Kedebideri-Black">
+            <location>
+                <dimension name="weight" xvalue="1000.0" />
+                <dimension name="width" xvalue="100.0" />
+                <dimension name="custom" xvalue="0.0" />
             </location>
             <info />
             <kerning />
