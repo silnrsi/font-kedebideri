@@ -15,3 +15,7 @@ _ringcomb.cap
 _ringcomb
 _tildecomb.cap
 _tildecomb
+_one.dnom
+_two.dnom
+_three.dnom
+_four.dnom

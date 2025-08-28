@@ -157,33 +157,33 @@
 # Positioning classes and statements
 
 # AP: aboveUC
-@aboveUC = [A AE B E C N D F G H I J K L M O Q OE Oslash P R S T U V W X Y Z];
-# baseClass A <anchor 276 702> @aboveUC;
-# baseClass AE <anchor 589 717> @aboveUC;
-# baseClass [B E] <anchor 293 702> @aboveUC;
-# baseClass [C N] <anchor 336 702> @aboveUC;
-# baseClass D <anchor 315 702> @aboveUC;
-# baseClass F <anchor 295 702> @aboveUC;
-# baseClass G <anchor 361 702> @aboveUC;
-# baseClass H <anchor 333 702> @aboveUC;
-# baseClass I <anchor 131 702> @aboveUC;
-# baseClass J <anchor 356 702> @aboveUC;
-# baseClass K <anchor 318 702> @aboveUC;
-# baseClass L <anchor 132 702> @aboveUC;
-# baseClass M <anchor 370 702> @aboveUC;
-# baseClass [O Q] <anchor 340 702> @aboveUC;
-# baseClass OE <anchor 550 702> @aboveUC;
-# baseClass Oslash <anchor 341 702> @aboveUC;
-# baseClass P <anchor 309 702> @aboveUC;
-# baseClass R <anchor 300 702> @aboveUC;
-# baseClass S <anchor 284 702> @aboveUC;
-# baseClass T <anchor 273 702> @aboveUC;
-# baseClass U <anchor 330 702> @aboveUC;
-# baseClass V <anchor 260 702> @aboveUC;
-# baseClass W <anchor 402 702> @aboveUC;
-# baseClass X <anchor 259 702> @aboveUC;
-# baseClass Y <anchor 239 702> @aboveUC;
-# baseClass Z <anchor 288 702> @aboveUC;
+@aboveUC = [A AE B C O Q D E F S G H I J K L M N OE Oslash P R T U V W X Y Z];
+# baseClass A <anchor 290 696> @aboveUC;
+# baseClass AE <anchor 558 717> @aboveUC;
+# baseClass B <anchor 307 696> @aboveUC;
+# baseClass [C O Q] <anchor 352 696> @aboveUC;
+# baseClass D <anchor 327 696> @aboveUC;
+# baseClass E <anchor 297 696> @aboveUC;
+# baseClass [F S] <anchor 298 696> @aboveUC;
+# baseClass G <anchor 376 696> @aboveUC;
+# baseClass H <anchor 345 696> @aboveUC;
+# baseClass I <anchor 152 696> @aboveUC;
+# baseClass J <anchor 369 696> @aboveUC;
+# baseClass K <anchor 328 696> @aboveUC;
+# baseClass L <anchor 155 696> @aboveUC;
+# baseClass M <anchor 390 696> @aboveUC;
+# baseClass N <anchor 343 696> @aboveUC;
+# baseClass OE <anchor 547 696> @aboveUC;
+# baseClass Oslash <anchor 359 696> @aboveUC;
+# baseClass P <anchor 324 696> @aboveUC;
+# baseClass R <anchor 317 696> @aboveUC;
+# baseClass T <anchor 285 696> @aboveUC;
+# baseClass U <anchor 341 696> @aboveUC;
+# baseClass V <anchor 283 696> @aboveUC;
+# baseClass W <anchor 418 696> @aboveUC;
+# baseClass X <anchor 289 696> @aboveUC;
+# baseClass Y <anchor 267 696> @aboveUC;
+# baseClass Z <anchor 291 696> @aboveUC;
 
 # AP: U
 @U = [Arkab-beria Eh-beria I-beria Oi-beria Ui-beria arkab-beria dottedCircle eh-beria i-beria oi-beria ui-beria];
@@ -193,7 +193,7 @@
 # baseClass Oi-beria <anchor 478 720> @U;
 # baseClass Ui-beria <anchor 292 720> @U;
 # baseClass arkab-beria <anchor 345 720> @U;
-# baseClass dottedCircle <anchor 303 574> @U;
+# baseClass dottedCircle <anchor 299 584> @U;
 # baseClass eh-beria <anchor 323 720> @U;
 # baseClass i-beria <anchor 372 720> @U;
 # baseClass oi-beria <anchor 423 720> @U;
@@ -201,59 +201,58 @@
 
 # AP: baseLC
 @baseLC = [C S T c dottedCircle s t];
-# baseClass C <anchor 353 0> @baseLC;
-# baseClass S <anchor 280 0> @baseLC;
-# baseClass T <anchor 274 0> @baseLC;
-# baseClass c <anchor 277 0> @baseLC;
-# baseClass dottedCircle <anchor 303 0> @baseLC;
-# baseClass s <anchor 228 0> @baseLC;
-# baseClass t <anchor 220 0> @baseLC;
+# baseClass C <anchor 360 0> @baseLC;
+# baseClass S <anchor 287 0> @baseLC;
+# baseClass T <anchor 285 0> @baseLC;
+# baseClass c <anchor 282 0> @baseLC;
+# baseClass dottedCircle <anchor 299 0> @baseLC;
+# baseClass s <anchor 238 0> @baseLC;
+# baseClass t <anchor 241 0> @baseLC;
 
 # AP: _none
 markClass [VS1 VS10 VS11 VS12 VS13 VS14 VS15 VS16 VS2 VS3 VS4 VS5 VS6 VS7 VS8 VS9 graphemejoinercomb] <anchor 0 0> @_none;
 
 # AP: _aboveLC
-markClass [_acutecomb _caroncomb _circumflexcomb _dieresiscomb _gravecomb _ringcomb _tildecomb] <anchor 0 524> @_aboveLC;
+markClass [_acutecomb _caroncomb _circumflexcomb _dieresiscomb _gravecomb _ringcomb _tildecomb] <anchor 0 534> @_aboveLC;
 
 # AP: _aboveUC
-markClass [_acutecomb.cap _caroncomb.cap _circumflexcomb.cap _dieresiscomb.cap _gravecomb.cap _ringcomb.cap _tildecomb.cap] <anchor 0 702> @_aboveUC;
+markClass [_acutecomb.cap _caroncomb.cap _circumflexcomb.cap _dieresiscomb.cap _gravecomb.cap _ringcomb.cap _tildecomb.cap] <anchor 0 696> @_aboveUC;
 
 # AP: _baseLC
 markClass [_cedillacomb _cedillacomb.cap] <anchor 0 0> @_baseLC;
 
 # AP: aboveLC
-@aboveLC = [a ae b k thorn breve c circumflex d dottedCircle e f g h i idotless j l m n p o oslash u oe q r s x t v w y z];
+@aboveLC = [a ae b k thorn breve c circumflex d dottedCircle q e g f h l i idotless j m n p o oslash oe r s t u v w x y z];
 @aboveLC_MarkBase = [_circumflexcomb _dieresiscomb];
-# baseClass a <anchor 275 524> @aboveLC;
-# baseClass ae <anchor 426 524> @aboveLC;
-# baseClass [b k thorn] <anchor 126 754> @aboveLC;
-# baseClass breve <anchor 278 727> @aboveLC;
-# baseClass c <anchor 280 524> @aboveLC;
-# baseClass circumflex <anchor 278 738> @aboveLC;
-# baseClass d <anchor 401 754> @aboveLC;
-# baseClass dottedCircle <anchor 303 524> @aboveLC;
-# baseClass e <anchor 271 524> @aboveLC;
-# baseClass f <anchor 223 764> @aboveLC;
-# baseClass g <anchor 263 524> @aboveLC;
-# baseClass h <anchor 123 754> @aboveLC;
-# baseClass i <anchor 122 710> @aboveLC;
-# baseClass idotless <anchor 124 524> @aboveLC;
-# baseClass j <anchor 125 710> @aboveLC;
-# baseClass l <anchor 122 754> @aboveLC;
-# baseClass m <anchor 428 524> @aboveLC;
-# baseClass [n p] <anchor 296 524> @aboveLC;
-# baseClass [o oslash u] <anchor 278 524> @aboveLC;
-# baseClass oe <anchor 458 524> @aboveLC;
-# baseClass q <anchor 283 524> @aboveLC;
-# baseClass r <anchor 216 524> @aboveLC;
-# baseClass [s x] <anchor 222 524> @aboveLC;
-# baseClass t <anchor 142 660> @aboveLC;
-# baseClass v <anchor 235 524> @aboveLC;
-# baseClass w <anchor 364 524> @aboveLC;
-# baseClass y <anchor 245 524> @aboveLC;
-# baseClass z <anchor 232 524> @aboveLC;
-# baseClass _circumflexcomb <anchor 0 755> @aboveLC_MarkBase;
-# baseClass _dieresiscomb <anchor 0 711> @aboveLC_MarkBase;
+# baseClass a <anchor 288 534> @aboveLC;
+# baseClass ae <anchor 424 534> @aboveLC;
+# baseClass [b k thorn] <anchor 142 754> @aboveLC;
+# baseClass breve <anchor 285 738> @aboveLC;
+# baseClass c <anchor 286 534> @aboveLC;
+# baseClass circumflex <anchor 285 756> @aboveLC;
+# baseClass d <anchor 419 754> @aboveLC;
+# baseClass [dottedCircle q] <anchor 299 534> @aboveLC;
+# baseClass [e g] <anchor 278 534> @aboveLC;
+# baseClass f <anchor 233 765> @aboveLC;
+# baseClass [h l] <anchor 139 754> @aboveLC;
+# baseClass i <anchor 140 742> @aboveLC;
+# baseClass idotless <anchor 140 534> @aboveLC;
+# baseClass j <anchor 143 742> @aboveLC;
+# baseClass m <anchor 450 534> @aboveLC;
+# baseClass [n p] <anchor 315 534> @aboveLC;
+# baseClass [o oslash] <anchor 285 534> @aboveLC;
+# baseClass oe <anchor 442 534> @aboveLC;
+# baseClass r <anchor 250 534> @aboveLC;
+# baseClass s <anchor 241 534> @aboveLC;
+# baseClass t <anchor 168 677> @aboveLC;
+# baseClass u <anchor 292 534> @aboveLC;
+# baseClass v <anchor 267 534> @aboveLC;
+# baseClass w <anchor 397 534> @aboveLC;
+# baseClass x <anchor 260 534> @aboveLC;
+# baseClass y <anchor 272 534> @aboveLC;
+# baseClass z <anchor 251 534> @aboveLC;
+# baseClass _circumflexcomb <anchor 0 761> @aboveLC_MarkBase;
+# baseClass _dieresiscomb <anchor 0 740> @aboveLC_MarkBase;
 
 # AP: _U
 markClass [acutecomb dotaccentcomb gravecomb macroncomb] <anchor 250 720> @_U;
@@ -2386,7 +2385,7 @@ lookup AttachMarks {
     pos base Oi-beria <anchor 478 720> mark @_U;
     pos base Ui-beria <anchor 292 720> mark @_U;
     pos base arkab-beria <anchor 345 720> mark @_U;
-    pos base dottedCircle <anchor 303 574> mark @_U;
+    pos base dottedCircle <anchor 299 584> mark @_U;
     pos base eh-beria <anchor 323 720> mark @_U;
     pos base i-beria <anchor 372 720> mark @_U;
     pos base oi-beria <anchor 423 720> mark @_U;

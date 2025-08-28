@@ -2,14 +2,17 @@
 
 ar=$PWD/tools/archive/latin
 glyphnames=$HOME/script/smithplus/etc/glyph_names/glyph_names.csv
-shimenkan=$HOME/script/plrd/fonts/shimenkan-local/kedebideri/Shimenkan
-andika=$HOME/script/latn/fonts/andika/source/masters/Andika
+shimenkan=$HOME/script/berf/fonts/kedebideri-local/latin/Shimenkan
+andika=$HOME/script/berf/fonts/kedebideri-local/latin/Andika
 
-pushd source
-for weight in Regular
+pushd source/masters
+for weight in Black # Regular
 do
     ufo=Kedebideri-${weight}.ufo
-    
+
+    # prepare
+    psfdeleteglyphs -i $ar/delete.txt $ufo
+
     # main import
     scale="--scale 1.033333"
     glyphs=$ar/shimenkan-${weight}.csv
@@ -32,9 +35,10 @@ do
     $ar/cleanup.py $ufo
     psfsetmarkcolors -i $ar/import.txt -u -c g_light_gray $ufo
     psfsetmarkcolors -i $ar/imported.txt -c g_light_gray $ufo
+    psfsetmarkcolors -i $ar/delete.txt -c g_light_gray $ufo
 
     # check
     ls -l $ufo/glyphs/*copy?.glif
-    composites $ufo
+    composites -c $ufo
 done
 popd

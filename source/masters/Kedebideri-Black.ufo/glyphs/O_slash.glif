@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oslash" format="2">
-  <advance width="681"/>
+  <advance width="704"/>
   <unicode hex="00D8"/>
-  <anchor x="341" y="702" name="aboveUC"/>
+  <anchor x="359" y="696" name="aboveUC"/>
   <outline>
-    <component base="O" xOffset="3"/>
+    <component base="O" xOffset="1"/>
     <contour>
-      <point x="94" y="-27" type="line"/>
-      <point x="629" y="676" type="line"/>
-      <point x="589" y="706" type="line"/>
-      <point x="54" y="2" type="line"/>
+      <point x="117" y="-40" type="line"/>
+      <point x="675" y="657" type="line"/>
+      <point x="601" y="715" type="line"/>
+      <point x="42" y="16" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
-      <string>CP</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
     </dict>

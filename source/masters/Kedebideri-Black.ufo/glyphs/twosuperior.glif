@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twosuperior" format="2">
-  <advance width="377"/>
+  <advance width="387"/>
   <unicode hex="00B2"/>
   <outline>
-    <component base="_two.dnom" yOffset="412"/>
+    <component base="_two.dnom" yOffset="390"/>
   </outline>
   <lib>
     <dict>

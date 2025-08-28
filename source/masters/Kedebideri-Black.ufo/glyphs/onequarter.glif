@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onequarter" format="2">
-  <advance width="799"/>
+  <advance width="831"/>
   <unicode hex="00BC"/>
   <outline>
-    <component base="_one.dnom" xOffset="-23" yOffset="276"/>
-    <component base="divisionslash" xOffset="356"/>
-    <component base="_four.dnom" xOffset="422"/>
+    <component base="_one.dnom" xOffset="-30" yOffset="271"/>
+    <component base="divisionslash" xOffset="366"/>
+    <component base="_four.dnom" xOffset="444"/>
   </outline>
   <lib>
     <dict>
