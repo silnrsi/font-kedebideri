@@ -1,3 +1,4 @@
 #!/bin/sh
 
-psfufo2glyphs source/KedebideriAxis.designspace source/masters/Kedebideri.glyphs
+#psfufo2glyphs source/KedebideriAxis.designspace source/masters/Kedebideri.glyphs
+psfufo2glyphs source/Kedebideri.designspace source/masters/Kedebideri.glyphs
