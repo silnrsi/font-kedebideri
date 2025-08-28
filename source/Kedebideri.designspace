@@ -7,7 +7,7 @@
             <map input="600.0" output="600.0" /> <!-- SemiBold -->
             <map input="700.0" output="700.0" /> <!-- Bold -->
             <map input="800.0" output="800.0" /> <!-- ExtraBold -->
-            <map input="1000.0" output="1000.0" /> <!-- Black -->
+            <map input="900.0" output="900.0" /> <!-- Black -->
             <labelname xml:lang="en">Weight</labelname>
         </axis>
         <axis default="100.0" maximum="100.0" minimum="100.0" name="width" tag="wdth">
@@ -123,7 +123,7 @@
                    stylename="Black"
           postscriptfontname="Kedebideri-Black">
             <location>
-                <dimension name="weight" xvalue="1000.0" />
+                <dimension name="weight" xvalue="900.0" />
                 <dimension name="width" xvalue="100.0" />
                 <dimension name="custom" xvalue="0.0" />
             </location>
