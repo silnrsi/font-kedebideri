@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="2">
-  <advance width="653"/>
+  <advance width="678"/>
   <unicode hex="00D0"/>
   <outline>
-    <component base="D" xOffset="22"/>
+    <component base="D" xOffset="25"/>
     <contour>
-      <point x="35" y="335" type="line"/>
-      <point x="348" y="335" type="line"/>
-      <point x="348" y="378" type="line"/>
-      <point x="120" y="378" type="line"/>
-      <point x="35" y="375" type="line"/>
+      <point x="28" y="314" type="line"/>
+      <point x="382" y="314" type="line"/>
+      <point x="382" y="383" type="line"/>
+      <point x="108" y="383" type="line"/>
+      <point x="28" y="378" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
-      <string>CP</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
     </dict>

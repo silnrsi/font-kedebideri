@@ -1,0 +1,2 @@
+questiondown = question | 00BF
+bulletoperator = periodcentered | 2019

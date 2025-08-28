@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_circumflexcomb" format="2">
-  <anchor x="0" y="524" name="_aboveLC"/>
-  <anchor x="0" y="755" name="aboveLC"/>
+  <anchor x="0" y="534" name="_aboveLC"/>
+  <anchor x="0" y="761" name="aboveLC"/>
   <outline>
     <contour>
-      <point x="-153" y="617" type="line"/>
-      <point x="-122" y="588" type="line"/>
-      <point x="-2" y="710" type="line"/>
-      <point x="2" y="710" type="line"/>
-      <point x="122" y="588" type="line"/>
-      <point x="153" y="617" type="line"/>
-      <point x="34" y="763" type="line"/>
-      <point x="-34" y="763" type="line"/>
+      <point x="-184" y="631" type="line"/>
+      <point x="-130" y="580" type="line"/>
+      <point x="-2" y="678" type="line"/>
+      <point x="2" y="678" type="line"/>
+      <point x="130" y="580" type="line"/>
+      <point x="184" y="631" type="line"/>
+      <point x="72" y="768" type="line"/>
+      <point x="-72" y="768" type="line"/>
     </contour>
   </outline>
   <lib>

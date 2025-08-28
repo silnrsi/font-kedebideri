@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Kedebideri</string>
   <key>openTypeHeadCreated</key>
-  <string>2025/08/18 10:33:13</string>
+  <string>2025/08/28 09:29:44</string>
   <key>openTypeHheaAscender</key>
   <integer>1000</integer>
   <key>openTypeHheaDescender</key>
@@ -170,6 +170,10 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>-151</integer>
     <integer>-136</integer>
   </array>
+  <key>postscriptStemSnapH</key>
+  <array/>
+  <key>postscriptStemSnapV</key>
+  <array/>
   <key>postscriptUnderlinePosition</key>
   <integer>-100</integer>
   <key>postscriptUnderlineThickness</key>
