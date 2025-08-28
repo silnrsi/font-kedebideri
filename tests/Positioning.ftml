@@ -3,8 +3,14 @@
 <ftml version="1.0">
   <head>
     <fontscale>250</fontscale>
-    <fontsrc label="Kedebideri (inst)">local(Kedebideri)</fontsrc>
+    <fontsrc label="installed">local(Kedebideri)</fontsrc>
+    <fontsrc label="refReg">url(../references/Kedebideri-Regular.ttf)</fontsrc>
     <fontsrc label="Reg">url(../results/Kedebideri-Regular.ttf)</fontsrc>
+    <fontsrc label="Med">url(../results/Kedebideri-Medium.ttf)</fontsrc>
+    <fontsrc label="SeBld">url(../results/Kedebideri-SemiBold.ttf)</fontsrc>
+    <fontsrc label="Bld">url(../results/Kedebideri-Bold.ttf)</fontsrc>
+    <fontsrc label="ExBld">url(../results/Kedebideri-ExtraBold.ttf)</fontsrc>
+    <fontsrc label="Blk">url(../results/Kedebideri-Black.ttf)</fontsrc>
      <title>Kedebideri Positioning</title>
   </head>
   <testgroup label="Kerning pairs (1st sequence is without kerning, 2nd sequence with kerning)">

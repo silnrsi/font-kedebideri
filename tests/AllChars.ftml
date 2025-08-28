@@ -7,6 +7,11 @@
     <fontsrc label="installed">local(Kedebideri)</fontsrc>
     <fontsrc label="refReg">url(../references/Kedebideri-Regular.ttf)</fontsrc>
     <fontsrc label="Reg">url(../results/Kedebideri-Regular.ttf)</fontsrc>
+    <fontsrc label="Med">url(../results/Kedebideri-Medium.ttf)</fontsrc>
+    <fontsrc label="SeBld">url(../results/Kedebideri-SemiBold.ttf)</fontsrc>
+    <fontsrc label="Bld">url(../results/Kedebideri-Bold.ttf)</fontsrc>
+    <fontsrc label="ExBld">url(../results/Kedebideri-ExtraBold.ttf)</fontsrc>
+    <fontsrc label="Blk">url(../results/Kedebideri-Black.ttf)</fontsrc>
     <title>AllChars auto</title>
   </head>
   <testgroup label="Encoded characters">
@@ -912,67 +917,67 @@
     </test>
     <test background="#f0fff0" label="U+FE00">
       <comment>VS1</comment>
-      <string>\u016EA0\u00FE00</string>
+      <string>\u00FE00</string>
     </test>
     <test background="#f0fff0" label="U+FE01">
       <comment>VS2</comment>
-      <string>\u016EA0\u00FE01</string>
+      <string>\u00FE01</string>
     </test>
     <test background="#f0fff0" label="U+FE02">
       <comment>VS3</comment>
-      <string>\u016EA0\u00FE02</string>
+      <string>\u00FE02</string>
     </test>
     <test background="#f0fff0" label="U+FE03">
       <comment>VS4</comment>
-      <string>\u016EA0\u00FE03</string>
+      <string>\u00FE03</string>
     </test>
     <test background="#f0fff0" label="U+FE04">
       <comment>VS5</comment>
-      <string>\u016EA0\u00FE04</string>
+      <string>\u00FE04</string>
     </test>
     <test background="#f0fff0" label="U+FE05">
       <comment>VS6</comment>
-      <string>\u016EA0\u00FE05</string>
+      <string>\u00FE05</string>
     </test>
     <test background="#f0fff0" label="U+FE06">
       <comment>VS7</comment>
-      <string>\u016EA0\u00FE06</string>
+      <string>\u00FE06</string>
     </test>
     <test background="#f0fff0" label="U+FE07">
       <comment>VS8</comment>
-      <string>\u016EA0\u00FE07</string>
+      <string>\u00FE07</string>
     </test>
     <test background="#f0fff0" label="U+FE08">
       <comment>VS9</comment>
-      <string>\u016EA0\u00FE08</string>
+      <string>\u00FE08</string>
     </test>
     <test background="#f0fff0" label="U+FE09">
       <comment>VS10</comment>
-      <string>\u016EA0\u00FE09</string>
+      <string>\u00FE09</string>
     </test>
     <test background="#f0fff0" label="U+FE0A">
       <comment>VS11</comment>
-      <string>\u016EA0\u00FE0A</string>
+      <string>\u00FE0A</string>
     </test>
     <test background="#f0fff0" label="U+FE0B">
       <comment>VS12</comment>
-      <string>\u016EA0\u00FE0B</string>
+      <string>\u00FE0B</string>
     </test>
     <test background="#f0fff0" label="U+FE0C">
       <comment>VS13</comment>
-      <string>\u016EA0\u00FE0C</string>
+      <string>\u00FE0C</string>
     </test>
     <test background="#f0fff0" label="U+FE0D">
       <comment>VS14</comment>
-      <string>\u016EA0\u00FE0D</string>
+      <string>\u00FE0D</string>
     </test>
     <test background="#f0fff0" label="U+FE0E">
       <comment>VS15</comment>
-      <string>\u016EA0\u00FE0E</string>
+      <string>\u00FE0E</string>
     </test>
     <test background="#f0fff0" label="U+FE0F">
       <comment>VS16</comment>
-      <string>\u016EA0\u00FE0F</string>
+      <string>\u00FE0F</string>
     </test>
     <test label="U+FEFF">
       <comment>zeroWidthNoBreakSpace</comment>
