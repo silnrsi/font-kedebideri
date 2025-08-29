@@ -920,11 +920,11 @@
     <integer>-30</integer>
     <key>Shep-beria</key>
     <integer>-60</integer>
-    <key>eight</key>
+    <key>eight.001</key>
     <integer>-20</integer>
     <key>fitko-beria</key>
     <integer>20</integer>
-    <key>four</key>
+    <key>four.001</key>
     <integer>-90</integer>
     <key>goway-beria</key>
     <integer>-10</integer>
@@ -934,11 +934,11 @@
     <integer>-40</integer>
     <key>meri-beria</key>
     <integer>-110</integer>
-    <key>nine</key>
+    <key>nine.001</key>
     <integer>-10</integer>
     <key>seri-beria</key>
     <integer>-30</integer>
-    <key>seven</key>
+    <key>seven.001</key>
     <integer>50</integer>
     <key>shep-beria</key>
     <integer>-30</integer>
@@ -1020,21 +1020,21 @@
     <integer>-80</integer>
     <key>ay-beria</key>
     <integer>-80</integer>
-    <key>eight</key>
+    <key>eight.001</key>
     <integer>-30</integer>
-    <key>four</key>
+    <key>four.001</key>
     <integer>-100</integer>
     <key>goway-beria</key>
     <integer>-40</integer>
     <key>kobo-beria</key>
     <integer>-50</integer>
-    <key>nine</key>
+    <key>nine.001</key>
     <integer>-40</integer>
     <key>nini-beria</key>
     <integer>-50</integer>
-    <key>one</key>
+    <key>one.001</key>
     <integer>-120</integer>
-    <key>seven</key>
+    <key>seven.001</key>
     <integer>-40</integer>
     <key>tatasoue-beria</key>
     <integer>-100</integer>
@@ -1051,23 +1051,23 @@
     <integer>-10</integer>
     <key>ay-beria</key>
     <integer>-10</integer>
-    <key>eight</key>
+    <key>eight.001</key>
     <integer>-20</integer>
-    <key>five</key>
+    <key>five.001</key>
     <integer>-10</integer>
-    <key>four</key>
+    <key>four.001</key>
     <integer>-20</integer>
     <key>goway-beria</key>
     <integer>-10</integer>
-    <key>nine</key>
+    <key>nine.001</key>
     <integer>-30</integer>
-    <key>one</key>
+    <key>one.001</key>
     <integer>-20</integer>
     <key>shep-beria</key>
     <integer>-10</integer>
-    <key>three</key>
+    <key>three.001</key>
     <integer>-10</integer>
-    <key>two</key>
+    <key>two.001</key>
     <integer>-10</integer>
   </dict>
   <key>bracketleft</key>
@@ -1084,9 +1084,9 @@
     <integer>-20</integer>
     <key>darbai-beria</key>
     <integer>-10</integer>
-    <key>eight</key>
+    <key>eight.001</key>
     <integer>-20</integer>
-    <key>four</key>
+    <key>four.001</key>
     <integer>-20</integer>
     <key>goway-beria</key>
     <integer>-20</integer>
@@ -1094,13 +1094,13 @@
     <integer>-10</integer>
     <key>meri-beria</key>
     <integer>-10</integer>
-    <key>nine</key>
+    <key>nine.001</key>
     <integer>-40</integer>
-    <key>one</key>
+    <key>one.001</key>
     <integer>-30</integer>
-    <key>seven</key>
+    <key>seven.001</key>
     <integer>-10</integer>
-    <key>two</key>
+    <key>two.001</key>
     <integer>-10</integer>
   </dict>
   <key>bullet</key>
@@ -1137,19 +1137,19 @@
     <integer>-20</integer>
     <key>meri-beria</key>
     <integer>-20</integer>
-    <key>nine</key>
+    <key>nine.001</key>
     <integer>-20</integer>
-    <key>one</key>
+    <key>one.001</key>
     <integer>-20</integer>
     <key>seri-beria</key>
     <integer>-20</integer>
-    <key>seven</key>
+    <key>seven.001</key>
     <integer>-30</integer>
     <key>shep-beria</key>
     <integer>-10</integer>
     <key>tatasoue-beria</key>
     <integer>-30</integer>
-    <key>two</key>
+    <key>two.001</key>
     <integer>-20</integer>
     <key>wasse-beria</key>
     <integer>-30</integer>
@@ -1182,13 +1182,13 @@
     <integer>-45</integer>
     <key>darbai-beria</key>
     <integer>-10</integer>
-    <key>eight</key>
+    <key>eight.001</key>
     <integer>-30</integer>
     <key>fitko-beria</key>
     <integer>-10</integer>
-    <key>five</key>
+    <key>five.001</key>
     <integer>-10</integer>
-    <key>four</key>
+    <key>four.001</key>
     <integer>-55</integer>
     <key>goway-beria</key>
     <integer>-20</integer>
@@ -1196,19 +1196,19 @@
     <integer>-20</integer>
     <key>meri-beria</key>
     <integer>10</integer>
-    <key>nine</key>
+    <key>nine.001</key>
     <integer>-50</integer>
     <key>nini-beria</key>
     <integer>-30</integer>
-    <key>one</key>
+    <key>one.001</key>
     <integer>-80</integer>
-    <key>seven</key>
+    <key>seven.001</key>
     <integer>-40</integer>
     <key>tatasoue-beria</key>
     <integer>-100</integer>
-    <key>three</key>
+    <key>three.001</key>
     <integer>-10</integer>
-    <key>two</key>
+    <key>two.001</key>
     <integer>-10</integer>
     <key>wasse-beria</key>
     <integer>-60</integer>
@@ -1241,13 +1241,13 @@
   </dict>
   <key>divide</key>
   <dict>
-    <key>nine</key>
+    <key>nine.001</key>
     <integer>-10</integer>
-    <key>one</key>
+    <key>one.001</key>
     <integer>-20</integer>
-    <key>seven</key>
+    <key>seven.001</key>
     <integer>-10</integer>
-    <key>two</key>
+    <key>two.001</key>
     <integer>-10</integer>
   </dict>
   <key>djai-beria</key>
@@ -1265,12 +1265,12 @@
   </dict>
   <key>dollar</key>
   <dict>
-    <key>nine</key>
+    <key>nine.001</key>
     <integer>-20</integer>
-    <key>one</key>
+    <key>one.001</key>
     <integer>-10</integer>
   </dict>
-  <key>eight</key>
+  <key>eight.001</key>
   <dict>
     <key>asterisk</key>
     <integer>-20</integer>
@@ -1290,7 +1290,7 @@
     <integer>-30</integer>
     <key>fraction</key>
     <integer>10</integer>
-    <key>nine</key>
+    <key>nine.001</key>
     <integer>-15</integer>
     <key>parenright</key>
     <integer>-20</integer>
@@ -1300,31 +1300,31 @@
     <integer>-40</integer>
     <key>slash</key>
     <integer>-30</integer>
-    <key>two</key>
+    <key>two.001</key>
     <integer>-10</integer>
   </dict>
   <key>equal</key>
   <dict>
-    <key>four</key>
+    <key>four.001</key>
     <integer>20</integer>
-    <key>nine</key>
+    <key>nine.001</key>
     <integer>-10</integer>
-    <key>one</key>
+    <key>one.001</key>
     <integer>-30</integer>
-    <key>seven</key>
+    <key>seven.001</key>
     <integer>-20</integer>
-    <key>three</key>
+    <key>three.001</key>
     <integer>-20</integer>
-    <key>two</key>
+    <key>two.001</key>
     <integer>-10</integer>
   </dict>
   <key>euro</key>
   <dict>
-    <key>four</key>
+    <key>four.001</key>
     <integer>-20</integer>
-    <key>nine</key>
+    <key>nine.001</key>
     <integer>-10</integer>
-    <key>seven</key>
+    <key>seven.001</key>
     <integer>20</integer>
   </dict>
   <key>fitko-beria</key>
@@ -1376,7 +1376,7 @@
     <key>wasse-beria</key>
     <integer>-20</integer>
   </dict>
-  <key>five</key>
+  <key>five.001</key>
   <dict>
     <key>asterisk</key>
     <integer>-20</integer>
@@ -1386,15 +1386,15 @@
     <integer>-30</integer>
     <key>exclam</key>
     <integer>-30</integer>
-    <key>five</key>
+    <key>five.001</key>
     <integer>-10</integer>
-    <key>four</key>
+    <key>four.001</key>
     <integer>10</integer>
     <key>fraction</key>
     <integer>30</integer>
-    <key>nine</key>
+    <key>nine.001</key>
     <integer>-20</integer>
-    <key>one</key>
+    <key>one.001</key>
     <integer>-10</integer>
     <key>period</key>
     <integer>-20</integer>
@@ -1405,12 +1405,12 @@
   </dict>
   <key>florin</key>
   <dict>
-    <key>four</key>
+    <key>four.001</key>
     <integer>-10</integer>
-    <key>seven</key>
+    <key>seven.001</key>
     <integer>40</integer>
   </dict>
-  <key>four</key>
+  <key>four.001</key>
   <dict>
     <key>asterisk</key>
     <integer>-30</integer>
@@ -1422,11 +1422,11 @@
     <integer>-30</integer>
     <key>exclam</key>
     <integer>-40</integer>
-    <key>five</key>
+    <key>five.001</key>
     <integer>-10</integer>
     <key>greater</key>
     <integer>-10</integer>
-    <key>nine</key>
+    <key>nine.001</key>
     <integer>-15</integer>
     <key>period</key>
     <integer>-20</integer>
@@ -1437,17 +1437,17 @@
   </dict>
   <key>fraction</key>
   <dict>
-    <key>five</key>
+    <key>five.001</key>
     <integer>30</integer>
-    <key>four</key>
+    <key>four.001</key>
     <integer>-100</integer>
-    <key>nine</key>
+    <key>nine.001</key>
     <integer>20</integer>
-    <key>seven</key>
+    <key>seven.001</key>
     <integer>80</integer>
-    <key>three</key>
+    <key>three.001</key>
     <integer>30</integer>
-    <key>two</key>
+    <key>two.001</key>
     <integer>30</integer>
   </dict>
   <key>gna-beria</key>
@@ -1530,17 +1530,17 @@
   </dict>
   <key>greater</key>
   <dict>
-    <key>five</key>
+    <key>five.001</key>
     <integer>-10</integer>
-    <key>nine</key>
+    <key>nine.001</key>
     <integer>-10</integer>
-    <key>one</key>
+    <key>one.001</key>
     <integer>-20</integer>
-    <key>seven</key>
+    <key>seven.001</key>
     <integer>-20</integer>
-    <key>three</key>
+    <key>three.001</key>
     <integer>-10</integer>
-    <key>two</key>
+    <key>two.001</key>
     <integer>-10</integer>
   </dict>
   <key>kobo-beria</key>
@@ -1615,9 +1615,9 @@
   </dict>
   <key>less</key>
   <dict>
-    <key>four</key>
+    <key>four.001</key>
     <integer>-10</integer>
-    <key>seven</key>
+    <key>seven.001</key>
     <integer>20</integer>
   </dict>
   <key>meri-beria</key>
@@ -1661,15 +1661,15 @@
   </dict>
   <key>minus</key>
   <dict>
-    <key>nine</key>
+    <key>nine.001</key>
     <integer>-20</integer>
-    <key>one</key>
+    <key>one.001</key>
     <integer>-30</integer>
-    <key>seven</key>
+    <key>seven.001</key>
     <integer>-20</integer>
-    <key>three</key>
+    <key>three.001</key>
     <integer>-20</integer>
-    <key>two</key>
+    <key>two.001</key>
     <integer>-20</integer>
   </dict>
   <key>ngay-beria</key>
@@ -1742,7 +1742,7 @@
     <key>wasse-beria</key>
     <integer>-30</integer>
   </dict>
-  <key>one</key>
+  <key>one.001</key>
   <dict>
     <key>asterisk</key>
     <integer>-40</integer>
@@ -1756,7 +1756,7 @@
     <integer>-45</integer>
     <key>exclam</key>
     <integer>-50</integer>
-    <key>four</key>
+    <key>four.001</key>
     <integer>-20</integer>
     <key>period</key>
     <integer>-60</integer>
@@ -1777,21 +1777,21 @@
     <integer>-30</integer>
     <key>djai-beria</key>
     <integer>-20</integer>
-    <key>eight</key>
+    <key>eight.001</key>
     <integer>-20</integer>
-    <key>five</key>
+    <key>five.001</key>
     <integer>-10</integer>
-    <key>four</key>
+    <key>four.001</key>
     <integer>-35</integer>
     <key>kobo-beria</key>
     <integer>-20</integer>
-    <key>nine</key>
+    <key>nine.001</key>
     <integer>-40</integer>
     <key>tatasoue-beria</key>
     <integer>-10</integer>
-    <key>three</key>
+    <key>three.001</key>
     <integer>-10</integer>
-    <key>two</key>
+    <key>two.001</key>
     <integer>-20</integer>
   </dict>
   <key>period</key>
@@ -1824,9 +1824,9 @@
     <integer>-90</integer>
     <key>ay-beria</key>
     <integer>-50</integer>
-    <key>eight</key>
+    <key>eight.001</key>
     <integer>-20</integer>
-    <key>four</key>
+    <key>four.001</key>
     <integer>-40</integer>
     <key>goway-beria</key>
     <integer>-10</integer>
@@ -1834,15 +1834,15 @@
     <integer>-30</integer>
     <key>meri-beria</key>
     <integer>10</integer>
-    <key>nine</key>
+    <key>nine.001</key>
     <integer>-50</integer>
     <key>nini-beria</key>
     <integer>-30</integer>
-    <key>one</key>
+    <key>one.001</key>
     <integer>-90</integer>
     <key>quotedblright</key>
     <integer>-150</integer>
-    <key>seven</key>
+    <key>seven.001</key>
     <integer>-40</integer>
     <key>tatasoue-beria</key>
     <integer>-100</integer>
@@ -1868,15 +1868,15 @@
   </dict>
   <key>plus</key>
   <dict>
-    <key>nine</key>
+    <key>nine.001</key>
     <integer>-20</integer>
-    <key>one</key>
+    <key>one.001</key>
     <integer>-30</integer>
-    <key>seven</key>
+    <key>seven.001</key>
     <integer>-20</integer>
-    <key>three</key>
+    <key>three.001</key>
     <integer>-20</integer>
-    <key>two</key>
+    <key>two.001</key>
     <integer>-20</integer>
   </dict>
   <key>public.kern1.Ay-beria</key>
@@ -4214,7 +4214,7 @@
   </dict>
   <key>quotedbl</key>
   <dict>
-    <key>four</key>
+    <key>four.001</key>
     <integer>-130</integer>
   </dict>
   <key>quotedblright</key>
@@ -4226,7 +4226,7 @@
   </dict>
   <key>section</key>
   <dict>
-    <key>four</key>
+    <key>four.001</key>
     <integer>-10</integer>
   </dict>
   <key>seri-beria</key>
@@ -4264,7 +4264,7 @@
     <key>trademark</key>
     <integer>20</integer>
   </dict>
-  <key>seven</key>
+  <key>seven.001</key>
   <dict>
     <key>asterisk</key>
     <integer>40</integer>
@@ -4280,27 +4280,27 @@
     <integer>20</integer>
     <key>exclam</key>
     <integer>-20</integer>
-    <key>five</key>
+    <key>five.001</key>
     <integer>10</integer>
-    <key>four</key>
+    <key>four.001</key>
     <integer>-30</integer>
     <key>fraction</key>
     <integer>-80</integer>
     <key>greater</key>
     <integer>20</integer>
-    <key>one</key>
+    <key>one.001</key>
     <integer>10</integer>
     <key>paragraph</key>
     <integer>30</integer>
     <key>period</key>
     <integer>-80</integer>
-    <key>seven</key>
+    <key>seven.001</key>
     <integer>50</integer>
     <key>slash</key>
     <integer>-150</integer>
-    <key>three</key>
+    <key>three.001</key>
     <integer>20</integer>
-    <key>two</key>
+    <key>two.001</key>
     <integer>30</integer>
   </dict>
   <key>shep-beria</key>
@@ -4332,7 +4332,7 @@
     <key>wasse-beria</key>
     <integer>10</integer>
   </dict>
-  <key>six</key>
+  <key>six.001</key>
   <dict>
     <key>asterisk</key>
     <integer>-10</integer>
@@ -4346,15 +4346,15 @@
     <integer>-30</integer>
     <key>exclam</key>
     <integer>-40</integer>
-    <key>five</key>
+    <key>five.001</key>
     <integer>-5</integer>
-    <key>four</key>
+    <key>four.001</key>
     <integer>-5</integer>
     <key>fraction</key>
     <integer>20</integer>
-    <key>nine</key>
+    <key>nine.001</key>
     <integer>-25</integer>
-    <key>one</key>
+    <key>one.001</key>
     <integer>-10</integer>
     <key>parenright</key>
     <integer>-40</integer>
@@ -4401,11 +4401,11 @@
     <integer>-30</integer>
     <key>djai-beria</key>
     <integer>-15</integer>
-    <key>eight</key>
+    <key>eight.001</key>
     <integer>-10</integer>
     <key>fitko-beria</key>
     <integer>20</integer>
-    <key>four</key>
+    <key>four.001</key>
     <integer>-100</integer>
     <key>goway-beria</key>
     <integer>-10</integer>
@@ -4421,7 +4421,7 @@
     <integer>-100</integer>
     <key>seri-beria</key>
     <integer>-50</integer>
-    <key>seven</key>
+    <key>seven.001</key>
     <integer>60</integer>
     <key>shep-beria</key>
     <integer>-50</integer>
@@ -4429,7 +4429,7 @@
     <integer>-380</integer>
     <key>tatasoue-beria</key>
     <integer>30</integer>
-    <key>three</key>
+    <key>three.001</key>
     <integer>20</integer>
   </dict>
   <key>space</key>
@@ -4476,7 +4476,7 @@
     <key>trademark</key>
     <integer>20</integer>
   </dict>
-  <key>three</key>
+  <key>three.001</key>
   <dict>
     <key>asterisk</key>
     <integer>-20</integer>
@@ -4492,22 +4492,22 @@
     <integer>-40</integer>
     <key>fraction</key>
     <integer>20</integer>
-    <key>nine</key>
+    <key>nine.001</key>
     <integer>-10</integer>
     <key>period</key>
     <integer>-20</integer>
     <key>question</key>
     <integer>-40</integer>
-    <key>seven</key>
+    <key>seven.001</key>
     <integer>-5</integer>
     <key>slash</key>
     <integer>-40</integer>
-    <key>three</key>
+    <key>three.001</key>
     <integer>-5</integer>
-    <key>two</key>
+    <key>two.001</key>
     <integer>-10</integer>
   </dict>
-  <key>two</key>
+  <key>two.001</key>
   <dict>
     <key>asterisk</key>
     <integer>-10</integer>
@@ -4517,9 +4517,9 @@
     <integer>-15</integer>
     <key>exclam</key>
     <integer>-30</integer>
-    <key>five</key>
+    <key>five.001</key>
     <integer>10</integer>
-    <key>four</key>
+    <key>four.001</key>
     <integer>-20</integer>
     <key>fraction</key>
     <integer>80</integer>
@@ -4561,9 +4561,9 @@
   </dict>
   <key>yen</key>
   <dict>
-    <key>four</key>
+    <key>four.001</key>
     <integer>-20</integer>
-    <key>seven</key>
+    <key>seven.001</key>
     <integer>50</integer>
   </dict>
 </dict>

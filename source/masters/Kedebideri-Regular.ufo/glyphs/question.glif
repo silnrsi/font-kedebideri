@@ -3,6 +3,7 @@
   <advance width="611"/>
   <unicode hex="003F"/>
   <outline>
+    <component base="period" xOffset="143"/>
     <contour>
       <point x="241" y="363" type="curve"/>
       <point x="241" y="213" type="line"/>
@@ -28,11 +29,11 @@
       <point x="454" y="432"/>
       <point x="390" y="363"/>
     </contour>
-    <contour>
-      <point x="224" y="103" type="line"/>
-      <point x="224" y="0" type="line"/>
-      <point x="320" y="0" type="line"/>
-      <point x="320" y="103" type="line"/>
-    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
 </glyph>

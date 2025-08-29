@@ -149,7 +149,7 @@
   </array>
   <key>public.kern1.eight</key>
   <array>
-    <string>eight</string>
+    <string>eight.001</string>
   </array>
   <key>public.kern1.exclam</key>
   <array>
@@ -161,11 +161,11 @@
   </array>
   <key>public.kern1.five</key>
   <array>
-    <string>five</string>
+    <string>five.001</string>
   </array>
   <key>public.kern1.four</key>
   <array>
-    <string>four</string>
+    <string>four.001</string>
   </array>
   <key>public.kern1.gna-beria</key>
   <array>
@@ -221,7 +221,7 @@
   </array>
   <key>public.kern1.one</key>
   <array>
-    <string>one</string>
+    <string>one.001</string>
   </array>
   <key>public.kern1.parenleft</key>
   <array>
@@ -271,7 +271,7 @@
   </array>
   <key>public.kern1.seven</key>
   <array>
-    <string>seven</string>
+    <string>seven.001</string>
   </array>
   <key>public.kern1.shep-beria</key>
   <array>
@@ -279,7 +279,7 @@
   </array>
   <key>public.kern1.six</key>
   <array>
-    <string>six</string>
+    <string>six.001</string>
   </array>
   <key>public.kern1.slash</key>
   <array>
@@ -295,11 +295,11 @@
   </array>
   <key>public.kern1.three</key>
   <array>
-    <string>three</string>
+    <string>three.001</string>
   </array>
   <key>public.kern1.two</key>
   <array>
-    <string>two</string>
+    <string>two.001</string>
   </array>
   <key>public.kern1.ui-beria</key>
   <array>
@@ -311,8 +311,8 @@
   </array>
   <key>public.kern1.zero</key>
   <array>
-    <string>nine</string>
-    <string>zero</string>
+    <string>nine.001</string>
+    <string>zero.001</string>
   </array>
   <key>public.kern2.Ay-beria</key>
   <array>
@@ -462,7 +462,7 @@
   </array>
   <key>public.kern2.eight</key>
   <array>
-    <string>eight</string>
+    <string>eight.001</string>
   </array>
   <key>public.kern2.exclam</key>
   <array>
@@ -474,11 +474,11 @@
   </array>
   <key>public.kern2.five</key>
   <array>
-    <string>five</string>
+    <string>five.001</string>
   </array>
   <key>public.kern2.four</key>
   <array>
-    <string>four</string>
+    <string>four.001</string>
   </array>
   <key>public.kern2.goway-beria</key>
   <array>
@@ -525,7 +525,7 @@
   </array>
   <key>public.kern2.nine</key>
   <array>
-    <string>nine</string>
+    <string>nine.001</string>
   </array>
   <key>public.kern2.nini-beria</key>
   <array>
@@ -537,7 +537,7 @@
   </array>
   <key>public.kern2.one</key>
   <array>
-    <string>one</string>
+    <string>one.001</string>
   </array>
   <key>public.kern2.parenright</key>
   <array>
@@ -586,7 +586,7 @@
   </array>
   <key>public.kern2.seven</key>
   <array>
-    <string>seven</string>
+    <string>seven.001</string>
   </array>
   <key>public.kern2.shep-beria</key>
   <array>
@@ -606,7 +606,7 @@
   </array>
   <key>public.kern2.three</key>
   <array>
-    <string>three</string>
+    <string>three.001</string>
   </array>
   <key>public.kern2.trademark</key>
   <array>
@@ -614,7 +614,7 @@
   </array>
   <key>public.kern2.two</key>
   <array>
-    <string>two</string>
+    <string>two.001</string>
   </array>
   <key>public.kern2.ui-beria</key>
   <array>
@@ -626,8 +626,8 @@
   </array>
   <key>public.kern2.zero</key>
   <array>
-    <string>six</string>
-    <string>zero</string>
+    <string>six.001</string>
+    <string>zero.001</string>
   </array>
 </dict>
 </plist>

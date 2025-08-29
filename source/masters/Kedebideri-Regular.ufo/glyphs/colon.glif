@@ -3,17 +3,7 @@
   <advance width="306"/>
   <unicode hex="003A"/>
   <outline>
-    <contour>
-      <point x="103" y="458" type="line"/>
-      <point x="103" y="350" type="line"/>
-      <point x="203" y="350" type="line"/>
-      <point x="203" y="458" type="line"/>
-    </contour>
-    <contour>
-      <point x="103" y="108" type="line"/>
-      <point x="103" y="0" type="line"/>
-      <point x="203" y="0" type="line"/>
-      <point x="203" y="108" type="line"/>
-    </contour>
+    <component base="period" xOffset="24" yOffset="354"/>
+    <component base="period" xOffset="24"/>
   </outline>
 </glyph>

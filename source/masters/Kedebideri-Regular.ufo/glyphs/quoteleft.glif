@@ -3,14 +3,6 @@
   <advance width="266"/>
   <unicode hex="2018"/>
   <outline>
-    <contour>
-      <point x="77" y="536" type="line"/>
-      <point x="77" y="436" type="line"/>
-      <point x="177" y="436" type="line"/>
-      <point x="177" y="544" type="line"/>
-      <point x="141" y="544" type="line"/>
-      <point x="185" y="678" type="line"/>
-      <point x="143" y="694" type="line"/>
-    </contour>
+    <component base="comma" xScale="-1" yScale="-1" xOffset="261" yOffset="540"/>
   </outline>
 </glyph>

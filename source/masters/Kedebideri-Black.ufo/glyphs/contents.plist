@@ -370,8 +370,8 @@
   <string>egrave.glif</string>
   <key>eh-beria</key>
   <string>eh-beria.glif</string>
-  <key>eight</key>
-  <string>eight.glif</string>
+  <key>eight.001</key>
+  <string>eight.001.glif</string>
   <key>ellipsis</key>
   <string>ellipsis.glif</string>
   <key>emdash</key>
@@ -410,14 +410,14 @@
   <string>figurespace.glif</string>
   <key>fitko-beria</key>
   <string>fitko-beria.glif</string>
-  <key>five</key>
-  <string>five.glif</string>
+  <key>five.001</key>
+  <string>five.001.glif</string>
   <key>fl</key>
   <string>fl.glif</string>
   <key>florin</key>
   <string>florin.glif</string>
-  <key>four</key>
-  <string>four.glif</string>
+  <key>four.001</key>
+  <string>four.001.glif</string>
   <key>fourperemspace</key>
   <string>fourperemspace.glif</string>
   <key>foursuperior</key>
@@ -530,8 +530,8 @@
   <string>nbspace-latin.glif</string>
   <key>ngay-beria</key>
   <string>ngay-beria.glif</string>
-  <key>nine</key>
-  <string>nine.glif</string>
+  <key>nine.001</key>
+  <string>nine.001.glif</string>
   <key>nini-beria</key>
   <string>nini-beria.glif</string>
   <key>nonbreakinghyphen</key>
@@ -562,8 +562,8 @@
   <string>ograve.glif</string>
   <key>oi-beria</key>
   <string>oi-beria.glif</string>
-  <key>one</key>
-  <string>one.glif</string>
+  <key>one.001</key>
+  <string>one.001.glif</string>
   <key>onehalf</key>
   <string>onehalf.glif</string>
   <key>onequarter</key>
@@ -652,16 +652,16 @@
   <string>semicolon.glif</string>
   <key>seri-beria</key>
   <string>seri-beria.glif</string>
-  <key>seven</key>
-  <string>seven.glif</string>
+  <key>seven.001</key>
+  <string>seven.001.glif</string>
   <key>shep-beria</key>
   <string>shep-beria.glif</string>
   <key>sidebearingleft</key>
   <string>sidebearingleft.glif</string>
   <key>sidebearingright</key>
   <string>sidebearingright.glif</string>
-  <key>six</key>
-  <string>six.glif</string>
+  <key>six.001</key>
+  <string>six.001.glif</string>
   <key>sixperemspace</key>
   <string>sixperemspace.glif</string>
   <key>slash</key>
@@ -684,8 +684,8 @@
   <string>thinspace.glif</string>
   <key>thorn</key>
   <string>thorn.glif</string>
-  <key>three</key>
-  <string>three.glif</string>
+  <key>three.001</key>
+  <string>three.001.glif</string>
   <key>threeperemspace</key>
   <string>threeperemspace.glif</string>
   <key>threequarters</key>
@@ -696,8 +696,8 @@
   <string>tilde.glif</string>
   <key>trademark</key>
   <string>trademark.glif</string>
-  <key>two</key>
-  <string>two.glif</string>
+  <key>two.001</key>
+  <string>two.001.glif</string>
   <key>twosuperior</key>
   <string>twosuperior.glif</string>
   <key>u</key>
@@ -736,8 +736,8 @@
   <string>z.glif</string>
   <key>zcaron</key>
   <string>zcaron.glif</string>
-  <key>zero</key>
-  <string>zero.glif</string>
+  <key>zero.001</key>
+  <string>zero.001.glif</string>
   <key>zeroWidthNoBreakSpace</key>
   <string>zeroW_idthN_oB_reakS_pace.glif</string>
   <key>zerowidthjoiner</key>
