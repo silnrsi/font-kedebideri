@@ -1,19 +1,20 @@
 ---
 title: Kedebideri - Announcement
-fontversion: 2.000
+fontversion: 3.000
 ---
 
-We are pleased to release version 2.000 of the Kedebideri font. The font package is available for download from the [Download page](https://software.sil.org/kedebideri/download/).
+We are pleased to release version 3.000 of the Kedebideri font. This is the first Unicode font for the Beria Erfe script which was encoded in Unicode 17.0.
 
-_The Beria Erfe script has received [provisional codepoint assignments](https://www.unicode.org/alloc/Pipeline.html) by the Unicode Technical Committee. The script has not yet been formally accepted and approved for a future version of the Unicode Standard. The Kedebideri font is using the provisional codepoints, but those codepoints can always change. Should those codepoints change, this font would be re-released with the new encoding. Documents would then need converting to use the new codepoints._
+The font package is available for download from the [Download page](https://software.sil.org/kedebideri/download/).
 
-One weight for this typeface family is included:
+Six weights for this typeface family are now included:
 
-- Kedebideri Regular
-
-### Known issues
-
-Because this font uses provisional Unicode codepoints, there is a chance that the codepoints in this font will change. If you use this font, and codepoints are changed, your data will need converting to the new codepoints.
+     * Kedebideri Regular
+     * Kedebideri Medium
+     * Kedebideri SemiBold
+     * Kedebideri Bold
+     * Kedebideri ExtraBold
+     * Kedebideri Black
 
 Both desktop and web fonts are provided in a single, all-platforms package on the [Download Page](https://software.sil.org/kedebideri/download).
 

@@ -23,14 +23,14 @@ These fonts will work normally like any other fonts in most applications. Since 
 
 ## Web fonts
 
-Web font versions of these fonts (in WOFF and WOFF2 formats) are available in the `web` folder. These can be copied to a web server and used as fonts on web pages. A very basic HTML/CSS demo page is also included. For more information on the options and techniques available for using these fonts on web pages see [Using SIL Fonts on Web Pages](http://software.sil.org/fonts/webfonts).
+Web font versions of these fonts (in WOFF and WOFF2 formats) are available in the `web` folder. These can be copied to a web server and used as fonts on web pages. A very basic HTML/CSS demo page is also included. For more information on the options and techniques available for using these fonts on web pages see [Using SIL Fonts on Web Pages](https://software.sil.org/fonts/webfonts).
 
 ## Text conversion
 
-Since this script is provisionally encoded, people may wish to convert documents from custom encoded fonts to the provisional Unicode codepoints. TECkit is one program that can be used for character encoding conversion. TECkit allows users to write their own custom conversion mappings. The TECkit package is available for download from SIL’s [TECkit](https://software.sil.org/teckit/) Web site. The [SIL Converters](https://software.sil.org/silconverters/) software will be an important tool in data conversion.
+Since this script was only recently encoded, people may wish to convert documents from custom encoded fonts to the official Unicode codepoints. TECkit is one program that can be used for character encoding conversion. TECkit allows users to write their own custom conversion mappings. The TECkit package is available for download from SIL’s [TECkit](https://software.sil.org/teckit/) Web site. The [SIL Converters](https://software.sil.org/silconverters/) software will be an important tool in data conversion.
 
 Other suggestions are listed here: [Introduction to Text Conversion and Transliteration](https://scriptsource.org/entry/xlzd6n5aqt).
 
-There is a minimally tested TECKit mapping file available for converting data from the custom encoded Zaghawa Beria font to the provisional Unicode codepoints:
+There is a minimally tested TECKit mapping file available for converting data from the custom encoded Zaghawa Beria font to the Unicode codepoints:
 
 - [ZaghawaBeria2Uni](https://github.com/silnrsi/wsresources/tree/master/scripts/BeriaErfe/legacy/zaghawa-beria/mappings)

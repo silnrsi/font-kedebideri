@@ -48,22 +48,16 @@ Regular: <span dir="ltr" class='Kedebideri-R normal'>™ Ω ∂ ∆ ∏ ∑ −
 
 Regular:<span dir="ltr" class='Kedebideri-R normal'> &#x16EA0; &#x16EA1; &#x16EA2; &#x16EA3; &#x16EA4; &#x16EA5; &#x16EA6; &#x16EA7; &#x16EA8; &#x16EA9; &#x16EAA; &#x16EAB; &#x16EAC; &#x16EAD; &#x16EAE; &#x16EAF; &#x16EB0; &#x16EB1; &#x16EB2; &#x16EB3; &#x16EB4; &#x16EB5; &#x16EB6; &#x16EB7; &#x16EB8; &#x16EBB; &#x16EBC; &#x16EBD; &#x16EBE; &#x16EBF; &#x16EC0; &#x16EC1; &#x16EC2; &#x16EC3; &#x16EC4; &#x16EC5; &#x16EC6; &#x16EC7; &#x16EC8; &#x16EC9; &#x16ECA; &#x16ECB; &#x16ECC; &#x16ECD; &#x16ECE; &#x16ECF; &#x16ED0; &#x16ED1; &#x16ED2; &#x16ED3; </span>
 
+Bold:<span dir="ltr" class='Kedebideri-B normal'> &#x16EA0; &#x16EA1; &#x16EA2; &#x16EA3; &#x16EA4; &#x16EA5; &#x16EA6; &#x16EA7; &#x16EA8; &#x16EA9; &#x16EAA; &#x16EAB; &#x16EAC; &#x16EAD; &#x16EAE; &#x16EAF; &#x16EB0; &#x16EB1; &#x16EB2; &#x16EB3; &#x16EB4; &#x16EB5; &#x16EB6; &#x16EB7; &#x16EB8; &#x16EBB; &#x16EBC; &#x16EBD; &#x16EBE; &#x16EBF; &#x16EC0; &#x16EC1; &#x16EC2; &#x16EC3; &#x16EC4; &#x16EC5; &#x16EC6; &#x16EC7; &#x16EC8; &#x16EC9; &#x16ECA; &#x16ECB; &#x16ECC; &#x16ECD; &#x16ECE; &#x16ECF; &#x16ED0; &#x16ED1; &#x16ED2; &#x16ED3; </span>
+
 ## Sample Text
 
 
-### Kedebideri Running Text (Regular)
+### UDHR Article 1 in Zaghawa
 
-<span class='Kedebideri-R normal'>𖺩𖻑𖺼𖺻𖻓 𖻇𖻂, 𖺼𖺻𖻀𖻑 𖻊𖻁 𖺼𖺻𖻌𖻐𖺻 𖻇𖻂 𖻀𖺾𖻇𖻂 𖻌𖻑 𖻄𖺾𖻓 𖻄𖺾𖻓-𖻀𖻂𖻇𖻂́. 𖺡𖺾𖻌 𖻄𖺾𖻐𖻐𖻂𖺾́, 𖻊𖻁 𖻄𖻂𖻀𖻊 𖻇𖺻𖻌𖺾𖻇𖻂́.
+<span class='Kedebideri-R normal'>𖺯 𖺳𖺯𖺩𖺩𖺯𖺯 𖺴𖺣𖺱𖺣𖺤 𖺡́𖺣𖺥𖺧𖺥𖺠 𖺥𖺠𖺱𖺢𖺧 𖺡́𖺣𖺥𖺧𖺥𖺠 𖺧𖺬𖺬𖺣𖺱 𖺵𖺣𖺸𖺧𖺲𖺧𖺧. 𖺡𖺣𖺣𖺱 𖺡́𖺠𖺱𖺧𖺧 𖺣𖺥𖺣𖺥𖺧𖺬𖺣𖺣 𖺩𖺧𖺸𖺣𖺲𖺣 𖺠𖺥𖺧𖺪 𖺥𖺠 𖺩𖺧𖺢𖺧𖺸𖺣𖺸𖺧. 𖺵𖺯𖺱𖺣 𖺬𖺧𖺥𖺶 𖺬𖺧 𖺦𖺧𖺸𖺣𖺥𖺧 𖺡𖺠𖺥𖺠𖺱𖺠𖺠𖺥𖺯 𖺧𖺬𖺬𖺣𖺱 𖺬𖺯𖺥𖺧𖺬𖺯𖺬𖺮 𖺢𖺧𖺲𖺯.
 </span>
 
-<span class='Kedebideri-R normal'>𖺶 𖺼𖺾𖻌 𖻀𖺻𖻌𖺽𖻂 𖻌𖻑 𖻄𖺾𖻎𖻂𖻌𖻂𖻀𖻂́, 𖺼𖺾𖻌 𖻐𖻊𖺽𖻑 𖻄𖻂𖻀𖻊 𖻄𖺾𖻌𖻂 𖻑𖻓𖺻𖻌𖻂́, “𖺠𖻓 𖻑 𖻀𖺾𖻇𖻂 𖻌𖻑 𖻃𖻑𖻀𖺾̀, 𖻊𖻁 𖺾𖻀𖻂 𖻇𖺻𖻀𖻂𖻇, 𖻄𖻊𖺽𖻂𖻂 𖻇𖺻𖻀𖺾̀ 𖻄𖺾𖺽𖺾𖻀𖻂̀.”
-</span>
-
-<span class='Kedebideri-R normal'>𖺶 𖻄𖻊𖺽𖻂𖻂 𖺼𖻂𖻓𖺾 𖻌𖻑 𖻄𖺾𖺽𖺾-𖻀𖻂𖻇, 𖻀𖻑𖻇𖻑 𖺼𖺾𖻌𖻂́, “𖺶 𖻀𖻑𖻇𖻑 𖻄𖺾𖺼𖺾𖻇, 𖻄𖺻𖻅𖻇𖻂̀.”
-</span>
-
-
-
-[font id='Kedebideri' face='Kedebideri-Regular' size='150%']
+[font id='Kedebideri' face='Kedebideri-Regular' face='Kedebideri-Bold' size='150%']
 
 

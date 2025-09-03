@@ -1,13 +1,11 @@
 ---
 title: Kedebideri - About
-fontversion: 2.000
+fontversion: 3.000
 ---
 
 ## About this project
 
-_The Beria Erfe script has received [provisional codepoint assignments](https://www.unicode.org/alloc/Pipeline.html) by the Unicode Technical Committee. The script has not yet been formally accepted and approved for a future version of the Unicode Standard. The Kedebideri font is using the provisional codepoints, but those codepoints can always change. Should those codepoints change, this font would be re-released with the new encoding. Documents would then need converting to use the new codepoints._
-
-The Beria Erfe script is built around a sampling of the traditional animal brands seen on livestock, rocks of the desert, and in caves of North Darfur and eastern Chad. The script was first introduced by a school teacher named Adam Tajir, and it was further developed by Siddick Adam Issa.
+The Beria Erfe script is built around a sampling of the traditional animal brands seen on livestock, rocks of the desert, and in caves of North Darfur and eastern Chad. The script was first introduced by a school teacher named Adam Tajir, and it was further developed by Siddick Adam Issa. The script was added to Unicode 17.0.
 
 The font name, Kedebideri, means "Let's write!" in the Zaghawa Beria language.
 
@@ -34,8 +32,6 @@ You can subscribe using either of the two following options.
 
 - If you would rather not use a Google profile, you can subscribe any email address by sending a message to [sil-font-news+subscribe@groups.sil.org](mailto:sil-font-news+subscribe@groups.sil.org) and following the instructions you get in the confirmation message.
 
-Our font announcements are also available through X (formerly Twitter) [\@silfonts](https://x.com/silfonts).
-
 ## Supporting the project
 
 These fonts are provided at no cost; however, they are expensive to produce and maintain. Please consider donating to SIL’s font development efforts to support future development. Go to [SIL’s Give Direct page](https://give.sil.org/give/485238). **Thank you!** 
@@ -44,7 +40,7 @@ These fonts are provided at no cost; however, they are expensive to produce and 
 
 [SIL Global](https://www.sil.org/) is a global, faith-based nonprofit that works with local communities around the world to develop language solutions that expand possibilities for a better life. 
 
-We are involved in approximately 1,350 active language projects in 104 countries. These projects impact more than 1.1 billion people within 1,600 local communities. SIL’s work brings together more than 4,300 staff from 89 countries who work alongside thousands more local partners and community volunteers worldwide. Our services are available without regard to religious belief, political ideology, gender, race or ethnic background.
+As of 2024, we are involved in approximately 1,530 active language projects in 107 countries. These projects impact more than 950+ million people. SIL’s work brings together more than 4,373 staff from 86 countries who work alongside thousands more local partners and community volunteers worldwide. Our services are available without regard to religious belief, political ideology, gender, race or ethnic background.
 
 Our Vision: We long to see people flourishing in community using the languages they value most. 
 

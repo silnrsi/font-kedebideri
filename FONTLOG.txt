@@ -14,9 +14,14 @@ The Beria Erfe script is built around a sampling of the markings on livestock (e
 
 This font was initially designed by a volunteer who chooses to remain anonymous, in cooperation with SIL Global and the Mission Protestante Franco-Suisse au Tchad.
 
-One weight for this typeface family is included:
+Six weights for this typeface family are included:
 
      * Kedebideri Regular
+     * Kedebideri Medium
+     * Kedebideri SemiBold
+     * Kedebideri Bold
+     * Kedebideri ExtraBold
+     * Kedebideri Black
 
 The Latin glyphs are based on the OFL-licensed Source Sans Pro fonts
 (https://github.com/adobe-fonts/source-sans-pro). 
@@ -27,21 +32,31 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-13 Sept 2024 (WSTech team) Kedebideri version 2.000
+### xx Sept 2025 (WSTech team) Kedebideri version 3.000
+
+  - Added five additional weights:
+     - Kedebideri Medium
+     - Kedebideri SemiBold
+     - Kedebideri Bold
+     - Kedebideri ExtraBold
+     - Kedebideri Black
+  - Adjusted design of digits and common punctuation
+
+### 13 Sept 2024 (WSTech team) Kedebideri version 2.000
 - Updated font name to Kedebideri
 - Encoded font according to the provisional Unicode characters
 - Added a new character called Erigo Tamura
 - Imported Latin glyphs from Source Sans Pro at 103% and a weight of CSS 360
 
-8 Apr 2021 (WSTech team) Beria Giray Erfe Test A version 1.700
+### 8 Apr 2021 (WSTech team) Beria Giray Erfe Test A version 1.700
 - New public repository and open source build workflow
 - Re-encoded from legacy pre-Unicode to temporarily use Unicode PUA
 - Changed name to Beria Giray Erfe Test A
 
-30 Apr 2019 (SIL) Zaghawa Beria version 1.001 (custom encoded font)
+### 30 Apr 2019 (SIL) Zaghawa Beria version 1.001 (custom encoded font)
 - Updated metadata
 
-31 May 2007 (SIL) Zaghawa Beria version 1.000 (custom encoded font)
+### 31 May 2007 (SIL) Zaghawa Beria version 1.000 (custom encoded font)
 - Initial freeware release
 
 Acknowledgements
@@ -57,6 +72,11 @@ N: SIL font engineers
 E: fonts@sil.org
 W: https://software.sil.org/wstech/
 D: Additional font design, engineering, and production
+
+N: Annie Olsen
+E: fonts@sil.org
+W: https://software.sil.org/wstech/
+D: Design of Black weight
 
 
 The Kedebideri project is maintained by SIL Global.

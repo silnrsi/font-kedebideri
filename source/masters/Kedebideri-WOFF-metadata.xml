@@ -12,6 +12,11 @@
       url="https://software.sil.org/wstech/"
       role="Additional font design, engineering, and production"
     />
+    <credit
+      name="Annie Olsen"
+      url="https://software.sil.org/wstech/"
+      role="Design of Black weight"
+    />
   </credits>
   <description>
     <text lang="en">
@@ -19,9 +24,14 @@
       
       This font was initially designed by a volunteer who chooses to remain anonymous, in cooperation with SIL Global and the Mission Protestante Franco-Suisse au Tchad.
       
-      One weight for this typeface family is included:
+      Six weights for this typeface family are included:
       
       * Kedebideri Regular
+      * Kedebideri Medium
+      * Kedebideri SemiBold
+      * Kedebideri Bold
+      * Kedebideri ExtraBold
+      * Kedebideri Black
       
       The Latin glyphs are based on the OFL-licensed Source Sans Pro fonts
       (https://github.com/adobe-fonts/source-sans-pro).
@@ -31,6 +41,12 @@
       ChangeLog
       ---------
       (This should list both major and minor changes, most recent first.)
+      
+      xx Sept 2025 (WSTech team) Kedebideri version 3.000
+      - New
+      - Added five new weights
+      - Revised
+      - Adjusted design of digits and common punctuation
       
       13 Sept 2024 (WSTech team) Kedebideri version 2.000
       - Updated font name to Kedebideri
@@ -54,7 +70,7 @@
     <text lang="en">
       Copyright (c) 2007-2025 SIL Global (https://www.sil.org/),
       with Reserved Font Names "Kedebideri" and "SIL".
-      Copyright (c) 2010-2024 Adobe (http://www.adobe.com/),
+      Copyright (c) 2010-2024 Adobe (https://www.adobe.com/),
       with Reserved Font Name "Source" (Latin glyphs).
       
       This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: https://openfontlicense.org/

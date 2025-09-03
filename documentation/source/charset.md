@@ -1,9 +1,7 @@
 ---
 title: Kedebideri - Character Set Support
-fontversion: 2.000
+fontversion: 3.000
 ---
-
-_The Beria Erfe script has received [provisional codepoint assignments](https://www.unicode.org/alloc/Pipeline.html) by the Unicode Technical Committee. The script has not yet been formally accepted and approved for a future version of the Unicode Standard. The Kedebideri font is using the provisional codepoints, but those codepoints can always change. Should those codepoints change, this font would be re-released with the new encoding. Documents would then need converting to use the new codepoints._
 
 The Kedebideri font supports the characters in the Beria Erfe block. 
 
