@@ -55,18 +55,10 @@ Regular:<span dir="ltr" class='Kedebideri-R normal'> &#x16EA0; &#x16EA1; &#x16EA
 ## Sample Text
 
 
-### Kedebideri Running Text (Regular)
+### UDHR Article 1 in Zaghawa
 
-<span class='Kedebideri-R normal'>𖺩𖻑𖺼𖺻𖻓 𖻇𖻂, 𖺼𖺻𖻀𖻑 𖻊𖻁 𖺼𖺻𖻌𖻐𖺻 𖻇𖻂 𖻀𖺾𖻇𖻂 𖻌𖻑 𖻄𖺾𖻓 𖻄𖺾𖻓-𖻀𖻂𖻇𖻂́. 𖺡𖺾𖻌 𖻄𖺾𖻐𖻐𖻂𖺾́, 𖻊𖻁 𖻄𖻂𖻀𖻊 𖻇𖺻𖻌𖺾𖻇𖻂́.
+<span class='Kedebideri-R normal'>𖺯 𖺳𖺯𖺩𖺩𖺯𖺯 𖺴𖺣𖺱𖺣𖺤 𖺡́𖺣𖺥𖺧𖺥𖺠 𖺥𖺠𖺱𖺢𖺧 𖺡́𖺣𖺥𖺧𖺥𖺠 𖺧𖺬𖺬𖺣𖺱 𖺵𖺣𖺸𖺧𖺲𖺧𖺧. 𖺡𖺣𖺣𖺱 𖺡́𖺠𖺱𖺧𖺧 𖺣𖺥𖺣𖺥𖺧𖺬𖺣𖺣 𖺩𖺧𖺸𖺣𖺲𖺣 𖺠𖺥𖺧𖺪 𖺥𖺠 𖺩𖺧𖺢𖺧𖺸𖺣𖺸𖺧. 𖺵𖺯𖺱𖺣 𖺬𖺧𖺥𖺶 𖺬𖺧 𖺦𖺧𖺸𖺣𖺥𖺧 𖺡𖺠𖺥𖺠𖺱𖺠𖺠𖺥𖺯 𖺧𖺬𖺬𖺣𖺱 𖺬𖺯𖺥𖺧𖺬𖺯𖺬𖺮 𖺢𖺧𖺲𖺯
 </span>
-
-<span class='Kedebideri-R normal'>𖺶 𖺼𖺾𖻌 𖻀𖺻𖻌𖺽𖻂 𖻌𖻑 𖻄𖺾𖻎𖻂𖻌𖻂𖻀𖻂́, 𖺼𖺾𖻌 𖻐𖻊𖺽𖻑 𖻄𖻂𖻀𖻊 𖻄𖺾𖻌𖻂 𖻑𖻓𖺻𖻌𖻂́, “𖺠𖻓 𖻑 𖻀𖺾𖻇𖻂 𖻌𖻑 𖻃𖻑𖻀𖺾̀, 𖻊𖻁 𖺾𖻀𖻂 𖻇𖺻𖻀𖻂𖻇, 𖻄𖻊𖺽𖻂𖻂 𖻇𖺻𖻀𖺾̀ 𖻄𖺾𖺽𖺾𖻀𖻂̀.”
-</span>
-
-<span class='Kedebideri-R normal'>𖺶 𖻄𖻊𖺽𖻂𖻂 𖺼𖻂𖻓𖺾 𖻌𖻑 𖻄𖺾𖺽𖺾-𖻀𖻂𖻇, 𖻀𖻑𖻇𖻑 𖺼𖺾𖻌𖻂́, “𖺶 𖻀𖻑𖻇𖻑 𖻄𖺾𖺼𖺾𖻇, 𖻄𖺻𖻅𖻇𖻂̀.”
-</span>
-
-
 
 <!-- PRODUCT SITE ONLY
 [font id='Kedebideri' face='Kedebideri-Regular' size='150%']

@@ -15,6 +15,7 @@ getufoinfo('source/masters/' + FAMILY + '-Regular' + '.ufo')
 
 # Set up the FTML tests
 # ftmlTest('tools/ftml-smith.xsl')
+ftmlTest('tools/ftml-smith.xsl', fonts = ['reference/Kedebideri-Regular.ttf'], addfontindex = 1, fontmode = 'collect')
 
 designspace('source/' + FAMILY + '.designspace',
     target = process('${DS:FILENAME_BASE}.ttf',
