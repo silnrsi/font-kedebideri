@@ -13,6 +13,10 @@
      <title>Kedebideri Kerning</title>
   </head>
   <testgroup label="Kerning pairs (1st sequence is without kerning, 2nd sequence with kerning)">
+    <test label="U+16EA0">
+      <comment>Arkab-beria</comment>
+      <string>\u16EA0 (none)</string>
+    </test>
     <test label="U+16EA1 U+16EA2">
       <comment>Basigna-beria Darbai-beria</comment>
       <string>\u16EA1\u200b\u16EA2 \u16EA1\u16EA2</string>
@@ -21,18 +25,212 @@
       <comment>Basigna-beria Meri-beria</comment>
       <string>\u16EA1\u200b\u16EAB \u16EA1\u16EAB</string>
     </test>
-    <test label="U+16EB8 U+16EAE">
-      <comment>Ay-beria Ngay-beria</comment>
-      <string>\u16EB8\u200b\u16EAE \u16EB8\u16EAE</string>
-    </test>
     <test label="U+16EA2 U+16EC4">
       <comment>Darbai-beria kobo-beria</comment>
       <string>\u16EA2\u200b\u16EC4 \u16EA2\u16EC4</string>
+    </test>
+    <test label="U+16EA3">
+      <comment>Eh-beria</comment>
+      <string>\u16EA3 (none)</string>
+    </test>
+    <test label="U+16EA4">
+      <comment>Fitko-beria</comment>
+      <string>\u16EA4 (none)</string>
+    </test>
+    <test label="U+16EA5 U+16EC4">
+      <comment>Goway-beria kobo-beria</comment>
+      <string>\u16EA5\u200b\u16EC4 \u16EA5\u16EC4</string>
+    </test>
+    <test label="U+16EA6">
+      <comment>Hirdeabo-beria</comment>
+      <string>\u16EA6 (none)</string>
+    </test>
+    <test label="U+16EA7">
+      <comment>I-beria</comment>
+      <string>\u16EA7 (none)</string>
     </test>
     <test label="U+16EA8 U+16EA9">
       <comment>Djai-beria Kobo-beria</comment>
       <string>\u16EA8\u200b\u16EA9 \u16EA8\u16EA9</string>
     </test>
+    <test label="U+16EA9">
+      <comment>Kobo-beria</comment>
+      <string>\u16EA9 (none)</string>
+    </test>
+    <test label="U+16EAA U+16EC4">
+      <comment>Lakko-beria kobo-beria</comment>
+      <string>\u16EAA\u200b\u16EC4 \u16EAA\u16EC4</string>
+    </test>
+    <test label="U+16EAB U+16ECE">
+      <comment>Meri-beria seri-beria</comment>
+      <string>\u16EAB\u200b\u16ECE \u16EAB\u16ECE</string>
+    </test>
+    <test label="U+16EAC">
+      <comment>Nini-beria</comment>
+      <string>\u16EAC (none)</string>
+    </test>
+    <test label="U+16EAD U+16ED0">
+      <comment>Gna-beria tatasoue-beria</comment>
+      <string>\u16EAD\u200b\u16ED0 \u16EAD\u16ED0</string>
+    </test>
+    <test label="U+16EAE U+16EB1">
+      <comment>Ngay-beria Erigo-beria</comment>
+      <string>\u16EAE\u200b\u16EB1 \u16EAE\u16EB1</string>
+    </test>
+    <test label="U+16EAF">
+      <comment>Oi-beria</comment>
+      <string>\u16EAF (none)</string>
+    </test>
+    <test label="U+16EB0 U+16EC5">
+      <comment>Pi-beria lakko-beria</comment>
+      <string>\u16EB0\u200b\u16EC5 \u16EB0\u16EC5</string>
+    </test>
+    <test label="U+16EB0 U+16ED0">
+      <comment>Pi-beria tatasoue-beria</comment>
+      <string>\u16EB0\u200b\u16ED0 \u16EB0\u16ED0</string>
+    </test>
+    <test label="U+16EB1 U+16EC5">
+      <comment>Erigo-beria lakko-beria</comment>
+      <string>\u16EB1\u200b\u16EC5 \u16EB1\u16EC5</string>
+    </test>
+    <test label="U+16EB2">
+      <comment>Erigo-Tamura-beria</comment>
+      <string>\u16EB2 (none)</string>
+    </test>
+    <test label="U+16EB3 U+16EC6">
+      <comment>Seri-beria meri-beria</comment>
+      <string>\u16EB3\u200b\u16EC6 \u16EB3\u16EC6</string>
+    </test>
+    <test label="U+16EB4 U+16EC6">
+      <comment>Shep-beria meri-beria</comment>
+      <string>\u16EB4\u200b\u16EC6 \u16EB4\u16EC6</string>
+    </test>
+    <test label="U+16EB5 U+16EC6">
+      <comment>Tatasoue-beria meri-beria</comment>
+      <string>\u16EB5\u200b\u16EC6 \u16EB5\u16EC6</string>
+    </test>
+    <test label="U+16EB6">
+      <comment>Ui-beria</comment>
+      <string>\u16EB6 (none)</string>
+    </test>
+    <test label="U+16EB7 U+16EC6">
+      <comment>Wasse-beria meri-beria</comment>
+      <string>\u16EB7\u200b\u16EC6 \u16EB7\u16EC6</string>
+    </test>
+  <test label="U+16EB8 U+002A">
+      <comment>Ay-beria asterisk</comment>
+      <string>\u16EB8\u200b\u002A \u16EB8\u002A</string>
+  </test>
+  <test label="U+16EB8 U+005C">
+      <comment>Ay-beria backslash</comment>
+      <string>\u16EB8\u200b\u005C \u16EB8\u005C</string>
+  </test>
+  <test label="U+16EB8 U+005D">
+      <comment>Ay-beria bracketright</comment>
+      <string>\u16EB8\u200b\u005D \u16EB8\u005D</string>
+  </test>
+  <test label="U+16EB8 U+002C">
+      <comment>Ay-beria comma</comment>
+      <string>\u16EB8\u200b\u002C \u16EB8\u002C</string>
+  </test>
+  <test label="U+16EB8 U+0021">
+      <comment>Ay-beria exclam</comment>
+      <string>\u16EB8\u200b\u0021 \u16EB8\u0021</string>
+  </test>
+  <test label="U+16EB8 U+003F">
+      <comment>Ay-beria question</comment>
+      <string>\u16EB8\u200b\u003F \u16EB8\u003F</string>
+  </test>
+  <test label="U+16EB8 U+002E">
+      <comment>Ay-beria period</comment>
+      <string>\u16EB8\u200b\u002E \u16EB8\u002E</string>
+  </test>
+  <test label="U+16EB8 U+002F">
+      <comment>Ay-beria slash</comment>
+      <string>\u16EB8\u200b\u002F \u16EB8\u002F</string>
+  </test>
+    <test label="U+16EB8 U+16EB8">
+      <comment>Ay-beria Ay-beria</comment>
+      <string>\u16EB8\u200b\u16EB8 \u16EB8\u16EB8</string>
+    </test>
+    <test label="U+16EB8 U+16EA1">
+      <comment>Ay-beria Basigna-beria</comment>
+      <string>\u16EB8\u200b\u16EA1 \u16EB8\u16EA1</string>
+    </test>
+    <test label="U+16EB8 U+16EA2">
+      <comment>Ay-beria Darbai-beria</comment>
+      <string>\u16EB8\u200b\u16EA2 \u16EB8\u16EA2</string>
+    </test>
+    <test label="U+16EB8 U+16EA9">
+      <comment>Ay-beria Kobo-beria</comment>
+      <string>\u16EB8\u200b\u16EA9 \u16EB8\u16EA9</string>
+    </test>
+    <test label="U+16EB8 U+16EAB">
+      <comment>Ay-beria Meri-beria</comment>
+      <string>\u16EB8\u200b\u16EAB \u16EB8\u16EAB</string>
+    </test>
+      <test label="U+16EB8 U+16EAE">
+      <comment>Ay-beria Ngay-beria</comment>
+      <string>\u16EB8\u200b\u16EAE \u16EB8\u16EAE</string>
+    </test>
+  <test label="U+16EB8 U+16EB0">
+      <comment>Ay-beria Pi-beria</comment>
+      <string>\u16EB8\u200b\u16EB0 \u16EB8\u16EB0</string>
+    </test>
+  <test label="U+16EB8 U+16EB3">
+      <comment>Ay-beria Seri-beria</comment>
+      <string>\u16EB8\u200b\u16EB3 \u16EB8\u16EB3</string>
+  </test>
+  <test label="U+16EB8 U+16EB4">
+      <comment>Ay-beria Shep-beria</comment>
+      <string>\u16EB8\u200b\u16EB4 \u16EB8\u16EB4</string>
+  </test>
+  <test label="U+16EB8 U+16EB5">
+      <comment>Ay-beria Tatasoue-beria</comment>
+      <string>\u16EB8\u200b\u16EB5 \u16EB8\u16EB5</string>
+  </test>
+
+  <test label="U+16EB8 U+16EBF">
+      <comment>Ay-beria fitko-beria</comment>
+      <string>\u16EB8\u200b\u16EBF \u16EB8\u16EBF</string>
+  </test>
+  <test label="U+16EB8 U+16EC0">
+      <comment>Ay-beria goway-beria</comment>
+      <string>\u16EB8\u200b\u16EC0 \u16EB8\u16EC0</string>
+  </test>
+  <test label="U+16EB8 U+16EC4">
+      <comment>Ay-beria kobo-beria</comment>
+      <string>\u16EB8\u200b\u16EC4 \u16EB8\u16EC4</string>
+  </test>
+  <test label="U+16EB8 U+16EC5">
+      <comment>Ay-beria lakko-beria</comment>
+      <string>\u16EB8\u200b\u16EC5 \u16EB8\u16EC5</string>
+  </test>
+  <test label="U+16EB8 U+16EC6">
+      <comment>Ay-beria meri-beria</comment>
+      <string>\u16EB8\u200b\u16EC6 \u16EB8\u16EC6</string>
+  </test>
+  <test label="U+16EB8 U+16ECE">
+      <comment>Ay-beria seri-beria</comment>
+      <string>\u16EB8\u200b\u16ECE \u16EB8\u16ECE</string>
+  </test>
+  <test label="U+16EB8 U+16ECF">
+      <comment>Ay-beria shep-beria</comment>
+      <string>\u16EB8\u200b\u16ECF \u16EB8\u16ECF</string>
+  </test>
+  <test label="U+16EB8 U+16ED0">
+      <comment>Ay-beria tatasoue-beria</comment>
+      <string>\u16EB8\u200b\u16ED0 \u16EB8\u16ED0</string>
+  </test>
+    <test label="U+16EC4 U+16EC0">
+      <comment>kobo-beria goway-beria</comment>
+      <string>\u16EC4\u200b\u16EC0 \u16EC4\u16EC0</string>
+    </test>
+    <test label="U+16EC7 U+16ED0">
+      <comment>nini-beria tatasoue-beria</comment>
+      <string>\u16EC7\u200b\u16ED0 \u16EC7\u16ED0</string>
+    </test>
+
     <test label="U+16ECE U+0026">
       <comment>seri-beria ampersand</comment>
       <string>\u16ECE\u200b\u0026 \u16ECE\u0026</string>
