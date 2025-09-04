@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../tools/ftml.xsl" type="text/xsl"?>
+<ftml version="1.0">
+  <head>
+    <comment>Background colors: light red: a character is missing from UFO; else light orange: includes a character from Unicode version 17.0 or later; else light green: a character is new in this version of the font</comment>
+    <fontscale>200</fontscale>
+    <fontsrc label="2.0">url(../references/Kedebideri-Regular.ttf)</fontsrc>
+    <fontsrc label="Reg">url(../results/Kedebideri-Regular.ttf)</fontsrc>
+    <fontsrc label="Med">url(../results/Kedebideri-Medium.ttf)</fontsrc>
+    <fontsrc label="seBld">url(../results/Kedebideri-SemiBold.ttf)</fontsrc>
+    <fontsrc label="Bld">url(../results/Kedebideri-Bold.ttf)</fontsrc>
+    <fontsrc label="exBld">url(../results/Kedebideri-ExtraBold.ttf)</fontsrc>
+    <fontsrc label="Blk">url(../results/Kedebideri-Black.ttf)</fontsrc>
+    <title>Diac Short (auto)</title>
+    <widths string="11%"/>
+  </head>
+  <testgroup background="#f0f0f0" label="Rendering Check">
+    <test label="check">
+      <string>RenderingUnknown</string>
+    </test>
+  </testgroup>
+  <testgroup label="All Beria Erfe diacritics on all (vowel) bases">
+    <test background="#ffc8a0" label="U+16EA0
+U+0300">
+      <comment>Arkab-beria gravecomb</comment>
+      <string>\u016EA0\u000300 \u016EA3\u000300 \u016EA7\u000300 \u016EAF\u000300 \u016EB6\u000300 \u016EBB\u000300 \u016EBE\u000300 \u016EC2\u000300 \u016ECA\u000300 \u016ED1\u000300</string>
+    </test>
+    <test background="#ffc8a0" label="U+16EA0
+U+0301">
+      <comment>Arkab-beria acutecomb</comment>
+      <string>\u016EA0\u000301 \u016EA3\u000301 \u016EA7\u000301 \u016EAF\u000301 \u016EB6\u000301 \u016EBB\u000301 \u016EBE\u000301 \u016EC2\u000301 \u016ECA\u000301 \u016ED1\u000301</string>
+    </test>
+    <test background="#ffc8a0" label="U+16EA0
+U+0304">
+      <comment>Arkab-beria macroncomb</comment>
+      <string>\u016EA0\u000304 \u016EA3\u000304 \u016EA7\u000304 \u016EAF\u000304 \u016EB6\u000304 \u016EBB\u000304 \u016EBE\u000304 \u016EC2\u000304 \u016ECA\u000304 \u016ED1\u000304</string>
+    </test>
+    <test background="#ffc8a0" label="U+16EA0
+U+0307">
+      <comment>Arkab-beria dotaccentcomb</comment>
+      <string>\u016EA0\u000307 \u016EA3\u000307 \u016EA7\u000307 \u016EAF\u000307 \u016EB6\u000307 \u016EBB\u000307 \u016EBE\u000307 \u016EC2\u000307 \u016ECA\u000307 \u016ED1\u000307</string>
+    </test>
+    <test background="#ffc8a0" label="U+16EA0
+U+034F">
+      <comment>Arkab-beria graphemejoinercomb</comment>
+      <string>\u016EA0\u00034F \u016EA3\u00034F \u016EA7\u00034F \u016EAF\u00034F \u016EB6\u00034F \u016EBB\u00034F \u016EBE\u00034F \u016EC2\u00034F \u016ECA\u00034F \u016ED1\u00034F</string>
+    </test>
+  </testgroup>
+</ftml>

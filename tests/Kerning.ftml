@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../tools/ftml.xsl" type="text/xsl"?>
+<ftml version="1.0">
+  <head>
+    <fontscale>200</fontscale>
+    <fontsrc label="2.0">url(../references/Kedebideri-Regular.ttf)</fontsrc>
+    <fontsrc label="Reg">url(../results/Kedebideri-Regular.ttf)</fontsrc>
+    <fontsrc label="Med">url(../results/Kedebideri-Medium.ttf)</fontsrc>
+    <fontsrc label="seBld">url(../results/Kedebideri-SemiBold.ttf)</fontsrc>
+    <fontsrc label="Bld">url(../results/Kedebideri-Bold.ttf)</fontsrc>
+    <fontsrc label="exBld">url(../results/Kedebideri-ExtraBold.ttf)</fontsrc>
+    <fontsrc label="Blk">url(../results/Kedebideri-Black.ttf)</fontsrc>
+     <title>Kedebideri Kerning</title>
+  </head>
+  <testgroup label="Kerning pairs (1st sequence is without kerning, 2nd sequence with kerning)">
+    <test label="U+16EA1 U+16EA2">
+      <comment>Basigna-beria Darbai-beria</comment>
+      <string>\u16EA1\u200b\u16EA2 \u16EA1\u16EA2</string>
+    </test>
+    <test label="U+16EA1 U+16EAB">
+      <comment>Basigna-beria Meri-beria</comment>
+      <string>\u16EA1\u200b\u16EAB \u16EA1\u16EAB</string>
+    </test>
+    <test label="U+16EB8 U+16EAE">
+      <comment>Ay-beria Ngay-beria</comment>
+      <string>\u16EB8\u200b\u16EAE \u16EB8\u16EAE</string>
+    </test>
+    <test label="U+16EA2 U+16EC4">
+      <comment>Darbai-beria kobo-beria</comment>
+      <string>\u16EA2\u200b\u16EC4 \u16EA2\u16EC4</string>
+    </test>
+    <test label="U+16EA8 U+16EA9">
+      <comment>Djai-beria Kobo-beria</comment>
+      <string>\u16EA8\u200b\u16EA9 \u16EA8\u16EA9</string>
+    </test>
+    <test label="U+16ECE U+0026">
+      <comment>seri-beria ampersand</comment>
+      <string>\u16ECE\u200b\u0026 \u16ECE\u0026</string>
+    </test>
+    <test label="U+16ECE U+0026">
+      <comment>seri-beria asterisk</comment>
+      <string>\u16ECE\u200b\u002a \u16ECE\u002a</string>
+    </test>
+    <test label="U+16ECE U+002C">
+      <comment>seri-beria comma</comment>
+      <string>\u16ECE\u200b\u002c \u16ECE\u002c</string>
+    </test>
+    <test label="U+16ECE U+002E">
+      <comment>seri-beria period</comment>
+      <string>\u16ECE\u200b\u002E \u16ECE\u002E</string>
+    </test>
+    <test label="U+16ECE U+002F">
+      <comment>seri-beria slash</comment>
+      <string>\u16ECE\u200b\u002F \u16ECE\u002F</string>
+    </test>
+    <test label="U+16ECE U+2122">
+      <comment>seri-beria trademark</comment>
+      <string>\u16ECE\u200b\u2122 \u16ECE\u2122</string>
+    </test>
+    <test label="U+16ECE U+16ED3">
+      <comment>seri-beria ay-beria</comment>
+      <string>\u16ECE\u200b\u16ED3 \u16ECE\u16ED3</string>
+    </test>
+    <test label="U+16ECE U+16EC3">
+      <comment>seri-beria djai-beria</comment>
+      <string>\u16ECE\u200b\u16Ec3 \u16ECE\u16Ec3</string>
+    </test>
+    <test label="U+16ECE U+16EBF">
+      <comment>seri-beria fitko-beria</comment>
+      <string>\u16ECE\u200b\u16Ebf \u16ECE\u16Ebf</string>
+    </test>
+    <test label="U+16ECE U+16EC0">
+      <comment>seri-beria goway-beria</comment>
+      <string>\u16ECE\u200b\u16Ec0 \u16ECE\u16Ec0</string>
+    </test>
+    <test label="U+16ECE U+16EC4">
+      <comment>seri-beria kobo-beria</comment>
+      <string>\u16ECE\u200b\u16Ec4 \u16ECE\u16Ec4</string>
+    </test>
+    <test label="U+16ECE U+16EC5">
+      <comment>seri-beria lakko-beria</comment>
+      <string>\u16ECE\u200b\u16Ec5 \u16ECE\u16Ec5</string>
+    </test>
+    <test label="U+16ECE U+16EC6">
+      <comment>seri-beria meri-beria</comment>
+      <string>\u16ECE\u200b\u16EC6 \u16ECE\u16EC6</string>
+    </test>
+    <test label="U+16ECE U+16EC7">
+      <comment>seri-beria nini-beria</comment>
+      <string>\u16ECE\u200b\u16EC7 \u16ECE\u16EC7</string>
+    </test>
+    <test label="U+16ECE U+16ECE">
+      <comment>seri-beria seri-beria</comment>
+      <string>\u16ECE\u200b\u16ECE \u16ECE\u16ECE</string>
+    </test>
+    <test label="U+16ECE U+16ECF">
+      <comment>seri-beria shep-beria</comment>
+      <string>\u16ECE\u200b\u16ECF \u16ECE\u16ECF</string>
+    </test>
+  </testgroup>
+
+</ftml>
+
