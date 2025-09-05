@@ -545,6 +545,7 @@ The/space Milk/space Seller
     <string>_tildecomb</string>
     <string>_tildecomb.cap</string>
     <string>_two.dnom</string>
+    <string>_zero.dnom</string>
   </array>
   <key>public.postscriptNames</key>
   <dict>

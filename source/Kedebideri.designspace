@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="3">
     <axes>
-        <axis default="400.0" maximum="1000.0" minimum="400.0" name="weight" tag="wght">
+        <axis default="400.0" maximum="900.0" minimum="400.0" name="weight" tag="wght">
             <map input="400.0" output="400.0" /> <!-- Regular -->
             <map input="500.0" output="500.0" /> <!-- Medium -->
             <map input="600.0" output="600.0" /> <!-- SemiBold -->
@@ -33,7 +33,7 @@
         </source>
         <source familyname="Kedebideri" filename="masters/Kedebideri-Black.ufo" name="Kedebideri-Black" stylename="Black">
             <location>
-                <dimension name="weight" xvalue="1000.0" />
+                <dimension name="weight" xvalue="900.0" />
                 <dimension name="width" xvalue="100.0" />
                 <dimension name="custom" xvalue="0.0" />
             </location>
