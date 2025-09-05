@@ -275,3 +275,4 @@ _four.dnom
 _one.dnom
 _three.dnom
 _two.dnom
+_zero.dnom
