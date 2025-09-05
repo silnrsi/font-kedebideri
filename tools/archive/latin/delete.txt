@@ -87,6 +87,7 @@ enspace
 equal
 Eth
 eth
+euro
 exclamdown
 F
 f
@@ -95,6 +96,7 @@ figuredash
 figurespace
 five
 fl
+florin
 four
 fourperemspace
 foursuperior
@@ -222,6 +224,7 @@ threeperemspace
 threequarters
 threesuperior
 tilde
+trademark
 two
 twosuperior
 U
