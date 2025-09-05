@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="underscore" format="2">
-  <advance width="508"/>
+  <advance width="516"/>
   <unicode hex="005F"/>
   <outline>
     <contour>
-      <point x="4" y="-136" type="line"/>
-      <point x="4" y="-200" type="line"/>
-      <point x="504" y="-200" type="line"/>
-      <point x="504" y="-136" type="line"/>
+      <point x="12" y="-126" type="line"/>
+      <point x="504" y="-126" type="line"/>
+      <point x="504" y="-76" type="line"/>
+      <point x="12" y="-76" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
 </glyph>

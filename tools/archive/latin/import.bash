@@ -6,7 +6,7 @@ shimenkan=$HOME/script/berf/fonts/kedebideri-local/latin/Shimenkan
 andika=$HOME/script/berf/fonts/kedebideri-local/latin/Andika
 
 pushd source/masters
-for weight in Black # Regular
+for weight in Regular Black
 do
     ufo=Kedebideri-${weight}.ufo
 

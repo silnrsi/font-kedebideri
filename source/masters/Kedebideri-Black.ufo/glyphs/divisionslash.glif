@@ -3,12 +3,7 @@
   <advance width="97"/>
   <unicode hex="2215"/>
   <outline>
-    <contour>
-      <point x="-175" y="-12" type="line"/>
-      <point x="-92" y="-12" type="line"/>
-      <point x="272" y="686" type="line"/>
-      <point x="189" y="686" type="line"/>
-    </contour>
+    <component base="fraction"/>
   </outline>
   <lib>
     <dict>
