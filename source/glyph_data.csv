@@ -299,8 +299,6 @@ VS16,uniFE0F,296,296,FE0F
 zeroWidthNoBreakSpace,uniFEFF,297,297,FEFF
 objectReplacementCharacter,uniFFFC,298,298,FFFC
 replacementCharacter,uniFFFD,299,299,FFFD
-space-latin,space-latin,299.1,299.1,
-nbspace-latin,uni00A0-latin,299.2,299.2,
 Arkab-beria,u16EA0,300,300,16EA0
 arkab-beria,u16EBB,301,301,16EBB
 Basigna-beria,u16EA1,302,302,16EA1

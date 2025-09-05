@@ -295,6 +295,10 @@
       <comment>seri-beria shep-beria</comment>
       <string>\u16ECE\u200b\u16ECF \u16ECE\u16ECF</string>
     </test>
+    <test label="U+2022 U+16EAB">
+      <comment>bullet Meri-beria</comment>
+      <string>\u2022\u200b\u16EAB \u2022\u16EAB</string>
+    </test>
   </testgroup>
 
 </ftml>

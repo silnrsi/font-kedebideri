@@ -21,6 +21,7 @@ designspace('source/' + FAMILY + '.designspace',
     target = process('${DS:FILENAME_BASE}.ttf',
         cmd('gftools fix-nonhinting -q --no-backup ${DEP} ${TGT}'),
         cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['${source}']),
+#        cmd('${TTFAUTOHINT} -n -W ${DEP} ${TGT}'),
     ),
     version=VERSION,  # Needed to ensure dev information on version string
     opentype = fea("generated/${DS:FILENAME_BASE}.fea", master="source/opentype/main.feax", to_ufo = 'True'),
@@ -29,3 +30,6 @@ designspace('source/' + FAMILY + '.designspace',
         metadata=f'../source/{FAMILY}-WOFF-metadata.xml',
         ),
     )
+
+def configure(ctx):
+    ctx.find_program('ttfautohint')
