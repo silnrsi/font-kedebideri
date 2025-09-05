@@ -30,7 +30,7 @@ languagesystem DFLT dflt ;
 
 
 #**********************************
-# GSUB (Subtitution) lookups
+# GSUB (Substitution) lookups
 #**********************************
 
 # Lookups for GPOS
