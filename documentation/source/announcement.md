@@ -9,12 +9,12 @@ The font package is available for download from the [Download page](https://soft
 
 Six weights for this typeface family are now included:
 
-     * Kedebideri Regular
-     * Kedebideri Medium
-     * Kedebideri SemiBold
-     * Kedebideri Bold
-     * Kedebideri ExtraBold
-     * Kedebideri Black
+* Kedebideri Regular
+* Kedebideri Medium
+* Kedebideri SemiBold
+* Kedebideri Bold
+* Kedebideri ExtraBold
+* Kedebideri Black
 
 Both desktop and web fonts are provided in a single, all-platforms package on the [Download Page](https://software.sil.org/kedebideri/download).
 
