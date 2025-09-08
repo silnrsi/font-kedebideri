@@ -277,7 +277,7 @@ languagesystem DFLT dflt;
 #       # HB PAUSE
 #   in the code.
 #**********************************
-# GSUB (Subtitution) lookups
+# GSUB (Substitution) lookups
 #**********************************
 # Lookups for GPOS
 lookup kernpairs {

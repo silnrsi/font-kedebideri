@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Kedebideri</string>
   <key>openTypeHeadCreated</key>
-  <string>2025/09/05 13:31:50</string>
+  <string>2025/09/08 09:07:20</string>
   <key>openTypeHheaAscender</key>
   <integer>1000</integer>
   <key>openTypeHheaDescender</key>
@@ -86,7 +86,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameUniqueID</key>
   <string>SIL Global: Kedebideri Black: 2025</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.900</string>
+  <string>Version 3.000</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -185,9 +185,52 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>unitsPerEm</key>
   <integer>1000</integer>
   <key>versionMajor</key>
-  <integer>2</integer>
+  <integer>3</integer>
   <key>versionMinor</key>
-  <integer>900</integer>
+  <integer>0</integer>
+  <key>woffMetadataCredits</key>
+  <dict>
+    <key>credits</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>Anonymous</string>
+        <key>role</key>
+        <string>Original glyph designs</string>
+        <key>url</key>
+        <string>https://software.sil.org/kedebideri</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>SIL font engineers</string>
+        <key>role</key>
+        <string>Additional font design, engineering, and production</string>
+        <key>url</key>
+        <string>https://software.sil.org/kedebideri</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Annie Olsen</string>
+        <key>role</key>
+        <string>Design of Black weight</string>
+        <key>url</key>
+        <string>https://software.sil.org/kedebideri</string>
+      </dict>
+    </array>
+  </dict>
+  <key>woffMetadataDescription</key>
+  <dict>
+    <key>text</key>
+    <array>
+      <dict>
+        <key>text</key>
+        <string>The Beria Erfe script is built around a sampling of the markings on livestock (especially camels) within the Beria language region of western Sudan and eastern Chad. 
+</string>
+      </dict>
+    </array>
+    <key>url</key>
+    <string>https://software.sil.org/kedebideri/</string>
+  </dict>
   <key>xHeight</key>
   <integer>668</integer>
 </dict>

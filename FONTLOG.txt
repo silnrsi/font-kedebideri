@@ -10,7 +10,7 @@ any derivative works.
 Basic Font Information
 ----------------------
 
-The Beria Erfe script is built around a sampling of the markings on livestock (especially camels) within the Beria language region of western Sudan and eastern Chad. It is an idea that has its origins in the work of a Sudanese schoolteacher who developed the first version of this over 25 years ago. The Beria Erfe script has since been provisionally accepted for addition to Unicode.
+The Beria Erfe script is built around a sampling of the markings on livestock (especially camels) within the Beria language region of western Sudan and eastern Chad. It is an idea that has its origins in the work of a Sudanese schoolteacher who developed the first version of this over 25 years ago. The Beria Erfe script was accepted into Unicode 17.0.
 
 This font was initially designed by a volunteer who chooses to remain anonymous, in cooperation with SIL Global and the Mission Protestante Franco-Suisse au Tchad.
 
