@@ -186,6 +186,13 @@
     <key>trademark</key>
     <integer>40</integer>
   </dict>
+  <key>Erigo-Tamura-beria</key>
+  <dict>
+    <key>i-beria</key>
+    <integer>-60</integer>
+    <key>oi-beria</key>
+    <integer>-50</integer>
+  </dict>
   <key>Erigo-beria</key>
   <dict>
     <key>Darbai-beria</key>
@@ -1006,6 +1013,13 @@
     <integer>-40</integer>
     <key>two.001</key>
     <integer>-10</integer>
+  </dict>
+  <key>erigo-tamura-beria</key>
+  <dict>
+    <key>i-beria</key>
+    <integer>-60</integer>
+    <key>oi-beria</key>
+    <integer>-50</integer>
   </dict>
   <key>euro</key>
   <dict>

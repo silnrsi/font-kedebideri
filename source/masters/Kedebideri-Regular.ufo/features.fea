@@ -366,6 +366,8 @@ lookup kernpairs {
     pos Djai-beria -15 shep-beria;
     pos Djai-beria 20 tatasoue-beria;
     pos Djai-beria 40 trademark;
+    pos Erigo-Tamura-beria -60 i-beria;
+    pos Erigo-Tamura-beria -50 oi-beria;
     pos Erigo-beria -40 Darbai-beria;
     pos Erigo-beria -15 Djai-beria;
     pos Erigo-beria -10 Erigo-beria;
@@ -748,6 +750,8 @@ lookup kernpairs {
     pos eight.001 -20 period;
     pos eight.001 -40 question;
     pos eight.001 -10 two.001;
+    pos erigo-tamura-beria -60 i-beria;
+    pos erigo-tamura-beria -50 oi-beria;
     pos euro -20 four.001;
     pos euro -10 nine.001;
     pos euro 20 seven.001;

@@ -38,7 +38,7 @@ Since the script was newly encoded in Unicode 17.0 there may be issues with diff
 
 #### *What is the source of the Latin glyphs?*
 
-The Latin glyphs in Kedebideri are based on Source Sans Pro at 103% and a weight of CSS 360 (for Regular).
+The Latin glyphs in Kedebideri are based on Source Sans Pro.
 
 #### *I used the Zaghawa Beria font which was custom encoded. How can I convert my data from the Zaghawa Beria encoding to Unicode?*
 

@@ -93,9 +93,13 @@
       <comment>Erigo-beria lakko-beria</comment>
       <string>\u16EB1\u200b\u16EC5 \u16EB1\u16EC5</string>
     </test>
-    <test label="U+16EB2">
-      <comment>Erigo-Tamura-beria</comment>
-      <string>\u16EB2 (none)</string>
+    <test label="U+16EB2 U+16EC2">
+      <comment>Erigo-Tamura-beria i-beria</comment>
+      <string>\u16EB2\u200b\u16EC2 \u16EB2\u16EC2</string>
+    </test>
+    <test label="U+16EB2 U+16ECA">
+      <comment>Erigo-Tamura-beria oi-beria</comment>
+      <string>\u16EB2\u200b\u16ECA \u16EB2\u16ECA</string>
     </test>
     <test label="U+16EB3 U+16EC6">
       <comment>Seri-beria meri-beria</comment>
@@ -229,6 +233,14 @@
     <test label="U+16EC7 U+16ED0">
       <comment>nini-beria tatasoue-beria</comment>
       <string>\u16EC7\u200b\u16ED0 \u16EC7\u16ED0</string>
+    </test>
+    <test label="U+16ECD U+16EC2">
+      <comment>erigo-tamura-beria i-beria</comment>
+      <string>\u16ECD\u200b\u16EC2 \u16ECD\u16EC2</string>
+    </test>
+    <test label="U+16ECD U+16ECA">
+      <comment>erigo-tamura-beria oi-beria</comment>
+      <string>\u16ECD\u200b\u16ECA \u16ECD\u16ECA</string>
     </test>
 
     <test label="U+16ECE U+0026">
