@@ -3,7 +3,7 @@ title: Kedebideri - Announcement
 fontversion: 3.000
 ---
 
-We are pleased to release version 3.000 of the Kedebideri font. This is the first Unicode font for the Beria Erfe script which was encoded in Unicode 17.0.
+We are pleased to release version 3.000 of the Kedebideri font. Kedebideri is the first Unicode font for the Beria Erfe script which was encoded in Unicode 17.0.
 
 The font package is available for download from the [Download page](https://software.sil.org/kedebideri/download/).
 
