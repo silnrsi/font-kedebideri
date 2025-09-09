@@ -30,17 +30,17 @@ Since the script was newly encoded in Unicode 17.0 there may be issues with diff
 
 #### *How is the font different from Zaghawa Beria?*
 
-**Kedebideri** is based on the design of **Zaghawa Beria**. However, **Zaghawa Beria** used a custom encoding. **Kedebideri** uses the provisionally assigned Unicode codepoints. In addition, it contains a basic set of Latin characters. 
+**Kedebideri** is based on the design of **Zaghawa Beria**. However, **Zaghawa Beria** used a custom encoding. **Kedebideri** uses the official Unicode 17.0 codepoints. In addition, it contains a basic set of Latin characters. 
 
 #### *What is the source of the Latin glyphs?*
 
-The Latin glyphs in Kedebideri are based on Source Sans Pro at 103% and a weight of CSS 360 (for Regular).
+The Latin glyphs in Kedebideri are based on Source Sans Pro.
 
 #### *I used the Zaghawa Beria font which was custom encoded. How can I convert my data from the Zaghawa Beria encoding to Unicode?*
 
 Data which was created with the Zaghawa Beria font will not be automatically converted to Unicode by switching fonts. The data must be converted to Unicode using a data conversion routine. See "Text conversion" in [Resources](resources) for information on converting your data.
 
-There is a minimally tested TECKit mapping file available for converting data from the custom encoded Zaghawa Beria font to the provisional Unicode codepoints:
+There is a minimally tested TECKit mapping file available for converting data from the custom encoded Zaghawa Beria font to the Unicode 17.0 codepoints:
 
 - [ZaghawaBeria2Uni](https://github.com/silnrsi/wsresources/tree/master/scripts/BeriaErfe/legacy/zaghawa-beria/mappings)
 

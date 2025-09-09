@@ -1,5 +1,5 @@
 
-### xx Sept 2025 (WSTech team) Kedebideri version 3.000
+### 9 Sept 2025 (WSTech team) Kedebideri version 3.000
 
   - Added five additional weights:
      - Kedebideri Medium

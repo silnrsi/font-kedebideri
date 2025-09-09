@@ -3,7 +3,7 @@ title: Kedebideri - Type Sample
 fontversion: 3.000
 ---
 
-This document demonstrates all of the characters in the font. It is organized by Unicode block. At the end is a sample demonstrating Beria Erfe in a sample of running text.
+This document demonstrates all of the characters in the font. It is organized by Unicode block. At the end is a paragraph demonstrating Beria Erfe in running text.
 
 ## Type Sample
 
