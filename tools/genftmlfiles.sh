@@ -16,7 +16,7 @@ then
 fi
 
 prevfont="references/Kedebideri-Regular.ttf"
-prevver="2.0"
+prevver="3.0"
 
 commonParams=( \
 	--prevfont "$prevfont"  \

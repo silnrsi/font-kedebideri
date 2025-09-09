@@ -87,7 +87,7 @@ Regular:<span dir="ltr" class='Kedebideri-R normal'> &#x16EA0; &#x16EA1; &#x16EA
 </span>
 
 <!-- PRODUCT SITE ONLY
-[font id='Kedebideri' face='Kedebideri-Regular' face='Kedebideri-Bold' size='150%']
+[font id='Kedebideri' face='Kedebideri-Regular' bold='Kedebideri-Bold' size='150%']
 -->
 
 
