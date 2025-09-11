@@ -8,8 +8,7 @@
       <point x="495" y="-136" type="line"/>
       <point x="814" y="-136" type="line"/>
       <point x="814" y="-73" type="line"/>
-      <point x="645" y="-73" type="line"/>
-      <point x="690" y="-118" type="line"/>
+      <point x="690" y="-73" type="line"/>
       <point x="690" y="668" type="line"/>
       <point x="622" y="668" type="line"/>
       <point x="611" y="566"/>
@@ -33,8 +32,7 @@
       <point x="621" y="426" type="curve"/>
       <point x="667" y="426" type="line"/>
       <point x="622" y="471" type="line"/>
-      <point x="622" y="-118" type="line"/>
-      <point x="667" y="-73" type="line"/>
+      <point x="622" y="-73" type="line"/>
       <point x="495" y="-73" type="line"/>
     </contour>
     <contour>
