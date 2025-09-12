@@ -1,6 +1,6 @@
 ---
 title: Kedebideri - Type Sample
-fontversion: 3.001
+fontversion: 3.002
 ---
 
 This document demonstrates all of the characters in the font. It is organized by Unicode block. At the end is a paragraph demonstrating Beria Erfe in running text.

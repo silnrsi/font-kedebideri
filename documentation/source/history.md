@@ -1,6 +1,6 @@
 ---
 title: Kedebideri - Version History
-fontversion: 3.001
+fontversion: 3.002
 ---
 
 ### 12 Sept 2025 (WSTech team) Kedebideri version 3.001

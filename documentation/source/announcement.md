@@ -1,6 +1,6 @@
 ---
 title: Kedebideri - Announcement
-fontversion: 3.001
+fontversion: 3.002
 ---
 
 We are pleased to release version 3.001 of the Kedebideri font. 

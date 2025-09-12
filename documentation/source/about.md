@@ -1,6 +1,6 @@
 ---
 title: Kedebideri - About
-fontversion: 3.001
+fontversion: 3.002
 ---
 
 ## About this project
